@@ -1,23 +1,60 @@
 project:
   type: book
+lang: pt-br
+title-block-author-plural: "Organizadores"  
+toc-title: "Sumário"
+indent: true
 
 book:
-  title: "livro-ppgpppp-2024"
-  author: "Norah Jones"
-  date: "24/11/2024"
+  sidebar:
+    tools:
+      - icon: translate
+        #href: https://fphap.quarto.pub/pt-psi-en/
+  page-navigation: false
+  title: "Pesquisa e atuação em Psicologia e políticas públicas"
+  page-footer:
+    right: | 
+      Este livro foi construído com <a href="https://quarto.org/">Quarto</a>.
+    left:
+      <img src="./imagens/uva-brasao.jpg" width="100"> 
+  cover-image: cover_pt.png
+  #cover-image-alt: |
+    #A imagem mostra a capa do livro Produções Técnicas em Psicologia: Experiências Compartilhadas. No topo da capa, em fonte menor e de cor preta, estão as siglas PPGPSI e PPGPPPP, seguidas pelo nome Universidade Federal do Ceará, indicando a associação com a instituição. O título principal é apresentado em letras grandes e negrito, com Produções Técnicas em verde e em Psicologia em preto, abaixo do qual está o subtítulo Experiências Compartilhadas em fonte menor e itálico. Centralizado na capa há o desenho de uma ave, um carcará, em voo, com as asas abertas e o corpo voltado para a esquerda, delineado em traços pretos. O pássaro carrega uma cobra em suas garras. Abaixo do desenho, em letras pretas menores, estão os nomes Francisco Pablo Huascar Aragão Pinheiro e João Paulo Pereira Barros, seguidos pela palavra Orgs., sugerindo que são os organizadores da publicação. A capa tem um fundo claro e o design geral é simples.
+  repo-url: https://github.com/pablo-huascar/livro_pt_2024.git
+  repo-branch: main
+  favicon: cover_pt.png
+  reader-mode: true
+  
+
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
-    - references.qmd
-
-bibliography: references.bib
+    #- institucional.qmd
+    #- conselho_editorial.qmd
+    #- folha_de_rosto.qmd
+    #- sobre_os_autores.qmd
 
 format:
   html:
-    theme: cosmo
-  pdf:
-    documentclass: scrreprt
+    smooth-scroll: true
+    anchor-sections: true
+    theme: 
+      - cosmo
+      - livro-ppgpppp-2024.scss
+    callout-appearance: simple
+    toc: true
+    toc_float: true
+    toc-depth: 2
+    standalone: true
+    indent: true
+    code-link: true
+    code-tools: true  
+    code-line-numbers: false
+    code-copy: true
+  
+
+    author-meta: "Francisco Pablo Huascar Aragão Pinheiro e Emanuel Meireles Vieira"
 
 editor: visual
+csl: apa.csl
+
 

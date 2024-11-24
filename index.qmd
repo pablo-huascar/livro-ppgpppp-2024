@@ -1,9 +1,46 @@
-# Preface {.unnumbered}
+---
+author: 
+  - name: Francisco Pablo Huascar Aragão Pinheiro
+    url:  http://lattes.cnpq.br/8266089190930601
+    orcid: 0000-0001-9289-845X
+    email: pablo.pinheiro@ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará    
+  - name: Emanuel Meireles Vieira
+    url: http://lattes.cnpq.br/4122228867993191
+    orcid: 0000-0001-7680-576X
+    email: emanuelmeireles@ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+language: 
+  title-block-author-plural: "Organizadores"
+toc: false
+---
 
-This is a Quarto book.
+# Apresentação {.unnumbered}
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+**Pesquisa e atuação em Psicologia e políticas públicas** apresenta uma série de investigações e ações desenvolvidas no Programa de Pós-Graduação Profissional em Psicologia e Políticas Públicas da Universidade Federal do Ceará. Este volume reúne capítulos que contribuem para o entendimento das dinâmicas sociais e culturais que permeiam as experiências de populações marginalizadas e de profissionais que atuam no campo das políticas públicas. A partir da articulação entre ensino, pesquisa e extensão, os diversos trabalhos mostram como a universidade pública é capaz de construir redes de solidariedade e formas de resistência frente às desigualdades no interior do Nordeste brasileiro. 
 
-```{r}
-1 + 1
-```
+Ao longo do livro, os autores dão visibilidade às demandas de diferentes grupos sociais e questionam as estruturas que perpetuam as desigualdades ali encontradas. Dessa forma, é possível pensar sobre o papel da Psicologia e das políticas públicas na construção de uma sociedade mais justa e igualitária. Este livro é, portanto, uma leitura essencial para estudantes, profissionais e pesquisadores da Psicologia, das Ciências Sociais e das Políticas Públicas, bem como para todos aqueles interessados em compreender e transformar as realidades sociais em que vivem. A seguir, apresentamos uma síntese de cada um dos capítulos que compõem esta obra:
+
+**Reescrevendo minha história: um aprendizado para a construção de possíveis projetos de vida** aborda a importância de reescrever a própria história como um processo de empoderamento e construção de novos projetos de vida. Com base em uma perspectiva freiriana, os autores destacam o papel transformador da educação, promovendo uma visão crítica e emancipatória para jovens de contextos vulneráveis, ampliando seus horizontes e oferecendo novas possibilidades de futuro.
+
+**Trabalho docente e saúde mental de professores brasileiros na pandemia da COVID-19** explora os desafios enfrentados pelos professores durante a pandemia, especialmente em relação à transição para o ensino remoto. São discutidos os impactos, a exemplo da deterioração do equilíbrio entre vida pessoal e profissional e da falta de suporte institucional adequado, causados por fatores como o aumento da carga de trabalho.	
+
+**“Acho que é difícil até para quem é cis, quem dirá para trans”: saúde de homens trans em um município do interior do Ceará** explora as barreiras enfrentadas por homens trans no acesso à saúde em um município do interior. O capítulo destaca os desafios específicos da população trans, incluindo discriminação e falta de profissionais de saúde qualificados, além de apontar caminhos para promover um cuidado mais inclusivo e sensível às necessidades dessa população.
+
+**Aquilomba SUS na atenção primária à saúde: formação profissional para o cuidado antirracista** apresenta a iniciativa "Aquilomba SUS", que visa promover um cuidado antirracista na atenção primária à saúde. A formação profissional é destacada como um elemento fundamental para o enfrentamento das desigualdades raciais e para a promoção de um atendimento mais justo e inclusivo à população negra.
+
+**Entre Muros (& Laços): a extensão universitária no fortalecimento da diversidade de narrativas, afetos e resistências marginais** discute como a extensão universitária pode ser uma ferramenta para fortalecer as narrativas e resistências de comunidades marginalizadas. Os autores mostram como as atividades de extensão podem criar laços de solidariedade, promovendo afetos e resistências que contribuem para a transformação social.
+
+**Narrativas autobiográficas com estudantes dos anos finais do Ensino Fundamental: percepção das políticas públicas**. analisa as narrativas autobiográficas de estudantes do Ensino Fundamental, enfocando suas percepções sobre as políticas públicas. O trabalho revela como as experiências pessoais dos estudantes são afetadas pelas políticas educacionais e aponta para a necessidade de políticas mais inclusivas que considerem as realidades desses jovens.
+
+**A escolarização de pessoas trans e travestis em Sobral-CE: uma análise dos relatos de experiência** traz uma análise dos desafios enfrentados por pessoas trans e travestis no contexto escolar de Sobral, Ceará. Os relatos mostram as barreiras de acesso e permanência na escola. É destacada a importância de políticas educativas inclusivas e de práticas pedagógicas que valorizem a diversidade.
+
+**“Do meu jeito, fiz a minha revolução”: as diversas camadas da violência contra a mulher que se prostitui** aborda as múltiplas camadas da violência enfrentada por mulheres que se prostituem. Os autores exploram como a violência, em suas facetas estrutural, social e individual, afeta essas mulheres e discutem possíveis caminhos para a construção de políticas públicas que garantam a elas direitos e promovam sua segurança e bem-estar.
+
+**Roda de conversa sobre acesso à saúde por homens trans no interior do Ceará** relata a experiência de uma roda de conversa sobre o acesso à saúde por homens trans no interior do Ceará. A iniciativa visa entender as barreiras enfrentadas por essa população e buscar soluções coletivas para melhorar o acesso e a qualidade dos serviços de saúde prestados a esse público.
+
+**Caracterização do perfil profissional e dos modos de atuação do orientador educacional na rede pública de ensino de Sobral, Ceará** faz uma caracterização do perfil e dos modos de atuação dos orientadores educacionais na rede pública de Sobral. O capítulo destaca o papel desses profissionais na mediação dos conflitos escolares e no apoio ao desenvolvimento dos estudantes, evidenciando sua importância para a qualidade da educação pública.
+
+**Do NASF à eMulti: trabalho e processo de (re)construção em municípios do Sertão de Crateús, Ceará** examina o processo de transição do Núcleo de Apoio à Saúde da Família (NASF) para a estratégia eMulti nos municípios do Sertão de Crateús. Os autores discutem como essa mudança impactou o trabalho dos profissionais de saúde e as práticas de cuidado, com foco na reconstrução e adaptação dos serviços às necessidades locais.
