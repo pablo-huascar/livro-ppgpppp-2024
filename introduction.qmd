@@ -1,0 +1,45 @@
+---
+author: 
+  - name: Francisco Pablo Huascar Aragão Pinheiro
+    url:  http://lattes.cnpq.br/8266089190930601
+    orcid: 0000-0001-9289-845X
+    email: pablo.pinheiro@ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará    
+  - name: Emanuel Meireles Vieira
+    url: http://lattes.cnpq.br/4122228867993191
+    orcid: 0000-0001-7680-576X
+    email: emanuelmeireles@ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+language: 
+  title-block-author-plural: "Editors"
+toc: false
+---
+# Introduction {.unnumbered}
+
+**Research and practice in psychology and public policies** presents a series of investigations and actions developed within the Professional Graduate Program in Psychology and Public Policies at the Federal University of Ceará. This volume brings together chapters that contribute to understanding the social and cultural dynamics that permeate the experiences of marginalized populations and professionals working in the field of public policies. Through the articulation of teaching, research, and extension, the various works demonstrate how public universities can build networks of solidarity and forms of resistance in the face of inequalities in the interior of Northeast Brazil.
+
+Throughout the book, the authors give visibility to the demands of different social groups and question the structures that perpetuate inequalities. In this way, it is possible to reflect on the role of psychology and public policies in building a more just and equitable society. Therefore, this book is an essential read for students, professionals, and researchers in psychology, social sciences, and public policies, as well as for anyone interested in understanding and transforming the social realities in which we live. Below, we present a summary of each chapter that makes up this work:
+
+**Rewriting my story: Learning to build possible life projects** addresses the importance of rewriting one's own story as a process of empowerment and building new life projects. Based on a Freirean perspective, the authors highlight the transformative role of education, promoting a critical and emancipatory vision for young people in vulnerable contexts, expanding their horizons, and offering new possibilities for the future.
+
+**Teaching work and mental health of brazilian teachers during the COVID-19 pandemic** explores the challenges faced by teachers during the pandemic, especially regarding the transition to remote teaching. The impacts on educators' mental health are discussed, including increased workload, deterioration of work-life balance, and lack of adequate institutional support.
+
+In **"I think it's hard even for cis people, l*et al*one trans": Health of trans men in a countryside municipality in Ceará, Brazil**, the barriers faced by trans men in accessing healthcare in a rural municipality are explored. The chapter highlights the specific challenges of the trans population, including discrimination and the lack of qualified healthcare professionals, as well as pointing out ways to promote more inclusive and sensitive care for this population.
+
+**Aquilomba SUS in primary healthcare: Professional training for antiracist care** presents the "Aquilomba SUS" initiative, which aims to promote antiracist care in primary healthcare. Professional training is highlighted as a fundamental element for addressing racial inequalities and promoting fairer and more inclusive care.
+
+**Between walls (& bonds): University extension in strengthening diverse narratives, affections, and marginal resistances** discusses how university extension can be a tool to strengthen the narratives and resistances of marginalized communities. The authors show how extension activities can create bonds of solidarity, fostering affections and resistances that contribute to social transformation.
+
+**Autobiographical narratives with middle school students: perceptions of public policies** analyzes the autobiographical narratives of middle school students, focusing on their perceptions of public policies. The work reveals how students' personal experiences are affected by educational policies and points to the need for more inclusive policies that consider the realities of these young people.
+
+**The schooling of trans and travesti people in Sobral, Ceará: An analysis of experience reports** presents an analysis of the challenges faced by trans and travesti individuals in the school context of Sobral, Ceará. The reports show the barriers to access and permanence in school. The importance of inclusive educational policies and pedagogical practices that value diversity is highlighted.
+
+**"My way, i made my revolution": The multiple layers of violence against women engaged in prostitution** addresses the multiple layers of violence faced by women engaged in prostitution. The authors explore how structural, social, and individual violence affects these women and discuss possible ways to develop public policies that guarantee their rights and promote their safety and well-being.
+
+**Discussion circle on healthcare access for trans men in ceará countryside** \- This chapter reports on the experience of a discussion circle on healthcare access for trans men in rural Ceará. The initiative aims to understand the barriers faced by this population and seek collective solutions to improve access and the quality of healthcare services.
+
+In **Characterization of the professional profile and modes of operation of educational counselors in the public school system of Sobral, Ceará**, the authors characterize the profile and modes of operation of educational counselors in Sobral's public school system. The chapter highlights the role of these professionals in mediating school conflicts and supporting students' development, demonstrating their importance for the quality of public education.
+
+**From NASF to eMulti: Work and (re)construction process in municipalities of sertão de Crateús, Ceará** examines the transition process from the Family Health Support Center (NASF) to the eMulti strategy in the municipalities of Sertão de Crateús. The authors discuss how this change impacted the work of health professionals and care practices, focusing on the reconstruction and adaptation of services to local needs.

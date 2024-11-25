@@ -28,9 +28,11 @@ book:
 
   chapters:
     - index.qmd
+    - introduction.qmd
     - institucional.qmd
     - conselho_editorial.qmd
     - folha_de_rosto.qmd
+    - neta_reescrevendo.qmd
     - sobre_os_autores.qmd
 
 format:
