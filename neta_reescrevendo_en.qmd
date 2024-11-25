@@ -39,7 +39,7 @@ language:
 filters:
   - section-bibliographies
 bibliography: neta_reescrevendo_en.bib
-reference-section-title: Referências
+reference-section-title: References
 ---
 
 # Rewriting my story: Learning to build possible life projects
