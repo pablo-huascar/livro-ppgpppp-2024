@@ -97,27 +97,3 @@ O modelo de regressão linear se mostrou significativo (F(16, 14357\) \= 306,5; 
 
 Apresentaram maiores médias de TMCs docentes que pertenciam ao gênero feminino, que se autodeclararam brancos, que tiveram a renda diminuída após o início da pandemia, que eram do grupo de risco para Covid-19, que foram diagnosticados com Covid-19, que perderam amigos ou familiares para a doença, que atuavam no Ensino Médio ou em mais de um nível de ensino. A idade mostrou uma relação negativa com os TMCs, de modo que participantes mais velhos tinham pontuações menores. As variáveis organização do trabalho, relações socioprofissionais e condições de trabalho apresentaram uma relação positiva com os TMCs, assim piores percepções do contexto laboral implicavam em maiores pontuações nos TMCs.
 
-| Tabela 2 |  |  |  |  |  |  |
-| :---- | :---: | :---: | :---: | :---: | :---: | :---: |
-| *Resultados da Regressão Linear Múltipla para Transtornos Mentais Comuns* |  |  |  |  |  |  |
-|  | Bootstrapping (1000 reamostragens) |  |  |  |  |  |
-| Variável |  B | 95% IC para B |  | EP B | β | R² |
-|   |  | LI | LS |   |   |   |
-| Constante | \-1,87 | \-2,27 | \-1,47 | 0,22 |  | 0,25 |
-| Gênero (feminino) | 1,24\*\*\* | 1,09 | 1,39 | 0,08 | 0,12\*\*\* |  |
-| Idade | \-0,08 | \-0,08 | \-0,07 | 0,00 | \-0,17\*\*\* |  |
-| Cor/raça (não brancos) | \-0,23 | \-0,36 | \-0,10 | 0,06 | \-0,03\*\* |  |
-| Estado civil (sem companheiro) | 0,14 | 0,03 | 0,26 | 0,06 | 0,02 |   |
-| Renda per capita |  0,00 | 0,00 | 0,00 | 0,00 | 0,01 |  |
-| Renda na pandemia (diminuição) | 0,38 | 0,26 | 0,50 | 0,06 | 0,05\*\*\* |  |
-| Grupo de risco (sim) | 0,91 | 0,75 | 1,06 | 0,08 | 0,09\*\*\* |  |
-| Diagnóstico de Covid-19 (sim) | 0,45 | 0,32 | 0,61 | 0,07 | 0,05\*\*\* |  |
-| Perdas para Covid-19 (sim) | 0,41 | 0,29 | 0,52 | 0,06 | 0,05\*\*\* |  |
-| Ensino Fundamental | 0,15 | \-0,03 | 0,32 | 0,09 | 0,02 |  |
-| Ensino Médio | 0,36 | 0,12 | 0,58 | 0,12 | 0,03\* |  |
-| Atuação em mais de um nível | 0,34 | 0,17 | 0,53 | 0,10 | 0,04\*\* |  |
-| Outros níveis (AEE e EJA) | 0,31 | 0,02 | 0,60 | 0,17 | 0,02 |  |
-| Organização do Trabalho | 1,62 | 1,52 | 1,74 | 0,06 | 0,30\*\*\* |  |
-| Condições de Trabalho | 0,41 | 0,29 | 0,53 | 0,06 | 0,07\*\*\* |  |
-| Relações Socioprofissionais | 0,74 | 0,64 | 0,85 | 0,05 | 0,14\*\*\* |  |
-| Nota. AEE \= Atendimento Educacional Especializado. EJA \= Educação de Jovens e Adultos. IC \= intervalo de confiança. LI \= limite inferior. LS \= limite superior. EP \= erro padrão.  \*p \< 0,05. \*\* p \< 0,01. \*\*\*p \< 0,001. |  |  |  |  |  |  |
