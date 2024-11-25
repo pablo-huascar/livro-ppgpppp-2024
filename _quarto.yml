@@ -35,7 +35,7 @@ book:
     - neta_reescrevendo.qmd
     #- neta_reescrevendo_en.qmd
     - aragao_saude_trans.qmd
-    #- rodrigues_trabalho.qmd
+    - rodrigues_trabalho.qmd
     - nascimento_muros.qmd
     - sobre_os_autores.qmd
 
