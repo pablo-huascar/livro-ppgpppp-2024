@@ -1,0 +1,157 @@
+---
+author: 
+  - name: Ariadsa Mesquita Aragão
+    url: http://lattes.cnpq.br/1964456384291965 
+    orcid: 0009-0001-8800-7826
+    email: ariadsamesquita@gmail.com 
+    affiliations: 
+      - name: Escola de Saúde Pública Visconde de Sabóia    
+  - name: Juliana Viera Sampaio
+    url: http://lattes.cnpq.br/9556200287516417
+    orcid: 0000-0001-5770-244X
+    email: julianavsampaio@hotmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+language: 
+  title-block-author-plural: "Autoras"
+filters:
+  - section-bibliographies
+bibliography: aragao_saude_trans.bib
+reference-section-title: Referências
+---
+
+# “Acho que é difícil até para quem é cis, quem dirá para trans”: saúde de homens trans em um município do interior do Ceará
+
+## Introdução
+
+No Brasil, o direito à saúde é assegurado pela Constituição de 1988, resultado de lutas históricas no país. Para a garantia do acesso à saúde pelo Estado, houve a criação do Sistema Único de Saúde (SUS), que tem como princípios a integralidade, universalidade e equidade [@brasil2009]. Após a criação desse sistema, a saúde passou a ser um dever do Estado, permitindo que um maior número de pessoas tenha acesso a esse direito.
+
+O conceito de saúde é plural, sendo necessário levar em consideração determinantes sociais como gênero, orientação sexual, raça, etc. Esses fatores podem estar implicados em práticas de discriminação e preconceito, como os sofridos pela população LGBT (Lésbicas, Gays, Bissexuais e Transexuais), as quais estão relacionadas ao processo de saúde-doença (Brasil, 2013). Ao discutir sobre o acesso à saúde por parte desses grupos, em 2011, foi criada a Política Nacional de Saúde Integral LGBT. Essa política objetiva garantir cuidados de saúde de forma integral à população LGBT, visando à eliminação dos preconceitos e formas de discriminação, a fim de diminuir as desigualdades e fortalecer os princípios do SUS (Brasil, 2013).
+
+De forma específica, a população transexual e travesti é marcada, historicamente, por sofrer violência, discriminação e outras formas de exclusão em diversos contextos [@monteiro2019]. Segundo dados do Dossiê: assassinatos e violências contra travestis transexuais brasileiras em 2023 (Benevides, 2024), no país, foram assassinadas cerca de 141 pessoas trans, sendo o estado do Ceará o terceiro colocado em maior número de mortes, com 12 assassinatos de pessoas trans no ano. Nesse sentido, a transfobia é caracterizada por formas de violência, exclusão, aversão às pessoas trans, sendo um meio de negação das formas de existir que diferem da noção cisheteronormativa (Sousa & Iriart, 2018), o que causa sofrimento e adoecimento aos sujeitos.
+
+Pessoas trans evitam frequentar, sobretudo, os serviços de atenção primária à saúde, serviço que é caracterizado por ser a porta de entrada do SUS e o principal meio de permanência do sujeito na rede pública de saúde (Silva, Silva, Coelho & Martiniano, 2017). Quando se trata de um recorte para homens trans, constata-se que estes sofrem uma maior invisibilidade.
+
+Esta pesquisa investiga como homens trans acessam cuidados em saúde, devido ao contexto de exclusão em diversos âmbitos. As violências sofridas e o acesso tardio às políticas públicas de saúde impactam de forma direta no bem-estar e na qualidade de vida desses sujeitos. Dessa forma, esta pesquisa tem como objetivo geral investigar as estratégias de cuidados em saúde de homens transexuais em um município do interior do Ceará.
+
+## Método
+
+Esta pesquisa buscou compreender o fenômeno do acesso aos cuidados em saúde por homens transexuais, a partir das vivências e experiências destes. Para isso, a metodologia utilizada foi de pesquisa qualitativa, a qual é definida por Minayo [-@minayo2007] como:
+
+> … o que se aplica ao estudo da história, das relações, das representações, das crenças, das percepções e das opiniões, produtos das interpretações que os humanos fazem a respeito de como vivem, constroem seus artefatos e a si mesmos, sentem e pensam (p. 57).
+
+Nesse sentido, foram valorizadas as histórias, os modos de sentir, pensar e viver dos participantes, buscando compreender o fenômeno estudado a partir desses artefatos. Godoy (1995) afirma que a pesquisa qualitativa é uma forma de se estudar os fenômenos humanos levando em conta as relações mantidas pelo sujeito. Dessa forma, para que haja uma análise integrada dos dados, é necessário que o pesquisador analise os fatos no contexto em que eles ocorrem, levando em consideração as vivências das pessoas envolvidas no processo da pesquisa.
+
+### Participantes
+
+As pessoas que fizeram parte da pesquisa atenderam aos seguintes critérios de inclusão: a) serem homens transexuais; b) serem maiores de 18 anos; c) residirem ou terem residido na cidade do interior do Ceará em que se desenvolveu a pesquisa. Os que não cumpriram qualquer um desses critérios apresentados não puderam participar do estudo. A amostragem de participantes foi dada por meio do método “snowball” ou “bola de neve”, que consiste em um participante recomendar outro que também é pertencente ao público específico do estudo. Ao todo, participaram da entrevista 3 homens transexuais com idades entre 23 e 36 anos, que cumpriam todos os requisitos para participar da pesquisa.
+
+### Instrumentos
+
+Para Marconi e Lakatos (2017), a entrevista é uma forma de obter informações e coletar dados acerca de um assunto específico. Ela é dada por meio da reunião entre duas pessoas, a fim de que a pessoa entrevistada fale sobre um determinado tema. O instrumento utilizado foi a entrevista semiestruturada, com questões abertas, elaboradas previamente, além de um questionário sociodemográfico, a fim de obter informações sobre outros aspectos importantes da vida dos participantes.
+
+### Procedimentos
+
+Foi realizada uma pesquisa de campo de caráter exploratório. Gil (2008) afirma que o objetivo desses estudos é obter mais informações acerca de um determinado fenômeno pouco estudado, ainda com pouca literatura, possibilitando elaborar ou compreender de outra forma os conteúdos apurados.
+
+### Local
+
+A pesquisa foi realizada em uma cidade localizada na região norte do estado do Ceará. Em 2021, a localidade possuía uma população estimada de mais 200 mil habitantes, segundo dados do Instituto Brasileiro de Geografia e Estatística (IBGE), e era vista como referência para saúde, educação, comércio, dentre outras áreas, em relação aos municípios que estão situados nos arredores.
+
+### Coleta de dados
+
+O presente estudo passou pelo Comitê de Ética e Pesquisas (CEP), por meio de uma pesquisa guarda-chuva, sendo aprovado com o protocolo CAAE 68320422.0.0000.5053. Após aprovação no CEP, as entrevistas, realizadas durante os meses de julho e agosto de 2023, foram divididas em duas partes, após a leitura do TCLE: primeiro, respondia-se a um questionário sociodemográfico, e, posteriormente, dava-se início à entrevista semiestruturada, com as questões abertas. Nenhuma das etapas foi gravada.
+
+Logo após os encontros, foram escritos diários de campo, a fim de não perder nenhum conteúdo importante dos relatos. A análise do conteúdo das entrevistas foi feita a partir dos escritos dos diários. Segundo Medrado, Spink e Méllo (2014), os diários de campo são ferramentas que permitem que o pesquisador possa colocar, além dos relatos, as impressões e as dúvidas que aparecem durante o momento, sendo, de certa forma, um atuante na pesquisa e, nesse sentido, configurando-se como práticas discursivas, ou seja, a linguagem em ação.
+
+### Análise dos dados
+
+A análise dos dados foi realizada por meio da abordagem teórica e metodológica de análise das práticas discursivas, que tem como foco “a linguagem em uso” (Spink, 2010, p. 26). Nesse sentido, as práticas discursivas são, segundo Spink (2010), o modo pelo qual os sujeitos produzem sentido e se posicionam nas relações sociais do dia a dia, por intermédio do uso da linguagem. É algo, pois, construído social e coletivamente, por meio da interação, na qual as pessoas, que estão situadas em um contexto histórico e cultural, constroem os termos com base no que compreendem e vivenciam dos acontecimentos que experienciam. Os sujeitos envolvidos no processo, inclusive o pesquisador, estão, portanto, ativos, produzindo sentido (Spink & Menegon, 2013).
+
+A abordagem de análise das práticas discursivas foi escolhida, pois o estudo busca levar em consideração o uso dos sentidos produzidos pelos participantes, com base nas experiências de cada um. Dessa forma, foi possível sistematizar os dados das entrevistas a partir de três categorias de análise: a) acesso à saúde de forma institucionalizada e não institucionalizada; b) (des)respeito ao nome social e à identidade de gênero nos serviços de saúde; c) estratégias de melhorias no acesso e garantia de direitos às pessoas trans na saúde.
+
+## Resultados e discussão
+
+O perfil sociodemográfico dos participantes da pesquisa foi sistematizado na tabela abaixo (Tabela 1). Para manter o sigilo, os nomes dados aos participantes nesta pesquisa são nomes de pássaros, pois, em uma das entrevistas, um dos participantes falou que gostaria de ser livre como um pássaro. Os nomes dados foram: Curió, Patativa e Sabiá.
+
+| Nome | Idade | Estado civil | Escolaridade | Ocupação | Renda | Religião | Raça |
+|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+| Sabiá | 23 | Solteiro | Superior Incompleto | Estudante | 4 ou mais salários | Não possui | Branco |
+| Patativa | 28 | Solteiro | Superior Completo | Trabalha | 2 - 4 salários | Não possui | Branco |
+| Curió | 36 | Solteiro | Superior Completo | Trabalha | 1 - 2 salários | Não possui | Preto |
+
+A Política Nacional de Saúde LGBT apresenta como pressuposto o fato de que as discriminações e os preconceitos estão ligados ao processo de adoecimento e sofrimento da população (Brasil, 2013). O acesso à saúde dos homens transexuais entrevistados ocorre, principalmente, por meio da atenção primária, pelos Centros de Saúde da Família (CSF). Sabiá, Patativa e Curió, os três participantes da pesquisa, ao serem questionados sobre onde buscam cuidado em saúde, informam que fazem uso da rede pública de saúde do município, principalmente da atenção primária, mas que buscam também outros serviços ou redes de apoio.
+
+> Quanto à saúde física, eu procuro o posto de saúde T., que cobre o bairro onde eu moro. Também tenho apoio psicológico e da minha namorada (Entrevista Sabiá, 03/07/2023).
+
+> Quando se trata de cuidados simples, como resfriado, dor de garganta, eu procuro o postinho de saúde. Agora, para os cuidados relacionados à transição de gênero, eu procuro meu endocrinologista, particular (Entrevista Patativa, 14/08/2023).
+
+> No caso da saúde, de forma geral, eu procuro o postinho de saúde. Já na saúde mental, eu procuro o CAPS. Eu dependo desses serviços, porque não tenho dinheiro para médico particular (Entrevista Curió, 21/08/2023).
+
+Há uma busca por serviços de forma institucionalizada. Entretanto, é possível perceber um despreparo, por parte dos profissionais da saúde, para o atendimento de algumas demandas de usuários trans. Patativa contou que sente receio em procurar os serviços de saúde, porque, segundo ele, os profissionais não passam uma segurança ao atender as pessoas trans. Ele percebe que há uma falta no saber e que os profissionais acabam colocando a responsabilidade deste conhecimento sobre as próprias pessoas trans.
+
+> Pesquisadora: Você sente dificuldade em conseguir acesso à saúde?  
+Patativa: Eu sinto receio. Parece que eles (*os médicos*) têm receio e esquecem tudo que aprenderam. Durante a pandemia, eu tive que pesquisar, por conta própria, o uso de hormônios e a interação com a vacina da COVID, justamente porque os profissionais da saúde não sabiam dizer se faz mal ou não a interação entre eles. As pessoas não sabem o que fazer comigo (Entrevista Patativa, 14/08/2023. Grifo nosso).
+
+Há, contudo, quem utilize, também, os meios informais de acesso à saúde, como é o caso de Sabiá, que faz uso de testosterona sem acompanhamento médico, por deparar-se com uma dificuldade de acesso a esse tratamento pelo SUS e por não ter condições financeiras de ir a um endocrinologista particular.
+
+> Pesquisadora: Você realiza algum procedimento ou automedicação sem acompanhamento dos profissionais da saúde? Por quê?  
+Sabiá: Faço, sim. Porque é caro, e eu não tenho o apoio da minha família. Faço uso de hormônios de maneira clandestina. Inicialmente, comecei a usar um gel que é indicado para reposição de testosterona e que passa na pele, mas a quantidade de testosterona é baixa.  
+Pesquisadora: Quando você começou?  
+Sabiá: Comecei a usar em 2022\. Em março de 2023, eu comecei o uso de testosterona, que consegui com um outro amigo que também é homem trans. Não faço acompanhamento com endócrino, porque uma vez fui à policlínica, e o médico disse que não receitava hormônios nesse caso. Também fui ao posto de saúde pegar o encaminhamento, mas até hoje não fui chamado (Entrevista Sabiá, 03/07/2023).
+
+Monteiro e Brigeiro (2019) mostram formas diferentes de as pessoas trans acessarem a saúde, algumas contam com as formas institucionalizadas, a partir das condições de acesso e dos serviços disponíveis, porém a maioria acessa a saúde por meio de práticas informais. Nesse sentido, foi possível perceber, a partir de dados da pesquisa, que, entre homens transexuais, há uma troca de informações sobre o uso dos hormônios, em detrimento do atendimento com o profissional da saúde, seja pela ausência de endocrinologistas com conhecimento sobre hormonioterapia de homens trans, seja pelo desconforto em acessar o serviço de saúde.
+
+### “Quantas vezes vou ter que falar meu nome? Sou ele. Não ela.”: nome social e identidade de gênero nos serviços de saúde
+
+O conceito de saúde é plural, sendo necessário levar em consideração os determinantes sociais da saúde, tais como a exclusão por conta de desemprego, o baixo ou o inexistente acesso à alimentação, as discriminações, as dificuldades de acesso à educação, ao saneamento, etc. Todos esses fatores estão relacionados ao processo de saúde-doença dos sujeitos. Nesse sentido, as discriminações e o preconceito sofridos pela população LGBT interferem no processo de saúde-doença desta (Brasil, 2013).
+
+> Pesquisadora: Você já sofreu algum tipo de preconceito, violência ou se sentiu ofendido ao buscar os serviços de saúde? Se sim, pode relatar como foi?  
+Curió: Já, sim. Já me chamaram de “ela”. Tem um médico no posto de saúde, ele que é um dos responsáveis pelo meu tratamento e ele insiste em me chamar de ela. Eu sempre corrijo, mas volta a acontecer. Quantas vezes vou ter que falar meu nome? Sou ele. Não ela (Entrevista Curió, 21/08/2023).
+
+O não respeito ao nome social das pessoas transexuais e travestis é uma das principais violências ocorridas no cotidiano da população, inclusive na saúde. Apesar da existência da portaria Nº 1.820 do Ministério da Saúde, de 13 de agosto de 2009 (Brasil, 2009), que dispõe sobre os direitos e deveres dos usuários da saúde e que garante a identificação pelo nome social nos documentos, muitas vezes isso não é respeitado nos serviços de saúde. A maior parte das situações de desrespeito ao uso do nome social começa na recepção, quando os profissionais se recusam a colocar o nome social nas fichas de atendimento ou quando insistem em chamar pelo nome do registro civil (Sampaio, 2013), o que afasta as pessoas trans de acessarem e permanecerem nos serviços de saúde (Silva, Silva, Coelho & Martiniano, 2017).
+
+> Tem uma recepcionista que insiste em me chamar pelo pronome errado... muitas vezes, as pessoas que estão no sistema de saúde já pressupõem o que ‘a pessoa é’, pelas características físicas e aparências (Entrevista Sabiá, 03/07/2023).
+
+Além disso, foi possível perceber uma confusão entre os profissionais dos serviços de saúde, no que se refere à diferenciação entre identidade de gênero e orientação sexual. Por identidade de gênero, entende-se como a forma como a pessoa se reconhece, tendo a ver com os padrões de gênero que são impostos social e culturalmente. É importante salientar que nem todas as pessoas vão se enquadrar nas noções binárias de gênero. Orientação sexual é o modo como a pessoa se relaciona afetiva e sexualmente (Brasil, 2018).
+
+Sabiá traz, em sua fala, o fato de que muitos profissionais partem das características físicas dos usuários para dizer “o que a pessoa é” e atribuem pronomes errados às pessoas trans. Essa confusão é comum no cotidiano de pessoas transexuais, principalmente para as que estão passando pelo início da transição ou para aquelas que não querem adquirir características ditas “masculinas”. Sabiá relata que performar uma masculinidade ou feminilidade ajuda na diminuição do sofrimento de pessoas transexuais, e, dessa forma, pessoas que não performam dentro dos padrões de gênero esperados (corte de cabelo, roupas, comportamento, etc.) sofrem mais preconceito. Nesse sentido, Curió também relatou ser vítima dessa confusão entre identidade de gênero e orientação sexual.
+
+> Muitos pensam que eu sou ‘sapatão’. Será que eu preciso ter barba para ser homem? Para os meninos que têm barba fica mais fácil, por conta disso (Entrevista Curió, 21/08/2023).
+
+Sobre a relação entre violência e performance a partir dos padrões de gênero instituídos, Sampaio e Germano (2017) problematizam que a saúde para essa população específica está relacionada aos processos de construção de um corpo inteligível pelas normas que institucionalizam quem será nomeado como homem ou mulher. Ter um corpo e comportamentos reconhecidos socialmente como masculinos possibilita que os homens trans sofram menos violência e transfobia. Para conseguir isso, se utilizarmos o modelo hegemônico de saúde como referência, são adotadas, muitas vezes, práticas que são consideradas prejudiciais à saúde. A exemplo disso, o uso de hormônios sem uma orientação dada por um profissional de saúde é um dos exemplos de estratégias de mudança corporal adotadas para ser reconhecido socialmente como homem e, consequentemente, sofrer menos violência, apesar dos riscos de trombose, por exemplo.
+
+### “Universalidade, integralidade e equidade”: como melhorar o acesso e garantir os princípios do SUS às pessoas trans?
+
+> Pesquisadora: Como você acredita que poderia melhorar o atendimento dos homens trans nos serviços de saúde?  
+Patativa: Por meio de formações continuadas, sérias e plurais. Um diálogo diversificado que envolva a parte técnica, o uso de substâncias e hormônios, gravidez e formação de família, etc. Tem que incluir em todas as campanhas. Por exemplo, homens trans também fazem mamografias e mulheres trans, às vezes, também, participam do novembro azul. Levar a vivência de várias pessoas trans, porque a vivência de uma pessoa trans negra é diferente das vivências de uma pessoa trans não negra (Entrevista Patativa, 14/08/2023).
+
+A formação continuada de profissionais da saúde é de extrema necessidade para um melhor acolhimento e atendimento de pessoas trans nos serviços de saúde. Segundo de Carvalho *et al*. (2019), para que isso seja possível é necessário que os profissionais eliminem os preconceitos e estigmas, respeitem o uso do nome social e incluam as temáticas relacionadas à população trans no cotidiano dos serviços de saúde.
+
+Na maioria das vezes, as pessoas procuram o serviço de saúde para lidar com questões comuns, que vão além da condição de ser ou não uma pessoa trans (de Carvalho, *et al*., 2019). Assim como Patativa, Sabiá também relata uma necessidade de formação para que os profissionais tenham um maior conhecimento sobre os direitos da população LGBT, pois, assim, os atendimentos e o acesso às políticas de saúde seriam bem melhores. Curió trouxe, em sua fala, que a melhoria do atendimento às pessoas trans seria alcançada por meio de um plano de desconto ou de gratuidade para as pessoas de baixa renda.
+
+> Pesquisadora: Como você acredita que poderia melhorar o atendimento dos homens trans nos serviços de saúde?  
+Curió: A construção de um plano gratuito para pessoas que não têm condições ou são baixa renda. Se for rico, opta pelo setor privado, quem não é fica esperando. Acho que melhoraria se tivesse um atendimento acelerado, que prevaleça o respeito e, principalmente, olho no olho (Entrevista Curió, 21/08/2023).
+
+Nesse ponto, é importante destacar o recorte de classe entre os entrevistados. Como descrito na Tabela 1, o recorte de renda de Curió é diferente do recorte dos outros dois participantes. Apesar de falar sobre a importância da formação dos profissionais e do respeito com as pessoas trans para o melhor atendimento, deve-se salientar que a ênfase que ele dá na necessidade da existência de uma política que ofereça de um plano gratuito para pessoas que não têm condições financeiras reflete uma desigualdade social que culmina em uma desigualdade de acesso a serviços de saúde que também são importantes, como, por exemplo, o uso de hormônios, e que muitas vezes não são disponibilizados pelo SUS em todos os municípios.
+
+Nesse caso, devido a uma condição socioeconômica que impossibilita o acesso aos exames e aos hormônios de forma particular, para Curió, a melhoria da saúde seria a facilidade de acesso a esses procedimentos pelos serviços particulares de saúde. Ao contrário, os outros dois participantes, que são de classe econômica mais alta, conseguem ter acesso a esses serviços seja de forma particular, seja de maneira informal.
+
+Nesse sentido, Paim (2018) revela um ataque ao SUS de diversas formas, principalmente pelos conflitos de interesses que existem entre empresas de planos de saúde, de publicidade e de ramos industriais ligados à medicina e à farmácia. Além disso, a influência do neoliberalismo durante o período de implementação desse sistema e as crises econômicas que foram acontecendo dificultam a implantação de sistemas de saúde universais, como é o caso do SUS.
+
+A privatização das políticas públicas está presente desde mesmo antes da implementação do SUS (Paim, 2018). Nesse contexto, diante desse subfinanciamento e dessa falta de recursos para o SUS, há o aumento de discursos de privatização dos serviços e de contratação de planos de saúde como uma forma de resolução dessas questões. Essa ideia se faz muito presente por conta desse histórico de sucateamento do sistema.
+
+Quando Curió fala da necessidade de um plano gratuito para pessoas de baixa renda, quer dizer que as políticas públicas de saúde não estão chegando aonde deveriam. Dessa forma, é necessário pontuar que a política de saúde gratuita existe, mas não é acessível para todos, de maneira universal, equânime e integral.
+
+## Considerações finais
+
+Os resultados obtidos na pesquisa permitem considerar que o recorte homem trans do município está acessando os serviços de saúde, principalmente, por meio dos CSF. Nesse sentido, apesar de haver o acesso, foi possível perceber dificuldades pelos trabalhadores presentes nesses dispositivos, desde recepcionistas a profissionais cuja formação exige Ensino Superior, no que se refere ao conhecimento acerca da transexualidade e, principalmente, do atendimento aos homens trans.
+
+Como resultado da falta de informação adequada, é notória a existência de preconceitos e discriminações sofridas por este público, a exemplo do não respeito ao uso dos pronomes e do nome social, o que causa um desconforto aos usuários e uma evitação ante a necessidade de usar os serviços de saúde. É preciso pontuar que há uma busca por meios informais, como é o caso do compartilhamento de testosterona entre os homens trans, especialmente entre aqueles que não conseguem arcar com as despesas de um médico particular, uma vez que o acesso à hormonização é ou burocrático, se pelo setor público – especialmente nas cidades do interior –, ou dispendioso, se pelo setor privado.
+
+Diante do que foi discutido, vê-se a necessidade de serem ofertadas, para os profissionais da rede pública, formações continuadas que propiciem discussões sobre identidade de gênero, orientação sexual e vivências trans. Nesse sentido, ao melhorar o atendimento à população trans em geral, evitando preconceitos, facilitar-se-ia o acesso dela aos serviços de saúde.
+
+É importante destacar que esta pesquisa não resume as necessidades de acesso à saúde de homens trans. Embora haja semelhança entre eles e entre algumas das demandas presentes nos relatos da pesquisa, cada homem trans é único e, consequentemente, possui vivências e necessidades diferentes. Além disso, a pesquisa teve algumas limitações, como é o caso da quantidade de pessoas que participou e da restrição do recorte de idade, não sendo possível investigar as demandas de homens trans com idade acima de 36 anos.
+
+Dessa forma, é esperado que a pesquisa possa ter produzido dados que contribuam para uma melhoria de políticas públicas de saúde mais humanizadas e acolhedoras. Além disso, espera-se que esses dados possam melhorar o atendimento e o bem-estar de homens trans nesses serviços, considerando os preconceitos e estigmas que essa população já enfrenta por sua existência.
+

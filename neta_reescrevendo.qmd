@@ -18,6 +18,22 @@ author:
     email: pedromalheiros@alu.ufc.br 
     affiliations: 
       - name: Universidade Federal do Ceará
+  - name: Amanda Cristina Carvalho Fontenele
+    orcid: 0009-0003-6433-7585
+    email: amandacarvalhofontenele@alu.ufc.br 
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Tereza Milena Andrade de Oliveira
+    orcid: 0009-0003-2858-6234
+    email: terezamilena@alu.ufc.br 
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Iratan Bezerra de Sabóia
+    url:  http://lattes.cnpq.br/4256908254336676
+    orcid: 0000-0003-3312-9954
+    email: iratan@ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
 language: 
   title-block-author-plural: "Autoras"
 filters:
@@ -25,6 +41,7 @@ filters:
 bibliography: neta_reescrevendo.bib
 reference-section-title: Referências
 ---
+
 # Reescrevendo minha história: um aprendizado para a construção de possíveis projetos de vida
 
 ## Introdução
@@ -41,7 +58,7 @@ Essa dubiedade do papel escolar é explorada por Severiano [-@Severiano2021], a 
 
 No entanto, a pesquisa da autora aponta, avaliando o conteúdo relatado pelos professores que, apesar de haver um potencial transformador na disciplina enquanto espaço em que se tecem sonhos e se compartilha uma formação crítica de estímulo ao protagonismo dos estudantes, ainda há marcas amargas de neoliberalismo enraizadas não apenas no discurso dos docentes, mas também no próprio planejamento estrutural da disciplina: o Projeto de Vida passa a ser entendido como um exclusivo projeto de carreira profissional e desempenho no mercado, endossando a perspectiva do sujeito unidimensional, que se realiza apenas na dimensão de ser econômico de mercado [@Marcuse2015]. Nesse movimento, o que antes era um cidadão estudante em formação passa a ser uma espécie de funcionário a cumprir uma meta, o qual, nessa lógica, responde individualmente pelo seu fracasso institucional e financeiro.
 
-Em contrapartida, “\[...\] não podemos inferir que a disciplina de Projeto de Vida esteja sendo usada unicamente para a construção de um ensino que visa atender as demandas econômicas e mercadológicas” [@Severiano2021, p. 17]. Desse modo, destaca-se que é possível extrair uma potencialidade transformadora na disciplina, articulada de modo a construir, inclusive, um afronte ao modelo neoliberal de ensino. Freire [-@Freire2014] distingue a educação conservadora da prática educativa progressista. Ele descreve que a educação conservadora opta por revelar apenas a verdade dos dominantes, ocultando a possibilidade do educando de adentrar nas verdades que o impulsionam à transformação de si e de seu meio. A segunda, no entanto, desnuda a verdade potente de que o sujeito é sujeito histórico-social-cultural, de que todo espaço social é também o seu espaço.
+Em contrapartida, “... não podemos inferir que a disciplina de Projeto de Vida esteja sendo usada unicamente para a construção de um ensino que visa atender as demandas econômicas e mercadológicas” [@Severiano2021, p. 17]. Desse modo, destaca-se que é possível extrair uma potencialidade transformadora na disciplina, articulada de modo a construir, inclusive, um afronte ao modelo neoliberal de ensino. Freire [-@Freire2014] distingue a educação conservadora da prática educativa progressista. Ele descreve que a educação conservadora opta por revelar apenas a verdade dos dominantes, ocultando a possibilidade do educando de adentrar nas verdades que o impulsionam à transformação de si e de seu meio. A segunda, no entanto, desnuda a verdade potente de que o sujeito é sujeito histórico-social-cultural, de que todo espaço social é também o seu espaço.
 
 Não podemos nos eximir da posição de que, no atual contexto, a educação tem servido mais à formação de trabalhadores docilizados que de cidadãos ativos. O contexto educacional não apenas emula, de muitas formas, a ideologia mercadológica, mas converge para ser um aporte do mercado de trabalho acrítico que o neoliberalismo deseja. Pensar na educação de forma ampla é também pensar na reformulação do mundo do trabalho, das relações sociais, da qualidade de vida e do direito ao usufruto do tempo livre, pois, como destaca Demo [-@Demo1996], a pobreza se apresenta na privação de direitos fundamentais.
 
@@ -77,7 +94,7 @@ No decorrer das ações, é solicitado aos extensionistas a elaboração de diá
 
 ## Resultados e discussão
 
-As ações do Reescrevendo Minha História, desde sua organização interna com os membros até a ida a campo, estruturam-se na materialidade com a qual o laboratório trabalha, isso inclui o capital cultural dos estudantes, bem como o contexto histórico e social de suas vivências. De acordo com Severiano (2021), na escola há uma cobrança uniforme por sucesso, mesmo que haja um contexto de desigualdade na trajetória dos estudantes. Na lógica neoliberal, que foca essencialmente no resultado, a desigualdade não é levada em consideração na análise de sucesso alcançado. Em vista disso, a participação do LAEDDES nas escolas, utilizando-se das metodologias apresentadas, traz uma abordagem em que o estudante pode sonhar e desenvolver seu projeto de vida sem limitar-se a uma única possibilidade de experiência.
+As ações do Reescrevendo Minha História, desde sua organização interna com os membros até a ida a campo, estruturam-se na materialidade com a qual o laboratório trabalha, isso inclui o capital cultural dos estudantes, bem como o contexto histórico e social de suas vivências. De acordo com Severiano [-@Severiano2021], na escola há uma cobrança uniforme por sucesso, mesmo que haja um contexto de desigualdade na trajetória dos estudantes. Na lógica neoliberal, que foca essencialmente no resultado, a desigualdade não é levada em consideração na análise de sucesso alcançado. Em vista disso, a participação do LAEDDES nas escolas, utilizando-se das metodologias apresentadas, traz uma abordagem em que o estudante pode sonhar e desenvolver seu projeto de vida sem limitar-se a uma única possibilidade de experiência.
 
 Enquanto facilitador de conhecimento, o projeto procura garantir uma maior inclusão nos dispositivos de saúde e educação para jovens. Entende-se que a universidade pública é um espaço que deve ser possível a todos, incluindo estudantes vindos de periferias, favelas, que estão em situação de vulnerabilidade social. O cenário desafiador no qual esses jovens estão inseridos não pode ser fator de exclusão para a recepção de informações que possam fornecer a eles bases para a construção de seu projeto de vida.
 
@@ -89,7 +106,7 @@ Entretanto, mencionam o espaço escolar como essencial para o aprendizado, além
 
 Os extensionistas são treinados em uma capacitação interna do projeto para validar as experiências ali compartilhadas, dando a devida atenção a todos os participantes e a suas histórias e, ao mesmo tempo, promovendo uma concepção que não seja fatalista, que possibilite esperança em um futuro positivo, em que há espaço para mudanças e superação de adversidades. Isso se torna essencial quando nos deparamos com a ideia de a universidade ser um espaço impossível de atingir, representada principalmente por meio dos relatos dos estudantes, que muitas vezes não possuem incentivo familiar, escolar, ou tem de assumir outros projetos, como o trabalho, em detrimento do Ensino Superior.
 
-A escola, muitas vezes, incentiva a competitividade e a disputa entre os alunos, que passam a ser avaliados pelo seu desempenho. Assim, em uma era neoliberal, a escola assume o formato de uma empresa (Laval, 2019), classificando os alunos de acordo com notas que supostamente diferenciam os níveis de inteligência e desenvolvimento na aprendizagem. Muitos estudantes se sentem subjugados e desesperançosos frente a esse funcionamento escolar e não se consideram capazes de conseguir ingressar em um curso de nível superior, excluindo essa possibilidade de seus projetos de vida, focando em outras formas de obtenção de sucesso, como um emprego.
+A escola, muitas vezes, incentiva a competitividade e a disputa entre os alunos, que passam a ser avaliados pelo seu desempenho. Assim, em uma era neoliberal, a escola assume o formato de uma empresa [@Laval2019], classificando os alunos de acordo com notas que supostamente diferenciam os níveis de inteligência e desenvolvimento na aprendizagem. Muitos estudantes se sentem subjugados e desesperançosos frente a esse funcionamento escolar e não se consideram capazes de conseguir ingressar em um curso de nível superior, excluindo essa possibilidade de seus projetos de vida, focando em outras formas de obtenção de sucesso, como um emprego.
 
 Os relatos dos estudantes indicam uma forte influência do contexto social e familiar, que muitas vezes não valoriza a educação superior como uma possibilidade real. A ausência de exemplos concretos de pessoas que romperam essa barreira educacional e a falta de incentivo no seu meio social contribuem para a construção de um imaginário limitado sobre o futuro. Através da análise dos desenhos e das palavras escritas, busca-se compreender a experiência dos alunos no ambiente escolar e identificar os elementos que influenciam o estabelecimento do vínculo aluno-escola.
 

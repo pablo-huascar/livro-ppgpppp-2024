@@ -1,0 +1,129 @@
+---
+author: 
+  - name: Maiara Braga Nascimento
+    url: https://lattes.cnpq.br/6480643447721226
+    orcid: 0009-0009-9680-820X
+    email: verasppan@alu.ufc.br 
+    affiliations: 
+      - name: Universidade Federal do Ceará    
+  - name: Juliana Maria do Nascimento Mota
+    url: http://lattes.cnpq.br/6949209482037074
+    orcid: 0000-0002-5581-7996
+    email: juliananascimento@alu.ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Juliana Maria do Nascimento Mota
+    url: http://lattes.cnpq.br/6949209482037074
+    orcid: 0000-0002-5581-7996
+    email: juliananascimento@alu.ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+language: 
+  title-block-author-plural: "Autoras"
+filters:
+  - section-bibliographies
+bibliography: nascimento_muros.bib
+reference-section-title: Referências
+---
+# Entre Muros (& Laços): a extensão universitária no fortalecimento da diversidade de narrativas, afetos e resistências marginais
+
+## Introdução
+
+O projeto de extensão Entre Muros surgiu em março de 2017, inicialmente com o título “ENTRE MUROS: Extensão, Docência e Resistência”[^1], realizando ações na Escola de Ensino Médio Professora Carmosina Ferreira Gomes[^2], com atividades de monitoria sobre Sociologia para as turmas de 3º ano do Ensino Médio (manhã) e turmas EJA (noite). Com o objetivo de apresentar os principais autores e conceitos, contextos e implicações do surgimento da Sociologia para as turmas, os encontros aconteceram de forma dialógica, com práticas a partir das resoluções de questões do ENEM, no intuito de fomentar o fortalecimento do pensar crítico-reflexivo sobre os assuntos abordados com os estudantes. Para além da sala de aula, ocorreu uma visita institucional ao *campus* da UFC de Sobral, com participações de alguns coordenadores, professores e estudantes de diferentes graduações apresentando seus respectivos cursos, explicando as possibilidades de atuação e revigorando o compromisso da extensão com a comunidade extramuros acadêmicos.
+
+No entanto, o Entre Muros passou por uma reformulação[^3], tendo em vista a importância da redação para a composição da nota no vestibular e o incentivo à elaboração textual no ambiente escolar. Em virtude disso, as ações foram redirecionadas para a realização de oficinas de redação, com o intuito de desenvolver a escrita dos estudantes e ajudá-los com as principais competências exigidas pelo Exame Nacional do Ensino Médio (ENEM).
+
+Já em 2023, em um terceiro passo, o projeto entra em uma nova fase e, a partir da provocação derivada da dissertação “Educação & gênero: questões para uma sala de aula mais participativa” [@mota2022], ganha um novo enfoque: a escrita como ferramenta de resistência. Apesar de partir de uma discussão específica das questões de gênero, Mota [-@mota2022] instiga a reconhecermos a escola como lugar múltiplo, em que há simultaneamente espaço tanto para as práticas hostis e reforçadoras de desigualdades quanto para o fortalecimento da dignidade humana e do enfrentamento das mazelas sociais. Diante disso, a autora propõe uma escola na qual as emoções e os afetos sejam deliberadamente incluídos nos processos de ensino-aprendizagem.
+
+Inspirado nisso, o Entre Muros busca não apenas preparar os estudantes tecnicamente para o ENEM, mas também proporcionar um espaço de reflexão e diálogo, no qual a escrita se torna um meio de expressão pessoal, social e política. Essa reformulação visa conectar o ato de escrever às experiências de vida dos alunos, promovendo a escrita como um instrumento de transformação, indo além das normas tradicionais e explorando seu potencial como uma forma de resistir às desigualdades e possivelmente superar os desafios sociais que enfrentam.
+
+Nesse sentido, entende-se ainda que a escola pode ser um *locus* privilegiado, em que a transmissão das narrativas da classe dominante continua a existir e a se reproduzir. Conforme destacam Bourdieu e Passeron (1992): “a AP (ação pedagógica) escolar que reproduz a cultura dominante, contribuindo desse modo para reproduzir a estrutura das relações de força, numa formação social onde o sistema de ensino dominante tende a assegurar-se do monopólio da violência simbólica legítima” (p. 20). Essa violência se manifesta na escolha de metodologias de ensino, nos conteúdos abordados em sala de aula, no apagamento de outros saberes, nas dinâmicas de poder entre aluno, professor e gestão, dentre outras formas. Essas são, assim, cenas construídas na micropolítica cotidiana desses espaços, que vão sendo fundamentais para a manutenção das desigualdades e das exclusões sociais.
+
+O contexto social e educacional em que o Entre Muros nasceu é, portanto, marcado por profundas desigualdades que refletem desafios estruturais. As escolas da rede pública, especialmente nas regiões periféricas de Sobral/CE, muitas vezes carecem de infraestrutura adequada e recursos didáticos, o que afeta diretamente a qualidade do ensino. Além disso, muitos alunos enfrentam condições socioeconômicas difíceis e limitações territoriais, as quais dificultam o acesso a oportunidades de aprendizado, dentro e fora do ambiente escolar, e aos demais serviços básicos, como equipamentos de saúde, lazer e mobilidade (Freitas, 2019).
+
+Como ressalta Mota (2022), a escola é um importante campo de acesso à garantia de direitos, cidadania, espaço de subjetivação. Uma educação que promova a diversidade de diálogos e possibilidades de existência é um ambiente de promoção da saúde também. Amplo campo de disputa, é nosso dever questionar o currículo ultrapassado, a didática vazia, as normas de controle, o ensino da barbárie para as nossas juventudes. O que estamos ensinando para as novas gerações? Que corpos estamos deixando pelo caminho? É preciso fazer compreender que uma escola excludente é uma ferida que se abre na história de alguém (Mota, 2022, p. 18).
+
+Sendo assim, por meio da leitura e da escrita, o Entre Muros visa proporcionar uma formação cidadã e sociocultural mais ampla. Não temos como foco a técnica da redação, mas sim a busca de utilizar a escrita para promover expressão pessoal, debate de questões sociais e desenvolvimento de habilidades que possibilitem aos jovens uma maior participação ativa em suas comunidades.
+
+Os extensionistas desempenham um papel essencial nesse processo como facilitadores e incentivadores de discussões que possam ampliar as perspectivas dos alunos, mostrando que a escrita pode ser um meio de autoconhecimento e de mudança social. O projeto visa, então, a uma construção conjunta de conhecimento, em que extensionistas e alunos aprendem mutuamente em um processo mediado por suas vivências, seguindo a lógica freiriana de que “ninguém educa ninguém, ninguém educa a si mesmo, os homens se educam entre si, mediatizados pelo mundo” (Freire, 1987).
+
+Aqui, neste texto, apresentamos a implantação dessa nova fase do Entre Muros como o resultado de um produto derivado da dissertação de Mota (2022), trabalho sobre cujas reflexões a intervenção aqui descrita se estrutura e se baliza. Nas seções a seguir, descreveremos o planejamento e a implementação dessa ação.
+
+## Ações
+
+A construção do Entre Muros caracteriza-se por um processo democrático e colaborativo, em que as ações são elaboradas de forma participativa entre coordenadores e extensionistas. Desde o início, a professora mediadora tem promovido um espaço de diálogo, no qual cada membro pode contribuir ativamente para a construção das atividades e revisões. Em reuniões semanais, com duração média de duas horas, os extensionistas discutem a estrutura de cada ação, sugerem mudanças e aprimoramentos, além de refletirem sobre as experiências em sala de aula e sobre as melhores práticas pedagógicas para engajar os alunos das escolas.
+
+Cruz (2012), Fraga (2017), Santos *et al*. (2016) e Silva *et al*. (2019) destacam a importância da extensão na formação acadêmica e a dupla preocupação com a implementação desse fundamento da Universidade. Nesse sentido, para os autores, o protagonismo estudantil é um dos motores da formação que agrega teoria e prática em uma intervenção que devolve à sociedade a formação acadêmica que os estudantes estão tendo. Na mesma direção, deve existir sempre a perspectiva que, apesar de o protagonismo estudantil, amparado por uma supervisão docente, ser o referencial das ações, a transmissão da atuação extensionista não deve ter um único sentido: o de uma Universidade que conhece e intervém, em uma comunidade que nada sabe e precisa de auxílio. Pelo contrário, a extensão deve sempre pressupor, considerar e atuar sobre e com o conhecimento que a comunidade já detém; é nesse espaço dialógico que a práxis extensionista se fará e criará nos alunos e na comunidade os laços que possibilitarão a intervenção.
+
+Por isso, a preocupação com a construção coletiva. Essa dinâmica conjunta permite a troca de ideias e fortalece o sentimento de cooperação e corresponsabilidade entre os extensionistas, incentivando o protagonismo estudantil na criação do projeto. Ao saírem do ambiente universitário e interagirem diretamente com a realidade ao seu redor, os estudantes são desafiados a encarar e questionar as complexidades sociais que encontram, assumindo um papel ativo na busca por ações que favoreçam uma real mudança no mundo.
+
+E esse movimento, baseado em um ensino organizado e direcionado a partir do e para o campo, cria um processo dialético no qual o estudante não apenas impacta a sociedade, mas também é impactado por ela, reforçando a importância de uma formação que combina reflexão crítica com ação efetiva (Vilas-Boas & Barnabé, 2023). Tais experiências vivenciais promovem uma formação mais integral, preparando uma atuação mais humanizada e transformadora, enquanto possibilita que a universidade exerça seu papel social de integração com a comunidade, promovendo mudanças positivas e concretas.
+
+A participação ativa dos alunos extensionistas envolve desde a definição de temas e abordagens até a criação de materiais didáticos, como a Cartilha “Escrevendo o Futuro\!”, que foi produzida pelos membros da extensão. Cada decisão é tomada de forma conjunta, visando adaptar as atividades às necessidades dos estudantes das escolas públicas de Ensino Médio, em Sobral, e promover um espaço para discussões em que não há hierarquia de saberes.
+
+O processo de construção das ações do Entre Muros tem sido cuidadosamente conduzido para garantir que as atividades estejam ligadas à rotina dos alunos. A apresentação da Cartilha do projeto é uma das atividades que consiste na discussão sobre gêneros textuais, por exemplo, e foi inicialmente planejada para introduzir conceitos relevantes de forma acessível e estimular o envolvimento dos estudantes com a escrita. Contudo, ao longo das reuniões, percebemos que as ações precisavam ser adaptadas não apenas para atender aos interesses e diferentes níveis de conhecimento dos alunos, mas também para ir além dos conteúdos do ensino convencional.
+
+Considerando que a educação bancária tem transformado os alunos apenas em “objetos pacientes” desde o Ensino Básico, como aponta Freire (1987), impedindo-os de se expressarem livremente, torna-se notório que o sentido que facilitaria suas produções literárias e o domínio de assuntos tratados em sala de aula é minado. Devido a isso, os estudantes podem chegar ao Ensino Médio apresentando dificuldades na sua fala escrita (principalmente a autoral e crítica) e, muitas vezes, por ser uma atividade mais abstrata e condicional, não entendem sequer por que precisam escrever (Vigotski, 2018).
+
+Vigotski (2018) aprofunda essa discussão ao apontar: 
+
+> Ao direcionarem de maneira equivocada a criação literária infantil, ... pedagogos frequentemente aniquilavam a beleza espontânea, a especificidade e a clareza da linguagem infantil, dificultavam o domínio da fala escrita como um meio especial de expressar os pensamentos e sentimentos das crianças e, segundo Blonski, formavam nelas o jargão escolar que surgia da aplicação pura e mecânica da língua livresca dos adultos" (p. 65).
+
+Nessa conjuntura, os pensamentos de Vigotski (2018) e Freire (1987) reforçam a crítica a esse modelo de educação tradicional, que muitas vezes desconsidera a individualidade e as experiências dos alunos, resultando em uma abordagem que mecaniza o aprendizado e impede a expressão autêntica. A mecanização, dessa forma, restringe a criatividade dos sujeitos e limita os potenciais de abstração, por exemplo, da escrita, pois é disseminado somente o saber normativo e padrão de elaboração textual, em detrimento das vivências subjetivas que poderiam estar implicadas nas atividades de escrita.
+
+Ademais, é possível compreender, a partir desse cenário, que se põe em evidência a reprodução do que Bourdieu denominou de violência simbólica dentro do espaço escolar, que parte da supervalorização e da imposição cultural da classe dominante para a produção do conhecimento. O resultado disso aponta para o silenciamento e a rejeição das construções culturais e dos saberes das classes menos favorecidas (Carvalho, 2012). É na contramão da reprodução dessa maneira de pensar e agir diante da educação que as ações do Entre Muros caminham, isto é, se baseiam numa perspectiva de educação mais democrática e libertadora, que considera a autonomia e os saberes dos sujeitos existentes para além dos muros da escola, que remete a sua comunidade e às produções simbólicas desenvolvidas nas suas relações sociais.
+
+No retorno às atividades de campo no ano de 2024, foi decidido, portanto, que o objetivo seria apresentar mais do que uma oficina convencional sobre gêneros textuais, normas gramaticais ou competências da redação do ENEM. Buscou-se introduzir formatos de escrita pouco abordados no ambiente escolar que pudessem despertar maior interesse e permitir que os estudantes se apropriassem da escrita de forma mais afetiva, colocando-a numa perspectiva mais pessoal e subjetiva. Essa abordagem propõe ampliar a relação dos estudantes com o ato de escrever, conectando-o a suas experiências e realidades e mostrando que a escrita pode ser uma ferramenta criativa e transformadora em suas vidas a partir de temas que lhes são compreensíveis, inquietantes, e que lhes possibilitem expressar seu mundo interior (Vigotski, 2018).
+
+Logo, por meio de debates, as ações foram ajustadas ou adicionadas conforme análise de demandas relacionadas à realidade escolar dos estudantes. Um exemplo disso foi a inclusão de uma ação focada no entendimento prévio dos alunos sobre o que é um texto e sobre como eles se relacionam com a escrita enquanto sujeitos. Essa modificação surgiu da percepção de que muitos alunos tinham dificuldades para compreender a estrutura e os propósitos dos textos, bem como do fato de que entender os anseios e as ideias dos sujeitos se torna um processo fundamental para o exercício textual. Em face disso, a nova ação foi proposta para explorar os conhecimentos que os estudantes já possuíam, permitindo uma abordagem mais dialógica e reflexiva sobre os processos de escrita e leitura. Ao invés de se limitar a uma aplicação de técnicas e normas, essa abordagem busca ampliar suas percepções de mundo e ampliar um aprendizado mútuo.
+
+Assim, em encontros onde ocorrerão debates sobre eixos temáticos relevantes para o ENEM, não nos limitaremos a oferecer uma aula expositiva tradicional. Em vez disso, planejamos facilitar uma prática ativa de investigação entre os estudantes. Durante esses encontros, apresentaremos uma seleção de eixos temáticos e destacaremos sua importância social, explorando como esses temas se conectam com questões contemporâneas.
+
+Entre esses temas, um dos tópicos centrais será a discussão de gênero. Inclusão, diversidade, respeito, expressões de gênero, acolhimento e direitos são temas que perpassam a formação de discussões que alargam a compreensão de gênero e se imbricam em outros temas contemporâneos (como desigualdade, raça e pobreza). O objetivo é, além de fomentar o pensamento crítico sobre o tema gênero, provocar a reflexão de que situações vividas em função de um marcador social podem ser experienciadas em outras situações, com referência a outros marcadores.
+
+Paralelamente a isso, serão observadas e valorizadas as perspectivas dos alunos acerca dos assuntos abordados, das quais poderão emergir reflexões e questionamentos pertinentes ao debate proposto. O objetivo será amparar os alunos com ferramentas e estratégias de pesquisa que estimulem sua curiosidade e autonomia. Com tal método, pretende-se não apenas aprofundar o conhecimento teórico, mas também incentivar os estudantes a se envolverem ativamente na busca por informações, ampliando a compreensão dos temas discutidos.
+
+A adaptação das ações no Entre Muros ocorre de forma flexível, buscando entender as necessidades e os interesses dos jovens à medida que as atividades forem realizadas. Essa flexibilidade na estrutura do projeto reflete a importância de uma estratégia dialógica, que se adapta conforme o vínculo estabelecido entre extensionistas e alunos.
+
+Mediante discussões e atividades interativas, o projeto busca estimular os estudantes a refletirem sobre temas sociais relevantes e a explorarem sua própria posição no mundo. Ao incorporar questões como direitos humanos, violência urbana e desafios ambientais nas atividades, os alunos serão encorajados a analisar e questionar sua realidade e a avivar seu pensamento crítico. Essa abordagem não apenas aprimora suas habilidades de escrita, mas também fomenta um entendimento mais amplo e engajado da sua atuação como cidadãos, para que haja uma participação mais consciente, ativa e viva na sociedade.
+
+As atividades foram planejadas com eixos temáticos de Direitos Humanos, Violência Urbana, Evasão Escolar, Desastres Ambientais e Climáticos, Gênero e Sexualidade, e contemplam as atividades a seguir: 
+
+1. Conhecer os estudantes e criar vínculos  
+2. Apresentar ideias de textos, processos de escrita, medos e anseios das palavras  
+3. Apresentar a Cartilha – construção cidadã, subjetiva, ser no mundo, político / apresentar e discutir os diferentes textos e as linguagens da comunidade, identificando aproximações e diferenças com o ENEM  
+4. Apresentar e analisar modelos de redação (“textos pessoais”)  
+5. Analisar os eixos temáticos (Introdução)  
+6. Analisar os eixos temáticos (2 parágrafos de Desenvolvimento)  
+7. Sanar dúvidas gramaticais e ortográficas (Conclusão)  
+8. Corrigir e entregar devolutiva sobre a redação  
+9. Trabalhar Narrativas de Resistência  
+10. Apresentar as produções dos participantes
+
+Em uma das últimas ações do cronograma, a qual denominamos "Narrativas de Resistência", os estudantes terão a oportunidade de se engajar em uma atividade de criação textual que marca o culminar de um processo de aprendizado coletivo. Esta etapa é projetada para que os alunos possam explorar o gênero textual com o qual se identificam e se sentem confortáveis para, em seguida, aplicar seus conhecimentos de forma mais espontânea e livre.
+
+## Considerações finais
+
+A educação se constitui como um dos caminhos para a possibilidade de ascensão social, é a partir de uma educação democrática, reflexiva e libertadora que se pode vislumbrar a existência de mobilidade social para as camadas menos favorecidas socialmente (Carvalho, 2012). Nesse sentido, há de se pensar sobre a importância da construção de uma educação crítica diante da realidade que se constitui. Educar perpassa, portanto, provocar e convocar à tomada de posição dos educandos diante dessa realidade, a fim de propiciar a reflexividade nos lugares de onde cada sujeito parte nessa conjuntura historicamente estruturada.
+
+Como aponta Freire (2004) a escola tem o: 
+
+> dever de não só respeitar os saberes com que os educandos, sobretudo os das classes populares, chegam a elas com saberes construídos na prática comunitária, mas de discutir com os alunos a razão de ser de alguns desses saberes em relação com o ensino dos conteúdos (p. 30).
+
+Logo, a escola deve fortalecer e ampliar os espaços que possibilitam uma compreensão dos sujeitos enquanto partes de um processo histórico e sociopolítico, principalmente nos ambientes coletivos capazes de promover o diálogo. São fortalecidas, com isso, as ferramentas para a construção da consciência relacionada à atividade desse sujeito sócio-histórico nos demais âmbitos de sua vida, bem como na relação que estabelece com os aspectos social, político, histórico e econômico presentes em seu processo de subjetivação.
+
+Partindo-se do pensamento Freiriano, é importante considerar o conhecimento e a compreensão sobre o mundo que esses sujeitos possuíam antes mesmo de terem contato com os conteúdos escolares, valorizando e reafirmando a memória e o lugar histórico e o papel social que eles possuem na sua comunidade.
+
+Desse modo, o projeto Entre Muros propicia o aprendizado no ambiente escolar, por intermédio de ações que incentivam os estudantes a refletirem criticamente as temáticas sociais e a estabelecerem uma relação com a escrita a partir das expectativas e dos anseios que possuem, ultrapassando os manuais escolares que preparam para os vestibulares. Salienta-se a oportunidade de os discentes ampliarem as noções textuais que possuem e, concomitantemente a isso, construírem coletivamente discussões e reflexões acerca da realidade em que vivem.
+
+Para as ações propostas, são reconhecidos possíveis entraves relacionados à efetivação do cronograma, visto o prazo para a realização dos encontros e a indissociabilidade entre teoria e prática. No que concerne a tais aspectos indissociáveis, frisa-se que, embora o projeto vise atuar em determinado período de tempo e conforme uma estrutura prévia de ações, a realidade da escola é determinante para a concretização dos objetivos. Dessa maneira, além da organização da extensão, fatores como a participação dos estudantes e o calendário escolar são importantes para a atuação nas instituições de ensino, o que reforça a ideia de a prática ser indissociável da teoria, mas não estar atrelada somente a ela.
+
+Por fim, destaca-se a oportunidade de a extensão atuar nas escolas públicas e construir, junto à comunidade, saberes coletivos e conhecimentos críticos acerca da realidade. Os materiais produzidos coletivamente, a escrita afetiva como possibilidade de transformação social e as vivências subjetivas inclusas no processo de aprendizado são, indubitavelmente, aspectos inerentes à proposta da extensão.
+
+[^1]:  Todas as atividades foram coordenadas pela professora Dra. Francisca Denise Silva Vasconcelos.
+
+[^2]:  Escola pública de ensino público, modalidade regular, localizada no bairro Sumaré, território periférico da cidade de Sobral. A partir do ano de 2017, a escola mudou para a modalidade de ensino de tempo integral.
+
+[^3]:  Nos anos de 2018 e 2019, as atividades permaneceram direcionadas para o público das escolas públicas, mas sem centralidade das monitorias. A partir de 2020, o Entre Muros passa a atuar com os estudantes em ações com objetivo de discutir sobre a redação para o ENEM.
+
+

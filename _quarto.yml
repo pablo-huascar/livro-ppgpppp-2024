@@ -33,6 +33,9 @@ book:
     - conselho_editorial.qmd
     - folha_de_rosto.qmd
     - neta_reescrevendo.qmd
+    #- neta_reescrevendo_en.qmd
+    - aragao_saude_trans.qmd
+    - nascimento_muros.qmd
     - sobre_os_autores.qmd
 
 format:
