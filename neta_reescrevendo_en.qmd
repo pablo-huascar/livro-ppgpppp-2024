@@ -35,7 +35,7 @@ author:
     affiliations: 
       - name: Universidade Federal do Ceará
 language: 
-  title-block-author-plural: "Autoras"
+  title-block-author-plural: "Authors"
 filters:
   - section-bibliographies
 bibliography: neta_reescrevendo_en.bib
