@@ -1,12 +1,12 @@
-# Sobre os autores
+# Sobre os autores {.unnumbered}
 
 **Ana Carolina Borges Leão Martins**
 
-Psicanalista, doutora em Teoria Psicanalítica pela UFRJ. Professora adjunta do departamento de Psicologia da UFC e do Mestrado Profissional em Psicologia e Políticas Públicas UFC \- Sobral. Psicanalista do Coletivo Margem Psicanálise, no qual desenvolve trabalho com clínicas públicas em Fortaleza \- CE.
+Psicanalista, doutora em Teoria Psicanalítica pela UFRJ. Professora adjunta do departamento de Psicologia da UFC e do Mestrado Profissional em Psicologia e Políticas Públicas UFC - Sobral. Psicanalista do Coletivo Margem Psicanálise, no qual desenvolve trabalho com clínicas públicas em Fortaleza - CE.
 
 **Ariadsa Mesquita Aragão**
 
-Psicóloga, graduada pela Universidade Federal do Ceará \- *campus* Sobral. Residente em Saúde da Família pela Escola de Saúde Pública Visconde de Sabóia (EPS \- VS). Ex-bolsista PREX do Núcleo de Estudos e Extensão sobre Subjetivação e Sexualidade (SuSex), vinculado ao curso de Psicologia da Universidade Federal do Ceará \- *campus* Sobral. Ex-extensionista do Laboratório de Estudos das Desigualdades e Diversidades (LAEDDES).
+Psicóloga, graduada pela Universidade Federal do Ceará - *campus* Sobral. Residente em Saúde da Família pela Escola de Saúde Pública Visconde de Sabóia (EPS - VS). Ex-bolsista PREX do Núcleo de Estudos e Extensão sobre Subjetivação e Sexualidade (SuSex), vinculado ao curso de Psicologia da Universidade Federal do Ceará - *campus* Sobral. Ex-extensionista do Laboratório de Estudos das Desigualdades e Diversidades (LAEDDES).
 
 **Camilla Araújo Lopes Vieira**
 
@@ -16,7 +16,7 @@ Psicanalista. Docente da Universidade Federal do Ceará (UFC), *campus* de Sobra
 
 Psicóloga, Mestra em Psicologia e Políticas Públicas pela Universidade Federal do Ceará (UFC). Servidora pública no Centro de Atenção Psicossocial (CAPS) de Quixeramobim-CE. Preceptora da Residência Multiprofissional em Saúde (RESMULTI) da Escola de Saúde Pública do Ceará (ESP-CE). Assessora técnica do Núcleo de Educação Permanente em Saúde (NUMEPS) de Quixeramobim-CE.
 
-**Francisco Pablo Huascar Aragão Pinheiro** 
+**Francisco Pablo Huascar Aragão Pinheiro**
 
 Psicólogo, Mestre em Psicologia e Doutor em Educação, títulos obtidos pela Universidade Federal do Ceará. Professor do curso de graduação em Psicologia e do Programa de Pós-graduação Profissional em Psicologia e Políticas Públicas do *campus* Sobral da Universidade Federal do Ceará. Bolsista de produtividade em pesquisa da Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico.
 
@@ -26,7 +26,7 @@ Mestra em Psicologia e Políticas Públicas pela Universidade Federal do Ceará.
 
 **Haline Maria Parente Rodrigues**
 
-Psicóloga e Mestra em Psicologia e Políticas Públicas, títulos obtidos pela Universidade Federal do Ceará. Especialista em Psicologia Educacional pela UNIQ e Saúde Mental pela FAVENI. Professora e gestora de extensão do curso de graduação em Psicologia do Centro Universitário UNINTA \- Itapipoca.
+Psicóloga e Mestra em Psicologia e Políticas Públicas, títulos obtidos pela Universidade Federal do Ceará. Especialista em Psicologia Educacional pela UNIQ e Saúde Mental pela FAVENI. Professora e gestora de extensão do curso de graduação em Psicologia do Centro Universitário UNINTA - Itapipoca.
 
 **Hellen Beatriz Martins Braga**
 
@@ -42,7 +42,7 @@ Psicólogo, Doutor em Psicologia pelo Programa de Pós-Graduação em Psicologia
 
 **Janne Izabel Alves de Sousa**
 
-Psicóloga, Mestra em Psicologia e Políticas Públicas pela Universidade Federal do Ceará. Graduada pelo Centro Universitário Santo Agostinho. Pós-Graduada em Gestão de Pessoas pela Faculdade Estácio e Psicologia Hospitalar pela Faculdade de Enfermagem São Vicente de Paula. Membro da equipe Multiprofissional da APS – eMulti do município de Crateús \- CE. Preceptora de núcleo de psicologia da Saúde da Família pelo Programa de Residência Multiprofissional em Saúde da Escola de Saúde Pública do Ceará.
+Psicóloga, Mestra em Psicologia e Políticas Públicas pela Universidade Federal do Ceará. Graduada pelo Centro Universitário Santo Agostinho. Pós-Graduada em Gestão de Pessoas pela Faculdade Estácio e Psicologia Hospitalar pela Faculdade de Enfermagem São Vicente de Paula. Membro da equipe Multiprofissional da APS – eMulti do município de Crateús - CE. Preceptora de núcleo de psicologia da Saúde da Família pelo Programa de Residência Multiprofissional em Saúde da Escola de Saúde Pública do Ceará.
 
 **Jocélia Maria Santos de Lira Pessoa**
 
@@ -50,11 +50,11 @@ Psicóloga, Mestra em Psicologia, título obtido pela Universidade Federal do Ce
 
 **Juliana Maria do Nascimento Mota**
 
-Graduada em Psicologia pela Universidade Federal do Ceará – *campus* de Sobral (UFC). Mestra em Psicologia pelo Programa de Pós-Graduação Profissional em Psicologia e Políticas Públicas \- UFC/Sobral. Especialista em Psicologia Educacional pela Faculdade de Quixeramobim – UNIQ e em Gênero, Diversidade e Direitos Humanos pela Universidade da Integração Internacional da Lusofonia Afro-Brasileira – UNILAB. Professora substituta no curso de Psicologia da Universidade Federal do Ceará – *campus* Sobral.
+Graduada em Psicologia pela Universidade Federal do Ceará – *campus* de Sobral (UFC). Mestra em Psicologia pelo Programa de Pós-Graduação Profissional em Psicologia e Políticas Públicas - UFC/Sobral. Especialista em Psicologia Educacional pela Faculdade de Quixeramobim – UNIQ e em Gênero, Diversidade e Direitos Humanos pela Universidade da Integração Internacional da Lusofonia Afro-Brasileira – UNILAB. Professora substituta no curso de Psicologia da Universidade Federal do Ceará – *campus* Sobral.
 
 **Juliana Vieira Sampaio**
 
-Docente em exercício provisório do Departamento de Psicologia da Universidade Federal de Minas Gerais. Docente do Programa de Pós-Graduação Profissional em Psicologia e Políticas Públicas da Universidade Federal do Ceará. Docente do Programa de Pós-Graduação em Psicologia da UFMG. Pós-doutora em Psicologia (2019-2020) pela Universidade Federal do Ceará, Doutora em Psicologia pela Universidade Federal de Pernambuco (2014 \- 2016).
+Docente em exercício provisório do Departamento de Psicologia da Universidade Federal de Minas Gerais. Docente do Programa de Pós-Graduação Profissional em Psicologia e Políticas Públicas da Universidade Federal do Ceará. Docente do Programa de Pós-Graduação em Psicologia da UFMG. Pós-doutora em Psicologia (2019-2020) pela Universidade Federal do Ceará, Doutora em Psicologia pela Universidade Federal de Pernambuco (2014 - 2016).
 
 **Maiara Braga Nascimento**
 
@@ -78,7 +78,7 @@ Mestranda no Programa de Pós-Graduação em Psicologia e Políticas Públicas d
 
 **Vanessa Cunha Santiago**
 
-Psicóloga, Psicanalista, Mestra em Psicologia e Políticas Públicas pela Universidade Federal do Ceará \- *campus* Sobral. Professora do Ensino Superior nas áreas de Psicologia da Educação
+Psicóloga, Psicanalista, Mestra em Psicologia e Políticas Públicas pela Universidade Federal do Ceará - *campus* Sobral. Professora do Ensino Superior nas áreas de Psicologia da Educação
 
 **Vera Silvia Paula Pessoa Aguiar Neta**
 

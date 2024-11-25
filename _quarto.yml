@@ -6,10 +6,6 @@ toc-title: "Sumário"
 indent: true
 
 book:
-  sidebar:
-    tools:
-      - icon: translate
-        #href: https://fphap.quarto.pub/pt-psi-en/
   page-navigation: false
   title: "Pesquisa e atuação em Psicologia e políticas públicas"
   page-footer:
@@ -32,15 +28,20 @@ book:
     - institucional.qmd
     - conselho_editorial.qmd
     - folha_de_rosto.qmd
-    - neta_reescrevendo.qmd
-    - neta_reescrevendo_en.qmd
-    - rodrigues_trabalho.qmd
-    - rodrigues_trabalho_en.qmd
-    - aragao_saude_trans.qmd
-    - nascimento_muros.qmd
-    - barbosa_aquilomba.qmd
-    - barbosa_aquilomba_en.qmd
-    - sobre_os_autores.qmd
+    - part: Capítulos em português
+      chapters:
+        - neta_reescrevendo.qmd
+        - rodrigues_trabalho.qmd
+        - aragao_saude_trans.qmd
+        - nascimento_muros.qmd
+        - barbosa_aquilomba.qmd
+        - sobre_os_autores.qmd
+    - part: Capítulos em inglês
+      chapters:
+      - neta_reescrevendo_en.qmd
+      - rodrigues_trabalho_en.qmd
+      - about_the_authors.qmd
+
 
 format:
   html:
