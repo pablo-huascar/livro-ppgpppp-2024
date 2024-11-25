@@ -39,6 +39,7 @@ book:
     - aragao_saude_trans.qmd
     - nascimento_muros.qmd
     - barbosa_aquilomba.qmd
+    - barbosa_aquilomba_en.qmd
     - sobre_os_autores.qmd
 
 format:
