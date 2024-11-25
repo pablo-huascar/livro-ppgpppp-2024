@@ -34,6 +34,8 @@ author:
     email: iratan@ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
+lang: en
+toc-title: "Table of contents"
 language: 
   title-block-author-plural: "Authors"
 filters:
