@@ -1,0 +1,139 @@
+---
+author: 
+  - name: Eliane Clares Barbosa
+    url: http://lattes.cnpq.br/9018814092615163
+    orcid: 0000-0001-8828-683X
+    email: liaclares@hotmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará    
+  - name: Juliana Viera Sampaio
+    url: http://lattes.cnpq.br/9556200287516417
+    orcid: 0000-0001-5770-244X
+    email: julianavsampaio@hotmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+language: 
+  title-block-author-plural: "Autoras"
+filters:
+  - section-bibliographies
+bibliography: barbosa_aquilomba_en.bib
+reference-section-title: References
+---
+
+# Aquilomba SUS in primary healthcare: Professional training for antiracist care
+
+## Introduction
+
+Addressing healthcare and mental health for the Black population is a complex process that demands in-depth, committed discussions aligned with the historical trajectory of this community. The complexity arises from the many factors – historical, cultural, socioeconomic, political, and ideological – that need to be considered when designing and implementing actions and policies to promote comprehensive care beyond universal, equitable, and territorial [@rocha2021].
+
+Primary Healthcare (PHC) serves as the main gateway to Brazil’s Unified Health System (SUS), with its core attributes being first-contact access, continuity of care, comprehensiveness, and care coordination, and its derived attributes, including family orientation and community orientation. This level of care is responsible for providing health promotion, prevention, and rehabilitation services with an emphasis on collective activities and health education [@tochetto2023].
+
+However, in this context, challenges such as gaps in professional training materialize and compromise the quality of care for the population. Since PHC teams often receive generalist training, it is not uncommon for professionals to struggle and even resist when dealing with issues like mental health conditions. The gap in the care provided to the Black population also stands out. Even though most users accessing PHC services are Black (both brown and Black individuals), there has been little thought or discussion on the implications of racial dynamics in shaping the health and life conditions of this community [@santana2019].
+
+In response to this context, which often reflects an unpreparedness to address mental health needs, especially those of the Black population, the necessity arises for strategies that can enhance professional training and improve the quality of care provided to service users [@barros2022].
+
+A trend within health training processes is the lack of recognition of social markers of difference, such as race and gender, as elements that structure people's living conditions and directly impact health and illness. Thus, Continuing Education in Health (EPS) emerges as a tool aimed at improving the quality of community care by enhancing the skills and knowledge of health workers [@ministerio2014].
+
+In this light, the aim of this chapter is to present and discuss the experience of a short course, a technical product of the Professional Master's Program in Psychology and Public Policy at the Federal University of Ceará (UFC), focused on racial and gender dynamics in mental health, conducted with PHC teams in a municipality in inland Ceará.
+
+## Methodological Pathway
+
+This work was based on the methodology of experience systematization. This requires careful organization and discipline, conducted through compiling, ordering, and reconstructing data. It also demands learning and critical discussion based on lived experiences [@holliday2006].
+
+For this purpose, a field diary was used as a methodological tool, recording subtleties and perceptions of the emotional expressions of the people involved from the perspective of the person making the notes [@kroef2020]. The discussions presented here are the responsibility of the primary author of the study, who is also a professional in the Psychosocial Care Network (RAPS), working at the Psychosocial Care Center (CAPS) II, and who led the mediation of experiences with the support of a social worker from the Psychosocial Care Center for Alcohol and Other Drugs (CAPS AD).
+
+The short course "Aquilomba SUS" is a technical product of the Professional Master's Program in Psychology and Public Policy at the Federal University of Ceará (UFC). The third stage of an interventionist research project was carried out between April 2023 and February 2024, involving users and professionals of specialized mental healthcare.
+
+The course was conceived and structured based on the perception of health and mental health training gaps regarding racial and gender relations [@veiga2019]. The course's goal is to discuss the role of racial and gender relations in the context of psychological suffering/illness and care with mental health professionals. Its commitment is to raise awareness among professionals regarding the urgency of racial and gender literacy processes in healthcare provision, particularly for Black women.
+
+After conducting the course in specialized care facilities as part of the master’s research, the results were presented to the Municipal Permanent Health Education Center (NUMEPS), where the researcher also serves as a technical advisor. After evaluation and approval by other center members, an action schedule was created from May to November 2024.
+
+Currently, the municipality has 28 family health teams registered in the National Health Establishments Registry (CNES), which were divided into seven groups according to the availability of professionals. Thus, each monthly meeting has been held with four teams, with three to five representatives from each. At the beginning of each month, the teams receive a course registration form, which participants fill out voluntarily.
+
+Among the professional categories attending the course were nursing (at both the university and technical levels), dentistry (at both the university and technical levels), Community Health Agents (ACS), and clerical staff, as well as professionals from the Multiprofessional Health Residency Program (RESMULTI) at the School of Public Health (ESP-CE), including psychology, dentistry, physical therapy, nursing, physical education, and social work.
+
+The "Aquilomba SUS" course is a single session lasting approximately four hours, using dialogue and experience sharing as the methodology, which takes place at both professional and personal levels, given that experiences of racial and gender discrimination occur across multiple aspects of life.
+
+In addition to these topics, the course also addresses conceptions of race and racism, conceptions of gender and gender discrimination, the racial identification process, intersections of gender, race, and mental health, fictitious case studies, and strategies for combating racial and gender discrimination in mental healthcare.
+
+Initially, the discussions proposed in the "Aquilomba SUS" training focused more on racial issues, reflecting the demand identified during data collection in the master's research by professionals in specialized mental healthcare. However, in the work with Primary Healthcare (PHC) professionals, the need for addressing gender issues has also become evident.
+
+## Results and Discussion
+
+Based on the insights and discussions from the first four course sessions, held between May and August with the participation of approximately 80 professionals, the following discussion topics were highlighted: i) The racial issue in the training of Primary Healthcare professionals; ii) Racial identification and collecting race/color data; and iii) Continuing education as a tool for racial and gender literacy for mental healthcare in Primary Healthcare.
+
+### The Racial Issue in the Training of Primary Healthcare Professionals
+
+Most workers noted the absence of racial issues in professional training, whether in undergraduate education or training processes within the SUS. Those who had contact with the subject did so through personal initiative or, occasionally, in some university projects, without an in-depth discussion of the topic.
+
+When racial relations are often addressed in an academic setting, they are not treated as a cross-cutting theme in students' education. Instead, they appear timidly and superficially, reflecting knowledge and practices centered on the socially established model of a universal subject: white, male, and with purchasing power. Other realities tend to be made invisible, and people belonging to these realities, such as Black individuals and women, have their specific needs neglected [@silva2017].
+
+This deficit in the training of healthcare professionals can compromise their evaluation and critical perception of the social markers of difference present in the lives of the Black population, particularly women. As such, ignoring gender and race categories conceals numerous forms of oppression and violence that are common and daily experiences for this community [@santana2019].
+
+Lack of awareness or analysis of the living conditions faced by the Black population—such as racism, poverty, unemployment, and lack of or limited access to health and education policies—prevents professionals from recognizing the nuances involved in psychological suffering and illness. This, in turn, limits their ability to envision, develop, and provide care based on empathy and equity [@damasceno2018].
+
+It is worth noting that the National Policy for Comprehensive Health of the Black Population (PNSIPN), established through Ministerial Ordinance No. 992 of May 13, 2009, and the Statute of Racial Equality, established by Law No. 12,288 of July 20, 2010, are documents that should guide public health policies for the Black population. Care practices need to be aligned with the guidelines presented in these legal frameworks. However, many professionals are unaware of these documents or have only heard of them in passing [@tochetto2023].
+
+One of the principles of the PNSIPN is transversality, meaning that different health policies must be developed with an awareness of the historical context of the Black population. Although universal and equitable access to healthcare is enshrined as a constitutional right, Black individuals do not receive the same opportunities and quality of care as white individuals [@tochetto2023].
+
+Since living conditions, and therefore health conditions, are closely related to ethnic-racial issues, and since PHC is the preferred point of entry into the Health Care Network (RAS), it is crucial that professionals in this sector are prepared to address the needs of this population and provide all the attributes of this level of care [@santana2019].
+
+To achieve this, it is necessary to change the prevailing model of education, which is biomedical, fragmented, didactic, and instructor-centered. Such characteristics do not contribute to training professionals with the skills needed to care for vulnerable populations, such as Black people. As long as resistance to including ethnic-racial relations in the health curriculum persists, shortcomings in the care provided will continue [@santana2019].
+
+During the course development, some participants were engaged and interested in the discussions, demonstrating sensitivity and a desire for further training on the topic. This highlights the need for and relevance of strengthening continuing education practices in the municipality. Although many professionals had not previously addressed the topic formally, they felt comfortable sharing personal, family, and acquaintances' experiences of racism.
+
+### Racial Identification and Collecting Race/Color Data
+
+Up to the course's fourth session, racial identification was the topic that received the most attention from participants. It generated considerable curiosity, and based on some comments, participants seemed to expect a kind of formula or step-by-step guide on conducting the racial identification process.
+
+To build the debate on Black identity, it is essential to consider historical, linguistic, psychological, political-ideological, racial, and cultural aspects. These factors are in constant interplay, substantially contributing to the Black community's material and symbolic living conditions [@munanga2020].
+
+It is important to note that although this identity is not understood biologically, in the Brazilian context, racial identification occurs based on phenotypic traits, such as skin color and other physical features [@munanga2020]. When this was discussed in the course, along with the information that Black individuals in Brazil include both brown and Black people, some participants appeared uncomfortable.
+
+This discomfort may have arisen because some individuals with white phenotypic traits self-identified as brown and, therefore, Black, using miscegenation—which characterizes the Brazilian context—as their justification. The discomfort seemed to be related to the questioning of these participants' positionality, especially considering that, within the country's racial structure, they occupy a place typically associated with perpetuating racism, even if unintentionally, in some situations.
+
+Conversely, the course facilitators, both brown-skinned women, had their racial identity questioned at various times, being perceived as white by some participants, even after sharing personal experiences related to the challenging construction of their racial identities.
+
+It is understood, then, that the complexity of racial relations in Brazil is marked by processes of miscegenation and whitening, which largely explains the confusion around racial self-declaration. Strong stigmas associated with the Black population contribute to a rejection of this identity, which is not as desirable as the white identity, synonymous with beauty, goodness, and intelligence [@kilomba2019].
+
+Another way to avoid this debate is by invoking social class as the only or main factor behind health inequities. During the course, inequality in income distribution was often the first aspect mentioned or considered regarding physical and mental illness in the population [@rocha2021].
+
+Many professionals acknowledged the obligation to collect race/color data established by Ordinance No. 344 of February 2017. They also mentioned a fear—and, in some cases, resistance—to carrying out this procedure due to concerns about causing discomfort to service users.
+
+This fear is one of the main reasons for failing to collect or improperly collect this data, along with the difficulty many users and professionals have in self-declaring their race. Another related factor is a lack of understanding of the importance of this data, preventing those who collect it from explaining its significance and importance to the public [@silveira2021].
+
+Collecting this information is essential for combating racism, as it allows for the racial disaggregation of epidemiological data, thereby making it possible to visualize and analyze health inequities [@silveira2021]. Therefore, failing to collect race/color data, regardless of the reason, renders invisible the living conditions of many people, hindering effective planning and management of health actions and services [@garbois2017].
+
+Institutional racism, as an organizational concept, emerges as one of the most subtle and damaging forms of racism, operating through the silencing of racial inequalities and oppression. Collecting race/color data with critical and analytical intent can help address many of the ills affecting the Black population, ensuring that equity becomes the foundation for building a fair and egalitarian society [@silveira2021].
+
+### Continuing Education as a Tool for Racial and Gender Literacy in Mental Healthcare in Primary Healthcare
+
+The Black population, particularly women, is the primary user base of PHC services, primarily because PHC is a territorial service and the main gateway to the Health Care Network (RAS). Additionally, social vulnerability conditions, often linked to various levels of health inequities, disproportionately affect groups like the Black population [@tochetto2023].
+
+In this context, PHC professionals are expected to comprehensively understand the community's reality and the needs of those they serve. Thus, the bonds built in this Psychosocial Care Network (RAPS, the acronym in Portuguese) segment should be used as a tool for care, facilitating adherence, and follow-up processes for individuals and families [@guibu2017].
+
+However, the invisibility of racial and gender issues can compromise the understanding of the community's needs, directly impacting the quality of care provided to the territory. As PHC is established in national health policy as the point in the RAS responsible for facilitating access to comprehensive and quality health services and actions, strategies that contribute to its improvement must be emphasized [@tochetto2023].
+
+In this regard, Continuing Education in Health (EPS) is seen as an effective means for transforming this reality, allowing for discussion and reflection on the various issues present in the health-disease process of populations and, in this specific context, on racial and gender relations that primarily impact the lives of Black women [@barros2022].
+
+In 2023, NUMEPS' actions in the target municipality focused on clinical topics and centered on the nursing category (university level). With "Aquilomba SUS," beyond addressing mental health from racial and gender perspectives, all professional categories, regardless of educational level, were invited to participate.
+
+Promoting racial and gender literacy is critical to understanding that race, as a social construct, is used as a tool for control through material and symbolic hierarchies between the white and Black communities. The same applies to gender, which is also used to determine practices and social spaces for men and women, keeping the latter group at a disadvantage [@pereira2019].
+
+During the discussion of fictitious cases and other points during the course, some individuals appeared disengaged from in-depth discussions on these topics. This further emphasizes the need to invest in racial and gender literacy for workers, which can ultimately influence their professional and personal conduct. Thus, information about the living conditions of most Black Brazilian women was shared to discuss the interrelationship between gender and race categories, including in mental health contexts.
+
+It was emphasized that, although changes are happening at a slow pace and there are now Black women occupying significant positions in society, this group remains among the poorest, with the lowest levels of education; they make up the majority of domestic workers; they head most Brazilian households, bearing the brunt of caregiving responsibilities; and they are also the majority in cases of femicide, sexual and obstetric violence, and depression and anxiety, facing more significant barriers to accessing public health policies [@carneiro2011; @teixeira2021; @ipea2022; @zanello2022].
+
+Among the strategies for addressing racism and gender discrimination in health and mental health, the following were emphasized: the importance of continuing education processes and each professional's autonomy in seeking training; the need to revisit personal and professional attitudes; providing empathy and a qualified listening ear; promoting equity; collecting race/color data analytically; creating spaces for discussion on these topics with professionals and users; and making referrals within the RAPS based on a critical analysis of the situation, avoiding referral as a means of shifting responsibility [@tochetto2023].
+
+Given that racism and the mental health of the Black population are topics that, according to PNSIPN, should be included in the training processes for workers and in the exercise of social control, this policy also encourages the production of scientific and technological knowledge regarding the health of the Black population [@ministerio2017]. 
+
+Thus, considering the urgency of understanding that racism is not merely a moral transgression but rather a complex and organized system of power, the strengthening of continuing education practices for health professionals about the Black population is reaffirmed as a tool to combat racism in public health spaces.
+
+## Final Considerations
+
+Although many professionals who participated in the course engaged assertively in discussions on racial and gender relations in healthcare and mental health, some maintained a view contrary to the intended reflection points. In contrast, others did not express their opinions on the subject—an anticipated challenge during the activity.
+
+It was noted that, in the target area, discussions on gender relations are more advanced than those on racial issues. This prompted reflections on how health workers would accept the course's proposed content. Evaluations, however, were positive regarding the delivery and the topics discussed during the sessions, and participants even suggested related themes or further exploration of the discussions initiated.
+
+It is understood that "Aquilomba SUS" emerged as a powerful tool for improving care practices. However, it is necessary to acknowledge its limitations and the urgency of continued actions that commit to transforming the reality of Black women, particularly those experiencing mental health conditions.

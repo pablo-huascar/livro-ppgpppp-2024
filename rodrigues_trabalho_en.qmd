@@ -1,9 +1,9 @@
 ---
 author: 
   - name: Haline Maria Parente Rodrigues
-    url: http://lattes.cnpq.br/9499607786008331
-    orcid: 0000-0002-4176-8812
-    email: halineparente22@gmail.com
+    url: https://lattes.cnpq.br/6480643447721226
+    orcid: 0009-0009-9680-820X
+    email: verasppan@alu.ufc.br 
     affiliations: 
       - name: Universidade Federal do Ceará    
   - name: Francisco Pablo Huascar Aragão Pinheiro
@@ -12,8 +12,6 @@ author:
     email: pablo.pinheiro@ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
-lang: en
-toc-title: "Table of contents"
 language: 
   title-block-author-plural: "Authors"
 filters:
@@ -21,6 +19,7 @@ filters:
 bibliography: rodrigues_trabalho.bib
 reference-section-title: References
 ---
+
 # Teaching work and mental health of Brazilian teachers during the COVID-19 pandemic
 
 In recent years, there has been a significant increase in mental disorders among teachers [@Silva2018]. This situation was exacerbated by remote work during the COVID-19 pandemic [@Allen2020]. In this context, abrupt changes occurred in the development of teaching activities without the necessary support for these modifications [@Oliveira2021]. Lack of access to the internet and computers, as well as low motivation among parents and students, were perceived as barriers to the development of remote teaching [@Klapproth2020].
