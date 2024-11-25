@@ -1,1 +1,137 @@
+---
+author: 
+  - name: Vera Silvia Paula Pessoa Aguiar Neta
+    url: http://lattes.cnpq.br/5191203280726899
+    orcid: 0009-0009-1704-1451
+    email: verasppan@alu.ufc.br 
+    affiliations: 
+      - name: Universidade Federal do Ceará    
+  - name: Gracymara Mesquita Severiano
+    url: http://lattes.cnpq.br/6973773546458473
+    orcid: 0000-0001-6813-8258
+    email: gracymesquita@hotmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: João Pedro do Nascimento Malheiros
+    url:  http://lattes.cnpq.br/8826984722634469
+    orcid: 0009-0007-7710-3277
+    email: pedromalheiros@alu.ufc.br 
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Amanda Cristina Carvalho Fontenele
+    orcid: 0009-0003-6433-7585
+    email: amandacarvalhofontenele@alu.ufc.br 
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Tereza Milena Andrade de Oliveira
+    orcid: 0009-0003-2858-6234
+    email: terezamilena@alu.ufc.br 
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Iratan Bezerra de Sabóia
+    url:  http://lattes.cnpq.br/4256908254336676
+    orcid: 0000-0003-3312-9954
+    email: iratan@ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+language: 
+  title-block-author-plural: "Authors"
+filters:
+  - section-bibliographies
+bibliography: neta_reescrevendo_en.bib
+reference-section-title: References
+---
 
+# Rewriting my story: Learning to build possible life projects
+
+## Introduction
+
+Rewriting one's own story is constructing a new life project, resulting from broadening the horizons surrounding individuals and their proper integration. Integration here is understood as reaffirming the individual within the social reality, empowered to participate in it and transform it [@Freire1999]. It is an opportunity to envision the future beyond the immediate and cold impositions of oppressive and unequal materiality, not from a naïve or idealized logic, but from the perspective of a revolutionary dream.
+
+From a Freirean perspective, dreaming is a duty and a political right of the learner, the act of elaborating dreams even when they diverge from the expectations of their educators [@Freire2014]. This highlights the transformative role of education and educators in illuminating multiple trajectories and life projects for learners with methodologies that enrich their sociocultural repertoire, contributing to the creation of new meanings, values, and dreams.
+
+However, as Bourdieu [-@Bourdieu2007] observes, the conservative school model operates in the opposite direction, suppressing the possibilities of dreaming as a dominant strategy for maintaining existing social inequalities. This phenomenon is evident, especially when considering access to higher education, which remains unclear in the imagination of lower social classes. The author also points to unequal access to information as an amplifying factor, compounded by the lack of cultural capital symptomatic of marginalized families.
+
+Thus, marginalized individuals face challenges in imagining the possibility of higher education, which often appears as a foggy, almost unattainable path. The neoliberal logic of education exacerbates this situation, as schools become hijacked by economic technicism, turning into profit-driven institutions, neglecting their role as promoters of critical thinking, autonomy, and emancipation [@Laval2019].
+
+This ambivalence of the school’s role is explored by Severiano [-@Severiano2021] through the investigation of "Life Project" as both a discipline and a "target concept" in educational planning, as well as the involvement of students in the course. The Life Project training process, as provided by the Institute for Education Co-responsibility [@ICE_EscolaDaEscolha, para .04], defines the proposal as "a central solution ... to attribute meaning to the school project in the student's life and to project a vision of oneself in the future, supported by all those who join efforts, talents, and skills."
+
+However, the author’s research shows, based on teachers' reports, that despite the transformative potential of the discipline as a space to dream and share a critical education that stimulates student agency, neoliberal ideals are still deeply ingrained not only in teachers' discourse but in the very structural planning of the course. The Life Project becomes understood exclusively as a career and market performance project, endorsing the perspective of the one-dimensional individual, realized only in the dimension of the economic market [@Marcuse2015]. In this shift, what once was a citizen-student in development is transformed into an employee fulfilling a target, individually accountable for their institutional and financial failures.
+
+In contrast, “... we cannot infer that the Life Project course is solely being used to build an education that aims to meet economic and market demands” [@Severiano2021, p. 17]. Thus, it becomes evident that this discipline has transformative potential, structured in a way that could even challenge the neoliberal education model. Freire [-@Freire2014] distinguishes between conservative education and progressive educational practice, describing that the former chooses to reveal only the truths of the powerful, concealing from the learner the possibility of exploring truths that drive transformation. The latter reveals the powerful truth that each individual is a historical, social, and cultural subject and that every social space is also their space.
+
+We cannot deny that in the current context, education has primarily served the formation of docile workers rather than active citizens. The educational context not only emulates the market ideology but also converges to become a supporter of the uncritical labor market that neoliberalism desires. Thinking broadly about education also means rethinking the world of work, social relations, quality of life, and the right to enjoy free time, as poverty, according to Demo [-@Demo1996], manifests as the deprivation of fundamental rights.
+
+If we consider that education today fulfills this role of forming workers, given the centrality of work in contemporary life [@Castel2003; @DalRosso2008; @DalRosso2017; @Saboia2019], there is a strong tendency for the structures of the labor market to be replicated in education. Among them, a certain predefinition of spaces to be occupied by specific social groups is particularly notable: vocational education and higher education.
+
+Faced with the discussed problem, the extension project "Rewriting My Story," linked to the Laboratory for the Study of Inequalities and Diversities (LAEDDES), aims to establish a connection between public high school students and higher education, specifically at the Federal University of Ceará – Sobral *Campus*, enabling university admission to become part of these students' horizons. The project understands the university as a space for the transformation of reality, which must, therefore, be representative of all sectors of society.
+
+Thus, through formative actions in schools, university students and faculty involved in the project access the core of secondary education and create fertile ground in classrooms to share knowledge. Armed with artistic resources, triggering questions, and listening exercises, the project's extensionists succeed in fostering debate on key topics such as citizenship, opportunities, university admission, and affirmative action policies, among others. The goal is not to colonize horizons with university admission but to work on expanding possibilities, encouraging new dreams, and showing that higher education is a space that these young people can occupy. The project's proposal is also synergistic with the transformative potential of the Life Project course, aiming to establish a network of fruitful dialogues and mutual empowerment, thus catalyzing knowledge as active citizenship.
+
+## Method
+
+Aiming to democratize access to higher education and promote social transformation, the "Rewriting My Story" project seeks to overcome social inequalities by focusing on access to higher education. The initiative involves students and teachers and draws on Sociology, Philosophy, and Social Psychology knowledge to address topics such as social inequality and educational opportunities
+
+Intending to expand educational opportunities for public school youth, the project emphasizes the democratization of access to higher education, presenting the university as a space for social transformation and the exercise of citizenship, a project worth considering. Through four meetings, the extensionists address topics like affirmative action policies, student support policies, and the importance of education for exercising citizenship, stimulating critical reflection, and building new meanings that can be linked to life projects.
+
+The project provides internal training for participants, familiarizing them with activities and tools to be used. Veteran extensionists act as mentors, replicating the sessions with newcomers in a practical training format. After each preparation session, a space is created for discussion and knowledge exchange, aiming for continuous improvement of the action, with biweekly follow-ups with the coordinator. Additionally, new extensionists initially participate as observers to become familiar with and gain confidence for subsequent actions.
+
+The first meeting begins with socialization between extensionists and school students, aiming to establish trust. Next, the project's objectives are presented, emphasizing the importance of confidentiality of shared information. The first activity involves using the Affective Map Generator Instrument (IGMA), developed by Bomfim [-@Bomfim2003], which helps investigate students' emotional connection with the school environment.
+
+Divided into smaller groups to encourage the expression of feelings and emotions, participants and extensionists create drawings and lists of words representing their school experiences. This activity provides a space for each person to share their story uniquely. It is essential to offer a perspective of hope, acceptance, and understanding, showing that overcoming challenges and building a more positive future is possible, thus opening the possibility for change. To conclude the meeting, participants are asked the triggering question, "What comes after school?" to ponder and discuss at the next meeting.
+
+In the second session, the previous question is revisited. University is possible for a few students, while many either do not respond or express a lack of hope in pursuing this path. Then, the second activity begins, an adaptation of the "hot potato" game, where a box containing questions about university admission and retention, focused on the UFC (Federal University of Ceará), is passed around.
+
+When the music stops, the student holding the box draws a question and answers it, opening the floor for others to contribute or offer different perspectives. If they do not know the answer, extensionists respond and clarify doubts. Field notes indicate that most students are unfamiliar with public universities' operations, retention policies, entrance methods, and available programs.
+
+In the third session, Bia Ferreira's song about affirmative action policies is the starting point for discussion. After the musical presentation, students are invited to share their thoughts on the topic. It was observed that, although knowledge about affirmative action was superficial, the music sparked a genuine interest in the university and the possibilities for higher education. Initially, many students showed disinterest or lacked knowledge about the subject.
+
+However, throughout the discussion, increasing curiosity and engagement became evident. This change suggests that using tools like music, which resonate with young people's realities and interests, is crucial to bringing them closer to the subject and encouraging reflection. It is important to emphasize that choosing topics and approaches that dialogue with students' cultural and social worlds is essential for them to feel part of the process and identify with the content presented. Establishing a rhythm and language that young people understand and value makes it possible to create a conducive environment for dialogue and reflection, which is essential in constructing new knowledge.
+
+Finally, in the last session, participants are invited to create a collective poster on "education and opportunity." During this activity, it was noted that although students recognize the importance of education for improving their lives, pursuing higher education is still seen as distant and unattainable.
+
+Throughout the process, extensionists must keep field journals after each school meeting. In university extension, field journals are crucial in documenting activities, relationships between students and actions, and results achieved. The material individually collected by extensionists is shared in group discussions, contributing to collaborative knowledge building, allowing for multiple perspectives on the actions and learners, and connecting practice with theories studied during the extensionists' training.
+
+## Results and Discussion
+
+The actions of "Rewriting My Story," from internal organization among members to fieldwork, are grounded in the materiality that the laboratory deals with, which includes students' cultural capital and the historical and social context of their experiences. According to Severiano [-@Severiano2021], there is a uniform demand for success in schools, even amid inequality in students' trajectories. In neoliberal logic, which focuses solely on outcomes, inequality is not considered in assessing success. Using the methodologies presented, the participation of LAEDDES in schools brings an approach in which students can dream and develop their life projects without being confined to a single possible experience.
+
+As a facilitator of knowledge, the project seeks to ensure greater inclusion in health and educational resources for young people. It is understood that the public university must be accessible to all, including students from marginalized neighborhoods and those experiencing social vulnerability. The challenging environment these young people face should not be a reason for exclusion from receiving the information necessary to construct their life projects.
+
+It is noted that during the four meetings held in schools, a bond is formed between participants and extensionists, facilitated by the project’s organization in which extensionists are responsible for all meetings in the same classroom, creating a listening space by organizing the classroom into smaller groups supervised by an extensionist and asking the teacher to leave the room to make it as comfortable as possible for participants to share experiences related to the proposed activities.
+
+In the first meeting (application of the Affective Map Generator Instrument), students often expressed dissatisfaction with some teachers and the school's organization regarding the physical structure and class distribution, mentioning that their complaints are rarely heard by teachers or coordinators. They also discuss feelings of exhaustion due to other daily activities, such as work.
+
+However, they also describe the school environment as essential for learning, creating and maintaining friendships, and expressing positive emotions such as joy, companionship, and dreams for the future. Although they verbalize aspirations beyond the school environment, their life projects tend to be limited by the perception that university is inaccessible.
+
+Extensionists are trained in the project’s internal capacity-building to validate shared experiences. They give proper attention to all participants and their stories while promoting a hopeful, non-fatalistic conception of a positive future with space for change and overcoming adversities. This becomes crucial when facing the perception of the university as an impossible goal, often represented by the accounts of students who frequently lack family or school encouragement or have other projects in focus, such as work, rather than higher education.
+
+Schools often increasingly foster competition among students, who are evaluated based on their performance. Schools in a neoliberal era take on a corporate format [@Laval2019], classifying students by grades that supposedly distinguish intelligence and learning development levels. Many students feel overwhelmed and hopeless within this school dynamic and do not see themselves capable of entering a higher education program, excluding this possibility from their life projects and focusing on other paths to success, such as employment.
+
+Students’ accounts indicate a strong social and family context influence, which often does not consider higher education a real possibility. The absence of concrete examples of people who have broken this educational barrier and the lack of encouragement in their social environment contribute to building a limited vision of the future. Through the analysis of drawings and written words, students' experience in the school environment is understood, identifying elements that influence the establishment of the student-school bond.
+
+During the second meeting (hot potato game), students demonstrated curiosity and interest in specific questions, especially those related to scholarships, financial aid, and the university cafeteria (surprise and curiosity regarding this information revealed the need to bring these issues to the youth). During the activity, issues related to admission and staying at UFC were discussed, capturing the students' attention.
+
+Many of them learn about these topics for the first time through the activity, beginning to view public university as a possibility, especially when an extensionist shares their own experience of entering UFC through affirmative action or the waiting list and staying at the university with scholarships and aid, accessing low-cost (or free) meals. This brings students closer to this reality, making it a potential possibility since this lack of information limits their future vision, restricting their professional expectations to operational roles as if that were their only option.
+
+During the third meeting (Bia Ferreira's song on affirmative action), students are encouraged to share their thoughts on the music and the theme. It is important to note that some students admitted they did not know the affirmative action system until the hot potato game. Using music proved effective, fostering student engagement with the theme, which became more dynamic as the discussion progressed in the classroom.
+
+With an accessible rhythm and language but addressing a complex theme that represents the artist's experience, the song brings the discourse closer to young people's reality. They often share opinions and questions about how affirmative action works in the university, thus creating an environment conducive to debates, discussions, and critical thinking.
+
+Finally, in the last meeting, participants created posters, and during the process, they emphasized the value and importance of education, often seeing it as an opportunity to improve their lives. However, public university is often not seen as a possible or accessible reality. During the activity, students raised important issues, such as opportunities and questions about their future after leaving school.
+
+It becomes evident that students begin to develop a critical sense regarding their educational rights and interest in occupying public spaces like the university.
+
+## Conclusion
+
+Considering the transformative potential of education in an individual's life, informational and integrative actions like those of LAEDDES offer various paths for constructing life projects. Freire [-@Freire2014] distinguished between conservative and practical education, emphasizing that the latter provides learners with a transformative vision of themselves as historical, social, and cultural beings capable of changing their environments.
+
+The outcomes of these actions are achieved as students engage in a reflective process about their future despite initial perceptions. Many of them show increased interest in information about the university, evidencing a change in attitude toward higher education.
+
+Group discussions reveal that participants initially had limited knowledge of their rights and a strong association between full citizenship and social class. Their narratives highlight social inequalities and the difficulties they face in their life contexts, limiting their future expectations. In this context, having former public school students among the extensionists proves fundamental in building bridges between students and the university, as identification offers a new perspective on the possibilities of life through education.
+
+There is evident alignment between the actions developed by LAEDDES and the Life Project course. While the Life Project aims to help students develop projects that consider their social reality and their agency in making choices, the Laboratory democratizes information about public higher education.
+
+By broadening these individuals' visions of their futures, the "Rewriting My Story" project brings about positive change. It increases their knowledge of the university and the opportunities to enter, occupy, and belong to these spaces, as well as fosters a critical awareness of their lives and future plans.
+
+Based on the analysis of the actions' outcomes and the accounts provided by extensionists who participated in the project during their public school journeys and later entered public universities, we affirm the project's main goal: providing knowledge about the university and enabling democratized access as one of the possible paths after high school. Finally, by reducing the distance between the university environment and public education networks, the project contributes to fulfilling the right to education and sensitizing and promoting changes in the lives of these individuals
