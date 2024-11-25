@@ -40,6 +40,7 @@ book:
       chapters:
       - neta_reescrevendo_en.qmd
       - rodrigues_trabalho_en.qmd
+      - about_the_authors.qmd
         
 
 format:
