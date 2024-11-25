@@ -6,10 +6,6 @@ toc-title: "Sumário"
 indent: true
 
 book:
-  sidebar:
-    tools:
-      - icon: translate
-        #href: https://fphap.quarto.pub/pt-psi-en/
   page-navigation: false
   title: "Pesquisa e atuação em Psicologia e políticas públicas"
   page-footer:
