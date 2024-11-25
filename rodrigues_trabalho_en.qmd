@@ -1,9 +1,9 @@
 ---
 author: 
   - name: Haline Maria Parente Rodrigues
-    url: https://lattes.cnpq.br/6480643447721226
-    orcid: 0009-0009-9680-820X
-    email: verasppan@alu.ufc.br 
+    url: http://lattes.cnpq.br/9499607786008331
+    orcid: 0000-0002-4176-8812
+    email: halineparente22@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará    
   - name: Francisco Pablo Huascar Aragão Pinheiro
@@ -12,6 +12,8 @@ author:
     email: pablo.pinheiro@ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
+lang: en
+toc-title: "Table of contents"
 language: 
   title-block-author-plural: "Authors"
 filters:
@@ -19,4 +21,120 @@ filters:
 bibliography: rodrigues_trabalho.bib
 reference-section-title: References
 ---
+# Teaching work and mental health of Brazilian teachers during the COVID-19 pandemic
 
+In recent years, there has been a significant increase in mental disorders among teachers [@Silva2018]. This situation was exacerbated by remote work during the COVID-19 pandemic [@Allen2020]. In this context, abrupt changes occurred in the development of teaching activities without the necessary support for these modifications [@Oliveira2021]. Lack of access to the internet and computers, as well as low motivation among parents and students, were perceived as barriers to the development of remote teaching [@Klapproth2020].
+
+Additionally, the transition from in-person to remote teaching intensified the precariousness of teaching work [@Ferreira2021] and, in many cases, led to increased workload and expanded work flexibility and intensification [@Bernardo2020]. There was also an incompatibility between working from home and teachers' personal demands, as there was a perceived loss of private and family life due to work activities being carried out at home [@Bernardo2020; @Santos2020], as well as an invasion of rest time [@Akour2020].
+
+Online work affected interactions during classes and the teaching-learning process, as it limited exchanges between teachers and students [@Ferreira2021]. In addition to the specific challenges of teaching work, stressors that emerged during the pandemic, such as social isolation [@Silus2020], weakened social relationships [@Jakubowski2021], and fear of losing one's job [@Ferdous2020] also impacted teachers' mental health.
+
+In this context, female teachers experienced more significant mental health impairments [@Allen2020; @HidalgoAndrade2021; @Klapproth2020; @Li2020; @Oducado2020; @OzamizEtxebarria2021]. It is also worth mentioning the decrease in student engagement, the increase in workload [@Klapproth2020; @Silus2020], and the lack of proficiency with technological tools [@Araujo2020; @Kita2022] as factors that contributed to mental health issues. The lack of institutional support [@Kita2022] and the precariousness of work [@OzamizEtxebarria2021] also negatively affected teachers' mental health.
+
+Specifically about the Brazilian context, several studies conducted before the COVID-19 pandemic sought to determine the prevalence and predictors of Common Mental Disorders (CMDs) among teachers. In this context, a study (n \= 127\) with teachers from a Brazilian public university found a prevalence of 29.9% of CMDs [@Campos2020]. A similar level (29.7%) was observed in a study with 679 elementary school teachers [@Carlotto2015].
+
+In contrast, another investigation identified a prevalence of 49.5% of CMDs among 110 municipal school teachers who were interviewed [@Baldacara2015]. A longitudinal study conducted with 265 elementary school teachers showed an incidence of 18% of CMDs [@Rocha2013]. Regarding the prevalence of CMDs among teachers during the COVID-19 pandemic, a study involving 1,427 teachers from different educational levels reported that 69.0% of female teachers and 59.2% of male teachers showed indications of CMDs [@Pinho2021].
+
+Concerning investigating predictors, feelings of exhaustion in relationships with students, dissatisfaction with working at the educational institution [@Campos2020], lack of fulfillment in the profession, and emotional exhaustion significantly associated with the development of CMDs [@Brun2021]. Additionally, role ambiguity, work overload, low social support at work, and low self-efficacy were also found to be predictors of CMDs [@Campos2020; @Carlotto2015; @Rocha2013]. Characteristics of social-professional relationships and work organization were related to a higher risk of developing CMDs [@Brun2021].
+
+In summary, studies indicated that the COVID-19 pandemic and remote work had negative repercussions on teachers' mental health. However, further investigation into working conditions in the home office, such as the environment and equipment used in this new context, is still necessary to understand the impact on teachers' health. Moreover, aspects such as the work organization established when teachers began teaching online, and the new forms of relationships established with the school community during remote activities remain unexplored.
+
+Thus, the present study aimed to determine predictors of CMDs in Brazilian teachers working in the public school system during the COVID-19 pandemic. The following hypotheses were outlined:
+
+H1: Female teachers will have higher CMD averages;  
+H2: Age will be negatively associated with CMDs;  
+H3: Higher CMD averages will be found among Black, Asian, and Indigenous (non-white) teachers;  
+H4: Teachers without a partner will have higher CMD averages;  
+H5: Income will be negatively associated with CMDs;  
+H6: Teachers whose income decreased after the start of the COVID-19 pandemic will have higher CMD averages;  
+H7: Teachers in the COVID-19 risk group will have higher CMD averages;  
+H8: Teachers diagnosed with COVID-19 will have higher CMD averages;  
+H9: Teachers who lost friends or family members to COVID-19 will have higher CMD averages;  
+H10: Teachers at higher educational levels and those working at more than one academic level will have higher CMD averages compared to early childhood education teachers;  
+H11: Worse perceptions of work organization will be associated with higher CMD levels;  
+H12: Worse assessments of working conditions will be linked to higher CMD scores;  
+H13: Negative social-professional relationships will be associated with higher CMD scores.
+
+## Method
+
+### Participants
+
+The sample for this study consisted of 14,374 Brazilian teachers. The majority of respondents were from the Northeast region (62.5%), followed by the Southeast (23.6%), Midwest (6.5%), North (5.6%), and South (1.8%). Almost 81.0% of the teachers were female. Most of the participants self-identified as mixed race (52.8%), followed by white (34.8%), Black (10.4%), Asian (1.4%), and Indigenous (0.71%). The age range was between 18 and 74 years (M \= 42.1; SD \= 9.4). More than half of the teachers were married or in a stable union (59.4%).
+
+The participants' average monthly per capita household income was R$ 2,073.9 (SD \= R$ 2,119.1). Most teachers reported that their household income remained stable after the COVID-19 pandemic (55.3%), 42.8% reported decreased earnings, and 1.9% reported an increase. Regarding the level of education they taught, 17.2% worked in early childhood education, 40.4% in elementary education, 12.0% in high school, 26.4% at more than one level, and 4.0% in Specialized Educational Assistance and Youth and Adult Education. Concerning the COVID-19 pandemic, 22.0% were in the risk group for the disease, most participants (77.8%) reported that they had not contracted it, and 62.9% of teachers lost friends or family members due to the novel coronavirus.
+
+### Instruments
+
+The survey used the following instruments: the Self-Reporting Questionnaire (SRQ-20) and the Remote Teaching Work Context Assessment Scale (EACTDR). In addition, there were sociodemographic questions (gender, age, monthly household income, education level, type of employment contract, etc.) and questions related to the COVID-19 pandemic (e.g., "Did you lose someone close to you (friend or family member) due to COVID-19?").
+
+The SRQ-20 (Self-Reporting Questionnaire-20; [@Harding1980] - adapted by Gonçalves *et al* [-@Goncalves2008]) is an instrument composed of 20 questions to screen for Common Mental Disorders. All its statements (e.g., "Do you get easily frightened?" and "Do you feel worthless in your life?") have "yes" or "no" response options. Affirmative responses are assigned a value of 1, while negative responses are assigned a value of 0\. The result is analyzed by summing the items, with a score of 7 or higher indicating the presence of CMDs [@Goncalves2008]. In the validation study, the instrument demonstrated satisfactory internal consistency (α \= 0.86), as in the present investigation (α \= 0.87).
+
+The EACTDR [@Cunha2024] was developed based on the Work Context Assessment Scale (EACT) proposed by Ferreira and Mendes (2008). The final version of the questionnaire included 33 items assessing three dimensions: working conditions (α \= 0.85; e.g., "The computer or phone slows down or freezes while I am working"), work organization (α \= 0.93; e.g., "I need to answer work emails, calls, or messages that come outside of work hours"), and social-professional relationships (α \= 0.93; e.g., "There is no autonomy to decide on the teaching methodologies applied in classes"). Items are answered on a Likert scale ranging from 1 (never) to 5 (always), with all items presenting negative statements, meaning that higher scores indicate worse assessments of the work context [@Cunha2024].
+
+In the validation study [@Cunha2024], the instrument's fit indices were satisfactory (RMSEA \= 0.073, 90% CI: 0.072 \- 0.074, SRMR \= 0.057, CFI \= 0.985, TLI \= 0.984). The measure also demonstrated adequate internal consistency (working conditions, α \= 0.83, ω \= 0.87; work organization, α \= 0.92, ω \= 0.94; social-professional relationships, α \= 0.91, ω \= 0.94). In the present study, CMD scores were taken as the dependent variable, while variables related to the work context, pandemic experiences, and demographic data were considered independent variables.
+
+### Procedures
+
+#### Data Collection
+
+Data collection took place between June and July 2021\. A self-administered electronic form was used, which was distributed through the online improvement course "Technology in Education, Hybrid Teaching, and Pedagogical Innovation," promoted by the Digital Educational Laboratory of the Federal University of Ceará. Course participants received the form via the internet. Initially, respondents were directed to the Informed Consent Form and asked about their willingness to participate in the study. Only those who agreed to participate were directed to the actual questionnaire. Only teachers from the public school system working remotely or in a hybrid format during the study period were included in the sample.
+
+#### Data Analysis
+
+A multiple linear regression analysis was conducted to evaluate the predictors of common mental disorders. R Studio software (version 2022.12.0) and the packages tidyverse (version 1.3.2), tidymodels (version 1.0.0), performance (version 0.10.2), car (version 3.1-1), olsrr (version 0.5.3), and sjPlot (version 2.8.12) were used for the analysis. The following assumptions were tested: absence of multicollinearity, independence and normality of residuals, homoscedasticity of non-null variance.
+
+### Ethical Considerations
+
+The project was reviewed by the Research Ethics Committee of the Vale do Acaraú State University and approved under CAAE number 51056621.2.0000.5053, following all regulatory guidelines and standards described in CNS Resolution 466/12 and 510/2016.
+
+## Results
+
+In the sample, 21.6% of participants showed indications of CMDs. Regarding the regression, the assumptions of no multicollinearity (VIF \< 3), independence of residuals (Durbin-Watson \= 1.98), and non-null variance (SD \> 0\) were met. However, it was found that the residuals did not have a normal distribution and also showed heteroscedasticity. Therefore, a bootstrap procedure (1,000 resamples) was performed due to these violations, which provides better confidence intervals (Efron, 1987).
+
+The linear regression model was significant (F(16, 14357\) \= 306.5; p \< 0.001; R2 \= 0.25). The predictor variables for CMDs were gender (β \= 0.11, p \< 0.001), age (β \= \-0.17, p \< 0.001), race (β \= \-0.02, p \< 0.01), income situation after the start of the COVID-19 pandemic (β \= 0.04, p \< 0.001), risk group (β \= 0.09, p \< 0.001), COVID-19 diagnosis (β \= 0.04, p \< 0.001), loss of family or friends due to COVID-19 (β \= 0.05, p \< 0.001), teaching at the high school level (β \= 0.03, p \< 0.05), teaching at more than one educational level (β \= 0.03, p \< 0.01), work organization (β \= 0.29, p \< 0.001), working conditions (β \= 0.07, p \< 0.001), and social-professional relationships (β \= 0.13, p \< 0.001). The variables marital status and per capita household income were not significant in the model.
+
+Higher CMD averages were found among female teachers, participants who self-identified as white, teachers whose income decreased after the onset of the pandemic, those in the COVID-19 risk group, those diagnosed with COVID-19, those who lost friends or family members to the disease, those teaching at the high school level, and those teaching at more than one level. Age negatively correlated with CMDs, indicating that older participants had lower scores. The variables work organization, social-professional relationships, and working conditions showed a positive relationship with CMDs, meaning that worse perceptions of the work context were associated with higher CMD scores.
+
+(tabela)
+
+## Discussion
+
+This study found a prevalence of 21.6% of CMDs among primary education teachers. This value is lower than that found in Brazilian studies with teachers before the COVID-19 pandemic [@Baldacara2015; @Campos2020; @Carlotto2015]. These studies used the same cutoff point for CMD assessment (≥ 7), but analyzed specific education levels, with smaller sample sizes and in-person data collection, making comparing results difficult.
+
+Regarding gender, it was observed that women had higher mean CMD scores than men, which supported H1. This result is consistent with that observed in several studies in which female teachers experienced greater mental health impairments compared to male teachers [@Alhazmi2022; @Araujo2020; @Klapproth2020; @Li2020; @Oducado2020; @OzamizEtxebarria2021]. This gender difference may be related to the overlap of domestic and work activities that, historically and in the context of a patriarchal society, are attributed to women, resulting in greater physical and psychological burden [@Araujo2020; @HidalgoAndrade2021; @Pinho2021]..
+
+The results also showed that younger teachers had higher CMD scores, which confirms H2. A similar finding was observed among higher education teachers, where younger participants were more likely to experience psychological distress [@Akour2020]. In elementary schools, younger teachers were more likely to develop CMDs [@Carlotto2015]. More experienced teachers may have developed better strategies to cope with the profession's challenges, as well as the restrictions and obstacles imposed by the pandemic.
+
+Regarding financial impact after the onset of the pandemic, it was observed that teachers whose household income decreased had worse mean CMD scores, supporting H5 of this study. In line with this finding, some studies have also shown the impact of income on teachers' mental health. For example, the reduction in teachers' income during the pandemic was associated with manifestations of sadness, anxiety, and sleep difficulties [@Lima2021]. Additionally, positive correlations were found between stress and teachers' concerns about socioeconomic insecurity during the pandemic [@Rubilar2021]. Thus, in addition to the need to adapt to working from home and face the fear of contracting the coronavirus, losses, and grief, teachers also found themselves unsupported due to financial losses that impacted their ability to meet their needs.
+
+The results also show that teachers in high-risk groups, those who lost friends or family members, and those diagnosed with COVID-19 had higher mean CMD scores, findings that support H7, H8, and H9. In line with these data, some studies have shown positive associations between mental health problems and teachers who were diagnosed with COVID-19 [@Keim2022], as well as those who were afraid of contracting the virus [@Hossain2022]. These results may be associated with the high rate of disease spread, the lack of a specific treatment, the necessary isolation to prevent infection, and the severe health conditions that people in high-risk groups could experience.
+
+There were differences in CMD scores between educational levels. Specifically, teachers working at the high school level and at more than one level had higher mean CMD scores than those working in early childhood education, confirming H10. This result is similar to findings from a study conducted in Saudi Arabia, where high school teachers were twice as likely to develop anxiety as those at other levels [@Alhazmi2022]. In Ecuador, it was found that elementary and high school teachers had higher levels of psychological distress and perceived stress compared to university teachers [@HidalgoAndrade2021].
+
+In the Brazilian context, a study detected higher CMD prevalence among early childhood and early elementary teachers [@Pinho2021]. In international studies, working in early childhood and elementary education was associated with more significant mental health impairments for teachers [@Klapproth2020; @Li2020; @OzamizEtxebarria2021]. Such variations may be associated with differences in target populations, cultures, sample sizes, and cutoff points used. Methodologies and constructs also differ, as they address mental health through, for example, anxiety and stress. Thus, it is evident that the impact on teachers' mental health depends on the challenges of each education level [@Alhazmi2022], considering that each student age group requires specific handling.
+
+Teachers who self-identified as white had higher mean CMD scores compared to non-white teachers, which contradicts H2 of the investigation. However, due to a history of lack of rights, and social and economic inequalities, Black people are more likely to experience the impacts of the COVID-19 pandemic [@Goes2020]. In the United States, during the pandemic, the mental health of Black, Hispanic, and Asian individuals showed worse outcomes compared to white individuals [@Thomeer2023].
+
+In Brazil, racial inequality has its roots in colonization, with racism as one of its pillars. The representation of white supremacy promotes a denial of self for Black individuals. There are attempts to erase a Black identity that does not feel its humanity accepted, as the prevailing ideal model of life is that of white people. Thus, it is possible to imagine that this context impacted participants' racial self-identification, which may have influenced the finding of the present study [@Rodrigues2022].
+
+It was also observed that poorer evaluations in the three dimensions of the work context (work organization, working conditions, and social-professional relationships) were associated with higher CMD scores. These findings support H11, H12, and H13. Among these three categories, work organization had the largest effect size concerning teachers' mental health. In a study conducted before the COVID-19 pandemic, it was also observed that negative perceptions of work organization were linked to higher CMD scores [@Brun2021].
+
+In the context of working from home, there was an increase in teachers' working hours, which, in turn, were correlated with higher stress levels [@Klapproth2020]. Higher stress levels among Argentine teachers during pandemic-related work were associated with aspects of work organization. A greater workload, exemplified by the concomitance of domestic and teaching tasks and unpredictability in work schedules, was observed. Additionally, increased demands from supervisors, students, and parents were correlated with stress [@Rubilar2021].
+
+Regarding work organization, among university teachers, the lack or absence of skills to use equipment, such as cell phones or computers, and internet resources were identified as predictors of stress [@Kita2022]. On the other hand, those who received training for online teaching experienced fewer mental health impairments [@HidalgoAndrade2021], showing that a lack of institutional support had negative repercussions for teachers [@Kita2022].
+
+Regarding social-professional relationships, a pre-pandemic Brazilian study indicated that difficulties in relationships with students were responsible for an increased likelihood of developing CMDs among university teachers [@Campos2020]. A Brazilian study conducted during the COVID-19 pandemic observed that teachers had complaints about communication failures between students and teachers due to technological difficulties [@Pinho2021].
+
+Higher CMD risks were also identified among teachers who had difficulties in relationships with supervisors and coworkers [@Brun2021]. It was further found that higher levels of psychological distress among teachers during the pandemic were linked to reduced communication with colleagues and difficulties in dealing with crises [@Jakubowski2021].
+
+Several studies have shown that teachers negatively evaluated working conditions while working from home. For example, there were difficulties accessing teaching resources, such as quality computers and Internet [@Klapproth2020; @Oliveira2021; @Silva2021]. In addition, there were issues related to physical space, furniture, and environmental noise [@Pinho2021]. A study conducted during the pandemic found that the greater the material and technical security and access to technological resources, the lower the levels of perceived stress among teachers [@Kenebayeva2022].
+
+No associations were found between CMDs, income, and marital status. These results refute H5 and H4.
+
+## Final Considerations
+
+The main objective of this study was to investigate the predictors of CMDs in a sample of Brazilian teachers. Approximately one-quarter of the participants showed indications of CMDs, and, regarding the predictors, the variables with the largest effect sizes were, in this order, work organization, social-professional relationships, age, and gender.
+
+Among the study's strengths are the sample size and its national scope. Furthermore, using a scale that specifically assessed the context of remote teaching gave the study an innovative character in understanding the relationship between remote work activities and mental health. Despite this, one of the limitations was the use of convenience sampling, which prevents the generalization of the results.
+
+Regarding future research possibilities, it is relevant to deepen the understanding of work organization in schools through qualitative studies, given its impact on teachers' mental health. Understanding management models, forms of supervision, tasks, and the performance of activities themselves, among others, can help construct health promotion and prevention actions. The relationship between race and mental health also needs to be explored further, given that the results found differ from what has generally been observed in the literature.
