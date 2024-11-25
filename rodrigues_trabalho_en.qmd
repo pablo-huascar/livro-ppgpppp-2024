@@ -1,0 +1,22 @@
+---
+author: 
+  - name: Haline Maria Parente Rodrigues
+    url: https://lattes.cnpq.br/6480643447721226
+    orcid: 0009-0009-9680-820X
+    email: verasppan@alu.ufc.br 
+    affiliations: 
+      - name: Universidade Federal do Ceará    
+  - name: Francisco Pablo Huascar Aragão Pinheiro
+    url: http://lattes.cnpq.br/8266089190930601
+    orcid: 0000-0001-9289-845X
+    email: pablo.pinheiro@ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+language: 
+  title-block-author-plural: "Authors"
+filters:
+  - section-bibliographies
+bibliography: rodrigues_trabalho.bib
+reference-section-title: References
+---
+
