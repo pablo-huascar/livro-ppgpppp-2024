@@ -1,0 +1,139 @@
+---
+author: 
+  - name: Eliane Clares Barbosa
+    url: http://lattes.cnpq.br/9018814092615163
+    orcid: 0000-0001-8828-683X
+    email: liaclares@hotmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará    
+  - name: Juliana Viera Sampaio
+    url: http://lattes.cnpq.br/9556200287516417
+    orcid: 0000-0001-5770-244X
+    email: julianavsampaio@hotmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+language: 
+  title-block-author-plural: "Autoras"
+filters:
+  - section-bibliographies
+bibliography: barbosa_aquilomba.bib
+reference-section-title: Referências
+---
+
+# Aquilomba SUS na atenção primária à saúde: formação profissional para o cuidado antirracista
+
+## Introdução
+
+Pensar o cuidado em saúde/saúde mental da população negra é um processo complexo, que exige discussões densas, comprometidas e alinhadas à trajetória dessa comunidade. Fala-se de complexidade porque são múltiplos os fatores – históricos, culturais, socioeconômicos, políticos, ideológicos – que precisam ser considerados para o desenho e a implementação de ações e políticas que visem promover uma atenção que seja integral e, para além de universal, equânime e territorial [@rocha2021].
+
+A Atenção Primária à Saúde (APS) caracteriza-se como a principal porta de entrada do Sistema Único de Saúde (SUS), tendo como atributos fundamentais: acesso de primeiro contato; longitudinalidade; integralidade; e coordenação da atenção – dos quais advêm os atributos derivados orientação familiar e orientação comunitária. É responsabilidade desse nível de atenção a prestação de serviços de promoção, prevenção e reabilitação da saúde com ênfase nas atividades coletivas e educacionais em saúde [@tochetto2023].
+
+Entretanto, nesse contexto, impasses como lacunas na formação dos(as) profissionais materializam-se no comprometimento do cuidado à população. Uma vez que as equipes da APS possuem uma formação generalista, não é incomum que os(as) profissionais apresentem dificuldades e até mesmo resistência para o manejo, por exemplo, das condições de saúde mental. A lacuna nos cuidados dispensados à população negra também não passa despercebida a uma análise atenta. Embora a maior parte dos(as) usuários(as) que acessam a APS sejam pessoas negras (pardas e pretas), pouco se tem pensado e discutido sobre as implicações das relações raciais no modo de vida e na saúde dessa comunidade [@santana2019].
+
+A partir desse contexto, muitas vezes, de despreparo para o cuidado das demandas de saúde mental, sobretudo relacionadas a essa população, emerge a necessidade de estratégias que possam fortalecer a formação dos(as) profissionais em busca da qualificação dos cuidados dispensados aos(às) usuários(as) [@barros2022].
+
+Percebe-se como tendência dos processos de formação na área da saúde o não reconhecimento dos marcadores sociais da diferença, como a raça e o gênero, como elementos estruturantes das condições de vida da população, interferindo diretamente na saúde e no adoecimento. Desse modo, a Educação Permanente em Saúde (EPS) emerge como uma ferramenta que tem como finalidade contribuir para o aperfeiçoamento da atenção dispensada à comunidade, através da qualificação do saber-fazer dos(as) trabalhadores(as) desse setor [@ministerio2014].
+
+A partir dessa conjuntura, o objetivo deste capítulo é apresentar e discutir a experiência de um minicurso, produto técnico do Mestrado Profissional em Psicologia e Políticas Públicas da Universidade Federal do Ceará (UFC), sobre relações raciais e de gênero na saúde mental com as equipes da APS em um município do interior do Ceará.
+
+## Percurso metodológico
+
+Este trabalho fundamentou-se na metodologia da sistematização da experiência. Esta, por sua vez, requer organização e disciplina criteriosas, realizando-se através da compilação, ordenação e reconstrução dos dados. Também exige a obtenção de uma aprendizagem e discussão crítica a partir das experiências que foram vivenciadas [@holliday2006].
+
+Para tanto, o diário de campo foi utilizado enquanto ferramenta metodológica, pois que permite o registro de sutilezas e percepções de expressões de emoção das pessoas envolvidas sob a ótica de quem realiza os apontamentos [@kroef2020]. As discussões aqui trazidas são de responsabilidade da autora principal do estudo, que também é profissional da Rede de Atenção Psicossocial (RAPS), com atuação no Centro de Atenção Psicossocial (CAPS) II, e foi a encarregada pela mediação das experiências com o apoio de uma profissional, assistente social, convidada do Centro de Atenção Psicossocial Álcool e outras Drogas (CAPS AD).
+
+O minicurso “Aquilomba SUS” é produto técnico do Mestrado Profissional em Psicologia e Políticas Públicas da Universidade Federal do Ceará (UFC). Configurou-se enquanto a terceira etapa de uma pesquisa interventiva, realizada entre abril de 2023 e fevereiro de 2024, com usuárias e profissionais da saúde mental especializada.
+
+Foi pensado e estruturado a partir da percepção de lacunas na formação em saúde/saúde mental sobre as relações de raça e de gênero [@veiga2019]. O objetivo do minicurso foi discutir com os(as) profissionais da rede de saúde mental o papel das relações de raça e de gênero na dimensão do sofrimento/adoecimento psíquico e do cuidado a essa demanda. Era seu compromisso a sensibilização dos(as) profissionais a respeito da urgência dos processos de letramento racial e de gênero para a oferta do cuidado à saúde, em especial às mulheres negras.
+
+Após a realização do minicurso nos equipamentos da atenção especializada, ainda como parte da pesquisa de mestrado, os seus resultados foram apresentados ao Núcleo de Educação Permanente em Saúde (NUMEPS) do município. A pesquisadora, que desempenha a função de assessora técnica, participou da apresentação. Após avaliação e aprovação pelos demais integrantes do núcleo, foi construído um calendário das ações entre maio e novembro de 2024.
+
+Atualmente, o município possui 28 equipes de saúde da família no Cadastro Nacional de Estabelecimentos de Saúde (CNES), que foram divididas, conforme disponibilidade dos(as) profissionais, em sete grupos. Desse modo, cada encontro mensal tem sido realizado com quatro equipes, estando presentes de três a cinco representantes de cada uma delas. No início de cada mês, disponibiliza-se às equipes o formulário de inscrição no minicurso, que é preenchido de forma voluntária pelos(as) participantes.
+
+Dentre as categorias profissionais presentes no minicurso, destacam-se: Enfermagem (nível superior e técnico), Odontologia (nível superior e técnico), Agente Comunitário de Saúde (ACS) e Atendente. Além destes, são contemplados profissionais da Residência Multiprofissional em Saúde (RESMULTI) da Escola de Saúde Pública (ESP-CE) (Psicologia, Odontologia, Fisioterapia, Enfermagem, Educação Física e Serviço Social).
+
+O minicurso “Aquilomba SUS” possui encontro único de aproximadamente quatro horas e tem adotado, como metodologia, o diálogo e a partilha de experiências, que ocorrem na dimensão profissional e, também, na pessoal, uma vez que as vivências de discriminação de gênero e raça se apresentam nos diversos âmbitos da vida.
+
+Para além desses conteúdos, também são trabalhadas as seguintes temáticas: concepções de raça e racismo; concepções de gênero e discriminação de gênero; processo de identificação racial; interseção gênero, raça e saúde mental; estudos de casos fictícios; e estratégias de enfrentamento à discriminação de raça e de gênero na saúde mental.
+
+Destaca-se que, inicialmente, as discussões propostas pela formação “Aquilomba SUS” estavam direcionadas com maior ênfase à questão racial, conforme demanda apresentada, no momento da coleta de dados durante a pesquisa de mestrado, pelos profissionais da atenção especializada em saúde mental. No entanto, com os profissionais da Atenção Primária à Saúde (APS), tem se percebido a igual necessidade relacionada à questão de gênero.
+
+## Resultados e discussão
+
+De acordo com o apreendido e as discussões estabelecidas nos primeiros quatro encontros do minicurso, entre os meses de maio a agosto, com a participação de aproximadamente 80 profissionais, foram elencados os seguintes tópicos de discussão: i) A questão racial na formação dos(as) profissionais da Atenção Primária à Saúde; ii) A identificação racial e a coleta do quesito raça/cor; e iii) A educação permanente enquanto ferramenta de letramento racial e de gênero para o cuidado em saúde mental na Atenção Primária à Saúde.
+
+### A questão racial na formação dos(as) profissionais da atenção primária à saúde
+
+A ausência da questão racial na formação profissional, na graduação ou em processos formativos no âmbito do SUS, foi destacada pela maioria dos(as) trabalhadores(as) presentes. Aqueles que tiveram contato com a temática o fizeram a partir de iniciativa própria ou, pontualmente, de algum projeto universitário, sem uma discussão densa acerca do assunto.
+
+Pontua-se que, muitas vezes, quando o tema das relações raciais surge no ambiente acadêmico, este não é trabalhado de forma transversal à formação dos estudantes. Isso porque ele se apresenta de forma tímida e superficial, o que é reflexo dos conhecimentos e das práticas centradas no modelo de sujeito universal estabelecido socialmente: branco e masculino, detentor de poder aquisitivo. Em vista disso, as demais realidades tendem a ser invisibilizadas, e as pessoas que delas fazem parte, como pessoas negras e mulheres, têm as suas demandas específicas negligenciadas [@silva2017].
+
+Esse déficit na formação dos(as) profissionais da saúde pode comprometer a avaliação e percepção crítica acerca dos marcadores sociais da diferença presentes na vida da população negra, sobretudo das mulheres. Assim, a invisibilização das categorias gênero e raça mascara inúmeras formas de opressão e violência, que são comuns e cotidianas na vida dessa comunidade [@santana2019].
+
+O desconhecimento ou a não análise das condições de vida a que estão submetidas a população negra, como o racismo, a pobreza, o desemprego, a falta de acesso ou o acesso dificultado às políticas de saúde e educação, impedem que o(a) profissional reconheça as nuances envolvidas nos processos de sofrimento e adoecimento psíquicos, não lhe permitindo pensar, construir e ofertar um cuidado pautado no acolhimento e na equidade [@damasceno2018].
+
+Destaca-se que a Política Nacional de Saúde Integral da População Negra (PNSIPN), instituída através da Portaria GM/MS n°992 de 13 de maio de 2009, e o Estatuto da Igualdade Racial, instituído pela Lei n° 12.288 de 20 de julho de 2010, são documentos que devem referenciar as políticas de saúde pública da população negra. As práticas de cuidado precisam estar alinhadas às diretrizes apresentadas por esses marcos legais. No entanto, o que se observa é que muitos profissionais ou apenas ouviram falar de forma incidental sobre esses documentos ou mesmo desconhecem a existência deles [@tochetto2023].
+
+Um dos princípios da PNSIPN é a transversalidade. Isso quer dizer que as diferentes políticas de saúde precisam ser pensadas com um olhar atento acerca da historicidade dessa população. Isso porque, mesmo com o acesso universal e equânime à saúde sendo colocado como um direito constitucional, as pessoas negras não recebem as mesmas oportunidades e qualidade nos atendimentos que as pessoas brancas [@tochetto2023].
+
+Uma vez que as condições de vida e, por conseguinte, de saúde possuem relação importante com a questão étnico-racial e que a APS é a porta preferencial da Rede de Atenção à Saúde (RAS), compreende-se fundamental que os(as) profissionais desse setor estejam preparados(as) para acolher as demandas dessa população, oferecendo a ela todos os atributos deste nível de atenção [@santana2019].
+
+Para isso, é oportuna a mudança do modelo de ensino operante, que é biologicista, fragmentado, expositivo e centrado no docente. Essas características não contribuem para a formação de profissionais com competências e habilidades necessárias para o cuidado das populações vulnerabilizadas, como as pessoas negras. Enquanto houver resistência para a inclusão da temática das relações étnico-raciais no currículo dos cursos de formação em saúde, haverá fragilidades na atenção dispensada [@santana2019].
+
+Durante o desenvolvimento do minicurso, parte das pessoas presentes estiveram envolvidas e interessadas nas discussões construídas, demonstrando sensibilidade e desejo em outros momentos de formação sobre a temática. Esse ponto destaca a necessidade e relevância do fortalecimento das práticas de educação permanente no município. E embora muitos(as) dos(as) profissionais não tenham tido contato com a temática formalmente, sentiram-se à vontade para compartilhar relatos pessoais, de familiares e conhecidos em relação às vivências cotidianas de racismo.
+
+### Identificação racial e a coleta do quesito raça/cor
+
+Até o momento de realização do minicurso – quarto encontro –, o tópico de discussão sobre identificação racial foi o que mais recebeu atenção dos(as) participantes. Tendo ele despertado muita curiosidade, foi deduzido, a partir de algumas falas, que as pessoas esperavam que fosse apresentada uma espécie de crivo ou passo a passo acerca de como realizar esse processo de identificação.
+
+Para a construção do debate sobre a identidade negra, a consideração de aspectos históricos, linguísticos, psicológicos, político-ideológicos, raciais e culturais é fundamental. Entende-se que esses fatores estão em constante movimento de entrelace, contribuindo substancialmente para as condições de vida material e simbólica da comunidade negra [@santana2019].
+
+Para tanto, destaca-se que, embora essa identidade não seja compreendida essencialmente por meio de uma natureza biológica, a identificação racial é, no contexto brasileiro, um processo que ocorre mediante traços fenotípicos, como cor da pele e outras características físicas (Munanga, 2020). Quando isso foi abordado durante o minicurso, juntamente com a informação de que as pessoas consideradas negras no Brasil são as pessoas pretas e pardas, um certo incômodo foi percebido em alguns(mas) participantes.
+
+Esse desconforto, acredita-se, possivelmente surgiu do fato de haver pessoas com traços fenotípicos brancos autodeclaradas pardas, portanto negras, usando como justificativa o processo de miscigenação, que marca o contexto brasileiro. Supõe-se que a inquietação, gerada através da partilha dessa informação, atrelou-se ao questionamento incitado acerca do lugar ocupado por essas pessoas, que, dentro da estrutura do país, é o espaço de quem produz o racismo, mesmo que, em algumas situações, não intencionalmente.
+
+Em condição contrária, as facilitadoras do minicurso, mulheres pardas, tiveram sua identidade racial questionada em diversos momentos, sendo lidas enquanto brancas por alguns(mas) participantes, mesmo após compartilharem vivências pessoais atreladas à construção desafiadora das suas identidades raciais.
+
+Entende-se, então, que a complexidade das relações raciais no Brasil é atravessada pelos processos de miscigenação e branqueamento, o que muito explica a confusão envolta no processo de autodeclaração racial. Os fortes estigmas atrelados à população negra contribuem para que essa identidade seja renunciada e não desejada, ao contrário da identidade branca, que é sinônimo do belo, bom e inteligente [@kilomba2019].
+
+Outra forma de se esquivar desse debate é recorrer à classe social enquanto única ou principal responsável pelas iniquidades na área da saúde. Durante a realização do minicurso, observou-se que a desigualdade relacionada à distribuição de renda costumou ser um dos primeiros aspectos citados ou considerados em relação ao adoecimento físico e mental da população [@rocha2021].
+
+Muitos(as) profissionais presentes afirmaram conhecer sobre a obrigatoriedade da coleta do quesito raça/cor, estabelecida pela Portaria n° 344 de fevereiro de 2017. Também relataram sobre o receio e até mesmo, em algumas situações, a resistência em realizar o procedimento por conta da possibilidade de causar desconforto ao(à) usuário(a).
+
+Esse é um dos aspectos principais que levam à coleta inadequada ou à não coleta desse dado, além da dificuldade que muitas pessoas, usuários(as) e profissionais, apresentam em realizar a autodeclaração racial. Outro fator também relacionado é o desconhecimento sobre a utilidade da coleta, impedindo que quem realiza o procedimento possa explicar à população o motivo e a importância do registro desse elemento [@silveira2021].
+
+A coleta dessa informação é um fator primordial para o enfrentamento do racismo, uma vez que permite a desagregação racial dos dados epidemiológicos, conduzindo à visualização e análise das iniquidades em saúde [@silveira2021]. Portanto, não realizar a coleta do quesito raça/cor, independente do motivo, é invisibilizar as condições de vida de um número significativo de pessoas, impedindo o planejamento e gerenciamento de ações e serviços de saúde com efetividade [@garbois2017].
+
+A partir disso, sinaliza-se que a concepção institucional do racismo se configura como a sua forma mais sutil e prejudicial, uma vez que opera através do silenciamento das desigualdades e opressões raciais. A coleta do quesito raça/cor realizada com finalidade crítica e analítica pode contribuir para o combate às muitas mazelas que assolam a população negra, de forma que a equidade é o único modo para a construção de uma sociedade justa e igualitária [@silveira2021].
+
+### Educação permanente como ferramenta de letramento racial e de gênero para o cuidado em saúde mental na atenção primária à saúde
+
+A população negra, sobretudo as mulheres, são o principal público da APS, o que acontece em consequência de esse ser um serviço de base territorial e configurar-se como a principal porta de entrada da RAS. Além disso, existem os aspectos relacionados às condições de vulnerabilização social, que frequentemente estão atreladas a algum nível de iniquidade em saúde, isto é, contextos sociais que desfavorecem determinados grupos, a exemplo da população negra [@tochetto2023].
+
+Nesse contexto, espera-se que os(as) profissionais da APS conheçam com propriedade a realidade da comunidade e as necessidades das pessoas atendidas. Desse modo, os vínculos construídos nesse ponto da RAPS devem ser usados como ferramenta para o cuidado, facilitando o processo de adesão e acompanhamento dos sujeitos e das famílias [@guibu2017].
+
+Entretanto, entende-se que alguns aspectos como a invisibilização das questões raça e de gênero podem comprometer a compreensão das necessidades da comunidade, impactando diretamente na atenção ofertada ao território. Estando a APS posta na política nacional de saúde como ponto da RAS responsável pela facilitação do acesso integral a ações e serviços de saúde de qualidade, ressalta-se a importância de estratégias que possam contribuir para a sua qualificação [@tochetto2023].
+
+A partir disso, a EPS é considerada como meio eficaz para a transformação dessa realidade, possibilitando a discussão e reflexão sobre as diversas questões presentes no processo de saúde-doença das populações e, nesse contexto específico, sobre as relações de raça e de gênero que impactam, principalmente, a vida das mulheres negras [@barros2022].
+
+No ano de 2023, as ações realizadas pelo NUMEPS, no município alvo das ações do minicurso, estiveram direcionadas a temáticas clínicas centradas na categoria Enfermagem (nível superior). Com o “Aquilomba SUS”, além de se discutir sobre saúde mental nas perspectivas de raça e gênero, todas as categorias profissionais, independentemente do nível de formação, foram convidadas a participar.
+
+Promover o letramento racial e de gênero é contribuir para o entendimento de que a raça, enquanto construção social, é usada como ferramenta de controle, a partir de uma hierarquia material e simbólica entre a comunidade branca e a comunidade negra. O mesmo fenômeno, por sua vez, ocorre em relação ao gênero, também usado para determinar práticas e espaços sociais de homens e mulheres, mantendo em desvantagem o último grupo [@pereira2019].
+
+Durante a discussão dos casos fictícios, assim como em outros momentos do minicurso, percebeu-se que algumas pessoas se distanciaram de uma discussão que não fosse superficial sobre a temática. Essa situação, por sua vez, reforça a necessidade de investimento no letramento racial e de gênero dos(as) trabalhadores(as), que poderá refletir em suas condutas profissionais e pessoais. Desse modo, também foram apresentadas informações acerca das condições de vida da maioria das mulheres negras brasileiras com o objetivo de discutir a interrelação existente entre as categorias gênero e raça, considerando também a saúde mental.
+
+Destacou-se que, embora a realidade venha sendo modificada a curtos passos e hoje existam mulheres negras ocupando lugares importantes na sociedade, esse grupo ainda faz parte da população mais pobre, tendo os menores índices de escolaridade; corresponde à maioria das trabalhadoras domésticas; chefia a maioria dos lares brasileiros, estando sobrecarregado com as principais atividades de cuidado; e ainda é a maioria nos casos de violência sexual e obstétrica e de feminicídio, bem como nos casos de depressão e ansiedade, enfrentando maiores dificuldades no acesso às políticas públicas de saúde [@carneiro2011; @teixeira2021; @ipea2022; @zanello2022].
+
+Dentre as estratégias de enfrentamento ao racismo e à discriminação de gênero no âmbito da saúde e da saúde mental, pontuou-se sobre: a importância dos processos de educação permanente e da autonomia de cada profissional na busca pela qualificação da sua formação; a necessidade de revisitar as posturas pessoal e profissional; acolher e oferecer escuta qualificada; promover a equidade; coletar analiticamente o quesito raça-cor; e criar espaços de discussão sobre a temática nos serviços com profissionais e usuários(as), além de realizar encaminhamentos dentro da RAPS a partir de uma análise crítica da situação, evitando o encaminhamento enquanto transferência de responsabilidade [@tochetto2023].
+
+Uma vez que o racismo e a saúde mental da população negra são temas que, de acordo com a PNSIPN, devem estar inseridos nos processos de formação dos(as) trabalhadores e no exercício do controle social, essa política, em suas diretrizes, também preconiza o incentivo à produção do conhecimento científico e tecnológico acerca da saúde da população negra [@ministerio2017].
+
+Desse modo, considerando a urgência de que o racismo não seja entendido apenas como uma transgressão ao campo da moral, pois se trata de um sistema complexo e organizado de poder, reafirma-se o fortalecimento das práticas de educação permanente para profissionais da saúde sobre a população negra como ferramenta de enfrentamento ao racismo nos espaços de saúde pública.
+
+## Considerações finais
+
+Embora muitos(as) dos(as) profissionais que participaram do minicurso tenham se juntado à discussão das relações de raça e de gênero na saúde/saúde mental de forma assertiva, alguns(mas) sustentaram uma visão contrária ao que se propôs enquanto ponto de reflexão e outros(as) não chegaram a verbalizar suas impressões sobre a temática, o que era um dos desafios esperados na realização da atividade.
+
+Percebe-se que, nos espaços do território em questão, a discussão sobre as relações de gênero se encontra mais avançada do que a relacionada à questão racial. Por esse motivo, pensou-se sobre como seria a aceitação dos(as) trabalhadores(as) da saúde sobre a proposta levada até eles. As avaliações, no entanto, foram positivas sobre a condução e sobre as temáticas trabalhadas nos encontros, além de surgirem propostas de temáticas relacionadas e/ou o aprofundamento das discussões iniciadas.
+
+Entende-se que o “Aquilomba SUS” surgiu enquanto uma ferramenta potente para a qualificação das práticas de cuidado. Entretanto, é necessário que se reconheçam as suas limitações e a urgência de um conjunto de ações continuadas que se comprometam com a transformação da realidade em que estão inseridas as mulheres negras, sobretudo aquelas que vivenciam alguma condição de saúde mental.
