@@ -1,0 +1,144 @@
+---
+author: 
+  - name: Maiara Braga Nascimento
+    url:  https://lattes.cnpq.br/6480643447721226
+    orcid: 0009-0009-9680-820X
+    email: maiarabraga@alu.ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará    
+  - name: Juliana Maria do Nascimento Mota
+    url: http://lattes.cnpq.br/6949209482037074
+    orcid: 0000-0002-5581-7996
+    email: juliananascimento@alu.ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Hellen Beatriz Martins Braga
+    url: https://lattes.cnpq.br/8473746883035460
+    orcid: 0009-0000-1774-3212
+    email: hellenmartins@alu.ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Marcos Daniel Canuto Alves
+    url: http://lattes.cnpq.br/4085075412767673
+    orcid: 0009-0003-4271-4730
+    email: marcosdanielcanuto@alu.ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Rita Helena de Sousa Ferreira Gomes
+    url:  http://lattes.cnpq.br/9324470543610163
+    orcid: 0000-0002-2306-4264
+    email: ritahelenagomes@ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name:  Iratan Bezerra de Sabóia
+    url:  http://lattes.cnpq.br/4256908254336676
+    orcid: 0000-0003-3312-9954
+    email: iratan@ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+language: 
+  title-block-author-plural: "Autoras"
+filters:
+  - section-bibliographies
+bibliography: nascimento_muros_en.bib
+reference-section-title: References
+---
+
+# Between Walls (& Bonds): University extension in strengthening diverse narratives, affections, and marginal resistances
+
+## Introduction
+
+The extension project Between Walls (Entre Muros, in brazilian portuguese) emerged in March 2017, initially titled "ENTRE MUROS: Extension, Teaching, and Resistance"[^nascimento_muros_en-1], conducting activities at the Professora Carmosina Ferreira Gomes High School[^nascimento_muros_en-2], with tutoring activities in Sociology for the 3rd-year high school classes (morning) and EJA classes (night shift). Aiming to present the main authors, concepts, contexts, and implications of the emergence of Sociology, the meetings were conducted dialogically, using practices based on solving ENEM questions to foster critical-reflective thinking about the topics discussed with the students. Beyond the classroom, an institutional visit to the UFC Sobral *campus* took place, with the participation of some coordinators, professors, and students from different undergraduate programs presenting their respective courses, explaining the possibilities of career paths, and renewing the extension's commitment to the community beyond academic walls.
+
+[^nascimento_muros_en-1]: All activities were coordinated by Professor Dr. Francisca Denise Silva Vasconcelos.
+
+[^nascimento_muros_en-2]: Public high school, regular modality, located in the Sumaré neighborhood, a peripheral area of Sobral. Starting in 2017, the school switched to a full-time education modality.
+
+However, Entre Muros underwent a reformulation, given the importance of essay writing in the composition of college entrance exam scores and the encouragement of text production within the school environment. Therefore, the actions were redirected to implementing writing workshops to develop students' writing skills and help them with the main competencies required by the National High School Exam (ENEM, acronym in Portuguese for "Exame Nacional do Ensino Médio").
+
+By 2023, in a third phase, the project entered a new stage with a new focus inspired by the dissertation "Education & Gender: Issues for a More Participatory Classroom" [@mota2022]: writing as a tool for resistance. Although it began with a specific discussion on gender issues, Mota [-@mota2022] encourages us to recognize the school as a diverse space where there is room both for hostile practices that reinforce inequalities and for the strengthening of human dignity and the confrontation of social injustices. In light of this, the author proposes a school where emotions and affections are deliberately included in the teaching-learning processes.
+
+Inspired by this, Entre Muros seeks to prepare students technically for ENEM and provide a space for reflection and dialogue, where writing becomes a means of personal, social, and political expression. This reformulation aims to connect the act of writing to the student's life experiences, promoting writing as an instrument of transformation, going beyond traditional norms, and exploring its potential to resist inequalities and overcome the social challenges they face.
+
+In this sense, it is also understood that the school can be a privileged locus, where the transmission of the dominant class's narratives continues to exist and reproduce itself. As Bourdieu and Passeron [-@bourdieu1992] highlight: "the educational action (AP) that reproduces the dominant culture, thus contributing to reproducing the structure of power relations, in a social formation where the dominant education system tends to ensure the monopoly of legitimate symbolic violence" (p. 20). This violence manifests itself in the choice of teaching methodologies, the content addressed in the classroom, the erasure of other knowledge, and the power dynamics between students, teachers, and management, among others. These are scenes built in the everyday micropolitics of these spaces, which become fundamental to maintaining social inequalities and exclusions.
+
+Therefore, the social and educational context in which Entre Muros was born is marked by profound inequalities that reflect structural challenges. Public schools, especially in the peripheral regions of Sobral/CE, often lack adequate infrastructure and teaching resources, directly affecting the quality of education. Furthermore, many students face difficult socioeconomic conditions and territorial limitations, which hinder their access to learning opportunities within and outside the school environment and other basic services, such as healthcare, leisure, and mobility [@freitas2019].
+
+As Mota [-@mota2022] emphasizes: "The school is an important field for accessing the guarantee of rights, citizenship, and a space for subjectivation. An education that promotes the diversity of dialogues and possibilities for existence is also an environment that promotes health. We must question the outdated curriculum, empty didactics, norms of control, and the teaching of barbarism to our youth. What are we teaching the new generations? Which bodies are we leaving behind? An exclusionary school is a wound that opens in someone's history" [@mota2022, p. 18].
+
+Thus, Entre Muros aims to provide a broader civic and sociocultural education through reading and writing. Our focus is not on essay technique but on using writing to promote personal expression, debate on social issues, and develop skills that enable young people to participate more actively in their communities.
+
+The extensionists play an essential role in this process as facilitators and encouragers of discussions that broaden students' perspectives, showing that writing can be a means of self-knowledge and social change. The project thus aims at a joint construction of knowledge, in which extensionists and students learn from each other in a process mediated by their experiences, following Freire's logic that "no one educates anyone else, no one educates themselves, people educate each other, mediated by the world" [@freire1987].
+
+In this text, we present the implementation of this new phase of Entre Muros as the result of a product derived from Mota's [-@mota2022] dissertation. The intervention described here is structured and guided based on the reflections from that work. In the following sections, we will describe the planning and implementation of this action.
+
+## Actions
+
+The construction of Entre Muros is characterized by a democratic and collaborative process in which actions are developed in a participatory manner between coordinators and extensionists. From the beginning, the mediating professor has promoted a space for dialogue where each member can actively contribute to the construction of activities and revisions. In weekly meetings, averaging two hours, extensionists discuss the structure of each action, suggest changes and improvements, and reflect on classroom experiences and the best pedagogical practices to engage students.
+
+Cruz [-@cruz2012], Fraga [-@fraga2017], Santos *et al*. [-@santos2016], and Silva *et al*. [-@silva2019] highlight the importance of extension in academic training and the dual concern with implementing this fundamental aspect of the University. In this sense, the authors argue that student protagonism is one of the driving forces behind the training that combines theory and practice in an intervention that gives back to society the academic training that students are receiving. Likewise, there must always be the perspective that, despite student protagonism, supported by faculty supervision, being the reference for actions, the transmission of extension work should not have a one-way direction: that of a University that knows and intervenes in a community that knows nothing and needs help. On the contrary, extension must always presuppose, consider, and act on and with the knowledge that the community already possesses; in this dialogical space, extension praxis will be forged and will create bonds between students and the community that will enable intervention.
+
+Thus, there is a focus on collective construction. This joint dynamic allows for the exchange of ideas and strengthens the feeling of cooperation and co-responsibility among extensionists, encouraging student protagonism in creating the project. When leaving the university environment and directly interacting with the surrounding reality, students are challenged to face and question the social complexities they encounter, actively seeking actions that favor real change in the world.
+
+This movement, based on organized teaching directed from and for the field, creates a dialectical process in which the student not only impacts society but is also impacted by it, reinforcing the importance of training that combines critical reflection with effective action [@vilasboas2023]. Such experiential activities promote more integral training, preparing for a more humanized and transformative practice while allowing the university to fulfill its social role of integration with the community, promoting positive and concrete changes.
+
+The active participation of student extensionists involves everything from defining themes and approaches to creating didactic materials, such as the booklet "Writing the Future!" produced by the extension members. Every decision is made collectively, aiming to adapt the activities to the needs of public high school students in Sobral and to promote a space for discussions without a hierarchy of knowledge.
+
+Constructing Entre Muros' actions has been carefully conducted to ensure that activities are linked to students' routines. The presentation of the project's booklet is one of the activities that involves discussing textual genres. For example, it was initially planned to introduce relevant concepts in an accessible way and stimulate student engagement with writing. However, throughout the meetings, we realized that actions needed to be adapted to meet the student's interests and different levels of knowledge and go beyond the content of conventional teaching.
+
+Since banking education has turned students into "passive objects" since elementary school, as Freire [-@freire1987] points out, preventing them from freely expressing themselves, it becomes evident that the meaning that would facilitate their literary productions and mastery of subjects dealt with in the classroom is undermined. Because of this, students may reach high school with difficulties in their written expression (especially authorial and critical writing), and often, as it is a more abstract and conditional activity, they do not even understand why they need to write [@vigotski2018].
+
+Vygotsky [-@vigotski2018] deepens this discussion by pointing out:
+
+> "By wrongly directing children's literary creation, ... educators often destroyed the spontaneous beauty, specificity, and clarity of children's language, hindered mastery of written speech as a special means of expressing children's thoughts and feelings, and, according to Blonsky, formed in them the school jargon that emerged from the pure and mechanical application of adults' bookish language" (p. 65).
+
+In this context, Vygotsky's [-@vigotski2018] and Freire's [-@freire1987] thoughts reinforce the criticism of this traditional education model, which often disregards students' individuality and experiences, resulting in an approach that mechanizes learning and prevents authentic expression. Mechanization, in this way, restricts individuals' creativity and limits the potential for abstraction, for example, in writing, since only normative and standard knowledge of textual elaboration is disseminated, to the detriment of the subjective experiences that could be implicated in writing activities.
+
+Moreover, based on this scenario, it is possible to understand that the reproduction of what Bourdieu called symbolic violence within the school environment becomes evident, stemming from the overvaluation and cultural imposition of the dominant class in the production of knowledge. The result points to the silencing and rejection of the cultural constructions and knowledge of the less privileged classes [@carvalho2012]. It is in opposition to this reproduction of thinking and acting in education that the actions of Entre Muros are based on a more democratic and liberating perspective of education, which considers the autonomy and knowledge of individuals beyond school walls, referring to their community and the symbolic productions developed in their social relationships.
+
+Upon returning to field activities in 2024, it was decided that the objective would be to present more than a conventional workshop on textual genres, grammatical norms, or ENEM essay competencies. We sought to introduce forms of writing rarely addressed in the school environment that could arouse greater interest and allow students to take ownership of writing in a more affective manner, putting it into a more personal and subjective perspective. This approach proposes expanding students' relationship with the act of writing, connecting it to their experiences and realities, and showing that writing can be a creative and transformative tool in their lives through topics that are comprehensible, thought-provoking, and that allow them to express their inner world [@vigotski2018].
+
+Thus, through debates, actions were adjusted or added based on analyses of demands related to the student's school reality. An example included an action focused on students' prior understanding of a text and how it relates to writing. This change arose from the perception that many students had difficulty understanding the structure and purposes of texts, as well as the fact that understanding the subjects' desires and ideas becomes a fundamental process for textual practice. Therefore, the new action was proposed to explore students' knowledge, allowing for a more dialogical and reflective approach to the writing and reading processes. Instead of being limited to applying techniques and norms, this approach seeks to broaden their worldviews and foster mutual learning.
+
+Thus, in meetings where debates on thematic axes relevant to ENEM will occur, we will not limit ourselves to offering a traditional expository class. Instead, we plan to facilitate an active investigative practice among students. During these meetings, we will present a selection of thematic axes and highlight their social importance, exploring how these themes connect with contemporary issues.
+
+Among these themes, one of the central topics will be the discussion of gender. Inclusion, diversity, respect, gender expressions, acceptance, and rights are themes that permeate the formation of discussions that broaden the understanding of gender and intersect with other contemporary themes (such as inequality, race, and poverty). The objective is, in addition to fostering critical thinking on the topic of gender, to provoke reflection that situations experienced due to a social marker can be experienced in other situations and concerning other markers.
+
+Parallel to this, students' perspectives on the topics discussed will be observed and valued, from which pertinent reflections and questions may emerge in the proposed debate. The objective will be to support students with tools and research strategies that stimulate their curiosity and autonomy. With such a method, we intend to deepen theoretical knowledge and encourage students to actively seek information, broadening their understanding of the themes discussed.
+
+Actions in Entre Muros are adapted flexibly, seeking to understand the needs and interests of young people as activities are carried out. This flexibility in the project's structure reflects the importance of a dialogical strategy that adapts according to the bond between extensionists and students.
+
+Through discussions and interactive activities, the project encourages students to reflect on relevant social issues and explore their position in the world. By incorporating topics such as human rights, urban violence, and environmental challenges into activities, students are encouraged to analyze and question their reality and awaken their critical thinking. This approach improves their writing skills and fosters a broader and more engaged understanding of their role as citizens so that there is a more conscious, active, and vibrant participation in society.
+
+The activities were planned with thematic axes of Human Rights, Urban Violence, School Dropout, Environmental and Climatic Disasters, Gender, and Sexuality and include the following activities:
+
+1.  Getting to know the students and building bonds\
+2.  Ideas about texts, writing processes, fears, and anxieties related to words\
+3.  Presenting the booklet - civic, subjective construction, being in the world, political / presenting and discussing different community texts and languages, identifying similarities and differences with ENEM\
+4.  Presentation and Analysis of Essay Models ("personal texts")\
+5.  Thematic Axes (Introduction)\
+6.  Thematic Axes (2 Development Paragraphs)\
+7.  Grammar and Spelling Questions (Conclusion)\
+8.  Essay Review and Feedback\
+9.  Narratives of Resistance\
+10. Presentation of Productions
+
+One of the last activities in the schedule, which we call "Narratives of Resistance," students will have the opportunity to engage in a writing activity that marks the culmination of a collective learning process. This stage is designed so that students can explore the textual genre with which they identify and feel comfortable and then apply their knowledge more spontaneously and freely.
+
+## Final Considerations
+
+Education is one of the paths to the possibility of social ascent; it is through a democratic, reflective, and liberating education that social mobility for the less privileged strata of society can be envisioned [@carvalho2012]. In this sense, we must reflect on the importance of building a critical education in light of the reality in which it is constituted. Educating, therefore, involves provoking and inviting learners to take a stance on this reality to promote reflexivity from where each subject starts in this historically structured context.
+
+As Freire [-@freire2004] points out,
+
+> the school has the duty not only to respect the knowledge that students, especially those from popular classes, bring with them—knowledge built in community practice—but also to discuss with students the reasons for some of this knowledge in relation to the teaching of content (p. xx).
+
+Thus, the school must strengthen and expand spaces that enable an understanding of individuals as part of a historical and sociopolitical process, especially in collective environments that promote dialogue. This strengthens the tools for building awareness related to the activity of this socio-historical subject in other spheres of their life, as well as in the relationship they establish with social, political, historical, and economic aspects present in their subjectivation process.
+
+Drawing from Freirean's thought, it is essential to consider the knowledge and understanding of the world that these individuals had even before coming into contact with school content, valuing and reaffirming their memory, historical place, and social role within their community.
+
+Thus, the Entre Muros project provides learning in the school environment through actions that encourage students to critically reflect on social themes and establish a relationship with writing based on their expectations and aspirations. It goes beyond school manuals that prepare for college entrance exams. The opportunity for students to expand their textual knowledge while simultaneously building discussions and reflections about the reality in which they live is emphasized.
+
+Regarding the proposed actions, possible obstacles related to the schedule execution are recognized, given the meeting timeframe and the inseparability between theory and practice. Concerning these inseparable aspects, it is emphasized that although the project aims to operate within a specific period and according to a predefined structure of actions, the school's reality is decisive for achieving the objectives. Thus, in addition to the organization of the extension project, factors such as student participation and the school calendar are important for work in educational institutions, reinforcing the idea that practice is inseparable from theory but not tied solely to it.
+
+Finally, the opportunity for the extension project to operate in public schools and build, together with the community, collective knowledge and critical understanding of reality is highlighted. The materials produced collectively, the affective writing as a possibility of social transformation, and the subjective experiences included in the learning process are undoubtedly inherent aspects of the extension's proposal.
