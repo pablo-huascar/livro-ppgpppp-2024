@@ -35,7 +35,6 @@ book:
         - aragao_saude_trans.qmd
         - barbosa_aquilomba.qmd
         - nascimento_muros.qmd
-        - antigo_escolarizacao_trans.qmd
         - santiago_escolarizacao_trans.qmd
         #(15) - sousa_violencia.qmd
         #(17) - sousa_silva_saude_homens_trans.qmd
@@ -46,7 +45,7 @@ book:
         - rodrigues_trabalho_en.qmd
         - barbosa_aquilomba_en.qmd
         - nascimento_muros_en.qmd
-        #(14) - santigo_escolarizacao_trans_en.qmd
+        #(14) - santiago_escolarizacao_trans_en.qmd
         #(16) - sousa_violencia_en.qmd
         - souza_silva_saude_homens_trans_en.qmd
         - about_the_authors.qmd
