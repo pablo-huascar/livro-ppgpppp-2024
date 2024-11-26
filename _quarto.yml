@@ -38,10 +38,10 @@ book:
         - sobre_os_autores.qmd
     - part: Chapters in English
       chapters:
-      - neta_reescrevendo_en.qmd
-      - rodrigues_trabalho_en.qmd
-      - barbosa_aquilomba_en.qmd
-      - about_the_authors.qmd
+        - neta_reescrevendo_en.qmd
+        - rodrigues_trabalho_en.qmd
+        - barbosa_aquilomba_en.qmd
+        - about_the_authors.qmd
 
 
 format:
