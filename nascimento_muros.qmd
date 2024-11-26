@@ -1,9 +1,9 @@
 ---
 author: 
   - name: Maiara Braga Nascimento
-    url: https://lattes.cnpq.br/6480643447721226
+    url:  https://lattes.cnpq.br/6480643447721226
     orcid: 0009-0009-9680-820X
-    email: verasppan@alu.ufc.br 
+    email: maiarabraga@alu.ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará    
   - name: Juliana Maria do Nascimento Mota
@@ -12,10 +12,28 @@ author:
     email: juliananascimento@alu.ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
-  - name: Juliana Maria do Nascimento Mota
-    url: http://lattes.cnpq.br/6949209482037074
-    orcid: 0000-0002-5581-7996
-    email: juliananascimento@alu.ufc.br
+  - name: Hellen Beatriz Martins Braga
+    url: https://lattes.cnpq.br/8473746883035460
+    orcid: 0009-0000-1774-3212
+    email: hellenmartins@alu.ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Marcos Daniel Canuto Alves
+    url: http://lattes.cnpq.br/4085075412767673
+    orcid: 0009-0003-4271-4730
+    email: marcosdanielcanuto@alu.ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Rita Helena de Sousa Ferreira Gomes
+    url:  http://lattes.cnpq.br/9324470543610163
+    orcid: 0000-0002-2306-4264
+    email:
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name:  Iratan Bezerra de Sabóia
+    url:  http://lattes.cnpq.br/4256908254336676
+    orcid: 0000-0003-3312-9954
+    email: iratan@ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
 language: 
@@ -48,13 +66,13 @@ Nesse sentido, entende-se ainda que a escola pode ser um *locus* privilegiado, e
 
 O contexto social e educacional em que o Entre Muros nasceu é, portanto, marcado por profundas desigualdades que refletem desafios estruturais. As escolas da rede pública, especialmente nas regiões periféricas de Sobral/CE, muitas vezes carecem de infraestrutura adequada e recursos didáticos, o que afeta diretamente a qualidade do ensino. Além disso, muitos alunos enfrentam condições socioeconômicas difíceis e limitações territoriais, as quais dificultam o acesso a oportunidades de aprendizado, dentro e fora do ambiente escolar, e aos demais serviços básicos, como equipamentos de saúde, lazer e mobilidade [@freitas2019].
 
-Como ressalta Mota (2022), a escola é um importante campo de acesso à garantia de direitos, cidadania, espaço de subjetivação. Uma educação que promova a diversidade de diálogos e possibilidades de existência é um ambiente de promoção da saúde também. Amplo campo de disputa, é nosso dever questionar o currículo ultrapassado, a didática vazia, as normas de controle, o ensino da barbárie para as nossas juventudes. O que estamos ensinando para as novas gerações? Que corpos estamos deixando pelo caminho? É preciso fazer compreender que uma escola excludente é uma ferida que se abre na história de alguém (Mota, 2022, p. 18).
+Como ressalta Mota [-@mota2022], a escola é um importante campo de acesso à garantia de direitos, cidadania, espaço de subjetivação. Uma educação que promova a diversidade de diálogos e possibilidades de existência é um ambiente de promoção da saúde também. Amplo campo de disputa, é nosso dever questionar o currículo ultrapassado, a didática vazia, as normas de controle, o ensino da barbárie para as nossas juventudes. O que estamos ensinando para as novas gerações? Que corpos estamos deixando pelo caminho? É preciso fazer compreender que uma escola excludente é uma ferida que se abre na história de alguém [@mota2022, p. 18].
 
 Sendo assim, por meio da leitura e da escrita, o Entre Muros visa proporcionar uma formação cidadã e sociocultural mais ampla. Não temos como foco a técnica da redação, mas sim a busca de utilizar a escrita para promover expressão pessoal, debate de questões sociais e desenvolvimento de habilidades que possibilitem aos jovens uma maior participação ativa em suas comunidades.
 
 Os extensionistas desempenham um papel essencial nesse processo como facilitadores e incentivadores de discussões que possam ampliar as perspectivas dos alunos, mostrando que a escrita pode ser um meio de autoconhecimento e de mudança social. O projeto visa, então, a uma construção conjunta de conhecimento, em que extensionistas e alunos aprendem mutuamente em um processo mediado por suas vivências, seguindo a lógica freiriana de que “ninguém educa ninguém, ninguém educa a si mesmo, os homens se educam entre si, mediatizados pelo mundo” (Freire, 1987).
 
-Aqui, neste texto, apresentamos a implantação dessa nova fase do Entre Muros como o resultado de um produto derivado da dissertação de Mota (2022), trabalho sobre cujas reflexões a intervenção aqui descrita se estrutura e se baliza. Nas seções a seguir, descreveremos o planejamento e a implementação dessa ação.
+Aqui, neste texto, apresentamos a implantação dessa nova fase do Entre Muros como o resultado de um produto derivado da dissertação de Mota [-@mota2022], trabalho sobre cujas reflexões a intervenção aqui descrita se estrutura e se baliza. Nas seções a seguir, descreveremos o planejamento e a implementação dessa ação.
 
 ## Ações
 

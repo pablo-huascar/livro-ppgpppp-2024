@@ -33,8 +33,8 @@ book:
         - neta_reescrevendo.qmd
         - rodrigues_trabalho.qmd
         - aragao_saude_trans.qmd
-        - nascimento_muros.qmd
         - barbosa_aquilomba.qmd
+        - nascimento_muros.qmd
         - sobre_os_autores.qmd
     - part: Capítulos em inglês
       chapters:
