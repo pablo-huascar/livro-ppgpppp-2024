@@ -36,7 +36,7 @@ book:
         - nascimento_muros.qmd
         - barbosa_aquilomba.qmd
         - sobre_os_autores.qmd
-    - part: Capítulos em inglês
+    - part: Chapters in English
       chapters:
       - neta_reescrevendo_en.qmd
       - rodrigues_trabalho_en.qmd
