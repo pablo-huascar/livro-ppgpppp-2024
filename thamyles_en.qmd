@@ -38,7 +38,7 @@ The importance of discussing this topic lies in fostering a more humanized persp
 
 This is a qualitative study of the experience report type, which, according to Ludke and André [-@ludke2014], involves describing the process and focusing on the participants' perspective through direct contact with the researcher. Therefore, this study refers to a workshop held with four trans men about healthcare access for this group. They were contacted using the "Snowball" technique. This technique is used to access hard-to-reach groups or to study delicate private issues, where one person mediates and refers others with the required profile for the research [@bockorni2021].
 
-Moreover, "workshops are spaces with the critical potential for negotiating meanings, allowing for the visibility of arguments, positions, but also shifts, construction, and contrast of versions" (Spink *et al*., 2014, p. 33). Additionally, a field diary was used as a research instrument to capture expressions and as a way for the researcher to include insights beyond what was heard at that moment (Kroeff *et al*., 2020). The workshop took place on March 16, 2024.
+Moreover, "workshops are spaces with the critical potential for negotiating meanings, allowing for the visibility of arguments, positions, but also shifts, construction, and contrast of versions" [@spink2014]. Additionally, a field diary was used as a research instrument to capture expressions and as a way for the researcher to include insights beyond what was heard at that moment [@kroeff2020]. The workshop took place on March 16, 2024.
 
 An initial contact was made with a trans man in a medium-sized town in rural Ceará, an active participant in the social movements present in the municipality, and from his referrals, contact with others interested in participating was made possible. Four people attended, while others who were invited could not participate.
 
@@ -76,19 +76,17 @@ This situation was discussed with the others, who affirmed the rarity of such an
 
 Next, we discussed mental health and the connection with services. We observed no ongoing connection with healthcare services; use is sporadic and generally occurs only in emergencies or through private care. Regarding mental health, they stated that there is excessive suffering among them concerning the disrespect they face throughout life, which reverberates into numerous harms. At that moment, they also spoke about services and how they are treated:
 
-> Participant 4: I feel like I go to these services and have to teach more than I learn (referring to CAPS). Participant 3: I want professionals to know how to treat a trans man, to understand that I have needs beyond being trans. There's also the fact that I always want to fit in, not recognizing myself in the mirror. It brings a lot of suffering.
-
-> Participant 1: They always associate us with genitalia, looking at me with fetishistic eyes, which creates a lot of difficulty in relationships, and it affects us (Field diary, 03/16/2024).
+> Participant 4: I feel like I go to these services and have to teach more than I learn (referring to CAPS).
+Participant 3: I want professionals to know how to treat a trans man, to understand that I have needs beyond being trans. There's also the fact that I always want to fit in, not recognizing myself in the mirror. It brings a lot of suffering.
+Participant 1: They always associate us with genitalia, looking at me with fetishistic eyes, which creates a lot of difficulty in relationships, and it affects us (Field diary, 03/16/2024).
 
 Participant 4 stated that he uses the municipality's Psychosocial Care Center (CAPS, an acronym for Centro de Atenção Psicossocial, which are community-based mental health centers). He does not like the service because professionals do not respect his social name. He goes only because he needs medication but doesn't like it. Through all the statements made, some themes emerged and were frequently mentioned throughout the meeting, referring to gender performativity[^thamyles_en-1]. Some examples were:
 
 [^thamyles_en-1]: Butler [-@butler2003] emphasizes that performativity affirms the constitution of gender as acts, representations, and gestures, thus considering it as a process of becoming and constructing oneself through such.
 
 > Participant 1: What I heard a lot from my family was, "You can't be trans; God gave you a uterus to have children." In other words, they don't understand that I can be a trans man and still get pregnant. We know very well that it's not just about pregnancy (Field diary, 03/16/2024).
-
-> Participant 2: People usually don't get my pronoun wrong, but as soon as I paint my nails, they start getting it wrong (Field diary, 03/16/2024).
-
-> Participant 3: To protect myself and avoid having to explain, when I request an Uber, for example, I immediately get in "scratching my crotch" so they don't ask anything (Field diary, 03/16/2024).
+Participant 2: People usually don't get my pronoun wrong, but as soon as I paint my nails, they start getting it wrong (Field diary, 03/16/2024).
+Participant 3: To protect myself and avoid having to explain, when I request an Uber, for example, I immediately get in "scratching my crotch" so they don't ask anything (Field diary, 03/16/2024).
 
 Through the statements made, it was possible to see that there is a social demand for them to perform certain stereotypes to be seen as men. Thus, by failing to conform to established norms, gender identities outside the binary are rendered as failures [@butler2003]. It becomes apparent that if there is no full identification and adjustment to established social norms, then the body is not considered understandable by others. Consequently, the place to be assigned is marginalization, exclusion, and invisibility. Moreover, considering other ways of experiencing masculinity becomes almost unfeasible, such as by bringing the concept of transmasculinities[^thamyles_en-2].
 
