@@ -1,0 +1,16 @@
+---
+author: 
+  - name: Ariadsa Mesquita Aragão
+    url: http://lattes.cnpq.br/1964456384291965 
+    orcid: 0009-0001-8800-7826
+    email: ariadsamesquita@gmail.com 
+    affiliations: 
+      - name: Escola de Saúde Pública Visconde de Sabóia    
+  - name: Juliana Viera Sampaio
+    url: http://lattes.cnpq.br/9556200287516417
+    orcid: 0000-0001-5770-244X
+    email: julianavsampaio@hotmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+lang: en
+toc-title: "Table of contents"
