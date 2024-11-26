@@ -16,7 +16,7 @@ language:
   title-block-author-plural: "Autoras"
 filters:
   - section-bibliographies
-bibliography: santigo_escolarizacao_trans.bib
+bibliography: santiago_escolarizacao_trans.bib
 reference-section-title: Referências
 ---
 
