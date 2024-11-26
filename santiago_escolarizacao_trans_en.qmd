@@ -84,9 +84,9 @@ This discussion points to another phenomenon: the impossibility of declaring one
 
 T., in turn, does not know whether she is a lesbian woman or a trans man, despite being addressed in the masculine. The fact is that her life experience, marked on her body and in her performativity, points to something beyond cisgenderness, beyond heteronormativity, whether from herself or from the gaze of others, since our senses are trained to perceive and decode marks of dissidence from the social position we occupy [@louro2019corpo].
 
-These examples illustrate the perception of what is a "real transsexual," a subject discussed by Bento [?], who addresses the truths defended about the transsexual body, in which the constructed standards of being male and female also reflect the definitions of what must be a real transsexual.
+These examples illustrate the perception of what is a "real transsexual," a subject discussed by Bento \[?\], who addresses the truths defended about the transsexual body, in which the constructed standards of being male and female also reflect the definitions of what must be a real transsexual.
 
-The fact is that, as Wittig [?] points out, "hetero thought" operates in all discursive determinations about dissident bodies that do not function within the considered coherent logic, which contains within itself the intimate relationship between gender identity, object of sexual desire, and sexual organ.
+The fact is that, as Wittig \[?\] points out, "hetero thought" operates in all discursive determinations about dissident bodies that do not function within the considered coherent logic, which contains within itself the intimate relationship between gender identity, object of sexual desire, and sexual organ.
 
 The school can be considered a historically constructed device to produce and reiterate truths about bodies and their sexualities. Louro [-@louro2013genero], in agreement, says that the school exerts a distinctive action through mechanisms of classification, ordering, and hierarchy, distinguishing adults from children, rich from poor, and boys from girls.
 
@@ -118,7 +118,7 @@ When there is no possibility of negotiation with the other, barbarism takes over
 
 ### Beyond the School Walls
 
-The school does not end at its walls. A school belongs to a specific territory, to a specific community, and carries characteristics of the surroundings. It is not a passive relationship, as the school also actively participates in the dynamics of the territory. A person's sense of belonging to a territory is built not only in direct relation to the community, but it is encouraged by and within the school. Likewise, for a student to feel they belong to the school environment, there must be something of their own in the space surrounding them, in an active movement of participation and recognition (Raffestin, [?]).
+The school does not end at its walls. A school belongs to a specific territory, to a specific community, and carries characteristics of the surroundings. It is not a passive relationship, as the school also actively participates in the dynamics of the territory. A person's sense of belonging to a territory is built not only in direct relation to the community, but it is encouraged by and within the school. Likewise, for a student to feel they belong to the school environment, there must be something of their own in the space surrounding them, in an active movement of participation and recognition (Raffestin, \[?\]).
 
 Although the questions focused on the participants' school experience during the workshops, the spoken and associated experiences were not limited to those within the school space. Talking about school experience, after all, is talking about one's own life, about where one came from and where one is going.
 
@@ -134,17 +134,17 @@ L.'s account makes us question whether the feminist movement addresses the viole
 
 A., for example, says she fell in love with a boy and that they kept their relationship secret because, according to him, he did not know how to tell his family and friends that he was in a relationship with a trans woman. She says, "When he said that, I asked myself: what am I? A monster?" The boy feared being considered homosexual by everyone. A. speaks in a tone of lament about people seeing trans bodies reduced to genitalia and how unfair it is for her body to be perceived as male because it carries a penis between her legs.
 
-At this point, the notion that "biological sex is destiny" needs to be analyzed. The idea that gender is culturally constructed as a reflection of sex, the latter being natural, is addressed by Butler (2020). Sex, genitalia, is not a neutral product of biology, but the result of a discourse that culturally and politically relocates bodies within heterosexual binarism.
+At this point, the notion that "biological sex is destiny" needs to be analyzed. The idea that gender is culturally constructed as a reflection of sex, the latter being natural, is addressed by Butler [-@butler2020problemas]. Sex, genitalia, is not a neutral product of biology, but the result of a discourse that culturally and politically relocates bodies within heterosexual binarism.
 
-When questioning "am I a monster?", A. is faced with the idea that her body and life are perceived by the notion of abjection which, according to Butler (2019), involves "precisely those 'uninhabitable' zones" (p. 197) of social life, which are, nonetheless, densely populated by those who do not enjoy the status of subject." This is how transphobia works: the dehumanization of trans/transvestite bodies relegates them to the position of non-subjects, incapable of speaking for themselves, of claiming their political rights, of being loved, of being perceived as people.
+When questioning "am I a monster?", A. is faced with the idea that her body and life are perceived by the notion of abjection which, according to Butler [(2019)??], involves "precisely those 'uninhabitable' zones" (p. 197) of social life, which are, nonetheless, densely populated by those who do not enjoy the status of subject." This is how transphobia works: the dehumanization of trans/transvestite bodies relegates them to the position of non-subjects, incapable of speaking for themselves, of claiming their political rights, of being loved, of being perceived as people.
 
-"Nourishing your capacity for resistance," as hooks (2019) points out, is a possibility of survival when we talk about trans and transvestite people in school and in the world, especially in Brazil. This country kills the most trans and transvestite people. hooks (2019) also points out the need to understand marginality as a position and place of resistance so that despair and nihilism do not penetrate destructively.
+"Nourishing your capacity for resistance," as hooks [-@hooks2019anseios] points out, is a possibility of survival when we talk about trans and transvestite people in school and in the world, especially in Brazil. This country kills the most trans and transvestite people. hooks [-@hooks2019anseios] also points out the need to understand marginality as a position and place of resistance so that despair and nihilism do not penetrate destructively.
 
 ## Final Considerations
 
 The erasure of trans and transvestite bodies in school, condensed by the school dropout process, marks the silencing and the impossibility of living and learning with differences within a cisnormative schooling culture. The school's very curricular, pedagogical, and architectural structure produces marginalization.
 
-Dropout, therefore, is not a phenomenon disconnected from context; it is not simply the active abandonment of studies or the school community. As Lima (2021) points out, it is an evaded experience in each micro-act that breaks with the dignity of school coexistence, in a painful movement of expelling the different.
+Dropout, therefore, is not a phenomenon disconnected from context; it is not simply the active abandonment of studies or the school community. As Lima [-@lima2021tristeza] points out, it is an evaded experience in each micro-act that breaks with the dignity of school coexistence, in a painful movement of expelling the different.
 
 The accounts heard during this research point to the need to build a diversified reality in school, situating cisgenderness and heterosexuality as just one of the possible ways of experiencing the body, gender, and sexuality—after all, transness and travesti identity mark this.
 
