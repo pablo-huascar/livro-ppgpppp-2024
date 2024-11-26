@@ -1,1 +1,153 @@
+---
+author: 
+  - name: Vanessa Cunha Santiago
+    url: https://lattes.cnpq.br/8580258452727045
+    orcid: 0000-0002-9542-1419
+    email: vanessacunhasantiago@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Ana Carolina Borges Leão Martins
+    url: http://lattes.cnpq.br/6406427672103754
+    orcid: 0000-0001-6758-9508
+    email: carolinablmartins@ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+language: 
+  title-block-author-plural: "Autoras"
+filters:
+  - section-bibliographies
+bibliography: santiago_escolarizacao_trans_en.bib
+reference-section-title: Referências
+---
 
+# The Schooling of trans and travesti people in Sobral, Ceará: An analysis of experience reports
+
+## Introduction
+
+The study of transgender identities seems to condense questions about the truths of sex and sexuality, the body and its nature, culture, and the immutable destiny attributed to what we call sexual organs in a heteronormative system. These facts, "dressed" as individual experiences, abundantly permeate school life as a collective, as part of an ethos, and as a political domain. Trans identity emerges as a collective marker, beyond the individual, that challenges culturally and institutionally established gender norms.
+
+According to data from 2017, 82% of trans women and transvestite drop out of high school between the ages of 14 and 18 [@borges2018muros]. If the data on the schooling of trans people in Brazil is very low, according to ANTRA (National Association of Travestis and Transsexuals), the mortality data for this same group in Brazil in 2021 shows that 140 people had their lives brutally interrupted. This mortality is a consequence of an increasingly more prominent, bloodier, and more exclusionary discourse of hate, making Brazil the leader among countries that most kill the trans and transvestite population [@benevides2022dossie].
+
+The relationship between the two data points above seems clear: the more significant the school dropout rate, the greater the vulnerability of those who drop out. Leaving school means losing access to citizenship, social inclusion, and minimum conditions of existence. The rupture with school also symbolizes a rupture with the community as a step towards marginalization. Lima [-@lima2021tristeza], when talking about "evaded experience," points to the micro-actions that expel trans individuals from school, making student life precarious.
+
+Without polarizing school versus death as symmetrical opposites, we point out school as one of the paths through which dignity is achieved, whether through support, established bonds, food, literacy, the knowledge needed to pursue a profession, or the fight against poverty, exclusion, deprivation, and inequality of opportunities [@rezende2012metas]. Schooling here is understood as a process that goes beyond learning contents accumulated throughout human history but speaks of sharing a specific symbolic universe within which the transgender individual is marginalized.
+
+Now, if at the extreme point of violence is death, along this path are the micro-acts that corroborate the murderous hate discourse, cloaked in moralizing ideas about the body and sexuality. Such rites are present in the daily lives of all LGBTQIA+ individuals who are of school age, to the point of pushing them to drop out. Although it is proposed as a democratic space, a producer of citizenship, the school has an intrinsic relationship with society. It is not isolated from the territory in which it is located.
+
+We know, however, that the absence of data on the trans and transvestite population in Sobral, and in Brazil as a whole, points to the lack of policies that assist them. Assistance can only be directed to particular vulnerabilities when data indicates the direction, something fundamental to gauge latent social issues and prioritize them on the government agenda [@jannuzzi2018importancia].
+
+In addition to discussing quantitative data on this population inside and outside school, the aim is to address the experiences of these people in Sobral's schooling system. To do so, we start with the following question: what is the schooling experience of trans and transvestite people in Sobral's education system?
+
+## Method
+
+In this research, we sought data from the Social Assistance Reference Centers, the Department of Education, and the Department of Human Rights. The latter directed us to seek out collectives and introduced us to the Trans and Travesti Movement of Sobral; only through contact with the Movement did we gain access to Sobral's trans population.
+
+We then held workshops at the Youth Station in the Sumaré neighborhood, Sobral-CE. The Youth Station was the location suggested by the president of the city's Trans and Travesti Movement, Pamella Nara Araújo, who, along with other trans women and transvestite, promotes actions of citizenship, support, care, and resistance through their organization.
+
+We began a bonding process marked by differences in social contexts, experiences, and bodies. Transference, a concept from psychoanalysis, helps us think about this bond from the first contact between the group and the researcher. When handled in a way that facilitates the emergence of latent content, transference helps construct the researched data. As Rosa and Domingues [-@rosa2010metodo] state: "the observational field is constructed in the interaction between the researcher and their interlocutor, in a process of mutual feedback (transference). The position about the interlocutor is at stake" (pp. 182-185). The concern is with the research process and not only the results obtained [@godoy1995introducao].
+
+At this point, understanding the symbolic constructions of the research participants around their schooling experience in Sobral as trans and transvestite individuals, the workshops aimed to allow this theme to emerge, favoring the circulation of significant elements in each person's history.
+
+The field research consisted of the following steps: 1) contact with trans and transvestite collectives in Sobral to schedule the first meeting; 2) presentation of the research to the collective; 3) scheduling workshops with the collective and signing the informed consent form; 4) group meetings; 5) dissemination of the research.
+
+The workshops took place on 09/14/22, 10/05/22, 10/19/22, and 11/09/22, all in the same location. The meetings, which lasted about 1 hour and 30 minutes, were recorded in the researchers' field diaries. In the first meeting, Pamella introduced us as researchers studying the experience of trans and transvestite people in school and asked us to talk about the project. Before we finished, participants were already sharing their experiences.
+
+Four participants attended 100% of the meetings, while others alternated their participation in one or two meetings. In total, we heard from 15 people distributed across the 4 meetings.
+
+On 10/05/22, the scheduled day for the second workshop, the city of Sobral was alerted to the unfortunate attack that occurred at the Carmosina Ferreira Gomes School, in which a high school student shot classmates, killing one of them. This event reverberated throughout the country and, more significantly, in the neighborhood. Given the proximity in time and space to the incident, we proposed postponing the workshop. Still, President Pamella reinforced the need to talk about school violence necessarily on that fateful day. We held the workshop and opened space to discuss the incident, as some workshop participants were students from Carmosina School.
+
+The themes addressed in each meeting were open and flexible so that group participants could express themselves, valuing the subjective dimension of each narrated experience while maintaining coherence with the studied theme. Thus, the themes listed and worked on in the meetings were: 1) "What was my experience in the Sobral public school like?"; 2) "How did I perceive myself, and how was I perceived in school?"; and 3) "What alliances could I form inside and/or outside school?"
+
+Each theme was addressed in each meeting, respecting the order described, but the meetings were not limited to answering the proposed questions; on the contrary, they expanded to topics related to the central theme, such as religion, parenting, romantic relationships, and social recognition, among others. The fourth and final meeting was dedicated to impressions that did not fit into the previous meetings.
+
+For the interpretation of the data constructed during the research, we used content analysis proposed by Bardin [-@bardin2010analise], taking into account the abstraction of the contents brought by the significant elements of each person's history, constructing categories of analysis presented in the following results.
+
+## Discussion
+
+### The Dimension of Difference and Recognition
+
+The dimension of difference was present in all the meetings, from the very first moment. As a starting point, the researchers marked differences in class, race, gender, schooling, and territory with their bodies.
+
+In most cases, the participants' school experience was marked by a "nickname," a symbol of the perceived difference between bodies and subjectivities. "Tcholis," L.'s nickname, is an example of this marking of difference. L. appropriated the nickname and referred to herself as "Tcholis," marking her gender in the feminine. She became recognized as such throughout the school.
+
+L.'s example is illustrative because it shows that the difference in her body, in her performativity, pointed out by others, was incorporated by her, in a movement of appropriation of the significant elements of her history, in affirmation of belonging to a specific social group [@louro2019corpo].
+
+To deal with the difference between her performativity and heteronormativity, J.'s account showed another possibility: relying on popular people to avoid suffering what she called "bullying." By getting close to this niche of people, she was able to establish herself in a position of power, since the school is a space that informs the place of the small and the great, as well as the place of boys and girls, and shows who should be understood as a role model [@louro2013genero].
+
+A., in turn, reports that she constantly suffered verbal aggression. Being very shy and withdrawn, she could not count on the same tools as J. (both studied in the same class). A., as a target of homophobic violence from her schoolmates, was brutally beaten in one of these episodes. She was saved by her mother, who arrived to pick her up. A. did not finish school. We use the term "homophobia" because, until that moment in her life, A. did not identify as a trans woman.
+
+It is necessary to question whether A.'s shyness and withdrawal are not consequences of the violence directed at her. Louro [-@louro2013genero] stated that the silencing of homosexuals in the classroom occurs as a guarantee of the norm and that, therefore, through "teasing" and "insults," the legitimized space of the classroom is denied to homosexuals, "making it so that, in this way, young gay and lesbian people can only recognize themselves as deviant, unwanted, or ridiculous" (p. 72).
+
+For the most part, the transitions reported, as in the case of A., occurred after leaving school. The end of school, whether through completion or dropout, seems to mark the opening for the transition. Are there no trans people in school? Is the school period not a time to discover oneself as trans and transition? Is it not an environment for transsexual performativity?
+
+This discussion points to another phenomenon: the impossibility of declaring one's identity. In the accounts of B. and T., for example, there is the self-perception of dissident bodies. B. says she does not recognize herself as a trans woman because she is not feminine 100% of the time and allows her beard to grow. She is named in the feminine by those in the group and also refers to herself in the feminine.
+
+T., in turn, does not know whether she is a lesbian woman or a trans man, despite being addressed in the masculine. The fact is that her life experience, marked on her body and in her performativity, points to something beyond cisgenderness, beyond heteronormativity, whether from herself or from the gaze of others, since our senses are trained to perceive and decode marks of dissidence from the social position we occupy [@louro2019corpo].
+
+These examples illustrate the perception of what is a "real transsexual," a subject discussed by Bento [?], who addresses the truths defended about the transsexual body, in which the constructed standards of being male and female also reflect the definitions of what must be a real transsexual.
+
+The fact is that, as Wittig [?] points out, "hetero thought" operates in all discursive determinations about dissident bodies that do not function within the considered coherent logic, which contains within itself the intimate relationship between gender identity, object of sexual desire, and sexual organ.
+
+The school can be considered a historically constructed device to produce and reiterate truths about bodies and their sexualities. Louro [-@louro2013genero], in agreement, says that the school exerts a distinctive action through mechanisms of classification, ordering, and hierarchy, distinguishing adults from children, rich from poor, and boys from girls.
+
+It would not be inconsistent to say, therefore, that the school separates cisgenders from transgenders, producing the marginalization of the latter. The reports heard during the workshops confirm this analysis. Even though they use certain tools and gimmicks, trans and transvestite bodies are symbolically erased from school life and are disregarded as subjects.
+
+The experience of trans and transvestite people in school is marked by fear, withdrawal, violence, and nicknames—by the difference from the cisnorm, after all. Difference, each time it emerges, threatens the norm and is summarily erased. There is a desperate need to reiterate gender and sexuality norms, like endless panoptic surveillance. However, it is also in the gap between each repetition of the norm that resistance takes hold and grows [@butler2020problemas].
+
+### Within the School Walls
+
+Inés Dussel [-@dussel2017precariedade] proposes that "precarization is a way of intervening in a state of affairs—a discipline, a social order—that allows the exclusions or impositions to be highlighted and to criticize or subvert a certain status quo" (p. 90). The trans/transvestite experience in school, in this sense, questions the repeated establishment of structures that seek to reinforce the rigidity of school norms.
+
+The experiences of D. and T. in their school bathrooms are examples of the fragility of these norms taken as natural by their reiteration. Upon transitioning, D., a trans boy, continued using the female bathroom because he felt more comfortable. He was confronted by classmates who said he could not continue using the female bathroom due to the possibility of harassing them.
+
+D. turned to the school principal to mediate the situation. The principal then offered his office bathroom for D. to use. Other workshop participants noted this account and praised the principal's attitude. D. remained silent in the face of this show of support. However, the desire for separation was also noted to avoid conflict between students regarding the bathroom. What stance should have been taken, we ask ourselves.
+
+This account demonstrates the fragility of what the bathroom represents in a school. Is it a space of dispute? Can it be considered in its natural rigidity of what is female or male? D.'s experience, as constraining as it was, speaks to the need to rethink the spatial domains in school.
+
+T., mentioned earlier, spoke about the discomfort with the same principal. In a conversation with T., the principal made a disrespectful comment: he suggested that he and T. "swap bodies" since T. has a "female body" and he has a "male body." Even though the principal positioned himself as an ally, such comments from someone in a position of power create marks that deepen the marginalization of trans and transvestite people. T. did not finish school. In his speech, he does not relate dropping out with the verbal aggression he suffered throughout his school life when called "she-man," "dyke," etc.
+
+Talking a little more, we understood why D. felt more comfortable in the female bathroom. He talks about the "masculine traits" that have accompanied him throughout his life. The fact that he was raised as a young evangelical girl forced him to play soccer in a long skirt with the boys during school breaks. This earned him many nicknames and violent confrontations. How could D. feel even minimally comfortable sharing the bathroom with people who verbally assaulted him this way? And, on the other hand, how could he feel comfortable in the female bathroom from which he was expelled and in which he was called a harasser?
+
+The topic of the bathroom was widely debated in the meetings and is an example of the attempt to subvert the status quo reaffirmed by historically reiterated mechanisms, that is, the need for its precarization [@dussel2017precariedade]. This discussion raises the political dimension of the trans/transvestite experience in school and the world.
+
+The representation of trans/transvestite issues cannot be guided by cis/heteronormative experience, which is, as the term itself indicates, the norm. Louro [-@louro2019corpo], addressing social identities, tells us that such attempts at representation are always marked by power relations.
+
+We point to the need for recognition and affirmation in spaces shared by groups in positions of power and marginalized groups. Some actions within the school mark such alliances: L. talks about how her teachers consistently recognized her using her pronouns and social name. H. also talks about feeling respected by teachers and classmates. These positive experiences in the school environment are accompanied by feelings of legitimacy and belonging.
+
+When there is no possibility of negotiation with the other, barbarism takes over. B. talks about how she would have been beaten if she had tried to negotiate with her abusers. A.'s experience, who was brutally beaten in the school courtyard, illustrates B.'s statement. This violence generated deep resentment in B. During the only workshop she attended, precisely the one that took place on the same day as the attack at Carmosina Ferreira Gomes School, B. said she understood the boy who fired the shots. She said that if she had had a gun during her school years, she would have acted the same way. This acting out is marked by American imperialism as an untreated symptom of a precarious, sedimented social bond.
+
+### Beyond the School Walls
+
+The school does not end at its walls. A school belongs to a specific territory, to a specific community, and carries characteristics of the surroundings. It is not a passive relationship, as the school also actively participates in the dynamics of the territory. A person's sense of belonging to a territory is built not only in direct relation to the community, but it is encouraged by and within the school. Likewise, for a student to feel they belong to the school environment, there must be something of their own in the space surrounding them, in an active movement of participation and recognition (Raffestin, [?]).
+
+Although the questions focused on the participants' school experience during the workshops, the spoken and associated experiences were not limited to those within the school space. Talking about school experience, after all, is talking about one's own life, about where one came from and where one is going.
+
+The story that V. tells us is an example of this. V. is indigenous from a tribe in the Amazon. She came to Ceará hidden on a boat, as at age 7, she was perceived as "deviating" from the masculine performativities expected of a man in her tribe. The shaman feared that V. would encourage other men to be homosexuals and suggested to her family that they perform a ritual with her body. The family quickly organized to transport her to relatives in Ceará, where she was adopted. V. talks about her attempt to reconnect with her Indigenous identity by dressing in typically feminine indigenous attire, attempting to re-signify the marginal experience of now being an indigenous trans woman. bell hooks [-@hooks2019anseios] points out the cultural difference between center and margin: "We must create spaces within this culture of domination if we want to survive whole, with our souls intact. Our presence in itself is already an interference" (p. 287), in a text that talks about using the margin as a space for radical openness. The margin is a place where one should remain, a space of resistance, not necessarily of deprivation [@hooks2019anseios].
+
+D., like V., brings in his story the mark of being rejected by his home at a very young age. The notion of exclusion and rejection are frequent events in his life. At 13, D. spent three days sleeping on the street because his evangelical mother did not accept him after he came out. He was rescued from the street by a cousin who took pity on him. D. directs to us a question that seems exceptionally intimate to him: "Why are evangelicals so prejudiced?" which, in the end, can be translated as: "Why is my family so prejudiced against me?"
+
+Religion, therefore, becomes a topic to be discussed during the workshop. L. says that if God made her this way, then everyone should accept her. J., in turn, says she has already argued with another trans friend who told her that they would both go to hell for being trans. J. disagrees, saying she will go to heaven. All the workshop participants say they are Christians. The religious discourse is reproduced by the workshop participants, even though it is one of the most effective mechanisms for marginalizing the trans body [@butler2020problemas]. Still, it is part of the group's identity, relationship with spirituality, and territory's traditions.
+
+Romantic relationships also emerged as a prominent topic during the workshops. L. tells us, for example, that she met her ex-husband in the classroom. They started their relationship in school until they decided to live together. From then on, her husband did not allow her to continue attending school, which led her to drop out. L. talks about how abusive her ex-husband became. The reality of trans women's experience in heterosexual relationships is traversed, in addition to prejudice, by sexism.
+
+L.'s account makes us question whether the feminist movement addresses the violence suffered by trans or cis women. It is necessary to mark the existence of differences within the category of "women" that feminism concerns itself with. Such a category is not homogeneous and reproduces power discourses and exclusions within its differences [@louro2013genero].
+
+A., for example, says she fell in love with a boy and that they kept their relationship secret because, according to him, he did not know how to tell his family and friends that he was in a relationship with a trans woman. She says, "When he said that, I asked myself: what am I? A monster?" The boy feared being considered homosexual by everyone. A. speaks in a tone of lament about people seeing trans bodies reduced to genitalia and how unfair it is for her body to be perceived as male because it carries a penis between her legs.
+
+At this point, the notion that "biological sex is destiny" needs to be analyzed. The idea that gender is culturally constructed as a reflection of sex, the latter being natural, is addressed by Butler (2020). Sex, genitalia, is not a neutral product of biology, but the result of a discourse that culturally and politically relocates bodies within heterosexual binarism.
+
+When questioning "am I a monster?", A. is faced with the idea that her body and life are perceived by the notion of abjection which, according to Butler (2019), involves "precisely those 'uninhabitable' zones" (p. 197) of social life, which are, nonetheless, densely populated by those who do not enjoy the status of subject." This is how transphobia works: the dehumanization of trans/transvestite bodies relegates them to the position of non-subjects, incapable of speaking for themselves, of claiming their political rights, of being loved, of being perceived as people.
+
+"Nourishing your capacity for resistance," as hooks (2019) points out, is a possibility of survival when we talk about trans and transvestite people in school and in the world, especially in Brazil. This country kills the most trans and transvestite people. hooks (2019) also points out the need to understand marginality as a position and place of resistance so that despair and nihilism do not penetrate destructively.
+
+## Final Considerations
+
+The erasure of trans and transvestite bodies in school, condensed by the school dropout process, marks the silencing and the impossibility of living and learning with differences within a cisnormative schooling culture. The school's very curricular, pedagogical, and architectural structure produces marginalization.
+
+Dropout, therefore, is not a phenomenon disconnected from context; it is not simply the active abandonment of studies or the school community. As Lima (2021) points out, it is an evaded experience in each micro-act that breaks with the dignity of school coexistence, in a painful movement of expelling the different.
+
+The accounts heard during this research point to the need to build a diversified reality in school, situating cisgenderness and heterosexuality as just one of the possible ways of experiencing the body, gender, and sexuality—after all, transness and travesti identity mark this.
+
+The possibility of learning other ways of knowing and being in the world comes from the need to demystify the "biological destiny" of sexual organs and the complementarity of sexes in heterosexual culture—all of this can be done in school, expanding the debate on gender and sexuality.
+
+It must be noted, however, that even with all the violence, despite all the obstacles, trans and transvestite bodies exist and resist. They find ways to make themselves present, to claim their rights. The Trans and Travesti Movement of Sobral is a remarkable example of this achievement and deserves all the recognition.
