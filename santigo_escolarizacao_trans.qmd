@@ -1,1 +1,153 @@
+---
+author: 
+  - name: Vanessa Cunha Santiago
+    url: https://lattes.cnpq.br/8580258452727045
+    orcid: 0000-0002-9542-1419
+    email: vanessacunhasantiago@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Ana Carolina Borges Leão Martins
+    url: http://lattes.cnpq.br/6406427672103754
+    orcid: 0000-0001-6758-9508
+    email: carolinablmartins@ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+language: 
+  title-block-author-plural: "Autoras"
+filters:
+  - section-bibliographies
+bibliography: santigo_escolarizacao_trans.bib
+reference-section-title: Referências
+---
 
+# A Escolarização de pessoas trans e travestis em Sobral-CE: uma análise dos relatos de experiência
+
+## Introdução
+
+O estudo da transgeneridade parece condensar questões acerca das verdades do sexo e da sexualidade, do corpo e da sua natureza, da cultura e da imutabilidade destinadora do que chamamos órgãos sexuais, em um sistema heteronormativo. Esses fatos, “travestidos” de experiências individualizantes, permeiam abundantemente a vida escolar como coletividade, como parte de um ethos e como questão de domínio político. A identidade trans surge como marcador coletivo, para além do individual, que tensiona as regras de gênero cultural e institucionalmente estabelecidas.
+
+Segundo dados de 2017, 82% das mulheres trans e travestis abandonam o Ensino Médio entre os 14 e 18 anos [@borges2018muros]. Se os dados sobre escolarização de pessoas trans no Brasil são baixíssimos, de acordo com a ANTRA (Associação Nacional de Travestis e Transexuais), os dados de mortalidade desse mesmo grupo no Brasil em 2021 apontam para 140 pessoas que tiveram suas vidas brutalmente interrompidas. Essa mortalidade é consequência de um discurso de ódio cada vez maior, mais sangrento e muito mais excludente, tornando o Brasil líder no ranking dos países que mais assassinam a população trans e travesti [@benevides2022dossie].
+
+A relação entre os dois dados pontuados acima parece clara: quanto maior a evasão escolar, maior a vulnerabilidade dos evadidos. Ao sair da escola, perde-se o acesso à cidadania, à inclusão social e a condições mínimas de existência. A ruptura com a escola simboliza também a ruptura com a comunidade, como um passo para a marginalização. Lima [-@lima2021tristeza], ao falar sobre “vivência evadida”, pontua as micro ações que expulsam o sujeito trans para fora da escola, precarizando a vida estudantil.
+
+Sem polarizar escola versus morte em opostos simétricos, apontamos a escola como um dos caminhos pelos quais a dignidade é alcançada, seja através do acolhimento, dos laços estabelecidos, da alimentação, da alfabetização, seja do conhecimento necessário para se seguir uma profissão e, assim, combater a pobreza, a exclusão, a privação, a desigualdade de chances [@rezende2012metas]. A escolarização é aqui compreendida como um processo que vai além da aprendizagem de conteúdos colecionados ao longo da história da humanidade, mas fala da partilha de um universo simbólico específico, dentro do qual o sujeito transgênero é marginalizado.
+
+Ora, se no ponto limite da violência está a morte, na esteira desse percurso estão os microatos que corroboram o discurso de ódio assassino e revestem-se de ideias moralizantes acerca do corpo e da sexualidade. Tais ritos se verificam no cotidiano de todos os sujeitos LBGTQIA+ que se encontram em idade escolar, a ponto de impelir à desistência. Ainda que se proponha espaço democrático, produtor de cidadania, a escola tem relação intrínseca com a sociedade e não se encontra isolada do território em que está inserida.
+
+Sabemos, no entanto, que a ausência de dados sobre a população trans e travesti em Sobral – e no resto do Brasil como um todo – aponta para a ausência de políticas que a assistam. Só é possível direcionar assistência a determinadas vulnerabilidades quando há dados que apontam a direção, algo fundamental para dimensionar as questões sociais latentes e priorizá-las na agenda governamental [@jannuzzi2018importancia].
+
+Para além de discutir dados quantitativos sobre essa população dentro e fora da escola, a proposta é tratar da vivência dessas pessoas na escolarização sobralense. Para tanto, partimos da seguinte pergunta: como se dá a experiência de escolaridade de pessoas trans e travestis na educação sobralense?
+
+## Método
+
+No fazer desta pesquisa, buscamos dados nos Centros de Referência e Assistência Social, na Secretaria de Educação e na Secretaria de Direitos Humanos. Esta última nos orientou a buscar coletivos e nos apresentou o Movimento Trans e Travesti de Sobral, cujo contato nos permitiu ter acesso à população T sobralense.
+
+Realizamos, então, oficinas na Estação da Juventude do bairro Sumaré, Sobral-CE. Esse local nos foi sugerido pela presidenta do Movimento Trans e Travesti da cidade, Pamella Nara Araújo, que, juntamente com outras mulheres trans e travestis, promove ações de cidadania, amparo, acolhimento e resistência a partir de organização própria.
+
+Iniciamos um processo de vinculação marcado por diferenças de contextos sociais, de vivências, de corpos. A transferência, enquanto conceito do campo da Psicanálise, nos ajuda a pensar essa vinculação a partir do primeiro contato entre o grupo e o pesquisador. Quando manejada de modo a facilitar que emerjam conteúdos latentes, a transferência faz construir o dado pesquisado. Como apontam Rosa e Domingues [-@rosa2010metodo]: “o campo observacional é construído na interação entre o pesquisador e seu interlocutor, num processo de realimentação mútua (transferência). Está em jogo a posição em relação ao interlocutor” (pp. 182-185). A preocupação, assim, é com o processo da pesquisa e não apenas com os resultados colhidos [@godoy1995introducao].
+
+Nesse ponto, entendendo relevantes as construções simbólicas dos sujeitos participativos da pesquisa em torno da própria experiência de escolarização em Sobral enquanto pessoas trans e travestis, as oficinas trabalharam no sentido de permitir que essa temática surja, favorecendo a circulação dos significantes relevantes na história de cada um.
+
+A pesquisa de campo se constituiu nas seguintes etapas: 1\) contato com os coletivos de pessoas trans e travestis de Sobral para o agendamento do primeiro encontro; 2\) apresentação da pesquisa ao coletivo; 3\) agendamento das oficinas com o coletivo e assinatura do termo de consentimento livre e esclarecido; 4\) encontros com o grupo; 5\) divulgação da pesquisa.
+
+As oficinas ocorreram nas datas 14/09/22, 05/10/22, 19/10/22 e 09/11/22, todas no mesmo local. Os encontros, que tiveram cerca de 1h30min de duração, foram registrados nos diários de campo dos pesquisadores. No primeiro encontro, Pamella nos apresentou, enquanto pesquisadoras que estudam a experiência de pessoas trans e travestis na escola, e pediu que falássemos sobre o projeto. Antes de concluirmos, os participantes já estavam compartilhando suas experiências.
+
+Ao todo, quatro participantes estiveram presentes em 100% dos encontros, o restante alternou a participação em um ou dois encontros. No total, ouvimos 15 pessoas distribuídas nos 4 encontros.
+
+No dia 05/10/22, dia agendado para a segunda oficina, a cidade de Sobral é alertada do infeliz atentado que ocorreu na Escola Carmosina Ferreira Gomes, em que um aluno do Ensino Médio disparou contra colegas de sala, matando um deles. Este acontecimento, embora tenha reverberado por todo o país, o fez mais significativamente pelo bairro. Propusemos o adiamento da oficina, dada a proximidade de tempo e de espaço com o acontecido, mas a presidenta Pamella reforçou a necessidade de falarmos sobre as violências escolares necessariamente naquele fatídico dia. Mantivemos a oficina e abrimos espaço para a elaboração do acontecido, uma vez que parte dos participantes da oficina são alunos provenientes da Escola Carmosina.
+
+As temáticas trabalhadas em cada encontro se mostraram abertas e flexíveis de modo que os participantes do grupo se expressassem, valorizando a dimensão subjetiva de cada experiência narrada e mantendo a coerência com o tema estudado. Nesse sentido, os temas elencados e trabalhados nos encontros foram: 1\) “como foi minha experiência na escola pública sobralense?”; 2\) “como eu me percebi e fui percebido na escola?”; e 3\) “que alianças pude formar dentro e/ou fora da escola?”.
+
+Cada temática foi trabalhada a cada encontro, respeitando a ordem descrita, mas os encontros não se limitaram a responder às questões propostas; pelo contrário, expandiram-se para temáticas relacionadas ao tema principal, como religião, parentalidade, relacionamentos amorosos, reconhecimento social, entre outros. O quarto e último encontro foi destinado para as impressões que não couberam nos encontros anteriores.
+
+Para a interpretação dos dados construídos no fazer da pesquisa, valemo-nos da análise de conteúdo proposta por Bardin [-@bardin2010analise], levando em consideração a abstração dos conteúdos trazidos a partir dos significantes da história de cada um, construindo categorias de análise que se apresentam nos resultados a seguir.
+
+## Discussão
+
+### A dimensão da diferença e do reconhecimento
+
+A dimensão da diferença esteve presente em todos os encontros, desde o primeiro momento. Como ponto de partida, os próprios pesquisadores marcaram com seus corpos as diferenças de classe, raça, gênero, escolarização e território.
+
+Na larga maioria das vezes, a experiência dos participantes na escola foi marcada pela presença de um "apelido'', símbolo da diferença percebida entre corpos e subjetividades. “Tcholis”, apelido de L., é um exemplo dessa marcação da diferença. L. se apropriou do apelido e também se intitulava “a Tcholis”, marcando o gênero no feminino. Passou a ser reconhecida assim em toda a escola.
+
+O exemplo de L. é ilustrativo porque nos aponta que a diferença de seu corpo, de sua performatividade, pontuada pelos outros, foi incorporada por ela, em movimento de apropriação dos significantes da própria história, em afirmação do pertencimento a um grupo social específico [@louro2019corpo].
+
+Para lidar com a diferença existente entre a própria performatividade e a heteronormatividade, o relato de J. mostrou outra possibilidade: valer-se de pessoas populares para que não sofresse o que chamou de “bullying”. Ao se aproximar desse nicho de pessoas, pôde estabelecer-se em posição de poder uma vez que a escola é um espaço que informa o lugar dos pequenos e dos grandes, assim como o lugar dos meninos e das meninas, e mostra quem deve ser entendido como modelo a ser seguido [@louro2013genero].
+
+A., por sua vez, relata que sofria agressões verbais constantemente. Por ser muito tímida e retraída, não pôde contar com os mesmos instrumentos de J. (ambas estudaram na mesma sala). A., como alvo da violência homofóbica de seus colegas de escola, foi brutalmente espancada em um desses episódios. Foi salva por sua mãe, que chegou para buscá-la. A. não concluiu a escola. Utilizamos o termo “homofobia” porque, até aquele momento de sua vida, A. não se identificava como mulher trans.
+
+É preciso questionar se a timidez e retração de A. não são consequências da violência a ela dirigida. Louro [-@louro2013genero] afirmou que o silenciamento dos homossexuais em sala de aula ocorre como uma garantia da norma e que, portanto, através das “gozações” e dos “insultos”, nega-se o espaço legitimado da sala de aula aos homossexuais, “fazendo com que, deste modo, jovens gays e lésbicas só possam se reconhecer como desviantes, indesejados ou ridículos” (p. 72).
+
+As transições relatadas, em maioria, como é exemplo de A., ocorreram após a saída da escola. O fim da escola, em sua conclusão ou evasão, parecem marcar a abertura para a transição. Ora, não há pessoas trans na escola? O tempo de escola não é tempo de se descobrir trans e transicionar? Não é ambiente para performatividades transexuais?
+
+Essa discussão anuncia outro fenômeno: a impossibilidade de dizer sua própria identidade. Nos relatos de B. e T., por exemplo, há a autopercepção de corpos dissidentes. B. diz não se reconhecer como mulher trans por não ser feminina 100% do tempo e deixar a barba crescer. É, contudo, tratada no feminino pelas pessoas da roda e também se trata no feminino.
+
+T., por sua vez, não sabe dizer se é mulher lésbica ou homem trans, apesar de ser tratado no masculino. O fato é que sua experiência de vida, marcada no seu corpo e na sua performatividade, aponta para algo além da cisgeneridade, da heteronormatividade, seja a partir do seu olhar sobre si mesmo ou do olhar do outro, uma vez que que nossos sentidos são treinados para perceber e decodificar as marcas da dissidência a partir do lugar social que ocupamos [@louro2019corpo].
+
+Esses exemplos ilustram a percepção do que é um “transexual de verdade”, assunto discutido por Bento [-@(2017)], o qual trata das verdades defendidas sobre o corpo transexual, em que os padrões construídos de ser masculino e feminino também se refletem nas definições do que deve ser um transexual de verdade.
+
+O fato é que, como pontua Wittig (2022), o “pensamento hetero” opera em todas as determinações discursivas acerca dos corpos dissidentes que não funcionam na lógica considerada coerente, que encerra em si a relação íntima entre identidade de gênero, objeto de desejo sexual e órgão sexual.
+
+A escola pode ser considerada um dispositivo construído historicamente para produzir e reiterar verdades acerca dos corpos e das sexualidades. Louro [-@louro2013genero], em concordância, diz que a escola exerce uma ação distintiva a partir de mecanismos de classificação, ordenamento, hierarquização, distinguindo adultos de crianças, ricos de pobres e meninos de meninas.
+
+Não seria incoerente dizer, portanto, que a escola separa os cisgêneros dos transgêneros, produzindo a marginalização dos últimos. Os relatos ouvidos durante as oficinas confirmam essa análise. Ainda que se valham de determinados instrumentos e artifícios, os corpos trans e travestis são simbolicamente apagados do convívio escolar, são desconsiderados enquanto sujeitos.
+
+A vivência de trans e travesti na escola é marcada pelo medo, pela retração, pela violência, pelos apelidos – pela diferença em relação à cisnorma, afinal. A diferença, a cada vez que surge, ameaça a norma e é sumariamente apagada. Há a necessidade desesperada de reiterar as normas de gênero e sexualidade, como uma vigilância panóptica sem fim. Mas é também na hiância entre cada repetição da norma que a resistência se firma e cresce [@butler2020problemas].
+
+### Nos muros da escola
+
+Inés Dussel [-@dussel2017precariedade] propõe que “precarizar é uma forma de intervir em um estado de coisas – uma disciplina, uma ordem social – que permite pôr em evidência as exclusões ou as imposições e criticar ou subverter certo status quo” (p. 90). A experiência trans/travesti na escola, nesse sentido, vem colocar em questão o estabelecimento reiterado de montagens que buscam a rigidez das normas escolares.
+
+As experiências de D. e T. nos banheiros de suas escolas são exemplos da fragilidade dessas normas tomadas como naturais pela sua reiteração. Ao transicionar, D., um rapaz trans, continuou utilizando o banheiro feminino por se sentir mais confortável. Foi interpelado pelas colegas que disseram que ele não poderia continuar a utilizar o banheiro feminino pela possibilidade de assediá-las.
+
+D. recorreu ao diretor da escola para mediar a situação. O diretor, então, ofereceu o banheiro da própria sala para que D. pudesse dele fazer uso. Esse relato foi pontuado por outras pessoas participantes da oficina que elogiaram a postura do diretor. D. permaneceu calado diante dessa manifestação de apoio. Mas o fato é que também foi pontuada a vontade de separação para evitar o conflito entre estudantes acerca do banheiro. Perguntamo-nos, então, que postura deveria ter sido tomada?
+
+Esse relato demonstra a fragilidade do que representa o banheiro em uma escola. É espaço de disputa? Pode ser considerado em sua rigidez natural do que é feminino ou masculino? A experiência de D., constrangedora como se apresentou, diz da necessidade de reelaborar sobre os domínios espaciais na escola.
+
+T., já apresentado acima, falou sobre o incômodo com o tal diretor. Em uma conversa com T., o diretor fez um comentário desrespeitoso: sugeriu que ele e T. “trocassem de corpo” já que T. tem um “corpo feminino” e ele tem um “corpo masculino”. Por mais que o diretor se colocasse como aliado, tais comentários advindos de alguém em posição de poder produzem marcas que aumentam a marginalização de pessoas trans e travestis. T. não concluiu a escola. Em sua fala, não faz relação da evasão com as agressões verbais que sofreu ao longo da vida escolar ao ser chamado de “mulher-macho”, “sapatão”, etc.
+
+Conversando um pouco mais, pudemos entender o porquê de D. se sentir mais confortável no banheiro feminino. Ele fala sobre os “traços masculinos” que o acompanharam por sua vida. O fato de ter sido criado como uma jovem evangélica o obrigava a jogar futebol de saia comprida junto dos meninos da escola no intervalo das aulas. Isso lhe rendia muito apelidos e interpelações violentas. Como D. poderia se sentir minimamente confortável dividindo o banheiro com pessoas que o agrediram verbalmente desse modo? E, de outra forma, como se sentir confortável no banheiro feminino do qual fora expulso e no qual fora chamado de assediador?
+
+O tópico do banheiro foi amplamente debatido nos encontros e é exemplo da tentativa de subversão do status quo reafirmada pelos dispositivos reiterados historicamente, ou seja, da necessidade de sua precarização [-@dussel2017precariedade]. Essa discussão coloca em pauta a dimensão política da experiência transexual/travesti na escola e no mundo.
+
+A representação das questões trans/travestis não pode ser pautada pela experiência cis/heteronormativa, que é, como o próprio termo demarca, a norma. Louro [-@louro2019corpo], tratando das identidades sociais, diz-nos que tal tentativa de representação é sempre marcada por relações de poder.
+
+Apontamos para a necessidade de reconhecimento e afirmação nos espaços partilhados por grupos em posição de poder e grupos marginalizados. Algumas ações, dentro da escola, demarcam tal aliança: L. fala sobre como foi reconhecida, desde sempre, por seus professores em seus pronomes e nome social. H. também fala sobre se sentir respeitada por professores e colegas de sala. Essas experiências positivas no espaço escolar são acompanhadas por sentimentos de legitimação e pertencimento.
+
+Quando não há possibilidade de negociação com o outro, a barbárie assume a direção. B. fala sobre como apanhava caso tentasse negociar com seus abusadores. A vivência de A., que apanhou brutalmente no pátio da escola, ilustra a fala de B. Essa violência gerou ressentimento profundo em B. Durante a única oficina de que participou, precisamente a oficina que ocorreu no mesmo dia do atentado na escola Carmosina Ferreira Gomes, B. disse entender o garoto que efetuou os disparos. Ela disse que, se dispusesse de uma arma em seu período escolar, teria agido da mesma forma. Essa passagem ao ato é marcada pelo imperialismo americano como um sintoma não tratado de um laço social precário, sedimentado.
+
+### Para além dos muros da escola
+
+A escola não se encerra em seus muros. Na verdade, uma escola pertence a um território específico, a uma comunidade específica, e carrega em seu bojo características do entorno. Não se trata de uma relação passiva, visto que a escola também oferece participação ativa na dinâmica com o território. O sentimento de pertencimento de um sujeito a um território é construído não apenas na relação direta com a comunidade, mas é incentivado na e pela escola. Do mesmo modo, para um aluno se sentir pertencente ao espaço escolar, é preciso que haja algo de seu no espaço que o circula, em um movimento ativo de participação e reconhecimento [(Raffestin, 1993)].
+
+Durante as oficinas, por mais que as questões feitas se voltassem para a experiência escolar dos participantes, as experiências faladas e associadas não se reduziram àquelas do espaço escolar. Falar da experiência na escola, afinal, é falar sobre a própria vida, é falar sobre si, de onde se veio e para onde se vai.
+
+A história que V. nos conta é exemplo disso. V. é indígena de uma tribo do Amazonas. Veio ao Ceará escondida em uma embarcação, pois, aos 7 anos, foi percebida por “destoar” das performatividades masculinas esperadas de um homem em sua tribo. O pajé temia que V. estimulasse outros homens a serem homossexuais e propôs a sua família que realizassem um ritual com seu corpo. A família rapidamente se organizou de modo a transportá-la para parentes cearenses, pelos quais foi adotada. V. fala sobre sua tentativa de se religar a sua identidade indígena ao se vestir com trajes indígenas tipicamente femininos, em tentativa de ressignificar a experiência marginal de ser agora uma mulher trans indígena. bell hooks [-@hooks2019anseios] pontua a diferença cultural entre centro e margem: “devemos criar espaços dentro dessa cultura de dominação se quisermos sobreviver inteiros, com a alma intacta. Nossa presença em si já é uma interferência” (p. 287), em um texto que fala sobre fazer uso da margem como um espaço de abertura radical. A margem é um lugar onde se deve ficar, um espaço de resistência e não necessariamente de privação [@hooks2019anseios].
+
+D., assim como V., traz em sua história a marca de ter sido enjeitado de sua casa muito jovem. A noção de exclusão e rejeição são acontecimentos frequentes em sua vida. D., aos 13 anos, passou 3 dias dormindo na rua porque sua mãe, evangélica, não o aceitou ao se assumir. Foi resgatado da rua por uma prima que se compadeceu dele. D. direciona para nós uma questão que parece muito íntima para ele, qual seja, “por que os evangélicos são tão preconceituosos?”, e que, no fim das contas, pode ser traduzida por: “por que minha família é tão preconceituosa comigo?”
+
+A religião, portanto, se torna um tópico a ser falado durante a oficina. L. diz que, se Deus a fez assim, então todos deveriam aceitá-la. J., por sua vez, diz que já discutiu com outra amiga trans que lhe dissera que ambas iriam para o inferno por serem trans. J. discorda, diz que vai para o céu. Todos os participantes da roda dizem ser cristãos. O discurso religioso é reproduzido pelos participantes da oficina, mesmo que seja um dos dispositivos mais eficazes de marginalização do corpo trans [@butler2020problemas]. Ainda assim, faz parte da identidade do grupo, da relação com a espiritualidade e com as tradições de seu território.
+
+Os relacionamentos amorosos também configuraram tópico de destaque nas oficinas. L. nos conta, por exemplo, que conheceu seu ex-marido em sala de aula. Iniciaram o relacionamento na escola até decidirem morar juntos. A partir de então, seu marido não permitiu que ela continuasse a frequentar a escola, motivo que a fez evadir. L. fala sobre o quão abusivo seu ex-marido se tornou. A realidade da vivência de mulheres trans em relacionamentos heterossexuais é atravessada, além do preconceito, pelo machismo.
+
+O relato de L. nos faz questionar se o movimento feminista se volta para as violências sofridas por mulheres trans ou cis. É preciso demarcar a existência das diferenças existentes na categoria “mulheres” da qual o feminismo se ocupa. Tal categoria não é homogênea e acaba por reproduzir discursos de poder e exclusões dentro de suas diferenças [@louro2013genero].
+
+A., por exemplo, conta que se apaixonou por um rapaz e que mantiveram um relacionamento às escondidas porque, segundo ele, não saberia dizer para sua família e amigos que estava se relacionamento com uma mulher trans. Ela diz: “quando ele falou isso, me perguntei: eu sou o que? um monstro?”. O rapaz temia que fosse considerado um homossexual por todos. A. fala em tom de lamento sobre as pessoas enxergarem os corpos trans reduzidos à genitália e como é injusto ter seu corpo percebido como masculino por carregar um pênis entre as pernas.
+
+Nesse ponto, a noção de que “o sexo biológico é o destino” precisa ser analisada. A ideia de que o gênero é construído culturalmente enquanto reflexo do sexo, sendo este último natural, é tratada por Butler [-@butler2020problemas]. O sexo, a genitália não é produto neutro da biologia, mas fruto de um discurso que realoca cultural e politicamente os corpos dentro do binarismo heterossexual.
+
+Ao se questionar “sou um monstro?”, A. se depara com a ideia de que seu corpo e sua vida são percebidos pela noção de abjeção que, segundo Butler [-@butler2020problemas], envolve “precisamente aquelas zonas 'inóspitas'” (p. 197\) e ‘inabitáveis’ da vida social, que são, não obstante, densamente povoadas por aqueles que não gozam do status de sujeito.” Assim funciona a transfobia: a desumanização dos corpos trans/travestis os relega à posição de não-sujeitos, incapazes de falarem por si, de requererem seus direitos políticos, de serem amados, de serem percebidos enquanto gente.
+
+“Alimentar a sua capacidade de resistência”, como aponta hooks [-@hooks2019anseios], é possibilidade de sobrevivência quando falamos sobre pessoas trans e travestis na escola e no mundo, especialmente no Brasil, país que mais assassina pessoas trans e travestis. hooks [-@hooks2019anseios] também pontua a necessidade de se compreender a marginalidade como posição e lugar de resistência, para que a desesperança e o niilismo não penetrem destrutivamente.
+
+## Considerações finais
+
+O apagamento de corpos trans e travestis na escola, condensado pelo processo de evasão escolar, marca o silenciamento e a impossibilidade de viver e aprender com a diferença dentro de uma cultura de escolarização cisnormativa. A própria estrutura curricular, pedagógica e arquitetônica da escola produz a marginalização.
+
+A evasão, dessa forma, não se trata de um fenômeno desligado de contexto, não é simplesmente a desistência ativa dos estudos ou da comunidade escolar. É, como pontua Lima [-@lima2021tristeza], vivência evadida em cada micro ato que rompe com a dignidade do convívio escolar, em um doloroso movimento de expulsão do diferente.
+
+Os relatos ouvidos no fazer desta pesquisa apontam para a necessidade de construir uma realidade diversificada na escola, que situe a cisgeneridade e a heterossexualidade como apenas uma das possíveis formas de experienciar o corpo, o gênero e a sexualidade – afinal, a transexualidade e a travestilidade marcam isso.
+
+A possibilidade de aprender outros modos de conhecer e estar no mundo parte da necessidade de desmistificar o “destino biológico” dos órgãos sexuais e a complementaridade dos sexos na cultura heterossexual – tudo isso pode ser feito na escola, ampliando o debate sobre gênero e sexualidade.
+
+Há que se marcar, no entanto, que, mesmo com toda a violência, diante de todos os impedimentos, os corpos trans e travestis existem e resistem. Encontram meios de se fazerem presentes, de requererem seus direitos. O Movimento Trans e Travesti de Sobral é ilustre exemplo desse feito e merece todos os louros de reconhecimento.
