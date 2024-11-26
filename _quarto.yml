@@ -35,13 +35,18 @@ book:
         - aragao_saude_trans.qmd
         - barbosa_aquilomba.qmd
         - nascimento_muros.qmd
-        - sobre_os_autores.qmd
+        - antigo_escolarizacao_trans.qmd
+        # (13) - sousa_violencia.qmd
+        # (15) - sousa_silva_saude_homens_trans.qmd
+        # (17) - sobre_os_autores.qmd
     - part: Chapters in English
       chapters:
         - neta_reescrevendo_en.qmd
         - rodrigues_trabalho_en.qmd
         - barbosa_aquilomba_en.qmd
         - nascimento_muros_en.qmd
+        #(14) - santigo_escolarizacao_trans_en.qmd
+        #(16) - sousa_violencia_en.qmd
         - souza_silva_saude_homens_trans_en.qmd
         - about_the_authors.qmd
 
