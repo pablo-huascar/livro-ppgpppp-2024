@@ -1,0 +1,143 @@
+---
+author: 
+  - name: Jocélia Maria Santos de Lira Pessoa 
+    url:  https://lattes.cnpq.br/9851159050629101
+    orcid: 0009-0006-3186-8381
+    email:  jocelialira@alu.ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará    
+  - name: Rita Helena de Sousa Ferreira Gomes
+    url:  http://lattes.cnpq.br/9324470543610163
+    orcid: 0000-0002-2306-4264
+    email: ritahelenagomes@ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+language: 
+  title-block-author-plural: "Autoras"
+filters:
+  - section-bibliographies
+bibliography: pessoa_narrativa.bib
+reference-section-title: Referências
+---
+
+# Narrativas autobiográficas com estudantes dos anos finais do Ensino Fundamental: percepção das políticas públicas
+
+## Introdução
+
+O presente artigo é fruto de uma pesquisa desenvolvida no Mestrado Profissional em Psicologia e Políticas Públicas. A pesquisa utilizou narrativas autobiográficas de estudantes do Ensino Fundamental da cidade de Sobral que identificaram e significaram as políticas públicas que perpassam o processo de escolarização, reconhecendo suas fragilidades e potencialidades.
+
+Na Lei de Diretrizes e Bases da Educação Nacional (LDB), a escola possui o papel de formação dos cidadãos, promovendo seu desenvolvimento e ampliando o convívio social. As relações desenvolvidas dentro do contexto educacional conferem a ele uma importância comunitária.
+
+Para Moreira [-@moreira2020], a escola é o espaço para o desenvolvimento da autonomia, da capacidade crítica para a construção de diferentes identidades e o enfrentamento das violências e exclusões. Propomos, desse modo, reconsiderar a escola como uma organização que, para além do cognitivo, visa à integralidade e se preocupa com os problemas sociais e as políticas públicas diretamente ligadas a eles. Assim, torna-se necessário revisitar e discutir quais filosofias, diretrizes e caminhos estão sendo utilizados pela educação, sua eficácia e aceitação pela comunidade escolar.
+
+Gonçalves [-@goncalves2010] afirma que "as políticas públicas sociais representam, na sociedade brasileira contemporânea, um espaço de promoção de direitos, na direção da superação das desigualdades sociais" (p. 19). Mas essa promoção de direitos de fato acontece? Há uma diminuição das desigualdades sociais, ou mantemos a espera por políticas públicas redentoras? Carvalho [-@carvalho2015] reitera que as políticas públicas de educação "podem contribuir para equacionar as grandes contradições e os problemas da nossa sociedade, como, por exemplo, a privação de direitos das crianças que demandam políticas de proteção social" (p. 28).
+
+No entanto, é necessário avaliar se essas políticas estão afinadas com o interesse da população e região, pois a aplicabilidade de uma política pública não é universal. Quando há a idealização do sujeito, fortalecemos a manutenção das desigualdades sociais. Os indivíduos são atingidos de formas diferentes por políticas públicas pelas quais são perpassados. O sujeito é histórico e tem uma subjetividade única. Desse modo, políticas públicas possuem resultados diferentes em sua implementação. Visto que um modelo padrão é aplicado a regiões, culturas e interesses diferentes.
+
+Diante dos questionamentos, inferimos que uma trajetória de escolarização marcada por sucessivas experiências negativas e pouco estimulantes dentro e fora da escola torna o processo de aprendizagem frágil, comprometendo o desenvolvimento integral desse sujeito. “O adolescente é um sujeito ativo, construtor do seu próprio desenvolvimento ao mesmo tempo em que recebe influências da sociedade e do ambiente no qual está inserido” [@seabra2017, p. 641].
+
+A escola precisa ser espaço de crescimento, propiciando uma escolarização transpassada de forma intencional pelas políticas públicas e fazendo perceber a importância e o motivo que causou a sua implantação. A dificuldade de acesso às políticas públicas pode promover exclusões, seja pela evasão seja pela diferença de um padrão já vivenciado pelas famílias dentro da sociedade. E mesmo o seu acesso não traz consigo garantias de superação de dificuldades e criticidade para questionar esses modelos, pois “estamos cientes de que, em sociedades estruturalmente desiguais, as políticas públicas voltadas para a garantia de direitos sociais são estratégia ideológica de legitimação da ordem capitalista que despolitiza a maioria da população” [@patto2022, p.16].
+
+Diante desse cenário, as narrativas autobiográficas, metodologia utilizada na pesquisa, foram uma estratégia para instigar as crianças e os jovens a reconhecerem espaços de inclusão social, a posicionarem-se criticamente diante de padrões introjetados e compreenderem-se como sujeitos políticos. Ao propor o pensar e o repensar das políticas públicas, a pesquisa buscou promover nos participantes uma percepção de si como sujeitos de direitos, fossem estes garantidos, fossem negados.
+
+> Levantar as memórias do tempo de escola por meio de narrativas autobiográficas é uma estratégia frutífera para se compreender o significado atribuído ao espaço escolar, podendo indicar o quanto nossas experiências nos constroem como sujeitos. Além disso, as narrativas apresentadas podem incitar o desenvolvimento de novas práticas educativas, que considerem a formação integral dos indivíduos, nos aspectos relacionais, culturais, cognitivos, afetivos, sociais e históricos [@neto2017, p. 562].
+
+As políticas públicas no campo da educação perpassam a escola e os seus atores. Há um espaço ideal para discussão sobre essas políticas, sua eficácia a curto, médio e longo prazo, dentro de um processo de construção da educação integral. Carvalho [-@carvalho2015] mantém a discussão de que a escola deve considerar todas as dimensões da vida no desenvolvimento das crianças, não esquecendo que elas devem ser vistas como sujeito, mesmo não existindo acesso igualitário aos direitos entre elas.
+
+## Método
+
+O método utilizado para o desenvolvimento da pesquisa foram as narrativas autobiográficas. De acordo com Furlanetto [-@furlanetto2020], essa fonte de investigação tem seu suporte na narração das experiências vividas. Essas narrações são feitas pelos sujeitos que as vivenciaram. Freitas e Galvão [-@freitas2007] afirmam que "as narrativas autobiográficas trazem em sua elaboração pessoal o sentido idiossincrático das experiências de vida e fazem emergir os processos identitários da inserção dos sujeitos nos grupos sociais" (p. 227). Essa metodologia interativa e dialógica promove um processo reflexivo e ressignificativo quando consente aos participantes narrarem suas próprias experiências. Furlanetto [-@furlanetto2020] enfoca que:
+
+> A pesquisa (auto)biográfica tal como ela vem se desenvolvendo no Brasil interroga não apenas as relações do adulto com o mundo da vida, mas também como crianças, adolescentes e jovens mantêm e constroem valores e crenças em suas relações com o que lhes é proposto pelas instituições que os acolhem (p.49).
+
+As narrativas coletivas promovem espaços reflexivos de construção de sentido dos fatos narrados. “É, portanto, pela narração e na narração produzida que a criança, o jovem e o adulto concebem-se e se percebem em (trans)formação mediante movimentos retrospectivos, interativos e prospectivos propiciados pelo ato de narrar a própria experiência.” [@passegi2016, p.53]. Esse método afirma o reconhecimento do empoderamento do sujeito, seja ele criança, idoso ou adulto, que narra e analisa suas próprias histórias, tornando-se sujeito de direito sobre esse processo. Essas narrações são livres para ocorrer por desenhos, textos, histórias orais, danças, dentre outros. Costa e Astigarraga [-@costa2021] afirmam que "na reflexividade o narrador faz projeção sobre si, formula seu pensamento e, por meio de seu conhecimento, constrói e estrutura suas bagagens experienciais, assumindo a posição de protagonista da vida" (p. 3). A coleta dos dados ocorreu por meio de rodas de conversas, pois elas permitem e oferecem uma escuta potencializada pela horizontalidade e dialogicidade [@furlanetto2020].
+
+A instituição escolhida para a pesquisa foi uma escola de tempo integral. Ela fica situada em um bairro periférico na cidade de Sobral-Ceará. Os dois critérios de inclusão da pesquisa eram ter cursado todo o Ensino Fundamental em escolas públicas e estar regularmente matriculado no 9º ano. A escolha por alunos da referida série adveio por estarem encerrando o ciclo do Ensino Fundamental. Cursar o Ensino Básico em escolas públicas garante que esses alunos tiveram seu percurso escolar atravessado por políticas públicas, fato importante para os objetivos da pesquisa. Todos os nomes são fictícios para preservar a identidade dos participantes da pesquisa.
+
+## Resultados e discussão
+
+Os trechos analisados são transcrições dos encontros e das discussões que ocorreram entre os participantes. As temáticas que emergiram com mais frequência e intensidade foram trazidas para análise. O conteúdo das narrativas dos participantes é único porque parte de vivências pessoais. Mas, quando os analisamos coletivamente, eles são semelhantes em muitos trechos e vão construindo a identidade do coletivo. As afinidades são oriundas da adolescência, do território em que residem, dos planos e das inseguranças sobre o futuro, do percurso escolar que foi forçadamente sendo o mesmo quando vieram residir no mesmo bairro. Kramer [-@kramer2016] afirma que, "ao negociar a construção da memória na relação com suas próprias lembranças e com as lembranças de outros, o sujeito muda, pois há uma íntima relação entre memória e identidade" (p. 35).
+
+### Escola
+
+Nas narrativas, a escola surgiu como lugar de acolhimento, afeto e aprendizagem. Um local de segurança e proteção, um refúgio para os problemas familiares e pessoais. Nóvoa e Alvim [-@novoa2021] apresentam a escola como um espaço de muitos, uma viagem coletiva, diferente da casa, que é um espaço individual. Essa diferença entre os dois espaços é importante e necessária. Por isso, família e escola devem caminhar juntas, pois as suas diferentes realidades se complementam na escolarização dos alunos.
+
+> Além de eu ter meus problemas em casa, eu não gosto de trazer pra escola. Eu acho a escola um lugar muito divertido pra mim. Por isso que eu amo estar na sala, amo ficar com os meninos, faço minhas atividades. Depois eu converso e, por mais que eu grite um pouquinho lá na sala, eu gosto da escola. Eu prefiro a escola mil vezes do que minha casa. \[…\] As pessoas falam: ai, ela é direto gritando. Mas eu sempre faço isso pra esquecer de tudo que acontece na minha casa (Sara).
+
+O afeto presente na escolarização e nas relações que a permeiam disputa lugar com a cobrança por resultados à medida que há o avanço na escolarização dos alunos. Não há perda de “encantamento”, mas há maior fadiga e cansaço com essas cobranças. Excessos de aulas de português e matemática, bancos de questões, provas semanais. As cobranças são recompensadas com premiações para as turmas que atingirem as metas estipuladas. Os alunos promovem um esforço para ganhar banhos de piscina, passeios, chocolates, idas ao cinema, gerando uma mistura de sentimentos quando essas lembranças surgem nas narrativas.
+
+> Eu acho que esses anos que têm aquelas provas mais importantes é um ano que marca demais a vida do estudante. Os professores fez a gente estudar bastante. Conhecer coisas que para nós hoje em dia nem é tão, mas no nosso tempo ‘meu Deus não acredito’, mas era muito bom. É porque marca demais, além da gente aprender a gente se divertia principalmente nos sábados letivos que a gente podia tomar banho de mangueira. Pegava o balde, se molhava (Lua).
+
+> Só que tá é é um pouco cansativo, porque já no quinto ano não é aquela coisa de outro mundo para se preocupar, mas nem tanto, e já a gente é mais puxado porque é a gente tem que dominar várias habilidades. E, se eu não me engano, esse ano a gente tem 59 ou é 49 habilidades para aprender durante o ano, tá bom? Só que para mim, na minha opinião, eu acho muito (Lua).
+
+Outro ponto de destaque nas narrativas é a referência aos professores como mediadores da aprendizagem que desenvolvem um papel importante ao exercer a sua presença pedagógica. Eles tornam-se atores essenciais nas narrativas, seja nas cenas alegres, seja nas comoventes. Rodrigues *et al*. [-@rodrigues2021] defendem que o processo de aprendizagem das crianças é permeado por emoções. Nóvoa [-@novoa2021, p. 7] afirma que os professores são necessários para a educação como missão, pois, “em proximidade com as famílias, os poderes locais, as entidades públicas e privadas, podem construir as condições para uma capilaridade educativa baseada no comum e na convivialidade”. A afetividade interfere positivamente no desenvolvimento dos educandos. Os nomes dos professores sempre vêm seguidos de uma história que marcou a vida daquele aluno.
+
+### Escola de tempo integral
+
+A escola de tempo integral é uma proposta regulamentada pelo governo federal e visa ampliar a oferta de escolas do Ensino Básico em formato integral. Um aluno em tempo integral tem três refeições diárias asseguradas, maior oferta de materiais para aprendizagem, e permanece por nove horas diárias dentro da escola, fator que tranquiliza os responsáveis que trabalham fora do lar.
+
+Todavia, há necessidade de discussão sobre a qualidade da oferta dessa modalidade de ensino e do formato de execução do currículo diversificado. A estrutura física dos prédios, a exaustão e as cobranças de resultados nas avaliações de larga escala, assim como a diversidade do cardápio, também precisam ser debatidas. Quando um aluno permanece por nove horas diárias dentro de uma instituição escolar, é ainda mais premente uma formação cognitiva, emocional, social e crítica de qualidade. “Assim, a educação (em tempo) integral pode desempenhar um papel importante na transformação das funções da educação pública. Tal transformação se assenta nas formas como o seu público tem sido tratado” [@carvalho2015, p.38]. Libâneo [-@libaneo2016] fortalece a postura crítica de avaliar como e por que as escolhas na educação são feitas:
+
+> Estudos recentes indicam, por exemplo, que uma das orientações mais presentes nos documentos do Banco Mundial é a institucionalização de políticas de alívio da pobreza expressas numa concepção de escola como lugar de acolhimento e proteção social, em que um de seus ingredientes é a implementação de um currículo instrumental ou de resultados. Tais políticas trazem junto o desfiguramento da escola como lugar de formação cultural e científica e, em consequência, a desvalorização do conhecimento escolar significativo (p. 40).
+
+As narrativas trazem experiências de encantamento, de limitações e de exaustão desse formato de ensino.
+
+> A escola de tempo integral é uma coisa boa e ao mesmo tempo exaustiva. Porque é bom porque a gente desenvolve mais do que as outras escolas, a gente tem mais aulas diferenciadas, a gente passa mais tempo com nossos colegas... Só que, ao mesmo tempo, para mim, é exaustivo. Exige muito, a gente acorda cedo e volta para casa depois de horas. 9 horas na escola entre três intervalos que são a merenda da manhã, o recreio da tarde e o intervalo da tarde. Toda vez que eu chego em casa tô muito cansada. Só quero dormir (Lua).
+
+### Bullying
+
+> … aí, no começo, eu sofria bullying. O menino, o menino pegaram o meu óculos, saiu correndo com meu óculos. Eu chorei. Aí eu fiquei gritando pela tia Rosa, que me ajudou, porque eu era muito cega… vou chorar… eu sou muito sensível pra contar essas coisas (Sara).
+
+O nome bullying tem origem na língua inglesa, *bully*, que significa “agressor”, e bullying pode ser definido como “comportamento agressivo”. Ele tem avançado de forma rápida e violenta dentro do ambiente escolar e perpassou as narrativas autobiográficas de todos os participantes.
+
+O país tem manifestado preocupação, e, como uma tentativa de discutir e extinguir o bullying, promulgou em 2015 a Lei nº13.185, que instituiu o Programa de Combate à Intimidação Sistemática (Bullying). A lei utiliza o termo “intimidação sistemática” e define bullying como “todo ato de violência física ou psicológica, intencional e repetitivo que ocorre sem motivação evidente, praticado por indivíduo ou grupo, contra uma ou mais pessoas, com o objetivo de intimidá-la ou agredi-la, causando dor e angústia à vítima, em uma relação de desequilíbrio de poder entre as partes envolvidas” [@brasil2015].
+
+Nascimento e Menezes [-@nascimento2013] afirmam que bullying "não é um ato de agressão gratuita, mas sim uma situação de violência marcada por discriminação e preconceitos, socialmente construídos e sustentados por uma cultura escolar que fica alheia a esse fenômeno" (p. 146). Embora seja uma discussão anterior à lei nacional, o cenário não apresentou mudanças positivas e continua gerando sofrimento nos alunos vítimas dessa violência. Promover cultura de paz, dialogar sobre as diferenças, acolher as vítimas, incentivar que os casos de bullying não sejam silenciados, tudo isso pode trazer visibilidade e possíveis mudanças no ângulo de discussão dessa temática, que deixa marcas nas histórias de vida desses alunos.
+
+> A minha mãe já tinha notado que eu estava muito depressivo lá no sétimo ano. Eu ficava muito triste dizendo que não queria vir para a escola. Porque, assim, gente, eu sofria muito bullying, né? Vamos falar a verdade, eu não gostava e estava quase entrando em depressão (Tíbio).
+
+### Pandemia
+
+> Eu não sei vocês, mas a pandemia mexeu muito comigo. Até hoje restam sequelas (Tíbio).
+
+As narrativas trouxeram impactos da pandemia da Covid-19 que precisam ser analisados: a dificuldade em acompanhar as aulas remotas, a saúde mental. O ano de 2020 foi um marco no novo formato de se fazer educação.
+
+> Em 2020, tudo mudou. Com a pandemia, terminou o longo século escolar, iniciado 150 anos antes. A escola, tal como a conhecíamos, acabou. Começa, agora, uma outra escola. A era digital impôs-se nas nossas vidas, na economia, na cultura e na sociedade, e também na educação. Nada foi programado. Tudo veio de supetão. Repentinamente. Brutalmente [@novoa2021, p. 2).
+
+As escolas passaram por um processo de adaptação tecnológica para que pudessem continuar o ensino-aprendizagem dos seus alunos. Todavia, não somos um país com acessibilidade digital garantida e igualitária para todos, o que resultou em uma diferença de aproveitamento e aprendizagem dos alunos de acordo com sua classe social.
+
+> Dados da Rede de Pesquisa Solidária de agosto de 2020 mostram que, entre março e julho de 2020, mais de 8 milhões de crianças de 6 a 14 anos não fizeram quaisquer atividades escolares em casa. No mês de julho, enquanto apenas 4% das crianças mais ricas ficaram sem qualquer atividade escolar, tal número saltou para 30% entre as crianças mais pobres [@macedo2021, p.267].
+
+O governo federal não conseguiu promover e garantir o acesso tecnológico a milhares de estudantes do país. Macedo [-@macedo2021] ressalta que, "ao findar o ano de 2020, apesar de alguns projetos de lei formulados no Legislativo, nenhuma política pública federal de garantia à conectividade e à educação remota para estudantes do ensino público tinha sido aprovada no país" (p. 268). Esses dados demonstram que há um abismo entre se garantir uma política pública no Plano Nacional de Educação e sustentar a sua efetiva implementação. O período pandêmico deixou um déficit de aprendizagem nos estudantes, principalmente nos pertencentes às classes pobres.
+
+> Aí eu usava nessa época o celular da minha mãe, aí eu só fazia as atividades e entregava, mas participar das aulas não participava (Vilma).
+
+> Eu não participei das aulas online (Lua).
+
+Além das dificuldades no acesso tecnológico, a discussão sobre a importância da saúde mental também aumentou sua visibilidade nos anos de pandemia. Jucá *et al*. [-@juca2021] afirmam que "dor psíquica, angústia, medo são experiências que se inscrevem com o avanço da pandemia, o luto do cotidiano, a perda de parentes e de pessoas conhecidas, a intensificação do convívio (e dos conflitos) familiares e as incertezas sobre a retomada das aulas" (p. 12). Nunca se falou tanto sobre saúde mental e sua importância, isso instigou esses adolescentes a buscarem e dialogarem sobre a importância de psicólogos em seu desenvolvimento.
+
+### Território (muros invisíveis)
+
+O bairro onde os participantes residem é uma política pública de habitação, tornando-se um marco importante na história de vida desses adolescentes. Os muros que o cercam são invisíveis, mas perceptíveis no medo, na raiva, na impotência, na discriminação aos quais seus moradores são submetidos. Esses 'muros' são delineados por ordens de organizações criminosas que promovem insegurança nos moradores. As consequências de residir em um território periférico e estigmatizado é sentida e descrita ao longo dos encontros.
+
+> Toda vez que me perguntam aonde eu moro, aonde eu estudo, eu respondo que é na Floresta, porque eu não tenho coragem de dizer que moro na Praia (Tíbio).
+
+> Eu fico com medo de morrer. A Praia é muito discriminada (Vilma).
+
+> Mas, cara, eu queria pegar cada pessoa que fala assim. Colocar um dia aqui pra ver que não é coisa de outro mundo. A gente tem uma vida normal, como a deles, cara. A gente tem nossa casa, tem nossos amigos e tem nossa escola. A gente vive uma vida normal (Lua).
+
+> A minha mãe não é de nada, mas ela se recusa a andar em outros bairros porque ela já perdeu uma irmã por causa dessas brigas de bairro. Aí, o que me marcava muito era que tipo minha mãe nunca pôde ir numa reunião minha quando tinha na escola. Eu tinha já esse meu jeito de protagonista e, toda dança da escola, toda peça, eu queria tá lá. Eu dançava. Só que toda vez eu via as mães indo, e a minha nunca vinha. E teve um dia que eu cansei de esperar. Eu já ia fazer apresentação sabendo que ela não ia me ver. Isso é uma parte muito marcante. E não era porque ela não queria, era porque ela não podia. Apresentação, festa junina, dança do dia das mães, reunião importante. Quando teve um negócio da páscoa, eu fiquei muito triste porque eu queria ela lá, e ela não ia. Aí, eu acho que, pra minha vida, eu até falei pro meu irmão. Ela também não vai poder ir para as reuniões dele. Mas eu falei pra ele que, se um dia tiver alguma coisa, eu vou, né. Porque eu não quero que ele passe pela mesma coisa que eu passei (Ana).
+
+Quando discutimos territórios e suas representatividades, geramos outras questões sobre as políticas públicas interligadas a ela. A interseção com a garantia das políticas de segurança tanto tem se mostrado falha em proteger os moradores do bairro dos mandos e desmandos das facções, quanto, por vezes, tem nos próprios agentes de políticas de segurança pública reforçadores de estigmas e violência com os sujeitos periféricos. Quais têm sido prioritárias para romper o estigma do território? O que essas políticas e projetos estão produzindo e representando dentro do bairro? Os habitantes se veem nesses processos de construção coletiva?
+
+Gonçalves [-@goncalves2019] argumenta que "é importante resgatar o que tem sido dito sobre esse território e, com isso, problematizar a visibilidade de alguns discursos e práticas, em detrimento do silenciamento de outros, quando o assunto é favela" (p. 131). Há a incitação de discutir esse território de forma não estereotipada, para, assim, abrir novos caminhos. As narrativas trazem timidamente uma possibilidade de novos atores. Mas faz-se necessário instigar esses adolescentes a discutir políticas públicas com intencionalidade crítica e construtiva.
+
+## Considerações finais
+
+A partir das narrativas dos adolescentes, foi possível compreender a importância do percurso escolar para um bom desenvolvimento do sujeito, os seus significados e sentidos dentro da história de vida de cada um, bem como a potencialidade do coletivo na discussão dos marcos em comum nas travessias escolares. As políticas públicas são marcadores potentes nessas travessias.
+
+Os alunos buscam espaços de fala e não somente de aprendizagem. A fala diz muito de si e dos seus anseios. A utilização das narrativas autobiográficas com adolescentes permitiu visibilidade e voz. Em suas narrativas, emergiram políticas públicas diretamente ligadas à educação, tais como escola de tempo integral, programa bolsa família, política nacional de alimentação, kit escolar. Porém outros marcadores ligados a eles também surgiram fortemente: bullying, pandemia, território (em que residem). Essa combinação de temas comprova que a escola não é uma instituição isolada, mas permeada pelas histórias de vida dos sujeitos que a compõem.
+
+A escola não se finda em si. Há a necessidade de uma verdadeira ampliação e intenção da sua validade. A lei e o discurso são práticos, coerentes e futuristas. Todavia, o dia a dia é exaustivo.
+
+As análises dessa pesquisa poderão contribuir com os profissionais que pensam e desenvolvem as políticas públicas direcionadas às crianças e aos adolescentes, fornecendo suporte para avaliar a eficácia da implementação e execução dessas políticas. Ademais, ao promover um ambiente de troca e de reconhecimento das narrativas dos participantes, a pesquisa pôde ser percebida como um espaço de acolhimento, bem-estar e oportunidade para o reconhecimento de si como sujeito de direitos.
