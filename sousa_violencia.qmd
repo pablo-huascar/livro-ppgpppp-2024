@@ -1,1 +1,23 @@
+---
+author: 
+  - name: 
+    url:  
+    orcid:
+    email:
+    affiliations: 
+      - name:   
+  - name: 
+    url: 
+    orcid: 
+    email: 
+    affiliations: 
+      - name:
+language: 
+  title-block-author-plural: "Autoras"
+filters:
+  - section-bibliographies
+bibliography: 
+reference-section-title: Referências
+---
 
+# “Do meu jeito, fiz a minha revolução”: as diversas camadas da violência contra a mulher que se prostitui
