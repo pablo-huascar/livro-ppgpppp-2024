@@ -14,6 +14,148 @@ author:
       - name: Universidade Federal do Ceará
 lang: en
 toc-title: "Table of contents"
+language: 
+  title-block-author-plural: "Author"
+filters:
+  - section-bibliographies
+bibliography: aragao_saude_trans.bib
+reference-section-title: References
 ---
 
 # "I think it's hard even for cis people, let alone trans": Health of trans men in a countryside municipality in Ceará, Brazil
+
+## Introduction
+
+The 1988 Constitution guarantees the right to health in Brazil, a result of historical struggles in the country. To ensure access to health by the State, the Unified Health System (SUS) was created based on the principles of comprehensiveness, universality, and equity [@brasil2009]. After the creation of this system, health became a duty of the State, allowing a larger number of people to access this right.
+
+The concept of health is plural, and it is necessary to consider social determinants such as gender, sexual orientation, race, etc. These factors may be involved in discriminatory practices and prejudice, such as those suffered by the LGBT population (Lesbians, Gays, Bisexuals, and Transgender), which are related to the health-disease process [@brasil2013a]. In discussing access to health for these groups, the National Policy for Comprehensive LGBT Health was created in 2011\. This policy aims to ensure comprehensive health care for the LGBT population, seeking to eliminate prejudice and discrimination to reduce inequalities and strengthen the principles of SUS [@brasil2013a].
+
+Specifically, the transgender and transvestite population has historically faced violence, discrimination, and other forms of exclusion in various contexts [@monteiro2019]. According to data from the Dossier: Murders and Violence Against Brazilian Transvestites and Transsexuals in 2023 [@benevides2024], approximately 141 trans people were murdered in the country, with the state of Ceará ranking third in the number of deaths, with 12 trans people murdered in the year. In this context, transphobia is characterized by violence, exclusion, and aversion towards trans people, acting as a means of denying ways of existing that differ from the cisheteronormative notion [@sousa2018]. This type of violence causes suffering and illness to individuals.
+
+Trans people tend to avoid using primary health care services, which are characterized as the gateway to SUS and the primary means for individuals to remain in the public health system [@silva2017]. When focusing on trans men, greater invisibility of these individuals is observed.
+
+This research investigates how trans men access health care, given their exclusion in various areas. The violence they face and delayed access to public health policies directly impact their well-being and quality of life. Thus, the general objective of this research is to investigate the healthcare strategies of trans men in a rural municipality in Ceará.
+
+## Method
+
+This research sought to understand the phenomenon of access to health care by trans men, based on their experiences and perceptions. To this end, the methodology used was qualitative research, defined by Minayo [-@minayo2007] as:
+
+> ... what applies to the study of history, relationships, representations, beliefs, perceptions, and opinions, products of the interpretations that humans make regarding how they live, build their artifacts and themselves, feel, and think (p. 57).
+
+In this sense, the participants' stories, ways of feeling, thinking, and living were valued, seeking to understand the phenomenon studied based on these aspects. Godoy [-@godoy1995] states that qualitative research is a way of studying human phenomena, considering the relationships maintained by individuals. For an integrated data analysis, the researcher must analyze the facts in the context in which they occur, considering the people's experiences involved in the research process.
+
+### Participants
+
+The people who participated in the research met the following inclusion criteria: a) being trans men; b) over 18 years old; c) living or having lived in a rural city in Ceará. Those who did not meet these criteria were excluded from the study. The sample of participants was obtained through the "snowball" method, in which one participant recommends another who also belongs to the study's specific group. Three trans men aged between 23 and 36 years were interviewed, all of whom met the requirements to participate in the research.
+
+### Instruments
+
+According to Marconi and Lakatos [-@marconi2017], an interview is a way of obtaining information and collecting data about a specific topic. It is conducted through a meeting between two people so the interviewee can discuss a particular subject. The instrument used was a semi-structured interview, with open questions prepared in advance and a sociodemographic questionnaire to obtain information about other important aspects of the participants' lives.
+
+### Procedures
+
+An exploratory field study was conducted. Gil [-@gil2008] states that the objective of these studies is to obtain more information about a particular phenomenon with little or no literature, making it possible to elaborate or understand the findings differently.
+
+### Location
+
+The research was conducted in a city in the northern region of the state of Ceará. According to data from the Brazilian Institute of Geography and Statistics (IBGE, acronym in Portuguese for Instituto Brasileiro de Geografia e Estatística), in 2021, the city had an estimated population of over 200,000 inhabitants. The city is a reference for health, education, commerce, and other areas concerning the municipalities located in the surrounding areas.
+
+### Data Collection
+
+This study was approved by the Ethics and Research Committee (CEP) as part of an umbrella study, with protocol CAAE 68320422.0.0000.5053. After approval by the CEP, the interviews were conducted during July and August 2023\. Following the reading of the informed consent form (ICF), the interviews were divided into two parts: first, participants answered a sociodemographic questionnaire, and then the semi-structured interview began with open questions. None of the stages were recorded.
+
+Afterward, field diaries were written to ensure no critical content from the accounts was lost. The analysis of the interview content was carried out based on these diaries. According to Medrado, Spink, and Méllo [-@medrado2014], field diaries are tools that allow researchers to record, in addition to the accounts, the impressions and doubts that arise during the process, in a way making them an active participants in the research and, in this sense, engaging in discursive practices, or language in action.
+
+### Data Analysis
+
+Data analysis was carried out through the theoretical and methodological approach of analyzing discursive practices, focusing on "language in use" [@spink2010, p. 26]. In this sense, discursive practices are, according to Spink [-@spink2010], how individuals make sense of and position themselves in daily social relationships through the use of language. It is socially and collectively constructed through interaction, in which people in a historical and cultural context construct meanings based on what they understand and experience in events. The individuals involved in the process, including the researcher, actively produce meaning [@spink2013].
+
+The discursive practices analysis approach was chosen because the study seeks to consider the meanings produced by the participants based on each individual's experiences. In this way, it was possible to systematize the interview data into three categories of analysis: a) access to health care in both institutionalized and non-institutionalized forms; b) (dis)respect for social name and gender identity in health services; c) strategies for improving access and guaranteeing rights for trans people in health care.
+
+## Results and Discussion
+
+The sociodemographic profile of the research participants is organized in the table below (Table 1). To maintain confidentiality, the names given to the participants in this research are bird names, as one of the participants mentioned in an interview that they wished to be free like a bird. The chosen names were Curió, Patativa, and Sabiá.
+
+**Table 1**  
+*Sociodemographic Profile of Research Participants: Institutionalized and Non-Institutionalized Health Care*
+
+| Name | Age | Marital Status | Education | Occupation | Income | Religion | Race |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Sabiá | 23 | Single | Incomplete College | Student | 4 or more wages | None | White |
+| Patativa | 28 | Single | College Graduate | Employed | 2 - 4 wages | None | White |
+| Curió | 36 | Single | College Graduate | Employed | 1 - 2 wages | None | Black |
+
+The National LGBT Health Policy presents the premise that discrimination and prejudice are linked to the process of illness and suffering of the population [@brasil2013b]. Access to health care by the trans men interviewed occurs primarily through primary care through the Family Health Centers (CSF). Sabiá, Patativa, and Curió, the three participants of the research, reported that they use the public health network of the municipality, mainly primary care, but also seek other services or support networks.
+
+> When it comes to physical health, I go to the T. health center, which covers the neighborhood where I live. I also receive psychological support from my girlfriend (Interview Sabiá, 07/03/2023).
+
+> When it comes to simple care, such as a cold or sore throat, I go to the local health clinic. For gender transition care, I go to my private endocrinologist (Interview Patativa, 08/14/2023).
+
+> For health in general, I go to the health clinic. For mental health, I go to the CAPS. I depend on these services because I can't afford private doctors (Interview Curió, 08/21/2023).
+
+There is a demand for institutionalized services. However, it is possible to see a lack of preparedness on the part of health professionals to meet some of the needs of trans users. Patativa said he feels apprehensive about seeking health services because, according to him, professionals do not provide a sense of security when caring for trans people. He perceives a lack of knowledge and that professionals end up placing the responsibility for this knowledge on trans individuals themselves.
+
+> Researcher: Do you find it difficult to access health care?  
+> Patativa: I feel apprehensive. It seems like they (*the doctors*) are hesitant and forget everything they learned. During the pandemic, I had to research on my own the use of hormones and their interaction with the COVID vaccine, precisely because health professionals didn't know if there were any harmful interactions. People don't know what to do with me (Interview Patativa, 08/14/2023, emphasis added).
+
+On the other hand, there are also those who use informal means to access health care, such as Sabiá, who uses testosterone without medical supervision due to difficulty accessing it through SUS and lacking the financial means to see a private endocrinologist.
+
+> Researcher: Do you perform any procedures or self-medication without the supervision of health professionals? Why?  
+> Sabiá: Yes, I do. Because it's expensive, and I don't have my family's support. I use hormones clandestinely. Initially, I started using a gel that is indicated for testosterone replacement and is applied to the skin, but the amount of testosterone is low.  
+> Researcher: When did you start?  
+> Sabiá: I started using it in 2022\. In March 2023, I began using testosterone that I got from another friend who is also a trans man. I don't see an endocrinologist because I once went to the clinic, and the doctor said he didn't prescribe hormones in such cases. I also went to the health center to get a referral, but I haven't been called yet (Interview Sabiá, 07/03/2023).
+
+Monteiro and Brigeiro [-@monteiro2019] show different ways trans people access health care; some rely on institutionalized means, based on available services, but most access health care through informal practices. In this sense, it was possible to observe from the research data that trans men often exchange information about hormone use instead of seeking health professionals, whether due to a lack of knowledgeable endocrinologists about hormone therapy for trans men or discomfort in accessing health services.
+
+### “How many times do I have to say my name? I'm he. Not she.”: Social Name and Gender Identity in Health Services
+
+The concept of health is plural, requiring consideration of the social determinants of health, such as exclusion due to unemployment, low or no access to food, discrimination, difficulty accessing education, sanitation, etc. All these factors are related to individuals' health-disease processes. In this regard, discrimination and prejudice faced by the LGBT population interfere in their health-disease processes [@Brasil2013b].
+
+> Researcher: Have you ever suffered any type of prejudice, violence, or felt offended when seeking health services? If so, could you describe what happened?  
+> Curió: Yes, I have. They have called me "she." There is a doctor at the health center, who is responsible for my treatment, and he insists on calling me "she." I always correct him, but it keeps happening. How many times do I have to say my name? I'm he. Not she (Interview Curió, 08/21/2023).
+
+The lack of respect for the social name of transgender and transvestite people is one of the primary forms of violence experienced by the population, including in health services. Despite the existence of Ministry of Health Ordinance No. 1,820, dated August 13, 2009 [@brasil2009], which addresses the rights and duties of health users and guarantees identification by social name in documents, this is often not respected in health services. Most situations of disrespect for the use of a social name begin at reception when professionals refuse to include the social name on the attendance forms or insist on calling by the civil registration name [@sampaio2013], which prevents trans people from accessing and staying in health services [@silva2017].
+
+> There is a receptionist who insists on calling me by the wrong pronoun... many times, people in the health system already assume what 'the person is' based on physical characteristics and appearances (Interview Sabiá, 07/03/2023).
+
+Furthermore, confusion among health service professionals regarding the differentiation between gender identity and sexual orientation was observed. Gender identity is understood as how a person identifies themselves, relating to the gender norms that are socially and culturally imposed. It is important to note that not all people fit into binary gender notions. Sexual orientation is how an individual relates emotionally and sexually [@brasil2018].
+
+Sabiá points out that many professionals assume "what the person is" based on physical characteristics and assign incorrect pronouns to trans people. This confusion is common in the everyday life of transgender people, especially those who are in the early stages of transition or those who do not wish to acquire so-called "masculine" characteristics. Sabiá explains that performing masculinity or femininity helps reduce the suffering of transgender people. Thus, individuals who do not perform according to expected gender norms (haircut, clothing, behavior, etc.) suffer more prejudice. In this regard, Curió also reported being a victim of this confusion between gender identity and sexual orientation.
+
+> Many people think I'm a "butch lesbian." Do I need to have a beard to be a man? For boys with beards, it's easier (Interview Curió, 08/21/2023).
+
+Regarding the relationship between violence and performing according to established gender norms, Sampaio and Germano [-@sampaio2017] problematize that health for this specific population is related to the processes of constructing an intelligible body by the norms that institutionalize who will be named as male or female. Having a body and behavior recognized as masculine reduces the likelihood of trans men facing violence and transphobia. To achieve this, practices considered harmful to health are often adopted if we use the hegemonic health model as a reference. The use of hormones without professional guidance is one example of a body modification strategy to be recognized socially as male and, consequently, suffer less violence, despite the risks of thrombosis, for example.
+
+### "Universality, Comprehensiveness, and Equity": How to Improve Access and Guarantee SUS Principles for Trans People?
+
+> Researcher: How do you believe trans men's healthcare services could be improved?  
+> Patativa: Through continued, serious, and plural training. A diversified dialogue that involves the technical aspect, the use of substances and hormones, pregnancy, and family formation, etc. It has to be included in all campaigns. For example, trans men also undergo mammograms, and trans women, sometimes, also participate in the "Blue November" campaign. Bring the experience of various trans people, because the experience of a Black trans person is different from that of a non-Black trans person (Interview Patativa, 08/14/2023).
+
+Ongoing training of health professionals is essential for better care and treatment of trans people in health services. According to de Carvalho *et al*. [-@carvalho2019], for this to be possible, professionals must eliminate prejudice and stigma, respect the use of social names, and include issues related to the trans population in the daily routine of health services.
+
+Most of the time, people seek health services to deal with common issues that go beyond the condition of being trans or not [@carvalho2019]. Like Patativa, Sabiá also points out the need for training, so that professionals have more excellent knowledge about the rights of the LGBT population, thus improving care and access to health policies. Curió also mentioned that improving healthcare for trans people could involve a free or discounted plan for low-income individuals.
+
+> Researcher: How do you believe trans men's healthcare services could be improved?  
+> Curió: The creation of a free plan for people who can't afford it or are low-income. If you're rich, you choose the private sector; those who aren't rich are left waiting. I think it would be better if we had faster care, that prioritizes respect, and especially eye contact (Interview Curió, 08/21/2023).
+
+At this point, it is important to highlight the class differences among the interviewees. As described in Table 1, Curió's income differs from that of the other two participants. Despite mentioning the importance of professional training and respect for trans people to improve care, it should be noted that he emphasizes the need for a policy that offers a free plan for those who cannot afford it, reflecting social inequality and access to essential health services, such as hormone therapy, which is often unavailable through SUS in all municipalities.
+
+In this case, due to socio-economic conditions that prevent access to private exams and hormones, Curió's improvement in health would involve easier access to these procedures through private health services. In contrast, the other two higher economic class participants can access these services privately or informally.
+
+In this sense, Paim [-@paim2018] reveals an attack on SUS in various ways, mainly due to conflicts of interest among health insurance companies, advertising, and other industries linked to medicine and pharmacy. Furthermore, the influence of neoliberalism during the implementation period of this system and the economic crises that occurred have made it difficult to implement universal health systems, such as SUS.
+
+The privatization of public policies has existed even before the implementation of SUS [@paim2018]. Given the underfunding and lack of resources for SUS, discourses promoting the privatization of services and health plans as a solution to these issues have increased. This idea is very present due to the system's history of neglect.
+
+When Curió speaks about the need for a free plan for low-income people, it indicates that public health policies are not reaching where they should be. Thus, it is necessary to emphasize that free healthcare exists but is not universally, equitably, and comprehensively accessible to everyone.
+
+## Final Considerations
+
+The results obtained in the research suggest that trans men in the municipality are accessing health services mainly through CSF. In this sense, despite the access, difficulties were noted among the workers in these facilities, from receptionists to higher education professionals, regarding their knowledge of transsexuality and, especially, the care of trans men.
+
+As a result of inadequate information, it is evident that this group faces prejudice and discrimination, such as a lack of respect for the use of pronouns and social names, which causes discomfort and avoidance of using the services. It is important to point out that there is a search for informal means, such as the sharing of testosterone among trans men, especially among those who cannot afford a private doctor, since access to hormone therapy is bureaucratic in the public sector, especially in rural areas, and costly in the private sector.
+
+Based on what has been discussed, there is a need for ongoing training, discussions on gender identity, sexual orientation, and trans experiences among professionals in the public network. In this sense, improving care for the trans population in general by avoiding prejudice facilitates their access to health services.
+
+It is important to note that this research does not summarize the health access needs of trans men. Although there are similarities between them and among some of the demands present in the research accounts, each trans man is unique, with different experiences and needs. In addition, the research had some limitations, such as the number of participants and the age group being restricted, which did not allow investigation of the demands of trans men over 36 years old.
+
+Thus, it is hoped that the research will produce data to improve humanized and welcoming public health policies. Furthermore, it is expected that these data can improve the care and well-being of trans men in these services, considering the prejudice and stigma that this population already faces due to their existence.

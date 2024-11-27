@@ -74,6 +74,9 @@ A abordagem de análise das práticas discursivas foi escolhida, pois o estudo b
 
 O perfil sociodemográfico dos participantes da pesquisa foi sistematizado na tabela abaixo (Tabela 1). Para manter o sigilo, os nomes dados aos participantes nesta pesquisa são nomes de pássaros, pois, em uma das entrevistas, um dos participantes falou que gostaria de ser livre como um pássaro. Os nomes dados foram: Curió, Patativa e Sabiá.
 
+**Tabela 1\.**   
+*Perfil sociodemográfico dos participantes da pesquisa Saúde: institucionalizada e não institucionalizada*
+
 | Nome | Idade | Estado civil | Escolaridade | Ocupação | Renda | Religião | Raça |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 | Sabiá | 23 | Solteiro | Superior Incompleto | Estudante | 4 ou mais salários | Não possui | Branco |
