@@ -26,7 +26,7 @@ reference-section-title: Referências
 
 No Brasil, o direito à saúde é assegurado pela Constituição de 1988, resultado de lutas históricas no país. Para a garantia do acesso à saúde pelo Estado, houve a criação do Sistema Único de Saúde (SUS), que tem como princípios a integralidade, universalidade e equidade [@brasil2009]. Após a criação desse sistema, a saúde passou a ser um dever do Estado, permitindo que um maior número de pessoas tenha acesso a esse direito.
 
-O conceito de saúde é plural, sendo necessário levar em consideração determinantes sociais como gênero, orientação sexual, raça, etc. Esses fatores podem estar implicados em práticas de discriminação e preconceito, como os sofridos pela população LGBT (Lésbicas, Gays, Bissexuais e Transexuais), as quais estão relacionadas ao processo de saúde-doença [@brasil2013a]. Ao discutir sobre o acesso à saúde por parte desses grupos, em 2011, foi criada a Política Nacional de Saúde Integral LGBT. Essa política objetiva garantir cuidados de saúde de forma integral à população LGBT, visando à eliminação dos preconceitos e formas de discriminação, a fim de diminuir as desigualdades e fortalecer os princípios do SUS [@brasil2013a].
+O conceito de saúde é plural, sendo necessário levar em consideração determinantes sociais como gênero, orientação sexual, raça, etc. Esses fatores podem estar implicados em práticas de discriminação e preconceito, como os sofridos pela população LGBT (Lésbicas, Gays, Bissexuais e Transexuais), as quais estão relacionadas ao processo de saúde-doença [@brasil2013]. Ao discutir sobre o acesso à saúde por parte desses grupos, em 2011, foi criada a Política Nacional de Saúde Integral LGBT. Essa política objetiva garantir cuidados de saúde de forma integral à população LGBT, visando à eliminação dos preconceitos e formas de discriminação, a fim de diminuir as desigualdades e fortalecer os princípios do SUS [@brasil2012].
 
 De forma específica, a população transexual e travesti é marcada, historicamente, por sofrer violência, discriminação e outras formas de exclusão em diversos contextos [@monteiro2019]. Segundo dados do Dossiê: assassinatos e violências contra travestis transexuais brasileiras em 2023 [@benevides2024], no país, foram assassinadas cerca de 141 pessoas trans, sendo o estado do Ceará o terceiro colocado em maior número de mortes, com 12 assassinatos de pessoas trans no ano. Nesse sentido, a transfobia é caracterizada por formas de violência, exclusão, aversão às pessoas trans, sendo um meio de negação das formas de existir que diferem da noção cisheteronormativa [@sousa2018], o que causa sofrimento e adoecimento aos sujeitos.
 
@@ -74,7 +74,7 @@ A abordagem de análise das práticas discursivas foi escolhida, pois o estudo b
 
 O perfil sociodemográfico dos participantes da pesquisa foi sistematizado na tabela abaixo (Tabela 1). Para manter o sigilo, os nomes dados aos participantes nesta pesquisa são nomes de pássaros, pois, em uma das entrevistas, um dos participantes falou que gostaria de ser livre como um pássaro. Os nomes dados foram: Curió, Patativa e Sabiá.
 
-**Tabela 1\.**   
+**Tabela 1.**\
 *Perfil sociodemográfico dos participantes da pesquisa Saúde: institucionalizada e não institucionalizada*
 
 | Nome | Idade | Estado civil | Escolaridade | Ocupação | Renda | Religião | Raça |
@@ -83,7 +83,7 @@ O perfil sociodemográfico dos participantes da pesquisa foi sistematizado na ta
 | Patativa | 28 | Solteiro | Superior Completo | Trabalha | 2 - 4 salários | Não possui | Branco |
 | Curió | 36 | Solteiro | Superior Completo | Trabalha | 1 - 2 salários | Não possui | Preto |
 
-A Política Nacional de Saúde LGBT apresenta como pressuposto o fato de que as discriminações e os preconceitos estão ligados ao processo de adoecimento e sofrimento da população [@brasil2013b]. O acesso à saúde dos homens transexuais entrevistados ocorre, principalmente, por meio da atenção primária, pelos Centros de Saúde da Família (CSF). Sabiá, Patativa e Curió, os três participantes da pesquisa, ao serem questionados sobre onde buscam cuidado em saúde, informam que fazem uso da rede pública de saúde do município, principalmente da atenção primária, mas que buscam também outros serviços ou redes de apoio.
+A Política Nacional de Saúde LGBT apresenta como pressuposto o fato de que as discriminações e os preconceitos estão ligados ao processo de adoecimento e sofrimento da população [@brasil2013]. O acesso à saúde dos homens transexuais entrevistados ocorre, principalmente, por meio da atenção primária, pelos Centros de Saúde da Família (CSF). Sabiá, Patativa e Curió, os três participantes da pesquisa, ao serem questionados sobre onde buscam cuidado em saúde, informam que fazem uso da rede pública de saúde do município, principalmente da atenção primária, mas que buscam também outros serviços ou redes de apoio.
 
 > Quanto à saúde física, eu procuro o posto de saúde T., que cobre o bairro onde eu moro. Também tenho apoio psicológico e da minha namorada (Entrevista Sabiá, 03/07/2023).
 
@@ -107,7 +107,7 @@ Monteiro e Brigeiro [-@monteiro2019] mostram formas diferentes de as pessoas tra
 
 ### “Quantas vezes vou ter que falar meu nome? Sou ele. Não ela.”: nome social e identidade de gênero nos serviços de saúde
 
-O conceito de saúde é plural, sendo necessário levar em consideração os determinantes sociais da saúde, tais como a exclusão por conta de desemprego, o baixo ou o inexistente acesso à alimentação, as discriminações, as dificuldades de acesso à educação, ao saneamento, etc. Todos esses fatores estão relacionados ao processo de saúde-doença dos sujeitos. Nesse sentido, as discriminações e o preconceito sofridos pela população LGBT interferem no processo de saúde-doença desta [@Brasil2013b].
+O conceito de saúde é plural, sendo necessário levar em consideração os determinantes sociais da saúde, tais como a exclusão por conta de desemprego, o baixo ou o inexistente acesso à alimentação, as discriminações, as dificuldades de acesso à educação, ao saneamento, etc. Todos esses fatores estão relacionados ao processo de saúde-doença dos sujeitos. Nesse sentido, as discriminações e o preconceito sofridos pela população LGBT interferem no processo de saúde-doença desta [@Brasil2012].
 
 > Pesquisadora: Você já sofreu algum tipo de preconceito, violência ou se sentiu ofendido ao buscar os serviços de saúde? Se sim, pode relatar como foi?\
 > Curió: Já, sim. Já me chamaram de “ela”. Tem um médico no posto de saúde, ele que é um dos responsáveis pelo meu tratamento e ele insiste em me chamar de ela. Eu sempre corrijo, mas volta a acontecer. Quantas vezes vou ter que falar meu nome? Sou ele. Não ela (Entrevista Curió, 21/08/2023).

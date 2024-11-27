@@ -32,7 +32,6 @@ library(tidyverse)
 library(gt)
 ```
 
-
 ## Introdução
 
 Nos últimos anos, têm-se evidenciado um crescimento significativo de transtornos mentais entre professores [@Silva2018], situação que foi agravada com o trabalho remoto que passou a ser realizado durante a pandemia da Covid-19 [@Allen2020]. Nesse cenário, houve transformações abruptas no desenvolvimento da atividade docente sem o suporte necessário a essas modificações [@Oliveira2021]. A falta de acesso à internet e a computadores, bem como a baixa motivação de pais e alunos foram percebidas como barreiras ao desenvolvimento do ensino remoto [@Klapproth2020].
