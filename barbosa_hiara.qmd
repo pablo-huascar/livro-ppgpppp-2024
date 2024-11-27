@@ -1,0 +1,231 @@
+---
+author: 
+  - name: Hiara da Silva Santos Barbosa
+    url: 
+    orcid: 
+    email: 
+    affiliations: 
+      - name: Universidade Federal do Ceará    
+  - name: Natália Santos Marques
+    url: 
+    orcid: 
+    email: 
+    affiliations: 
+      - name: Universidade Federal do Ceará
+language: 
+  title-block-author-plural: "Autoras"
+filters:
+  - section-bibliographies
+bibliography: barbosa_hiara.bib
+reference-section-title: Referências
+---
+# Caracterização do perfil profissional e dos modos de atuação do orientador educacional na rede pública de ensino de Sobral, Ceará
+## Introdução
+
+No Brasil, a profissão de orientador educacional foi criada em 1968 [@brasil1968lei5564]. A obrigatoriedade deste profissional em todas as escolas foi estabelecida por meio da Lei de Diretrizes e Bases [@brasil1971lei5692]. Em decorrência disso, uma gama de profissionais que já atuavam em escolas foi remanejada de suas funções de origem para desempenharem o papel de orientador educacional. Essa ampliação do número de orientadores educacionais trouxe maior variação nas funções e responsabilidades, devido às práticas estarem relacionadas às formações acadêmicas e aos interesses das instituições.
+
+Com a regulamentação da profissão em 1973 [@brasil1973decreto72846], o exercício privativo da profissão passou a ser dos licenciados em pedagogia com habilitação em orientação educacional. Esse decreto também incluía os diplomados ou especialistas em orientação educacional e os diplomados em orientação educacional por escolas estrangeiras com devida revalidação. Esse profissional teria como objetivo principal prestar assistência aos educandos de modo individual e/ou em grupo nas escolas e nos sistemas escolares no nível médio e primário, com ações voltadas para o desenvolvimento integral e harmonioso da personalidade do educando.
+
+Após o período de expansão da orientação educacional na década de 1980, a educação veio a sofrer fortes críticas, sendo questionada pela sua tendência tecnicista, que deixava em segundo plano o desenvolvimento social e integral do aluno. Muitas dessas críticas relacionavam-se à orientação educacional. Nesse período, ela foi fortemente desqualificada pelo seu foco em questões individuais do discente e pela pouca preocupação com a formação teórico-política.
+
+As críticas relacionadas ao trabalho do orientador educacional, descredibilizando sua atuação, levaram a orientação educacional para um período sombrio na década seguinte, em que, na LDB nº 9.394/1996, a formação de profissionais para a orientação educacional ficava a cargo dos cursos de graduação em pedagogia ou das pós-graduações, a critério da instituição de ensino, garantida, nesta formação, a base comum nacional. Ela não apontava para uma formação acadêmica específica para o orientador educacional, e sim indicava qualificações necessárias.
+
+Luck (2017) aponta que olhar para o processo formativo desse profissional é essencial para garantir a execução de suas atribuições. Ademais, o profissional deve conhecer o seu trabalho, pois, por mais rica e coerente que seja sua concepção teórica, de nada valerá se não for sistematizada e direcionada.
+
+Para alguns autores, a inexistência de regulamentação referente ao modo de inserção desse profissional nas redes de ensino acarreta alguns pontos a serem considerados. Primeiro, a escolha desse profissional fica a critério das gestões, o que pode gerar uma mesclagem entre os objetivos da instituição e os interesses políticos locais. Segundo, cada governo pode determinar se há a necessidade desse profissional na rede de ensino e, em o sendo, como será a inserção, a formação e as qualificações necessárias e atribuições características ao cargo (Ourique & Tomazetti, 2005; Pascoal *et al*., 2008; Candaten & da Silva, 2017; David, 2017).
+
+Nesse ponto, a diversidade de atribuições possibilitou ao orientador atuar frente a vários contextos educacionais, sendo a densidade de ações e a diversidade de perfis indicativo da complexidade e importância deste novo profissional no ambiente educacional. Mas até que ponto foram analisados os impactos ocasionados tanto pelas atribuições privativas do orientador educacional quanto pelo fator formação acadêmica na construção da identidade do orientador educacional? Apesar da vasta produção referente ao percurso histórico de implementação da profissão no País (como os marcos legais da inserção no contexto educacional e as descrições das atribuições), há poucos relatos de práticas do orientador educacional associadas às atribuições previstas em lei e à sua formação acadêmica (Barbosa & Marques, submetido à publicação).
+
+Além disso, as autoras indicam uma necessidade de pesquisas sobre a sistemática de trabalho dos orientadores educacionais e de indicadores de efeitos das intervenções no contexto escolar, uma vez que é basilar uma referência para a atuação desse profissional baseada no que se espera dele em termos legais e para o que é possível desenvolver diante de contextos diversos.
+
+Com isso, apontamos o contexto da cidade de Sobral-CE, a qual, por meio da Lei nº 1.704/2017, criou a carreira de apoio à gestão escolar no âmbito do Poder Executivo municipal. Foi provido o concurso público com 50 vagas para o cargo de orientador educacional destinado a graduados em Psicologia a fim de dar prosseguimento à implementação do novo eixo educacional de Sobral: desenvolvimento das competências socioemocionais.
+
+A caracterização acerca do orientador educacional, tal como proposto neste trabalho, pode contribuir para a compreensão de sua função no sistema de ensino da rede de Sobral, fornecendo subsídios por meio do registro de dados sobre o trabalho de acompanhamento e planejamento das principais demandas e dos desafios no processo de inserção no contexto educacional. Os dados produzidos podem auxiliar na tomada de decisões, na análise dos efeitos da atuação da categoria desde a implementação do cargo até as demandas futuras, além de contribuir para a literatura nacional ao apresentar a sistematização das ações desse profissional em consonância com suas funções.
+
+## Metodologia
+
+### Tipo de estudo
+
+Mediante a proposta de estudar o perfil profissional e os modos de atuação dos orientadores educacionais nas escolas públicas municipais de Sobral-CE, a pesquisa será de natureza quanti-quali.
+
+### Amostra
+
+A pesquisa contou com 11 orientadores educacionais, sendo 9 mulheres e 2 homens, com faixa etária entre 24 a 36 anos, atuando nas Escolas Municipais de Sobral, Ceará, dos anos iniciais. Destes, 2 atuam em escolas mistas e especialistas de tempo regular, 3 em escola mista e especialista de tempo integral, 2 somente em escola especialista de tempo integral, 1 somente em escola mista, 2 somente em escola especialista de tempo integral e escola mista, e 1 somente em escola especialista de tempo regular. Todos os participantes da pesquisa possuem atuação em escolas da zona rural e urbana de Sobral.
+
+### Coleta de dados
+
+A coleta de dados ocorreu durante o período de isolamento social decorrente da COVID-19. Ela foi realizada através de recursos e plataformas digitais, sendo composta por três etapas. A Etapa 1 consistiu no contato com o público da pesquisa via e-mail e WhatsApp para o aceite na pesquisa por meio do Termo de Consentimento Livre e Esclarecido (projeto aprovado pelo comitê de ética com nº 42742121.4.0000.5053). A Etapa 2 correspondeu ao diagnóstico situacional, que envolveu a fase de aplicação e a fase de agrupamento das informações. Por fim, a Etapa 3 envolveu o desenvolvimento do instrumental pela pesquisadora.
+
+Na Etapa 1, a pesquisadora entrou em contato com os orientadores educacionais e, a partir disso, enviou-lhes o Termo de Consentimento Livre e Esclarecido (TCLE) em formato eletrônico do Google Formulário, tendo o aceite sido realizado por meio do preenchimento dos itens de identificação pessoal e do item de consentimento com a pesquisa.
+
+A Etapa 2 foi o diagnóstico situacional. Essa etapa correspondeu à coleta de dados em relação ao perfil profissional, aos modos de atuação e desafios específicos de cada orientador educacional, e também em relação à categoria profissional. O diagnóstico envolveu duas subetapas. Em cada uma houve a aplicação de instrumentos com os participantes, sendo essas subetapas: Subetapa 1, com aplicação do Formulário Eletrônico sobre o Perfil Profissional e do Formulário Eletrônico sobre os Desafios de Cada Participante da sua Atuação nas Instituições de Ensino; Subetapa 2, com aplicação do Roteiro da Entrevista Semiestruturada das Demandas Gerais da Categoria e seus Desafios.
+
+A Subetapa 1 da Etapa 2 consistiu-se primeiro do preenchimento do Formulário Eletrônico Perfil Profissional, que foi enviado para o e-mail institucional de cada participante. O formulário foi composto de 10 questões objetivas e discursivas referente à formação e qualificação profissional, ao tipo de instituição e nível de ensino, e ao território em que atuavam. Após o preenchimento dese formulário, o participante teve a liberação do Formulário Eletrônico sobre as Demandas Específicas de Cada Participante de Acordo com sua Instituição de Atuação e seus Desafios. Esse material contou com 6 questões discursivas voltadas para a atuação do participante nas escolas. Na Subetapa 2, ocorreram duas rodas de conversa com 9 participantes da pesquisa (dois participantes não puderam participar dessa etapa) e a pesquisadora, via Google Meet, sobre as demandas gerais da categoria e os seus desafios. Os pontos de discussões da Subetapa 2 foram previamente organizados em um Roteiro da Entrevista Semiestruturada das Demandas Gerais da Categoria e dos seus Desafios, sendo necessárias algumas adaptações em virtude de problemas nas ferramentas escolhidas. O encontro foi gravado e teve duração média de 1 hora e 30 minutos cada.
+
+### Análise de dados
+
+Com o objetivo de responder ao problema e aos objetivos da pesquisa, os dados coletados foram analisados por meio da análise de conteúdo de Bardin (2011). A codificação dos dados se deu em função da repetição das palavras, que, quando trianguladas com os resultados observados, foram constituindo unidades de registro para, então, chegar-se à categorização progressiva. As categorias dizem respeito à temática a que o estudo se propôs, qual seja, o modo de atuação do orientador educacional, sendo elas: Atribuições Profissionais, Eixo de Atuação dos Orientadores Educacionais, Funções das Atribuições, Desafios e Organização Documental das Atividades e Quantificação das Produções Mensais.
+
+Em posse do diagnóstico situacional, foi iniciada a Etapa 3, que se consistiu em reunir e sistematizar os dados coletados e elaborar o instrumento em atenção às demandas apresentadas pelos participantes da pesquisa. O instrumental foi pensado seguindo os critérios: 1\) Atender ao maior número de demandas frequentemente citadas pelos orientadores educacionais referente a suas ações específicas por escola e ao referido público-alvo; 2\) Atender às demandas frequentemente citadas pelos orientadores educacionais quanto aos desafios da categoria profissional e ao referido público-alvo; 3\) Promover associação entre as atribuições profissionais referenciadas na literatura brasileira e  as atribuições oriundas do contexto municipal.
+
+### Considerações éticas
+
+O projeto foi apreciado pelo Comitê de Ética em Pesquisa da Universidade Estadual Vale do Acaraú e autorizado sob o número 42742121.4.0000.5053, segundo todas as diretrizes e normas regulamentadoras descritas na resolução CNS 510/2016.
+
+## Resultados
+
+### Perfil profissional
+
+Dos dados analisados, pode-se verificar que, no grupo dos 11 orientadores educacionais, há um maior percentual de qualificação na área da educação, concentrando 49,9%, sendo destes 14,3% com especialização, 21,4% com mestrado em andamento, 7,1% com mestrado concluído e 7,1% com especialização em andamento. Já no tocante à qualificação na área da saúde, totalizam 42,8%, sendo 28,6% com especialização, 7,1% com mestrado concluído e 7,1% com mestrado em andamento. Além desses, existem 7,1% com especialização na área jurídica.
+
+### Atribuições profissionais
+
+A categoria Atribuições Profissionais é oriunda dos dados referentes às atividades mais citadas pelos participantes sobre suas ações cotidianas, considerando o nível de ensino da instituição, a parceria com a gestão escolar e os recursos disponíveis para execução do trabalho. Diante dos dados coletados, foi possível organizar as atividades que mais se repetiam e os componentes que estavam associados a elas, e propor no momento da roda de conversa uma análise qualitativa para validação dos participantes referentes à organização das atividades em grupos de atribuições. Essa análise ocorreu da seguinte forma: os dados foram organizados em tabela e apresentados para os participantes, que elencaram suas considerações e puderam fazer alterações nas posições das atribuições. Eles inverteram as atribuições de planejamento e as de suporte, colocando aquelas no grupo 1 e estas no grupo 2 de atribuições, conforme a tabela. Importa ressaltar que três participantes não concordaram com a mudança.
+
+Com isso, definiram-se dois conceitos para os perfis das atribuições: atribuições primárias e atribuições secundárias. As atribuições primárias foram consideradas pelos participantes como aquelas em que eles são figuras centrais para a execução da atividade (diferenciando sua ação das dos demais atores escolares). As secundárias são atribuições primárias de outros atores escolares, sendo o orientador educacional um apoio para a execução destas, conforme descrito na Tabela 1\.
+
+**Tabela 1**
+
+*Perfis das Atribuições Primárias e Secundárias dos Orientadores Educacionais.*
+
+| Atribuições | Componentes das atribuições | Tipo de atribuição |
+| :---: | :---: | :---: |
+| Acompanhamento | Socioemocional, duplo foco, aulas | Primárias |
+| Planejamento | Aulas, pedagógico |  |
+| Formação | Competências socioemocionais |  |
+| Elaboração | Atividades, duplo foco |  |
+| Ações coletivas | Acolhida, rodas, oficinas, círculos, grupos, palestras |  |
+| Cuidado/mediação | Mental, diálogo, reflexão, acolhimento, escuta, acolhida, atendimento educacional, projetos, socioemocional, rodas de conversa e círculos de diálogo |  |
+| Observação | Aulas |  |
+| Participação | Reunião, planejamento | Secundárias |
+| Suporte | Competências socioemocionais, pedagógico |  |
+| Reunião | Núcleo gestor |  |
+
+### Funções das atribuições do orientador educacional
+
+A categoria Funções das Atribuições do Orientador Educacional refere-se ao quadro de atividades que estão direcionadas para objetivos comuns. Sendo essas atividades resultantes das ações desempenhadas, sejam elas atribuições primárias, sejam atribuições secundárias, e também do que esse profissional considera seu papel na instituição versus o que ele considera que os demais atores escolares e gestão educacional esperam dele parte de uma categoria profissional.
+
+A partir dos dados analisados, foi possível agrupar as atividades desempenhadas pelos orientadores educacionais em três tipos de Funções: Instrução, Inserção e Interação. O objetivo de Instrução está relacionado às atividades de orientar e desenvolver estratégias junto aos atores escolares. A Função de Inserção está relacionada às atividades que são consideradas novas no cenário escolar, as que envolvem promoção de saúde mental e as que são trabalhadas com competências socioemocionais. Já a Função de Interação envolve atividades referentes ao desenvolvimento de ações no tocante às relações interpessoais, à promoção do diálogo e à mediação escolar, conforme descrito na Tabela 2\.
+
+**Tabela 2**
+
+*Funções das Atribuições do Orientador Educacional.*
+
+| Atribuições | Objetivo | Função |
+| :---: | :---: | :---: |
+| Formação | Capacitar | Instrução |
+| Alinhamento, suporte, participação | Desenvolver estratégias junto aos atores escolares |  |
+| Mediação | Reduzir conflitos | Inserção |
+| Acompanhamento, Elaboração, observação, planejamento. | Trabalhar com as Competências Socioemocionais. |  |
+| Ações de cuidado e ações coletivas. | Promover saúde mental/Criar e manter contato entre atores escolares, criação de vínculos, espaços de convívio. | Interação |
+
+### Eixos de atuação do orientador educacional
+
+A categoria Eixos de Atuação envolve o agrupamento das atribuições relacionando-as com o público para o qual a atuação destina-se. Para tanto, foram utilizadas as atribuições descritas pelos orientadores nas ações individuais (dados coletados a partir das entrevistas individuais), bem como a análise documental das legislações e dos documentos oficiais relacionados com a implementação do cargo e da atuação do orientador educacional no município no que tange às atribuições.
+
+Além disso, os eixos foram pensados pelos orientadores a partir das demandas que são coletivas e coletadas na roda de conversa. Os eixos de atuação são: 1\) Suporte à gestão, 2\) Suporte aos alunos e professores, 3\) Suporte à comunidade escolar, 4\) Suporte à rede intersetorial e ao suporte e planejamento dos/entre OE, em conformidade com os eixos das diretrizes municipais do orientador educacional, as leis de criação da profissão no Brasil, a lei de criação da carreira de apoio à gestão escolar do município e também as considerações dos profissionais sobre suas atuações.
+
+### Desafios
+
+Os desafios consistem em circunstâncias apontadas pelos participantes sobre suas práticas diárias que podem desfavorecer os resultados esperados ou dificultar a execução de intervenções. Para esta análise, inicialmente utilizamos dados sobre os desafios individuais e os desafios comuns a todos os orientadores educacionais e relacionamos com o tipo de escola, vínculo com a equipe e demandas solicitadas, conforme a Tabela 3 abaixo.
+
+**Tabela 3**
+
+*Desafios dos Orientadores Educacionais.*
+
+| Falas dos participantes | Categorias de análise | Conceito norteador das categorias de análises |
+| :---: | :---: | :---: |
+| Sobrecarga  Pressão Sem dia para planejamento Resultado tem que ser rápido  Resolve aí Demandas de última hora | Prejuízos na qualidade quanto à demanda/desvio de função | Salienta as dificuldades enfrentadas, as quais exigem cobranças por resultados imediatos e ações equivalentes. |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+| Não ter o mesmo nível de dedicação Tudo que faz em uma escola, tem que fazer na outra Assemelhar-se aos prazos da SEDUC Desenvolver o mesmo trabalho nas escolas Não respeitar os horários  Comparar Não acreditar que exista instrumento que dê conta | Divisão em duas ou mais escolas |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+| Ajudar a escola  Ajudar a comunidade Sentir-se na obrigação Equipes desfalcadas  Ser do núcleo gestor, trabalhar noite e fim de semana | Dificuldade na gestão das atividades fora de suas atribuições | Salienta as dificuldades enfrentadas, as quais direcionam para um desvio de função |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+### Organização documental das atividades e quantificação das produções mensais
+
+A coleta e análise de dados sobre os instrumentais que os orientadores utilizam no seu dia a dia e a periodicidade apresenta uma variedade de instrumentais que atendem a uma ampla gama de demandas. Também acarreta uma adaptação das atividades presenciais e outra para as atividades remotas.
+
+Apesar de citarem os instrumentais, muitos orientadores relatam que não os utilizam frequentemente no dia a dia e que alguns nunca foram utilizados. Isso traz uma questão relacionada a como é quantificado o trabalho do orientador educacional ou mesmo à possibilidade de o município ainda não ter a quantificação dos dados como algo necessário na atuação do orientador, conforme a Tabela 4\.
+
+**Tabela 4**
+
+*Sistematização dos Instrumentais de Uso Diários dos Orientadores Educacionais.*
+
+| Período de utilização dos instrumentos | Instrumentos | Adesão | Conceito norteador |
+| :---: | :---: | :---: | :---: |
+| Registros de atividades remotas – Março de 2020 a abril de 2021\. | Agenda física Cronograma Tabela de acompanhamento e ficha de registro das aulas Plano de teletrabalho | Mais utilizadas | Explicita a forma de repasse das produções mensais dos orientadores de caráter quantitativo do trabalho remoto |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  | Repositório das CSE do IAS | Menos utilizadas |  |
+| Registros de atividades presenciais – Agosto de 2019 a março de 2020\. | Instrumental de encaminhamento Ficha de planejamento Ficha de registro das atividades duplofoco Ficha de acolhimento Solicitação de comparecimento | Mais utilizadas | Explicita a forma de repasse das produções mensais dos orientadores de caráter quantitativo do trabalho presencial |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  | Ficha Registro de visita domiciliar Mapa mensal de atividades Monitoramento de aulas duplofoco Ficha de planejamento dos Círculos | Menos utilizadas |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
+## Discussão
+
+Ao realizar a pesquisa sobre o perfil profissional e os modos de atuação do orientador educacional na rede pública municipal de Sobral-CE, o primeiro ponto que merece destaque é sobre a formação acadêmica requerida como critério pela gestão municipal para o cargo de orientador educacional, uma vez que, em grande parte do território brasileiro, segundo Barbosa e Marques (submetido à publicação), há um direcionamento para optar-se por pedagogos ou outros profissionais com licenciaturas que fazem parte do grupo do magistério – diferentemente de Sobral, que optou por psicólogos.
+
+A realidade do OE em Sobral se assemelha à literatura nacional no que diz respeito aos profissionais que atuam como orientadores educacionais não terem, em sua maioria, cursos ou formação em orientação educacional, contrariando as determinações dispostas no Decreto-Lei nº 72.846/1973. Outro ponto de similaridade refere-se ao fato de esses profissionais terem interesses em diferentes áreas de qualificação profissional, sendo o perfil profissional desses orientadores composto por conhecimento das áreas da saúde, jurídica, organizacional, educacional e escolar.
+
+Corroborando isso, Barbosa e Marques (submetido à publicação) descrevem que as atividades desenvolvidas pelos orientadores nas escolas no Brasil estão permeadas pela área de conhecimento do profissional. Por exemplo, os profissionais com formação pedagógica orientam suas práticas a compreender o desenvolvimento cognitivo do aluno, os aspectos de aprendizagem e a orientação/suporte aos professores.
+
+Porém, independentemente da formação acadêmica do profissional, nota-se que o público-alvo dos orientadores educacionais, em unanimidade, são os alunos, ora com atividades com caráter mais a favor dos interesses da instituição (reduzir situações de alunos problemas, focando no indivíduo e dissociando-o da dimensão social e familiar), ora a favor do desenvolvimento integral desse aluno.
+
+Assim, quanto ao perfil profissional, compreende-se que o contexto educacional de inserção dos orientadores educacionais em Sobral difere do nacional por ter, em sua totalidade, um quadro funcional com a mesma formação acadêmica atuando nas escolas; e se aproxima por esses profissionais possuírem, na maioria, qualificações profissionais diversas, atribuições direcionadas para os seus contextos individuais e para o interesse da gestão municipal, visto que, em grande parte do País, ao longo dos anos, ter ou não esse cargo e decidir qual profissional o ocuparia e o que este faria ficava e fica a critério da gestão municipal (Barbosa & Marques, submetido à publicação).
+
+Andrade *et al*. (2020) apontam para uma distorção quanto à verdadeira função do orientador educacional dentro do ambiente escolar, principalmente quando este profissional adota o entendimento de que sua função é apontar soluções para todas as demandas que envolvam os discentes. De acordo com a Tabela 3, isso se confirma no contexto de Sobral, uma vez que há uma ampla atuação dos orientadores referenciadas nas normativas municipais e também na Tabela 4, quando apontam como desafio o desvio de função por demandas que não são do orientador.
+
+Em Sobral, apesar dos profissionais possuírem uma formação básica similar, isso não os orienta para uma prática comum, excetuando as de competências socioemocionais e as de mediação escolar. Esse cenário pode ser favorável para uma ampliação da importância desse profissional nas instituições, podendo servir a diferentes objetivos do contexto educacional, mas também pode trazer impasses sobre o perfil profissional característico do orientador educacional e os seus modos de atuação.
+
+Nos dados analisados, já observamos no contexto de Sobral características do contexto nacional quando os participantes apontam que cada escola tem a sua lógica de trabalho, que o trabalho do orientador depende da vinculação com o núcleo gestor para que esse profissional tenha reconhecimento e suas atribuições primárias sejam efetivadas. Acrescenta-se outra discussão às atribuições e a sua correlação com o perfil profissional: no tocante à localização das instituições (sede ou distrito) e entre tipos de territórios. Segundo os participantes, há territórios com características específicas, como, por exemplo, a presença de facções criminosas, assim como há as questões relacionadas aos deslocamentos e às condições de trabalho nas escolas dos distritos, sendo esta última questão considerada como o principal desafio pelos orientadores educacionais.
+
+Em relação às atribuições elencadas pelos orientadores educacionais como primárias, nota-se que as atribuições mais evidenciadas são as de acompanhamento e planejamento. Essas duas atribuições assemelham-se com as atribuições pedagógicas descritas por Barbosa e Marques (submetido à publicação), onde há um foco no aprendizado de conteúdos acadêmicos e outras atribuições pedagógicas formais. Quanto às funções das atribuições primárias, em específico as mais citadas pelos participantes, quais sejam, acompanhamento, planejamento, cuidado/mediação, elas estão centralizadas nas funções de inserção e de interação, o que demonstra que, a princípio, o trabalho do orientador educacional consiste em construir uma nova cultura no ambiente escolar e inserir os atores escolares nesse processo também.
+
+Após observar e agrupar os dados sobre as atribuições, caracterizando-as em termos de tipo, funções e público-alvo, foi possível relacionar esses dados com os efeitos das atividades dos orientadores por atribuições e público-alvo. Quatro tipos de efeitos foram descritos pelos orientadores acerca da execução de suas atividades, sendo eles: 1\) Apropriação de novas metodologias das CSE; 2\) Melhoria no clima escolar e nas relações interpessoais; 3\) Desenvolvimento integral do aluno; 4\) Posição de referência, conforme descrito na Tabela 5\.
+
+Com a análise dos dados, podemos observar relações entre as atribuições descritas pelos orientadores e as demais atribuições em termos legais, relacionando e criando sugestões de indicadores de efeitos que contemplem a realidade dos orientadores educacionais de acordo com o trabalho desenvolvido por eles com base nas atribuições primárias e secundárias.
+
+**Tabela 5**
+
+*Indicadores de Efeitos.*
+
+| Atribuição | Objetivos das atribuições | Público alvo | Efeitos descritos pelos O.E | Sugestão de Indicador de efeito/medida |
+| :---: | :---: | :---: | :---: | :---: |
+| Formação | Capacitar | Docentes | Apropriação de novas metodologias das CSE | Aumento do número de docentes qualificados na promoção das competências socioemocionais (CSE)/Aumento da frequência de atividades pedagógicas direcionadas à promoção das CSE |
+| Mediação; Ações de cuidado, ações coletivas | Promover saúde mental | Comunidade escolar | Melhoria no clima escolar e relações interpessoais | Redução de conflitos relatados junto à gestão/Aumento da frequência de atividades colaborativas entre professores/Aumento da procura espontânea da gestão(por parte dos estudantes e/ou professores) /aumento das atividades colaborativas entre gestores |
+| Acompanhamento, Elabo- ração, observação, planejamento | Trabalhar as competências socioemocionais | Orientador educacional | Posição de referência | Redução da frequência das ações urgência/Maior tempo dedicado aos aspectos pessoais e socioemocionais do aluno, tal como previsto no plano de aula. |
+| Reuniões, suporte, participação | Desenvolver estratégias junto aos atores escolares | Sem público-alvo específico | Posição de referência | Redução das demandas dissociadas das atribuições primárias |
+
+Essa estruturação poderá ajudar os orientadores a criarem seus próprios instrumentos para acompanhar a evolução de suas atividades dentro do contexto escolar, que é específico de cada um. Apresentamos uma tabela que orienta esse profissional, mas não limita seu potencial de criação. É importante saber como avaliar o trabalho, pois isso permite mudanças e também compartilhamento de práticas que são mais aplicáveis a determinado contexto.
+
+## Considerações finais
+
+O trabalho do orientador educacional no contexto educacional sobralense ainda está em processo de construção, moldando-se conforme as demandas e ajustando as atribuições em função disso. Esse fato foi considerado quando nos propusemos a estudar o perfil profissional e os modos de atuação desse profissional, principalmente por desconhecer parâmetros nacionais que trouxessem diretrizes sobre o fazer do orientador com formação em Psicologia que atuasse frente a eixos tão específicos da realidade sobralense.
+
+Desse modo, acreditamos que, quando falamos em orientador educacional no contexto local em estudo, estamos nos referindo àquele profissional que vem se tornando referência na formação do corpo escolar para o desenvolvimento das competências socioemocionais e também para a mediação das relações escolares. É o profissional que dialoga com todos os atores escolares e promove na escola espaços coletivos de compartilhamento de saberes e sentimentos. Além disso, ele é a ponte entre outros serviços ofertados pelo município que têm como atuação o ambiente escolar, como, por exemplo, as ações do Programa de Saúde na Escola, as parcerias com universidades federais e estaduais, as articulações com as Unidades de Gerenciamento de Projetos (UGP), o desenvolvimento do Projeto Eu Posso Te Ouvir e das Ações da UNICEF (Fundo Internacional de Emergência das Nações Unidas para a Infância).
+
+Os orientadores são as portas de entrada para as formações ofertadas pelos parceiros da Secretaria de Educação de Sobral, sendo assim os multiplicadores de conhecimentos e os responsáveis, junto ao núcleo gestor, pela implementação e pelo acompanhamento de novas metodologias no cotidiano escolar.
+
+Entretanto, por esses profissionais trazerem um campo novo de atuação para as escolas, enfrentam resistências e desafios em suas jornadas, uma vez que não havia caminhos já traçados ou formas de fazer. Todo o processo vem sendo construído pelos profissionais referidos. Além disso, apesar de terem a mesma formação acadêmica e passarem pelas mesmas qualificações, esses profissionais atuam em territórios diversos, que exigem do profissional manejo e adaptação constante à realidade vivenciada. Nem sempre essas adaptações são repassadas nas formações às quais o orientador deve estar presente.
+
+Assim, acreditamos que ainda há muito a ser explorado no que tange às atribuições e à criação de indicadores de efeitos. Além disso, é necessário desenvolver estratégias para superar os obstáculos identificados pelos orientadores, os quais esta pesquisa buscou sistematizar, visualizando possibilidades. Contudo, a maioria das demandas de entrave para o desenvolvimento do trabalho dos orientadores parte de decisões e estruturações que cabem à gestão municipal, como a reestruturação das atribuições, visto que as atuais estão relacionadas ao ambiente remoto, e o ajuste destas para escolas situadas em zona urbana e nas de zona rural.
