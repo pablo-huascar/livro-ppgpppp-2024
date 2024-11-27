@@ -1,0 +1,127 @@
+---
+author: 
+  - name: Janne Izabel Alves de Sousa 
+    url: http://lattes.cnpq.br/5438859564152960
+    orcid: 0009-0001-8761-4317
+    email:  izabelalvess@hotmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará    
+  - name:  Camilla Araújo Lopes Vieira 
+    url: http://lattes.cnpq.br/8444547145601106
+    orcid: 0000-0003-1706-3772
+    email: camillapsicol@ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+language: 
+  title-block-author-plural: "Authors"
+filters:
+  - section-bibliographies
+bibliography: janne_camila.bib
+reference-section-title: References
+---
+# Do NASF à eMulti: trabalho e processo de (re)construção em municípios do Sertão de Crateús, Ceará
+## Introdução
+
+O trabalho multiprofissional na Política Pública de Saúde, em especial, na esfera da Atenção Primária à Saúde – APS, sempre foi permeado por desafios. Em 2008, a inserção de novas categorias profissionais nesse cenário, com a criação dos Núcleos de Apoio à Saúde da Família – NASF (Portaria nº 154, 2008\) suscitou a expansão e a notoriedade dessas equipes pelo Brasil, chegando a 5.797 equipes em 2018 (Mattos, Gutiérrez, & Campos, 2022).
+
+Esses núcleos tinham como objetivo oferecer apoio às ações desenvolvidas pela Estratégia Saúde da Família – ESF, além de ampliar sua abrangência segundo os princípios de regionalização e territorialização. Contudo, desde 2017, com a revisão da Política Nacional de Atenção Básica – PNAB, os NASF já vivenciavam mudanças substanciais, como a redefinição da nomenclatura para Núcleo Ampliado da Saúde de Família e Atenção Básica – NASF-AB e, consequentemente, a redução de sua dimensão técnico-pedagógica (Giovanella, Franco, & Almeida, 2020).
+
+Em 2019, a publicação da Portaria nº 2.979, que instituiu o Programa Previne Brasil, estabeleceu o novo modelo de financiamento e custeio da APS, interrompendo assim o financiamento discricionário às equipes NASF-AB (Portaria nº 2.979, 2019), seguido da Nota Técnica nº 03 de 27 de janeiro de 2020 (Nota Técnica nº 3, 2020), que extinguiu as modalidades e os parâmetros de conformação dessas equipes. Posteriormente, em maio de 2023, houve a publicação da Portaria nº 635 que institui, define e cria incentivo financeiro federal de implantação, custeio e desempenho para as modalidades de equipes Multiprofissionais na APS (Portaria nº 635, 2023).
+
+Todavia, transcorrido o primeiro ano de vigência, das 5.295 equipes eMulti credenciadas em todo o Brasil apenas 1.655 equipes foram homologadas (dados do Departamento de Estratégias e Políticas Comunitárias de Saúde – DESCO da Secretaria de Atenção Primária à Saúde do Ministério da Saúde – SAPS/MS até junho de 2024). Ao realizar incursão pelo movimento multiprofissional na APS, de maneira mais específica nos cenários estudados, atentando para a atualidade do assunto, emerge a necessidade de compreender se as mudanças ocorridas nessa transição provocaram movimentos de descaracterização do trabalho multiprofissional na APS e se a perspectiva de apoio matricial está sendo considerada nesses cenários.
+
+## Método
+
+Este capítulo apresenta uma pesquisa qualitativa, de cunho exploratório na modalidade de pesquisa-intervenção, cujo intuito não visa a uma mudança imediata da ação instituída, uma vez que ela é consequência da produção de outra relação entre teoria e prática, assim como entre sujeito e objeto (Rocha & Aguiar, 2003). Teve como objetivo geral investigar, sob a ótica dos profissionais, os processos de trabalho das equipes Multiprofissionais na Atenção Primária à Saúde dos municípios de Ararendá, Crateús e Novo Oriente.
+
+Como objetivos específicos buscou conhecer os processos de trabalho das equipes Multiprofissionais na APS de Ararendá, Crateús e Novo Oriente; compreender se a implementação da Portaria nº 2.979, de 12 de novembro de 2019, causou impactos no cotidiano das práticas profissionais; e identificar que perspectivas esses profissionais vislumbram em relação ao futuro de sua atuação no âmbito da APS.
+
+Para análise de dados foi adotada a Análise de Discurso Crítica – ADC proposta por Fairclough (2003), que visa ao aprofundamento das questões implícitas no discurso dos sujeitos. Essa abordagem propõe uma análise profunda do discurso a partir de seu contexto de produção; seu caráter enquanto prática social; sua existência diante das relações de poder, domínio, discriminação e controle mantidas através da linguagem.
+
+Vale ressaltar que a pesquisa foi submetida ao Comitê de Ética em Pesquisa da Universidade Estadual Vale do Acaraú – UVA, com parecer favorável emitido em 19/04/2024, sob número \- 77514824.4.0000.5053. Comprometeu-se com os preceitos éticos estabelecidos na Resolução nº 466, de 12 de dezembro de 2012, e na Resolução nº 510, de 7 de abril de 2016 – ambas do Conselho Nacional de Saúde.
+
+### Participantes
+
+Participaram da pesquisa profissionais vinculados às equipes Multiprofissionais da Atenção Primária à Saúde dos municípios Ararendá, Crateús e Novo Oriente, que pertencem à 15ª Área Descentralizada de Saúde – ADS do Ceará. A escolha se deu a partir do registro ativo dos profissionais no Cadastro Nacional de Estabelecimentos de Saúde – CNES, mediante atuação vigente em equipes Multiprofissionais na APS há pelo menos seis meses, com respectiva anuência em Termo de Consentimento Livre e Esclarecido – TCLE.
+
+Os critérios de exclusão foram: profissionais que atuam na mesma equipe em que a profissional pesquisadora; profissionais com cadastro ativo, mas que não estão em seus cenários de prática em virtude de férias, licenças ou desligamento recente; e profissionais que se recusaram a participar. Nesse panorama, a amostra de participantes estimada para os três municípios era de 21 profissionais, dos quais 15 responderam ao Questionário Socioprofissional e 16 participaram das Rodas de Conversa.
+
+### Instrumentos
+
+A coleta de dados ocorreu em dois momentos diferentes. O primeiro foi realizado de maneira informatizada, por meio da veiculação por e-mail e WhatsApp de um Questionário Socioprofissional composto por 40 questões objetivas de múltipla escolha, enviado juntamente com o Termo de Consentimento Livre e Esclarecido – TCLE e o Termo de Consentimento de Imagens e Voz. O instrumento foi construído no Google Forms e ficou disponível aos participantes durante todo o mês de maio de 2024\. Ao final do mês, foram obtidas 15 respostas completas.
+
+O Questionário foi dividido em quatro eixos, promovendo uma leitura mais dinâmica. O primeiro eixo dizia respeito à composição das equipes, à vinculação e às experiências profissionais; o segundo eixo se referia aos processos de trabalho e à frequência das atividades desempenhadas; o terceiro eixo foi voltado para a colaboração interprofissional e as condições de trabalho; e o quarto eixo foi pensado de maneira mais reflexiva, pontuando as perspectivas para o futuro da atuação profissional.
+
+O segundo momento consistiu na realização de uma Roda de Conversa com cada equipe integrante do estudo. Os encontros foram realizados nos municípios de atuação de cada equipe, organizados em horários viáveis para os participantes e em espaços próprios das Secretarias municipais de Saúde e Unidades de Atenção Primária à Saúde (auditórios e/ou salas de reunião), tendo duração média de duas horas cada encontro. O convite foi enviado aos profissionais via WhatsApp, especificando data, horário e local.
+
+As Rodas de Conversa ocorreram nos dias 17 e 19 de junho e 05 de julho. Mediante consentimento dos participantes, dois destes encontros foram gravados em áudio. Contabilizando os três municípios, 16 profissionais participaram das Rodas de Conversa. A Roda de Conversa foi escolhida como metodologia por permitir que os participantes expressem suas impressões, conceitos, opiniões e concepções sobre o tema proposto, assim como pelo fato de ajudar a trabalhar, de maneira reflexiva, as manifestações apresentadas pelo grupo (Pinheiro, 2020).
+
+## Resultados e discussão
+
+Os resultados apresentados embasam-se nas informações obtidas por meio do Questionário Socioprofissional e das Rodas de Conversa realizadas com as equipes Multiprofissionais. Para uma apresentação mais didática, optou-se pela divisão em seções, buscando-se estabelecer relações diretas com os objetivos propostos na pesquisa. Desse modo, foram elaboradas as seguintes seções: O trabalho construído na dinâmica do fazer; O lugar da Promoção da Saúde no Previne Brasil; e A eMulti que há de vir.
+
+Visando garantir o sigilo e preservar a identidade dos participantes, os profissionais foram identificados nos textos transcritos das Rodas de Conversa pelo nome da categoria profissional e pela numeração, crescente, correspondente à sua apresentação nas Rodas de Conversa. No caso do Questionário, a identificação foi feita apenas pelo nome da categoria, uma vez que as respostas não permitiam a mesma numeração, pois não continham identificação pessoal.
+
+### O trabalho construído na dinâmica do fazer
+
+O Questionário revelou que as categorias profissionais mais comuns nas eMultis estudadas são Fisioterapia, Nutrição, Psicologia e Fonoaudiologia, com a presença também de Educação Física e Serviço Social. Quanto aos vínculos empregatícios, a maioria dos profissionais atua por contrato temporário ou cooperativa, seguindo-se os efetivos e residentes, refletindo um processo de subcontratação que afeta o controle social e a estrutura das instituições.
+
+As experiências profissionais variam entre profissionais que estão em início de carreira e outros que já atuam há mais de oito anos nesses cenários. Notou-se que as cargas horárias das categorias profissionais são diferentes, um terço dos participantes é o único profissional de sua categoria na equipe, o que pode causar sobrecarga. As equipes são compostas majoritariamente por mulheres, por vezes, profissionais provenientes de outros municípios ou estados.
+
+Durante as Rodas de Conversa, os participantes referiram que a formação acadêmica não contemplava uma forte ênfase em Saúde Pública. Os cenários de prática ofertam poucas oportunidades de Educação Continuada voltada a APS. Evidenciaram ainda a necessidade de maior colaboração interprofissional, emergindo tensões e críticas a equipes de referência e à gestão, com percepções divergentes sobre o suporte recebido. Apontaram discrepâncias entre o trabalho que desenvolvem no cotidiano de suas práticas e o trabalho prescrito nas normativas governamentais, indicando falta de clareza sobre a atuação no SUS e as realidades encontradas na APS. Exemplo disso, é possível evidenciar o seguinte texto:
+
+Fisioterapeuta 05: “... É, assim,... é um pouco contraditório porque, na verdade, é escrito uma coisa, né? Tem lá a política que norteia as eMulti, a PNAB, mas, na realidade, é outra coisa…”
+
+Ao trazer este relato, é possível tecer uma relação direta com o estudo de Maffissoni, Silva, Vendruscolo, Trindade e Metelski (2018), no qual os autores apontam que, embora haja consenso na literatura de que a principal função das equipes Multiprofissionais na APS é dar suporte/apoio às equipes de referência por meio do apoio matricial, são escassas as orientações sobre como devem operar os profissionais no cotidiano prático – seja no apoio clínico-assistencial individual ou coletivo, ou no apoio técnico-pedagógico. Essa questão repercute na forma como equipes Multiprofissionais, equipes de referência e gestores irão compreender e, consequentemente, colocar em prática as dimensões do apoio matricial. Assim, diferenças sobre a atuação dos profissionais, bem como a ambivalência em relação ao que está sendo desempenhado podem ser observadas a seguir:
+
+Psicóloga 02: “... Eu pensei muito que a nossa prática é bem diferente da prática das eMulti. Aqui no município a Residência, ela tem outro caminho a seguir, porque a gente não é só prática igual vocês, vocês também não eram para ser, mas acaba que sendo… Então a gente tem turnos teóricos, a gente precisa fazer educação em saúde, a gente tem limite de atendimentos individuais por semana, vocês não têm limites individuais por semana…”
+
+Psicólogo 01: “... Eu acabei não pegando nenhuma imagem porque dentro das atividades que eu faço, essas são as que eu faço minimamente, infelizmente... dá uma aflição a gente entender que não tem tempo para articular e fazer como realmente deve ser feito porque vou estar fazendo outra coisa, vou estar ocupado, então eu pouco vejo minha equipe, eu pouco articulo com ela, e como é que a gente vai conseguir fazer um trabalho mais eficiente nesse sentido, até com mais satisfação, com uma doação, com mais energia, se a gente já está sobrecarregando tantas outras coisas, né\!?”
+
+Os textos apresentados se inserem em uma realidade comum aos municípios estudados. Eles apontam barreiras à consolidação de um trabalho colaborativo, falam sobre a dificuldade de compreensão da função das categorias na Atenção Primária à Saúde, da sobrecarga e diversidade de demandas, da falta de tempo para articulação em equipe, da escassez de profissionais de determinadas categorias para atuação na APS, e, sobretudo, da forma como isso impacta o trabalhador, refletindo sobre sua eficiência, satisfação, doação e energia. Indicam ainda a sobrecarga transferida a outras categorias no que se refere às atividades coletivas.
+
+Dentro de uma mesma equipe Multiprofissional pode ocorrer uma diversidade dos processos de trabalho. Alguns fatores que impulsionam essa diversidade podem estar relacionados à história das categorias no setor saúde – entendendo que, muitas vezes, aquelas que possuem maior tradição dentro dos moldes clínicos ficam mais fixas às atividades individuais; à formação profissional; às necessidades dos territórios; às inclinações pessoais dos profissionais; às condições e aos insumos ofertados para o desempenho das atividades; aos acordos firmados entre profissionais e gestores; e à falta de qualificação/educação continuada para o trabalho na APS.
+
+### O lugar da Promoção de Saúde no Previne Brasil
+
+Um dos maiores impactos sentidos e mencionados nos discursos dos participantes em relação à efetivação do Previne Brasil foi voltado à promoção de saúde. Todavia, as falas nem sempre demonstram claramente esse impacto a partir da Portaria nº 2.979 de 2019, uma vez que ela vem atrelada ao momento histórico da pandemia da COVID-19, que ocorreu concomitantemente à efetivação do referido documento. Alguns relatos apresentam a noção de desvalorização e desconhecimento do trabalho da equipe eMulti, apontando a “não-obrigatoriedade” da equipe, a precarização do trabalho e das formas de vinculação empregatícias, o processo histórico em que as práticas multiprofissionais se inserem na APS, as dificuldades de consolidação, o retorno ao modelo biomédico e a priorização de atendimentos individuais como requisitos ao recebimento de verbas, como é demonstrado a seguir:
+
+Nutricionista 01: “... Acho que também faz parte de um processo histórico que vem desde o início da formação das equipes da Atenção Básica, o carro-chefe principal era o atendimento individual, aí, com o passar das políticas das equipes NASF, a questão da importância de educação em saúde, formação de grupos foi aumentando o leque de oportunidades para ter outros serviços além de um especializado em atendimento, só que a gente vem de um retrocesso, né? Porque a questão de vir também as verbas, vir um dinheiro para assistência, a parte principal que eles querem é atendimento. De todas as atividades que podem ser realizadas, a parte de atendimento é a que está sendo mais valorizada, e a que parte também os requisitos para receber, né? Parte do financiamento e tudo... a educação em saúde não é valorizada...”
+
+Nutricionista 01: “… Falta o reconhecimento também de saber o que a equipe eMulti faz, porque, ao meu ver, parece que a gente é um puxadinho da equipe da Atenção Básica, resolve problemas aleatórios ou específicos, casos de estudos de caso eu nunca vi nenhum (referindo-se à equipe de referência) puxando não, sempre é a gente que puxa ‘ei, vamos fazer um estudo de caso…’”
+
+As representações referidas nos relatos ampliam a discussão a outros níveis pois abordam a questão do desconhecimento do papel da equipe Multiprofissional, que, para o momento de transição vivenciado, se apresenta de fato com uma realidade. Apontam ainda para uma visão utilitária dos profissionais da equipe Multiprofissional, assim como reduz a relevância de sua atuação junto ao ideário das pessoas usuárias do SUS. Outro ponto que merece atenção especial diz respeito à forma como os gestores municipais realizam os processos de vinculação empregatícia desses profissionais, com forte tendência à precarização:
+
+Nutricionista 03: “... Eu trabalhei em outro município, sem citar nomes, desvalorizam a equipe eMulti… Não sei se é uma maneira de economizar, eles começam a chamar a equipe eMulti em abril, né? Então, é muito tempo, posterga a equipe eMulti, então isso aí é uma desvalorização… Então, eu quero sair do município valorizando a nutrição… Que esse profissional não deixe de estar desde o começo do ano na Atenção Básica, não só o enfermeiro e o médico…”
+
+No que se refere à narrativa da precarização, Lancman, Sato, Hein e Barros (2019) vão além, afirmam que ela está relacionada às condições de trabalho que aumentam a vulnerabilidade dos trabalhadores. No serviço público, são muitas as condições que expressam essa seara, dentre elas: ambientes de trabalho mal equipados e planejados; escassez de pessoal (ou de pessoal qualificado) e de suporte para os profissionais; demanda excessiva em relação aos recursos disponíveis; perda de autonomia na gestão do próprio trabalho; e necessidade de reduzir ações consideradas importantes para aumentar certas formas de produtividade que não privilegiam a qualidade e o foco na quantidade e no que é mensurável. Todos esses fatores têm suas consequências no desenvolvimento e na organização do trabalho.
+
+### A eMulti que há de vir
+
+Ao apresentar as perspectivas dos profissionais participantes da pesquisa em relação ao futuro de suas atuações na Atenção Primária à Saúde, os dados das Rodas de Conversa e do Questionário apontam ambivalências. Nesse sentido, é possível observar certo nível de preocupação dos profissionais com a lentidão para a homologação das equipes, tendo em vista que ela incide diretamente na liberação de verbas pelo Ministério da Saúde. Assim, aqueles municípios que ainda não tiveram suas equipes eMulti homologadas estão custeando a totalidade das ações referentes à manutenção e ao funcionamento das equipes, implicando diretamente na composição das equipes e na forma de contratação dos profissionais. A esse respeito segue o presente texto:
+
+Assistente Social 01: “... Sim, mas nós estamos dando passos bem pequenininhos, mas o lado de lá, que é a gestão, não está dando o passo nenhum, o que eu sinto é isso, que a gestão, não é gestão dentro da unidade, não... é gestão lá de nível nacional, na verdade essa Portaria desde a covid que já está rolando, por que que não já está organizada?”
+
+O estudo de Bispo Júnior e Almeida (2023) corrobora essa ambivalência ao apresentar as potencialidades e os desafios às novas configurações de equipe Multiprofissional na Atenção Primária à Saúde, salientando que as eMulti surgem diante da reconstrução da APS no Brasil, com fortalecimento de ações interprofissionais e incorporação de tecnologias e inovações na saúde. Apresentam, pois, semelhanças com o trabalho dos extintos NASF-AB e dispõem de novos mecanismos organizativos e estruturais.
+
+Contudo os autores salientam ainda a lentidão na efetivação das equipes. Além disso, questionam a posição das instâncias governamentais para que os municípios que realizaram a adesão e o credenciamento por meio da Portaria nº 635 de 2023 possam ter suas equipes homologadas, bem como indicam incertezas diante das novas atribuições, do alcance dos indicadores e da sobrecarga dos profissionais.
+
+Em contrapartida, relatos nas Rodas de Conversa e respostas ao Questionário destacam perspectivas de melhora das condições de trabalho, dos insumos e das modernizações, as quais proporcionariam benefícios aos usuários e trabalhadores, bem como ampliariam a colaboração interprofissional e fortaleceriam o apoio matricial:
+
+Fisioterapeuta 04: “... Mas já iniciou a planificação da Atenção Primária, né... A equipe eMulti é muito valorizada na planificação, ela é uma peça muito importante, ela desenvolve muitas ações, mas trabalha muito... Aí você vai ter um Projeto Terapêutico Singular, você vai fazer estudo de caso, vai ter grupos terapêuticos... Para a planificação dar certo você tem que deixar de ser gestora e ser defensora do SUS.”
+
+Assistente Social: “... Melhores condições de trabalho, como computador, impressora, salas EMULTI, armários, respeito e valorização para as equipes multiprofissionais. Como ampliação de equipes EMULTI no município, para melhor divisão das unidades de saúde…”
+
+Em suma, os textos apontam convergências e divergências de ideias que atravessam os profissionais em relação às perspectivas de futuro. Se, por um lado, temos um discurso otimista, esperançoso, que anseia por benefícios aos usuários e profissionais, referindo desde investimentos em insumos, melhorias nas condições de trabalho, ampliação de práticas colaborativas até aspectos mais subjetivos como respeito e valorização à equipe, por outro lado temos um discurso que aponta para a lentidão na homologação das eMultis: as incertezas e a preocupação dos profissionais com seus postos de trabalho. Foram apontados entraves ao alcance dos indicadores propostos e o modo como isso pode gerar impacto financeiro para as equipes. Além da disponibilidade de tempo dos profissionais em relação ao quantitativos de equipes que irão apoiar. Esse discurso reflete o receio quanto à qualidade da atenção prestada e às possíveis sobrecargas.
+
+## Considerações finais
+
+Os achados da pesquisa destacam os desafios enfrentados pelas equipes Multiprofissionais na Atenção Primária à Saúde. Embora essas equipes tenham sido concebidas para melhorar a resolutividade das demandas de saúde nos territórios, enfrentam barreiras significativas para a efetivação de práticas colaborativas. Entre os desafios estão a formação dos profissionais, as complexidades sociais e políticas que permeiam a construção de Políticas Públicas e a necessidade de um modelo alternativo que contrabalanceie o enfoque biomédico predominante.
+
+As mudanças políticas e econômicas recentes impactaram profundamente a APS, especialmente com a interrupção do financiamento das equipes Multiprofissionais e a complexidade em seu reconhecimento formal. Apesar das novas diretrizes estabelecidas pela Portaria nº 635 (2023), as equipes ainda lidam com a incerteza em relação ao seu futuro, especialmente após a pandemia da COVID-19, que exacerbou a desvalorização das equipes e distanciou práticas colaborativas.
+
+Os profissionais expressam ambivalências sobre o futuro, desejando melhorias nas condições de trabalho e maior valorização, mas também manifestando preocupações sobre a qualidade do cuidado e a sustentabilidade das equipes. A pesquisa também revelou limitações, como a dificuldade em acessar algumas categorias profissionais e as restrições impostas durante períodos eleitorais.
+
+Vale ressaltar que a pesquisa esbarrou em limites como a impossibilidade de acessar categorias profissionais, em particular a Fonoaudiologia, presente em dois dos três municípios estudados, contudo com carga horária reduzida e voltada majoritariamente ao atendimento individual, sob a justificativa de que a realização de mais encontros comprometeria as agendas dos profissionais. Outro limite encontrado no percurso da pesquisa se deu em virtude do período eleitoral com a restrição do acesso aos arquivos dos municípios em suas redes sociais que estavam no momento desativadas em cumprimento de normativas da justiça eleitoral.
+
+Assim, diante do exposto e entendendo que este é apenas um recorte das múltiplas realidades apresentadas em todo o território nacional no que diz respeito à existência de equipes Multiprofissionais na Atenção Primária à Saúde, destaca-se a importância e a necessidade de ampliação de estudos de campo sobre a temática, visando conhecer os cenários e fomentar a elaboração de Políticas Públicas de Saúde contextualizadas que, de fato, conduzam ao cuidado integral, longitudinal e territorializado no SUS. É essencial promover práticas que sejam inclusivas e que atendam às necessidades da população, evitando uma abordagem meramente mecanicista e focada em indicadores.

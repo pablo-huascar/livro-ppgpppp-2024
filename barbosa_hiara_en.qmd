@@ -1,15 +1,15 @@
 ---
 author: 
   - name: Hiara da Silva Santos Barbosa
-    url: 
-    orcid: 
-    email: 
+    url: http://lattes.cnpq.br/3372922787437273
+    orcid: 0000-0002-2098-5260
+    email: hiarabarbosa@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará    
   - name: Natália Santos Marques
-    url: 
-    orcid: 
-    email: 
+    url: http://lattes.cnpq.br/6060664745536596
+    orcid: 0000-0003-4994-3811
+    email: nataliamarques@ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
 lang: en
@@ -115,13 +115,13 @@ Based on the analyzed data, it was possible to group the activities performed by
 
 *Functions of Educational Counselor Duties.*
 
-| Assignments | Objective | Function |
-|:----------------------:|:----------------------:|:----------------------:|
-| Training | To capacitate | Instruction |
-| Alignment, support, participation | Develop strategies with school stakeholders |  |
-| Mediation | Reduce conflicts | Insertion |
-| Monitoring, preparation, observation, planning | Work on Socio-emotional Skills |  |
-| Care actions and collective actions | Promote mental health/Create and maintain contact among school stakeholders, bond creation, social spaces | Interaction |
+| Assignments                         | Objective                                                                               | Function       |
+|-------------------------------------|-----------------------------------------------------------------------------------------|----------------|
+| Training                            | To capacitate                                                                          | Instruction    |
+| Alignment, support, participation   | Develop strategies with school stakeholders                                           |                |
+| Mediation                           | Reduce conflicts                                                                       | Insertion      |
+| Monitoring, preparation, observation, planning | Work on Socio-emotional Skills                                                       |                |
+| Care actions and collective actions | Promote mental health/Create and maintain contact among school stakeholders, bond creation, social spaces | Interaction    |
 
 ### Areas of operation for educational counselors
 

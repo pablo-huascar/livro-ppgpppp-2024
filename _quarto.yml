@@ -40,7 +40,7 @@ book:
         - sousa_violencia.qmd
         - sousa_silva_saude_homens_trans.qmd
         - barbosa_hiara.qmd
-        #(21) - janne_camila.qmd 
+        - janne_camila.qmd 
         - sobre_os_autores.qmd
     - part: Chapters in English
       chapters:
