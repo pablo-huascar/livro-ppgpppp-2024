@@ -109,7 +109,7 @@ Monteiro and Brigeiro [-@monteiro2019] show different ways trans people access h
 
 ### “How many times do I have to say my name? I'm he. Not she.”: Social Name and Gender Identity in Health Services
 
-The concept of health is plural, requiring consideration of the social determinants of health, such as exclusion due to unemployment, low or no access to food, discrimination, difficulty accessing education, sanitation, etc. All these factors are related to individuals' health-disease processes. In this regard, discrimination and prejudice faced by the LGBT population interfere in their health-disease processes [@Brasil2013b].
+The concept of health is plural, requiring consideration of the social determinants of health, such as exclusion due to unemployment, low or no access to food, discrimination, difficulty accessing education, sanitation, etc. All these factors are related to individuals' health-disease processes. In this regard, discrimination and prejudice faced by the LGBT population interfere in their health-disease processes [@brasil2013b].
 
 > Researcher: Have you ever suffered any type of prejudice, violence, or felt offended when seeking health services? If so, could you describe what happened?  
 > Curió: Yes, I have. They have called me "she." There is a doctor at the health center, who is responsible for my treatment, and he insists on calling me "she." I always correct him, but it keeps happening. How many times do I have to say my name? I'm he. Not she (Interview Curió, 08/21/2023).
