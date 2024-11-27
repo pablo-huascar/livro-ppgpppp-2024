@@ -1,0 +1,229 @@
+---
+author: 
+  - name: Hiara da Silva Santos Barbosa
+    url: 
+    orcid: 
+    email: 
+    affiliations: 
+      - name: Universidade Federal do Ceará    
+  - name: Natália Santos Marques
+    url: 
+    orcid: 
+    email: 
+    affiliations: 
+      - name: Universidade Federal do Ceará
+lang: en
+toc-title: "Table of contents"
+language: 
+  title-block-author-plural: "Autoras"
+filters:
+  - section-bibliographies
+bibliography: barbosa_hiara.bib
+reference-section-title: Referências
+---
+# Characterization of the professional profile and modes of operation of educational counselors in the public school system of sobral, ceará
+## Introduction
+
+In Brazil, the profession of educational counselor was established in 1968 (Law No. 5,564/1968). The requirement for this professional in all schools was set by the Law of Guidelines and Bases (LDB, Law No. 5,692/1971). As a result, many professionals already working in schools were reassigned from their original roles to take on the role of educational counselor. This expansion in the number of educational counselors led to greater variation in functions and responsibilities, due to practices being linked to academic backgrounds and institutional interests.
+
+With the regulation of the profession in 1973 (Decree-Law No. 72,846/1973), the exclusive exercise of the profession was limited to those with a degree in pedagogy with a specialization in educational counseling. It also included graduates or specialists in educational counseling and those with a degree in educational counseling from foreign schools with proper revalidation. The main goal of these professionals was to assist students individually and/or in groups in schools and school systems at the primary and secondary levels, with actions aimed at the integral and harmonious development of the student's personality.
+
+Iin the 1980s, after the expansion of educational counseling, education faced intense criticism, being questioned for its technicist approach, which put social and holistic student development in the background. Many of these criticisms were directed at educational counseling. It was heavily discredited during this period for its focus on individual student issues and lack of concern for theoretical-political formation.
+
+The criticisms related to the work of educational counselors, discrediting their performance, led to a dark period for educational counseling in the following decade, when, in the LDB No. 9,394/1996, the training of professionals for educational counseling was left to pedagogy degree programs or postgraduate programs, at the discretion of the educational institution, guaranteeing a national common basis in this training. It did not point to specific academic training for educational counselors but rather indicated necessary qualifications.
+
+Luck (2017) points out that focusing on the training process of this professional is essential to ensure the execution of their duties. Moreover, the professional must know their work because, no matter how rich and coherent their theoretical conception may be, it will be useless if it is not systematized and directed.
+
+For some authors, the lack of regulation regarding the insertion of this professional in school systems results in specific points that need to be considered. First, the choice of this professional is at the discretion of management, which can lead to a mix between institutional goals and local political interests. Second, each government can determine whether there is a need for this professional in the school system, how this insertion will take place, the required training and qualifications, and the specific responsibilities of the position (Ourique & Tomazetti, 2005; Pascoal *et al*., 2008; Candaten & da Silva, 2017; David, 2017).
+
+In this regard, the diversity of responsibilities allowed counselors to operate in various educational contexts, with the density of actions indicating the complexity and importance of this new professional in the educational environment and the creation of diverse professional profiles for educational counselors. But to what extent have the impacts of both the specific responsibilities of educational counselors and the academic training factor on the construction of their professional identity been analyzed? Despite the vast production related to the historical trajectory of the profession's implementation in the country (such as the legal milestones of its insertion in the educational context and descriptions of its responsibilities), there are few accounts of educational counselors' practices associated with the duties provided for by law and their academic training (Barbosa & Marques, 2021).
+
+Furthermore, the authors indicate a need for research on the systematic work of educational counselors and indicators of the effects of interventions in the school context. Since it is essential to have a reference for the actions of this professional based on what is legally expected and what can be developed in different contexts.
+
+In this context, we point to the city of Sobral-CE, which, through Law No. 1,704/2017, created a career to support school management within the municipal executive branch. A public examination was held with 50 vacancies for the position of educational counselor, aimed at graduates in Psychology, to proceed with the implementation of Sobral's new educational focus: the development of socio-emotional competencies.
+
+The characterization of educational counselors, as proposed in this work, can contribute to understanding their role in Sobral's school system, providing input through the recording of data on monitoring and planning the main demands and challenges in the integration into the educational context. The data produced can assist in decision-making, in analyzing the effects of the category's performance from the implementation of the position to future demands, and contribute to the national literature by presenting the systematization of the actions of this professional in line with their functions.
+
+## Methodology
+
+### Study type
+
+Considering the proposal to study the professional profile and modes of operation of educational counselors in the public municipal schools of Sobral, Ceará, the research will be quantitative and qualitative.
+
+### Sample
+
+The research included 11 educational counselors, nine women and two men, aged between 24 and 36 years, working in the Municipal Schools of Sobral, Ceará, at the primary levels. Of these, two work in mixed schools and regular time specialists, three in mixed schools and full-time specialists, two only in full-time specialist schools, one only in mixed schools, two only in full-time specialist schools and mixed schools, and one only in regular time specialist schools. All research participants work in schools in both rural and urban areas of Sobral.
+
+### Data collection
+
+Data collection occurred during the period of social isolation resulting from COVID-19 and was carried out in three stages using digital resources and platforms. Stage 1 involved contacting the research participants via email and WhatsApp to agree to participate in the research through the Free and Informed Consent Form (project approved by the ethics committee under No. 42742121.4.0000.5053). Stage 2 involved the situational diagnosis, consisting of an application and data grouping phases. Finally, Stage 3 involved the researcher's development of the instrument.
+
+In Stage 1, the researcher contacted the educational counselors and sent them the Free and Informed Consent Form (FICF). The FICF was in Google Form format, and the acceptance was completed by filling in personal identification items and the consent item for the research.
+
+Stage 2 was the situational diagnosis. This stage involved collecting data related to the professional profile, modes of operation, and specific challenges of each educational counselor, as well as challenges faced by the professional category. The diagnosis involved two sub-stages. In each one, instruments were applied to the participants: Sub-stage 1 involved using the Electronic Form about the Professional Profile and the Electronic Form on the Challenges of Each Participant in their Work in Educational Institutions; Sub-stage 2 involved using the Script for Semi-Structured Interviews on General Demands of the Category and Its Challenges.
+
+Sub-stage 1 of Stage 2 first consisted of completing the Electronic Professional Profile Form, which was sent to each participant's institutional email. The form comprised 10 objective and open-ended questions regarding professional training and qualification, type of institution and educational level, and the area where they worked. After completing this form, the participant was granted access to the Electronic Form on the Specific Demands of Each Participant According to Their Institution of Operation and Their Challenges. This form contained six open-ended questions about the participant's work in the schools. In Sub-stage 2, two discussion rounds were held with nine research participants (two participants could not participate in this stage) and the researcher via Google Meet, concerning the general demands of the category and their challenges. The discussion points of Sub-stage 2 were previously organized into a Script for Semi-Structured Interviews on the General Demands of the Category and Its Challenges, with some adaptations being necessary due to issues with the chosen tools. The meeting was recorded and lasted an average of 1 hour and 30 minutes each.
+
+### Data analysis
+
+To address the research problem and objectives, the collected data were analyzed through Bardin's content analysis (2011). Data coding was performed based on word repetition, which, when triangulated with the observed results, formed registration units to reach categorization progressively. The categories relate to the theme proposed by the study: the mode of operation of educational counselors, namely Professional Duties, Areas of Operation for Educational Counselors, Functions of Duties, Challenges, and Documental Organization of Activities and Quantification of Monthly Outputs.
+
+With the situational diagnosis in hand, Stage 3 began, consisting of gathering and systematizing the collected data and preparing the instrument in response to the demands presented by the research participants. The instrument was designed following the criteria: 1\) Address the highest number of demands frequently cited by educational counselors regarding their specific actions per school and the related target audience; 2\) Address the demands frequently cited by educational counselors concerning the challenges as a professional category and the related target audience; 3\) Association between the professional duties referenced in the Brazilian literature and the duties originating from the municipal context.
+
+### Ethical considerations
+
+The project was reviewed by the Research Ethics Committee of the Universidade Estadual Vale do Acaraú and approved under number 42742121.4.0000.5053, in compliance with all guidelines and regulatory standards described in resolution CNS 510/2016.
+
+## Results
+
+### Professional profile
+
+From the analyzed data, it can be observed that, among the 11 educational counselors, there is a higher percentage of qualification in the field of education, totaling 49.9%, with 14.3% having specialization, 21.4% pursuing a master's degree, 7.1% having completed a master's degree, and 7.1% with ongoing specialization. Regarding qualifications in the health field, they make up 42.8%, with 28.6% having specialization, 7.1% having completed a master's degree, and 7.1% pursuing a master's degree. Additionally, 7.1% have specialization in the legal field.
+
+### Professional duties
+
+The Professional Duties category stems from data on the activities most frequently mentioned by participants regarding their daily actions, considering the level of education of the institution, the partnership with school management, and the resources available for carrying out the work. Based on the collected data, it was possible to organize the most repeated activities and the associated components and propose, during the discussion round, a qualitative analysis for participants' validation regarding the organization of activities into groups of duties. This analysis occurred as follows: data were organized into a table and presented to participants, who provided their considerations and changed the positions of the duties. They switched the planning and support duties, placing the former in group 1 and the latter in group 2 of responsibilities, as shown in the table. It is worth noting that three participants did not agree with the change.
+
+Thus, two concepts were defined for the duties' profiles: primary and secondary. Participants considered primary duties as those in which they were central figures in the execution of the activity (differentiating their actions from other school actors). On the other hand, secondary duties are the primary duties of different school actors, with the educational counselor providing support for their execution, as described in Table 1\.
+
+**Table 1**
+
+*Profiles of Primary and Secondary Duties of Educational Counselors.*
+
+| Assignments | Assignment Components | Type of Assignment |
+| :---: | :---: | :---: |
+| Monitoring | Socio-emotional, dual focus, classes | Primary |
+| Planning | Classes, pedagogical |  |
+| Training | Socio-emotional skills |  |
+| Preparation | Activities, dual focus |  |
+| Collective Actions | Welcome, circles, workshops, dialogue circles, groups, lectures |  |
+| Care/Mediation | Mental, dialogue, reflection, welcoming, listening, educational support, projects, socio-emotional, conversation circles, and dialogue circles |  |
+| Observation | Classes |  |
+| Participation | Meetings, planning | Secondary |
+| Support | Socio-emotional skills, pedagogical |  |
+| Meeting | Management team |  |
+
+### Functions of educational counselor duties
+
+The category Functions of Educational Counselor Duties refers to the set of activities aimed at common goals. These activities result from the actions carried out, whether they are primary and/or secondary duties, as well as what the professional considers their role in the institution versus what they believe other school actors and educational management expect from them as a professional category.
+
+Based on the analyzed data, it was possible to group the activities performed by educational counselors into three types of Functions: Instruction, Integration, and Interaction. The purpose of Instruction is related to activities that guide and develop strategies with school actors. The Integration Function is related to activities considered new in the school setting, promoting mental health and working with socio-emotional competencies. The Interaction Function involves developing actions regarding interpersonal relationships, promoting dialogue, and school mediation, as described in Table 2\.
+
+**Table 2**
+
+*Functions of Educational Counselor Duties.*
+
+| Assignments | Objective | Function |
+| :---: | :---: | :---: |
+| Training | To capacitate | Instruction |
+| Alignment, support, participation | Develop strategies with school stakeholders |  |
+| Mediation | Reduce conflicts | Insertion |
+| Monitoring, preparation, observation, planning | Work on Socio-emotional Skills |  |
+| Care actions and collective actions | Promote mental health/Create and maintain contact among school stakeholders, bond creation, social spaces | Interaction |
+
+### Areas of operation for educational counselors
+
+The Areas of Operation category involves grouping duties concerning the audience for whom the operation is intended. To this end, the duties described by counselors in individual actions (data collected from individual interviews) were used, as well as documentary analysis of legislation and official documents related to the implementation of the position and the operation of the educational counselor in the municipality regarding their duties.
+
+Furthermore, the counselors defined the areas based on collective demands and gathered in discussion rounds. The areas of operation are 1\) Support for management, 2\) Support for students and teachers, 3\) Support for the school community, 4\) Support for the intersectoral network and support and planning between educational counselors, under the axes of municipal guidelines for educational counselors, the laws creating the profession in Brazil, the law creating the school management support career in the municipality, and the professionals' considerations about their operations.
+
+### Challenges
+
+Challenges consist of circumstances participants report about their daily practices that may hinder expected results or make it difficult to carry out interventions. For this analysis, we initially used data on individual challenges and challenges common to all educational counselors. We related them to the type of school, team involvement, and requested demands, as shown in Table 3 below.
+
+**Table 3**
+
+*Challenges of Educational Counselors.*
+
+| Participants' Statements | Analysis Categories | Guiding Concept of Analysis Categories |
+| ----- | ----- | ----- |
+| Overload Pressure No day for planning Results must be quick "Solve it there" Last-minute demands | Quality impairment regarding demand/role diversion | Highlights the difficulties faced, which require demands for immediate results and equivalent actions. |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+| Not having the same level of dedication Everything you do in one school, you have to do in the other "It's like SEDUC deadlines" Develop the same work in schools Not respecting schedules Comparison I don't believe there's a tool that can handle it | Split between two or more schools |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+| Help the school Help the community Feeling obligated Understaffed teams Being part of the management team, working nights and weekends  | Difficulty in managing activities beyond their duties  | Highlights the difficulties faced, which lead to role diversion  |
+
+### Documental organization of activities and quantification of monthly outputs
+
+The collection and analysis of data on the instruments used by counselors in their daily routines and their frequency showed a variety of instruments that meet a wide range of demands. It also requires one adaptation for in-person activities and another for remote activities.
+
+Although counselors mentioned the instruments, many reported using them infrequently in their daily work, and some never used them. This raises a question regarding how the work of educational counselors is quantified or whether the municipality has yet to consider data quantification necessary for counselors' work, as shown in Table 4\.
+
+**Table 4**
+
+*Systematization of Daily Instruments Used by Educational Counselors.*
+
+| Instrument Utilization Period | Instruments | Adherence | Guiding Concept |
+| :---: | :---: | :---: | :---: |
+| Records of remote activities – March 2020 to April 2021 | Physical agenda Schedule Tracking table and class record form Telework plan | Most used | Explains how monthly quantitative reports of remote work by coordinators are conveyed |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  | IAS CSE repository | Least used |  |
+| Records of in-person activities – August 2019 to March 2020 | Referral instrument Planning form Dual-focus activity record form Welcome form Attendance request | Most used | Explains how monthly quantitative reports of in-person work by coordinators are conveyed |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  | Home visit record form Monthly activity map Dual-focus class monitoring Circle planning form | Least used |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
+## Discussion
+
+When researching the professional profile and modes of operation of educational counselors in the municipal public school system of Sobral-CE, the first point that deserves attention is the academic training required by the municipal management for the position of educational counselor, since in much of the Brazilian territory, according to Barbosa and Marques (2021), there is a tendency to opt for pedagogues or other professionals with teaching degrees. Sobral, on the other hand, opted for psychologists.
+
+The reality of educational counselors in Sobral is similar to the national literature regarding professionals working as educational counselors who mostly do not have courses or training in educational counseling, contrary to the provisions of Decree-Law No. 72,846/1973. Another similarity is that these professionals have interests in different areas of professional qualification, with their professional profiles consisting of knowledge in the fields of health, law, organization, education, and schooling.
+
+Supporting this, Barbosa and Marques (2021) describe that the activities performed by counselors in schools in Brazil are influenced by the professional's field of knowledge. For example, professionals with pedagogical training orient their practices towards understanding the student's cognitive development, learning aspects, and teacher support/guidance.
+
+However, regardless of the professional's academic background, it is noted that the target audience of educational counselors, unanimously, is the students, sometimes with activities more in favor of the institution's interests (reducing problematic student situations, focusing on the individual and dissociating them from the social and family dimension), sometimes in favor of the holistic development of the student.
+
+Thus, regarding the professional profile, it is understood that the educational context of educational counselors in Sobral differs from the national context by having, in its entirety, a workforce with the same academic background working in schools; and it is similar in that these professionals, for the most part, have diverse professional qualifications, duties directed towards their individual contexts and the interests of municipal management, given that, in much of the country, over the years, having or not having this position, who would occupy it, and what they would do was and is at the discretion of municipal management (Barbosa & Marques, 2021).
+
+Andrade *et al*. (2020) point out a distortion regarding the true role of the educational counselor within the school environment, especially when this professional adopts the understanding that their role is to provide solutions to all demands involving students. According to Table 3, this is confirmed in the context of Sobral, as there is a wide range of actions by counselors referenced in municipal regulations, as well as in Table 4, when challenges such as role deviation due to demands that are not the counselor's responsibility are pointed out.
+
+Although the professionals have a similar basic education in Sobral, this does not guide them towards a common practice, except for socio-emotional competencies and school mediation. This scenario may favor increased importance of this professional in institutions, serving different educational goals. Still, it may also create impasses regarding the professional profile of educational counselors and their modes of operation.
+
+In the analyzed data, we have already observed characteristics of the national context in Sobral when participants pointed out that each school has its own work logic, and that the counselor's work depends on the connection with the management core for the recognition of the professional and for the primary duties to be carried out. Another discussion added to the responsibilities and their correlation with the professional profile: regarding the location of institutions (headquarters or district) and between types of territories. According to participants, there are territories with specific characteristics, such as the presence of criminal factions and issues related to commuting and working conditions in district schools. This last issue is considered the foremost challenge by educational counselors.
+
+Regarding the primary duties listed by educational counselors, it is noted that the most highlighted duties are monitoring and planning. These two duties are similar to the pedagogical duties described by Barbosa and Marques (2021), where there is a focus on learning academic content and other formal pedagogical responsibilities. Regarding the functions of primary responsibilities, specifically, the most cited by participants: monitoring, planning, and care/mediation, they are centered on the tasks of integration and interaction, which demonstrates that, at first, the work of the educational counselor consists of building a new culture in the school environment and integrating school actors into this process as well.
+
+After observing and grouping the data on duties, characterizing them in terms of type, functions, and target audience, it was possible to relate these data to the effects of the counselors' activities by duties and target audience. Four types of effects were described by counselors regarding the execution of their activities, namely: 1\) Appropriation of new socio-emotional competencies methodologies; 2\) Better school climate and interpersonal relationships; 3\) Holistic student development; 4\) Being a reference, as described in Table 5\.
+
+With data analysis, we can observe relationships between the duties described by counselors and other duties in legal terms, relating and creating suggestions for effect indicators that consider the reality of educational counselors according to the work they carry out based on primary and secondary duties.
+
+**Table 5**
+
+*Effect Indicators.*
+
+| Assignment | Assignment Objectives | Target Audience | Effects Described by O.E. | Suggested Effect Indicator/Measure |
+| :---: | :---: | :---: | :---: | :---: |
+| Training | To capacitate | Teachers | Adoption of new CSE methodologies | Increase in the number of teachers qualified to promote socio-emotional skills (CSE)/Increase in the frequency of pedagogical activities aimed at promoting CSE |
+| Mediation; Care actions, collective actions | Promote mental health | School community | Better school climate and interpersonal relationships | Reduction in conflicts reported to management/Increase in the frequency of collaborative activities among teachers/Increase in spontaneous seeking of management (by students and/or teachers)/Increase in collaborative activities among managers |
+| Monitoring, preparation, observation, planning | Work on socio-emotional skills | Educational coordinator | To be a reference | Reduction in the frequency of urgent actions/More time dedicated to personal and socio-emotional aspects of the student, as planned in the lesson plan |
+| Meetings, support, participation | Develop strategies with school stakeholders | No specific target audience | To be a reference | Reduction in demands unrelated to primary assignments |
+
+This structuring can help counselors create instruments to monitor the evolution of their activities within the school context, which is specific to each. We present a table that guides this professional but does not limit their potential for creation. Knowing how to evaluate the work is essential, as it allows for changes and the sharing of practices that are more applicable to a given context.
+
+## Final Considerations
+
+The work of the educational counselor in the Sobral educational context is still under construction, being shaped according to demands and adjusting responsibilities accordingly. This fact was considered when we set out to study this professional's professional profile and modes of operation, mainly due to the lack of national parameters providing guidelines for counselors' duties with a background in Psychology and acting on specific axes of the Sobral context.
+
+Thus, when we refer to an educational counselor in the local context under study, we refer to a professional who is becoming a reference in training the school body to develop socio-emotional competencies and mediate school relationships. This professional interacts with all school actors and promotes collective spaces for sharing knowledge and feelings. Additionally, they are a bridge between other services offered by the municipality that operate in the school environment, such as the actions of the School Health Program, partnerships with federal and state universities, articulations with Project Management Units (UGP), the "I Can Listen to You" Project, UNICEF (United Nations International Children's Emergency Fund) actions.
+
+Counselors are the entry points for the training offered by the Sobral Department of Education partners, thereby multiplying knowledge and, along with the management core, being responsible for implementing and monitoring new methodologies in the school routine.
+
+However, because these professionals bring a new field of practice to schools, they face resistance and challenges in their journeys, as there were no pre-existing paths or practices. The entire process has been built by the professionals involved. Moreover, although they have the same academic background and have the same qualifications, these professionals operate in diverse territories, requiring the professional to manage and adapt to the reality experienced constantly. These adaptations are only sometimes transferred during the training sessions the counselor is expected to attend.
+
+Thus, there is still much to be explored regarding responsibilities and the creation of effect indicators. Additionally, strategies need to be developed to overcome the obstacles identified by counselors, for which this research sought to systematize and explore possibilities. However, most of the challenges hindering the development of counselors' work arise from decisions and structures that belong to municipal management, such as restructuring responsibilities, since the current ones are related to the remote environment, and adjusting these for schools in urban and rural areas.
