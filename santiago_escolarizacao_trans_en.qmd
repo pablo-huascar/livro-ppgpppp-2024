@@ -12,8 +12,10 @@ author:
     email: carolinablmartins@ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
+lang: en
+toc-title: "Table of contents"
 language: 
-  title-block-author-plural: "Autoras"
+  title-block-author-plural: "Authors"
 filters:
   - section-bibliographies
 bibliography: santiago_escolarizacao_trans_en.bib
@@ -136,7 +138,7 @@ A., for example, says she fell in love with a boy and that they kept their relat
 
 At this point, the notion that "biological sex is destiny" needs to be analyzed. The idea that gender is culturally constructed as a reflection of sex, the latter being natural, is addressed by Butler [-@butler2020problemas]. Sex, genitalia, is not a neutral product of biology, but the result of a discourse that culturally and politically relocates bodies within heterosexual binarism.
 
-When questioning "am I a monster?", A. is faced with the idea that her body and life are perceived by the notion of abjection which, according to Butler [(2019)??], involves "precisely those 'uninhabitable' zones" (p. 197) of social life, which are, nonetheless, densely populated by those who do not enjoy the status of subject." This is how transphobia works: the dehumanization of trans/transvestite bodies relegates them to the position of non-subjects, incapable of speaking for themselves, of claiming their political rights, of being loved, of being perceived as people.
+When questioning "am I a monster?", A. is faced with the idea that her body and life are perceived by the notion of abjection which, according to Butler \[(2019)??\], involves "precisely those 'uninhabitable' zones" (p. 197) of social life, which are, nonetheless, densely populated by those who do not enjoy the status of subject." This is how transphobia works: the dehumanization of trans/transvestite bodies relegates them to the position of non-subjects, incapable of speaking for themselves, of claiming their political rights, of being loved, of being perceived as people.
 
 "Nourishing your capacity for resistance," as hooks [-@hooks2019anseios] points out, is a possibility of survival when we talk about trans and transvestite people in school and in the world, especially in Brazil. This country kills the most trans and transvestite people. hooks [-@hooks2019anseios] also points out the need to understand marginality as a position and place of resistance so that despair and nihilism do not penetrate destructively.
 

@@ -37,9 +37,15 @@ book:
         - nascimento_muros.qmd
         - pessoa_narrativa.qmd
         - santiago_escolarizacao_trans.qmd
+<<<<<<< HEAD
         #(15) - sousa_violencia.qmd
         #(17) - sousa_silva_saude_homens_trans.qmd
         - barbosa_hiara.qmd
+=======
+        - sousa_violencia.qmd
+        - sousa_silva_saude_homens_trans.qmd
+        #(19) - barbosa_hiara.qmd
+>>>>>>> d6135b516d431a373b29ee9a3f70192dfd93740a
         #(21) - janne_camila.qmd 
         - sobre_os_autores.qmd
     - part: Chapters in English
@@ -50,8 +56,8 @@ book:
         - barbosa_aquilomba_en.qmd
         - nascimento_muros_en.qmd
         - pessoa_narrativa_en.qmd
-        #(14) - santiago_escolarizacao_trans_en.qmd
-        #(16) - sousa_violencia_en.qmd
+        - santiago_escolarizacao_trans_en.qmd
+        - sousa_violencia_en.qmd
         - souza_silva_saude_homens_trans_en.qmd
         #(20) - barbosa_hiara_en.qmd
         #(22) - janne_camila_en.qmd
