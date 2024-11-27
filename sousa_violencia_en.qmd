@@ -26,7 +26,7 @@ reference-section-title: Referências
 
 ## Introduction
 
-> "My way, I made my revolution and moved forward" [@leite2009filha] (Gabriela Leite, 2009, p.31)
+> "My way, I made my revolution and moved forward" [@leite2009filha, p. 31]
 
 Reflecting on the invisibility, or even the deliberate invisibilization, of a stigmatized profession, particularly that of women engaged in prostitution, is essential to constructing new forms of care and attention in public policies for this population group. Despite the repeated discourse that prostitution is the oldest profession in the world, the focus is more on the act of prostitution rather than on the women who perform it. Thus, according to Grant [-@grant2021dando], women engaged in prostitution are perceived as invisible, voiceless, and hidden, even in their public nudity.
 
@@ -78,7 +78,7 @@ In this conception, conducting intervention research in psychology, according to
 
 Regarding qualitative research, Godoy [-@godoy1995introducao] states that, through it, a phenomenon can be better understood in the context in which it occurs, and the analysis can be conducted from an integrated perspective. Thus, qualitative research allows for a closer relationship between the researcher and the subject being studied within their context, understanding this subject as a whole, and enabling interventions based on experiences in the field. It is understood that there is no neutrality in conducting research, as the researcher is affected by emotions and also affects others. Regarding the researcher's involvement:
 
-> The qualitative researcher systematically reflects on who they are in the investigation and is sensitive to their personal biography and how it shapes the study. This introspection and recognition of biases, values, and interests (or reflexivity) typifies current qualitative research. The personal self becomes inseparable from the researcher self. This also represents honesty and openness to research, recognizing that all investigation is value-laden [@creswell2007projeto] (Creswell, 2007, p. 187).
+> The qualitative researcher systematically reflects on who they are in the investigation and is sensitive to their personal biography and how it shapes the study. This introspection and recognition of biases, values, and interests (or reflexivity) typifies current qualitative research. The personal self becomes inseparable from the researcher self. This also represents honesty and openness to research, recognizing that all investigation is value-laden [@creswell2007projeto, p. 187].
 
 When we consider the relationships of affection and trust—which are constructed and established from these positions so that we can understand that we are talking about women who carry stigmas and are labeled—we see the importance of not imposing norms or working with concepts of right and wrong. Our goal is to respect the uniqueness and subjectivity of each individual, creating spaces for the construction of affect where they can express themselves freely and without judgment.
 
@@ -106,7 +106,7 @@ Understanding and respecting the closure of the field in the absence of possibil
 
 We used the theoretical-methodological approach of discursive practices and meaning production for data analysis. When relating discursive practices to meaning production, we assume that meanings are not found in language as materiality but in discourse that transforms language into a tool for constructing reality. In the case of reporting, the act of reporting is, in fact, explanatory in its relationship with the context. As Spink and Pinheiro (não seria lima?) (2013) point out, the report focuses on what the subject narrates, the arguments used, and the explanation given to validate the narrative.
 
-For data analysis, we used idea association maps, which, according to Spink and Lima \[-\@spink2013rigor\], aim to systematize the process of analyzing discursive practices by seeking the formal aspects of both linguistic construction and the repertoires used in this construction. Furthermore, they are considered instruments with a dual purpose: to support the interpretation process and facilitate the communication of the steps underlying the interpretative process.
+For data analysis, we used idea association maps, which, according to Spink and Lima [-@spink2013rigor], aim to systematize the process of analyzing discursive practices by seeking the formal aspects of both linguistic construction and the repertoires used in this construction. Furthermore, they are considered instruments with a dual purpose: to support the interpretation process and facilitate the communication of the steps underlying the interpretative process.
 
 ### Ethical Aspects
 
