@@ -39,7 +39,7 @@ book:
         - santiago_escolarizacao_trans.qmd
         #(15) - sousa_violencia.qmd
         #(17) - sousa_silva_saude_homens_trans.qmd
-        #(19) - barbosa_hiara.qmd
+        - barbosa_hiara.qmd
         #(21) - janne_camila.qmd 
         - sobre_os_autores.qmd
     - part: Chapters in English
