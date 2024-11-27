@@ -18,9 +18,20 @@ filters:
   - section-bibliographies
 bibliography: rodrigues_trabalho.bib
 reference-section-title: Referências
+editor_options: 
+  chunk_output_type: console
 ---
 
 # Trabalho docente e saúde mental de professores brasileiros na pandemia da covid-19
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false 
+library(tidyverse)
+library(gt)
+```
+
 
 ## Introdução
 
@@ -96,6 +107,57 @@ Na amostra, 21,6% dos participantes apresentaram indicativos de TMC’s. Em rela
 O modelo de regressão linear se mostrou significativo (F(16, 14357) = 306,5; p \< 0,001; R2 = 0,25). Encontrou-se que as variáveis preditoras de TMCs foram gênero (β = 0,11, p \< 0,001), idade (β = -0,17, p \< 0,001), raça (β = -0,02, p \< 0,01), situação da renda após o início da pandemia da Covid-19 (β = 0,04, p \< 0,001), participação de grupo de risco (β = 0,09, p \< 0,001), recebimento de diagnóstico de Covid-19 (β = 0,04, p \< 0,001), perdas de familiares ou amigos para a Covid-19 (β = 0,05, p \< 0,001), atuação no Ensino Médio (β = 0,03, p \< 0,05) e em mais de um nível de ensino (β = 0,03, p \< 0,01), organização do trabalho (β = 0,29, p \< 0,001), condições de trabalho (β = 0,07, p \< 0,001) e relações socioprofissionais (β = 0,13, p \< 0,001). As variáveis estado civil e renda per capita familiar mensal não foram significativas no modelo.
 
 Apresentaram maiores médias de TMCs docentes que pertenciam ao gênero feminino, que se autodeclararam brancos, que tiveram a renda diminuída após o início da pandemia, que eram do grupo de risco para Covid-19, que foram diagnosticados com Covid-19, que perderam amigos ou familiares para a doença, que atuavam no Ensino Médio ou em mais de um nível de ensino. A idade mostrou uma relação negativa com os TMCs, de modo que participantes mais velhos tinham pontuações menores. As variáveis organização do trabalho, relações socioprofissionais e condições de trabalho apresentaram uma relação positiva com os TMCs, assim piores percepções do contexto laboral implicavam em maiores pontuações nos TMCs.
+
+```{r}
+#| echo: false 
+
+
+dados <- tribble(
+  ~Variável, ~B, ~LI, ~LS, ~`EP B`, ~β, ~`R²`,
+  "Constante", -1.87, -2.27, -1.47, 0.22, NA, 0.25,
+  "Gênero (feminino)", 1.24, 1.09, 1.39, 0.08, 0.12, NA,
+  "Idade", -0.08, -0.08, -0.07, 0.00, -0.17, NA,
+  "Cor/raça (não brancos)", -0.23, -0.36, -0.10, 0.06, -0.03, NA,
+  "Estado civil (sem companheiro)", 0.14, 0.03, 0.26, 0.06, 0.02, NA,
+  "Renda per capita", 0.00, 0.00, 0.00, 0.00, 0.01, NA,
+  "Renda na pandemia (diminuição)", 0.38, 0.26, 0.50, 0.06, 0.05, NA,
+  "Grupo de risco (sim)", 0.91, 0.75, 1.06, 0.08, 0.09, NA,
+  "Diagnóstico de Covid-19 (sim)", 0.45, 0.32, 0.61, 0.07, 0.05, NA,
+  "Perdas para Covid-19 (sim)", 0.41, 0.29, 0.52, 0.06, 0.05, NA,
+  "Ensino Fundamental", 0.15, -0.03, 0.32, 0.09, 0.02, NA,
+  "Ensino Médio", 0.36, 0.12, 0.58, 0.12, 0.03, NA,
+  "Atuação em mais de um nível", 0.34, 0.17, 0.53, 0.10, 0.04, NA,
+  "Outros níveis (AEE e EJA)", 0.31, 0.02, 0.60, 0.17, 0.02, NA,
+  "Organização do Trabalho", 1.62, 1.52, 1.74, 0.06, 0.30, NA,
+  "Condições de Trabalho", 0.41, 0.29, 0.53, 0.06, 0.07, NA,
+  "Relações Socioprofissionais", 0.74, 0.64, 0.85, 0.05, 0.14, NA
+)
+```
+
+```{r}
+#| label: tbl-regressao
+#| echo: false
+#| tbl-cap: Resultados da Regressão Linear Múltipla para Transtornos Mentais Comuns
+dados |> 
+  gt() |> 
+  tab_source_note(
+    source_note = "Nota. AEE = Atendimento Educacional Especializado. EJA = Educação de Jovens e Adultos. IC = intervalo de confiança. LI = limite inferior. LS = limite superior. EP = erro padrão."
+  ) |> 
+  tab_source_note(
+    source_note = "*p < 0,05. ** p < 0,01. ***p < 0,001."
+  ) |> 
+  sub_missing(
+    missing_text = ""
+  ) |> 
+  tab_spanner(
+    label="95% IC para B",
+    columns = c("LI","LS")
+  ) |> 
+  tab_spanner(
+    label="Bootstrapping (1000 reamostragens)",
+    columns = c("B",  "LI",  "LS",   "EP B" )
+  )    
+```
 
 ## Discussão
 
