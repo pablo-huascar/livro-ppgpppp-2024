@@ -20,9 +20,19 @@ filters:
   - section-bibliographies
 bibliography: rodrigues_trabalho.bib
 reference-section-title: References
+editor_options: 
+  chunk_output_type: console
 ---
 
 # Teaching work and mental health of Brazilian teachers during the COVID-19 pandemic
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false 
+library(tidyverse)
+library(gt)
+```
 
 In recent years, there has been a significant increase in mental disorders among teachers [@Silva2018]. This situation was exacerbated by remote work during the COVID-19 pandemic [@Allen2020]. In this context, abrupt changes occurred in the development of teaching activities without the necessary support for these modifications [@Oliveira2021]. Lack of access to the internet and computers, as well as low motivation among parents and students, were perceived as barriers to the development of remote teaching [@Klapproth2020].
 
@@ -96,8 +106,56 @@ The linear regression model was significant (F(16, 14357) = 306.5; p \< 0.001; R
 
 Higher CMD averages were found among female teachers, participants who self-identified as white, teachers whose income decreased after the onset of the pandemic, those in the COVID-19 risk group, those diagnosed with COVID-19, those who lost friends or family members to the disease, those teaching at the high school level, and those teaching at more than one level. Age negatively correlated with CMDs, indicating that older participants had lower scores. The variables work organization, social-professional relationships, and working conditions showed a positive relationship with CMDs, meaning that worse perceptions of the work context were associated with higher CMD scores.
 
-(tabela)
+```{r}
+library(tibble)
 
+dados <- tribble(
+  ~Variable, ~B, ~LL, ~UL, ~`SE B`, ~β, ~`R²`,
+  "Constant", -1.87, -2.27, -1.47, 0.22, NA, 0.25,
+  "Gender (female)", 1.24, 1.09, 1.39, 0.08, 0.12, NA,
+  "Age", -0.08, -0.08, -0.07, 0.00, -0.17, NA,
+  "Race (non-white)", -0.23, -0.36, -0.10, 0.06, -0.03, NA,
+  "Marital status (without partner)", 0.14, 0.03, 0.26, 0.06, 0.02, NA,
+  "Per capita income", 0.00, 0.00, 0.00, 0.00, 0.01, NA,
+  "Income during the pandemic (decreased)", 0.38, 0.26, 0.50, 0.06, 0.05, NA,
+  "Risk group (yes)", 0.91, 0.75, 1.06, 0.08, 0.09, NA,
+  "COVID-19 diagnosis (yes)", 0.45, 0.32, 0.61, 0.07, 0.05, NA,
+  "Losses due to COVID-19 (yes)", 0.41, 0.29, 0.52, 0.06, 0.05, NA,
+  "Elementary education", 0.15, -0.03, 0.32, 0.09, 0.02, NA,
+  "High school", 0.36, 0.12, 0.58, 0.12, 0.03, NA,
+  "Works at more than one academic level", 0.34, 0.17, 0.53, 0.10, 0.04, NA,
+  "Other levels (specialized educational assistance and youth/adult education)", 0.31, 0.02, 0.60, 0.17, 0.02, NA,
+  "Work Organization", 1.62, 1.52, 1.74, 0.06, 0.30, NA,
+  "Working Conditions", 0.41, 0.29, 0.53, 0.06, 0.07, NA,
+  "Socioprofessional Relationships", 0.74, 0.64, 0.85, 0.05, 0.14, NA
+)
+
+```
+
+```{r}
+#| label: tbl-regression
+#| echo: false
+#| tbl-cap: Multiple Linear Regression Results for Common Mental Disorders
+dados |> 
+  gt() |> 
+  tab_source_note(
+    source_note = "Note. AEE = Specialized Educational Assistance. EJA = Youth and Adult Education. CI = confidence interval. LL = lower limit. UL = upper limit. SE = standard error."
+  ) |> 
+  tab_source_note(
+    source_note = "*p < 0.05. ** p < 0.01. ***p < 0.001."
+  ) |> 
+  sub_missing(
+    missing_text = ""
+  ) |> 
+  tab_spanner(
+    label="95% CI for B",
+    columns = c("LL", "UL")
+  ) |> 
+  tab_spanner(
+    label="Bootstrapping (1000 resamples)",
+    columns = c("B", "LL", "UL", "SE B")
+  )    
+```
 ## Discussion
 
 This study found a prevalence of 21.6% of CMDs among primary education teachers. This value is lower than that found in Brazilian studies with teachers before the COVID-19 pandemic [@Baldacara2015; @Campos2020; @Carlotto2015]. These studies used the same cutoff point for CMD assessment (≥ 7), but analyzed specific education levels, with smaller sample sizes and in-person data collection, making comparing results difficult.
