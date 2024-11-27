@@ -1,1 +1,124 @@
+---
+author: 
+  - name: Thamyles de Sousa e Silva
+    url: https://lattes.cnpq.br/3266568917899957
+    orcid: 0000-0001-5235-9312
+    email: thamylessousa@gmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará
+  - name: Juliana Vieira Sampaio
+    url: http://lattes.cnpq.br/9556200287516417
+    orcid: 0000-0001-5770-244X 
+    email: julianavsampaio@hotmail.com 
+    affiliations: 
+      - name: Universidade Federal do Ceará
+language: 
+  title-block-author-plural: "Autoras"
+filters:
+  - section-bibliographies
+bibliography: sousa_violencia.bib
+reference-section-title: Referências
+---
 
+# Roda de conversa sobre acesso à saúde por homens trans no interior do Ceará
+
+## Introdução
+
+Este estudo é um recorte da pesquisa de mestrado da presente autora, ainda em andamento. Pretende-se discutir as práticas de saúde voltadas para homens trans no interior do Ceará, a partir do relato de experiência de uma roda de conversa. Desse modo, para iniciar a discussão, pontua-se que é notória a existência de uma busca incessante, desde muito cedo, em afirmar o sexo biológico de uma criança. Por meio disso, começa todo um processo em definir brinquedos, roupas, acessórios e cores que aquele sujeito irá utilizar.
+
+Sendo assim, afirmar que o indivíduo se constitui apenas por meio da binaridade é adotar uma lógica que perpetua o sofrimento daqueles que não se encaixam nela. Dessa forma, pode-se perceber que a linguagem, assim como aponta Foucault [-@foucault1996ordem], produz efeitos e se materializa, em nosso cotidiano, nas instituições, nos discursos transmitidos, nas relações de forças e de poder, e no modo como as pessoas produzem seus processos subjetivos. Esse fato pode ser uma maneira de colaborar para a existência de mais violações, afinal, exige-se quase que obrigatoriamente que o sujeito performe certos estereótipos, os quais não necessariamente são aqueles os quais dão significado ao seu corpo.
+
+Assim, para Ávila [-@avila2014ftm], dialogar acerca da transexualidade é tornar necessárias reflexões que estejam para além das concepções biológicas, não resumindo os sujeitos a tal critério. No presente estudo, decide-se dialogar especificamente com os homens trans em decorrência da demasiada falta de visibilidade direcionada a tal grupo, fato esse que já foi abordado em algumas pesquisas, principalmente no que se refere ao acesso à saúde [@avila2014ftm, @nery2011viagem]. 
+
+Neste trabalho, utiliza-se o termo homens trans a partir das considerações de Àvila (2014), para quem é possível compreendê-lo como sujeitos que nasceram em corpos biológicos femininos, mas que não se identificaram como tal. Dessa forma, passaram a identificar-se como corpos masculinos a partir de suas próprias experiências e construção de suas identidades ao longo da vida. Nesse contexto, são diversas as discussões acerca da transexualidade, mas a maior porcentagem dos estudos é voltada para questões transfemininas, não dialogando acerca de questões transmasculinas (Passos & Casagrande, 2018).
+
+A importância de discutir essa temática reside em fomentar um olhar mais humanizado sobre as demandas dos homens trans nos serviços de saúde, além de em colaborar ativamente nos processos interventivos no âmbito da saúde. Nesta pesquisa, cuja é natureza qualitativa do tipo relato de experiência, o intuito é discutir acerca do acesso à saúde por homens trans no interior do Ceará a partir de um relato de experiência.
+
+## Método
+
+Trata-se de um estudo de abordagem qualitativa do tipo relato de experiência, que, segundo Ludke e André (2014), envolve a descrição do processo e preocupa-se com a perspectiva dos participantes a partir do contato direto com o pesquisador. Sendo assim, este trabalho refere-se a uma oficina realizada com 4 homens trans acerca do acesso deste grupo à saúde. Foram contatados por meio da técnica de “Snowball” ou Bola de Neve. Tal técnica é utilizada para acessar grupos de difícil aproximação ou mesmo para estudar questões delicadas de âmbito privado, a partir da qual uma pessoa vai intermediar e indicar outras com o perfil necessário para a pesquisa (Bockorni & Gomes, 2021).
+
+As oficinas, por seu turno, “são espaços com potencial crítico de negociação de sentidos, permitindo a visibilidade de argumentos, posições, mas também deslocamentos, construção e contraste de versões" (Spink *et al*., 2014, p. 33). Além disso, também foi utilizado o diário de campo como instrumento de pesquisa, para captar as expressões e registrar um certo saber-fazer do pesquisador a partir do que pode ser inserido na escrita para além do que se escuta naquele momento (Kroeff *et al*., 2020). A oficina aconteceu no dia 16 de março de 2024\.
+
+Foi realizado um contato inicial com um homem trans em uma cidade de médio porte do interior do Ceará, participante é sujeito ativo dos movimentos sociais existentes no município, e, a partir de suas indicações, foi possível o contato com outros que tivessem interesse em participar do momento. Ao todo, quatro pessoas estiveram presentes, enquanto outros convidados não puderam comparecer.
+
+A duração da oficina foi de cinco horas, fato importante a ser pontuado, pois notou-se que o grupo estava com uma grande necessidade de falar e compartilhar as suas experiências. Um dos participantes ponderou que há uma falta de vínculo entre os homens trans do município, existindo dificuldade de reunirem-se e de estarem juntos enquanto coletivo. Por isso, os momentos de encontro são raros e, quando ocorrem, passam a ser espaços de muita troca entre eles.
+
+Desse modo, a oficina foi dividida em três momentos: 1\. Dinâmica de apresentação; 2\. Fichas com perguntas direcionadas à saúde, com os pontos: desafios do acesso à saúde, serviços com que tenham vínculo, hormonização, saúde mental e percepções sobre o acesso; 3\. Registro, em uma folha, de palavras que resumissem como querem que a saúde seja para homens trans.
+
+## Resultado e discussão
+
+### Desdobramentos do encontro coletivo: um percurso a trilhar
+
+A realização da pesquisa de mestrado da qual advém esta oficina volta o olhar especificamente para homens trans em decorrência das invisibilidades sofridas por este grupo dentro das políticas e dos diálogos sobre transexualidade (Ferreira, 2022), fato que torna imprescindível pensar o cuidado dessas pessoas dentro de alguns espaços, como na saúde. No primeiro momento, priorizou-se em dialogar sobre o acesso à saúde de homens trans, as formas como têm acessado o sistema de saúde, bem como quais afetações, violências e acolhimentos ocorreram durante suas buscas por cuidado. A partir de um primeiro contato por meio da realização de uma oficina, tornou-se possível que algumas reflexões pudessem ser feitas e trazidas aqui.
+
+Seguindo para a primeira dinâmica, foi-lhes solicitado que escrevessem, em uma folha, cinco momentos marcantes de suas vidas, como modo de fazê-los ficar mais próximos, apresentando particularidades ao grupo, tendo em vista que, embora eles se conhecessem, não existia uma proximidade maior entre alguns. Ao dialogarem acerca dos momentos que escreveram, os quatro pontuaram que iniciar a transição foi extremamente marcante na vida deles. Os fatos que escreveram giravam em torno de faculdade, trabalho, família, transição e reconhecimento de seus corpos.
+
+Um deles disse ter 30 anos e afirmou que iniciou a transição em 2013, comentou que, nessa época, a dificuldade para acessar informações e, principalmente, serviços de saúde era demasiada, afirmando ainda que:
+
+>Participante 1: Em 2013, 2015, quando fui atrás de profissionais para me auxiliar no começo da terapia hormonal, não consegui nenhum tipo de atendimento no posto (psicólogo, endócrino...), porque eles querem que a gente se adapte ao sistema, e não o inverso. O que eu mais percebo é que os profissionais não sabem a definição de gênero e sexo, quando digo que sou homem trans, me perguntam “então você quer virar uma menina?”. Não entendem que eu sou homem, quem fica para depois é o trans (Diário de Campo, 16/03/2024).
+
+Referentes à utilização de hormônios muitas críticas surgiram. Outro participante afirmou que “hormônios para homens trans são bem mais difíceis e caros” e que há algo ainda mais prejudicial, que é o fato de não conseguirem acesso a endocrinologista pelo Sistema Único de Saúde (SUS), sendo possível somente por meio de consultas particulares, que não conseguem de forma facilitada em decorrência do financeiro. Um deles afirmou que iniciou sua hormonização de forma particular porque tem plano de saúde, mas, caso não tivesse, não teria conseguido.
+
+Ademais, por meio de brincadeiras, foram citando que, por vezes, não há outro jeito que não a via da automedicação, fazer isso sem acompanhamento médico. Esse fato reforça a importância e urgência do endocrinologista nesse processo, principalmente em decorrência dos riscos à saúde. 
+
+A segunda dinâmica foi sendo inserida por meio de algumas perguntas escritas em fichas, de forma que o diálogo continuasse sendo possibilitado. No que se refere aos desafios ao acesso à saúde pontuaram:
+
+>Participante 1: Tenho medo de procurar e ser rejeitado.   
+>Participante 2: Gostaria de encontrar um serviço que tenha profissionais especializados em atender demandas de pessoas trans, de profissionais que me olhem (Diário de Campo, 16/03/2024).
+
+O diálogo sobre o acesso à saúde fez surgir o desabafo acerca da angústia que é precisar ir ao ginecologista. Afirmaram que preferem quando são profissionais mulheres, tendo em vista que as experiências que já tiveram com homens foram desastrosas e desrespeitosas. Pontuaram também que não há uma compreensão por parte dos profissionais acerca da transexualidade, o que gera uma dificuldade em conseguirem ser atendidas. Ademais, comentaram por várias vezes que protelam até o último minuto para marcarem atendimento médico e o fazem somente quando é urgente, havendo já um tempo consideravelmente longo transcorrido desde a última consulta. Ainda assim, quando podem, optam por ir ao médico particular, e não ao profissional do SUS, com a justificativa de que existe a possibilidade de escolher a profissional.
+
+O participante 1 trouxe uma experiência para expor que são raros os profissionais que têm uma sensibilidade para ofertar um cuidado humanizado no SUS. Relatou, então, uma situação que ocorreu com ele no posto de saúde, uma dessas raras vezes em que ele julgou ocorrer sensibilização por parte da profissional:
+
+>Participante 1: Quando fui ao posto pela primeira vez, para ir ao ginecologista, a recepcionista chamou meu nome e ficou me olhando com diversas dúvidas, sem entender o porquê de eu querer consulta, perguntou se eu estava no serviço certo e eu tive que explicar que sou um homem trans. Depois disso ela foi dizer para a médica, quando a ginecologista foi me chamar, falou: “Venha, vamos tirar dúvidas sobre a sua namorada”, achei super legal da parte dela para que evitasse o constrangimento. Ela me aconselhou a comparecer ao ginecologista com a minha mãe, porque o nome dela constaria na consulta e evitaria que eu me sentisse desconfortável (Diário de campo, 16/03/2024).
+
+Essa situação relatada por ele foi dialogada junto com os outros, que foram afirmando a especificidade dessa atitude, pontuando que a maioria dos profissionais não tenta agir com essa sensibilidade e, com isso, torna difícil que homens trans procurem os serviços, porque passam por constrangimentos, desistindo de ir. Assim, foram pontuando algumas das percepções sobre o acesso, como:
+
+>Participante 1: Falta profissionais que conheçam sobre as demandas de pessoas trans e entendam que as pessoas trans não são iguais. 
+
+>Participante 2: Não nos matam apenas em violência física, quem dera se fosse só isso, nos tiram oportunidades, liberdade, segurança, me tiram até meu nome (Diário de Campo, 16/03/2024).
+
+Em seguida, entramos na discussão sobre saúde mental e a vinculação desta com os serviços prestados. Observamos que não há vinculação aos serviços de saúde. O uso é esporádico e geralmente ocorre apenas em situações de emergência – muitas vezes por via particular. Sobre saúde mental, pontuaram que há demasiado sofrimento entre eles em relação aos desrespeitos que sofrem ao longo da vida e reverberam em inúmeros danos. Nesse momento, falaram também sobre os serviços e a forma como são tratados:
+
+>Participante 4: Sinto que vou nesses serviços \[*referindo-se ao CAPS*\] e tenho que ensinar mais do que aprender. 
+
+>Participante 3: Quero que os profissionais saibam como tratar um homem trans, que entendam que eu tenho demandas para além de ser trans. Também sobre isso, tem o fato de querer sempre se encaixar, de não se reconhecer no espelho. Isso traz muito sofrimento. 
+
+>Participante 1: Sempre nos associam à genitália, me olhando com fetiche, o que gera muita dificuldade em relacionamentos, e isso afeta a gente (Diário de Campo, 16/03/2024).
+
+Participante 4 afirmou que é usuário do Centro de Atenção Psicossocial do município e que não gosta do serviço, porque os profissionais não respeitam seu nome social. Vai somente porque necessita de medicação, mas não gosta. Através de todas as falas ditas, foram surgindo algumas que se relacionavam com uma outra temática, bastante pontuada em diversas falas ao decorrer do momento, referindo-se à performatividade de gênero[^12]. Alguns exemplos foram:
+
+>Participante 1: O que escutei muito da minha família foi “você não pode virar trans, deus te deu um útero para ter filhos”. Ou seja, não entendem que posso ser um homem trans e ainda assim engravidar. Sabemos muito bem que não é apenas pela gravidez. 
+
+>Participante 2: As pessoas não tendem a errar muito o meu pronome, mas basta eu pintar a unha que começam a errar. 
+
+>Participante 3: Para me proteger e não precisar ficar explicando, quando peço Uber, por exemplo, vou logo entrando “coçando o saco” para não perguntarem nada (Diário de Campo, 16/03/2024).
+
+Foi possível perceber, por meio das frases ditas, que há uma exigência social para que performem determinados estereótipos e que, a partir destes, sejam considerados enquanto homens. Assim, é por meio de uma não adequação à norma instituída que as identidades de gênero que estão fora do binarismo são postas como falhas (Butler, 2003). Percebe-se que, caso não exista total identificação e ajustamento às normas sociais estabelecidas, então, o corpo passa a não estar em um lugar possível de compreensão pelo outro. Com isso, o lugar a ser colocado é o da marginalização, da exclusão e da invisibilidade. Ademais, pensar outros modos de existência da masculinidade torna-se quase inviável, como ao trazer o conceito de transmasculinidades[^13].
+
+Butler (1990), em “Problemas de gênero”, rememora o conceito de abjeção de Julia Kristeva para pensar alguns conceitos e desdobramentos acerca da discussão sobre gênero. Assim, ao entrelaçar-se com a discussão pontuada, esse lugar de invisibilidade direcionado a corpos trans “é aquilo que não queremos ver... são corpos abjetos que excretamos” (Kristeva, 1982). Nota-se, por meio dos discursos, uma exigência de que pessoas trans aproximem-se de uma expectativa estética do gênero com qual se identificam. Tal fato cria um lugar quase que imprescindível e fundamental para que sejam performados determinados estereótipos de gênero. No entanto, a exigência em adequar-se à cisnormatividade já não seria uma violência por si só?
+
+O participante 3 também afirmou que sua família vive o questionando sobre o fato de ele utilizar unha grande e esmalte, colocando a dúvida: “como é que quer ser homem com a unha grande e pintada?”. A ambiguidade parece gerar uma incompreensão acerca do corpo que se apresenta, assim, quanto mais próximo da norma estabelecida acerca do que se considera feminilidade e masculinidade, mais esse corpo é considerado enquanto legítimo (Leite Júnior, 2008\)
+
+É exigido que não cause confusão ao olharem tal corpo, que já tenham o nome retificado nos documentos, que as vestimentas e expressões corporais sejam de modo a não existir uma confusão entre masculinidade e feminilidade. Todos afirmaram que enxergam essa pressão cisnormativa para todos os homens, mas que para homens trans isso é ainda mais exigido, e torna-se cansativo precisar reafirmar, por diversas vezes, o que se é. Bento (2006) discute sobre a compreensão de gênero e sexualidade na transexualidade estar atrelada à diferença sexual. Assim, à medida que o corpo se afasta das normas binárias instituídas, não se aproxima de um lugar compreensível para os que o veem. Ademais, localiza-se em uma deslegitimação social, pois não há um discurso que o institua enquanto verdade diante de sua não compreensão. Para Leite Júnior (2008):
+
+>Como são as normas de gênero que ajudam a configurar o que entendemos por “humano”, quanto mais próxima está a performatividade de uma pessoa do ideal de uma “verdadeira” feminilidade ou masculinidade, mais esta pessoa será compreendida como humana. \[...\] Quanto mais as normas de gênero de determinado período estão introjetadas e, principalmente, expressas como uma “natureza” interior através do vestuário, comportamento, sentimentos e desejos, mais se reforça a noção de uma “verdadeira” mulher ou de um “verdadeiro” homem (p. 215).
+
+Desse modo, o corpo adquire sentido por meio da linguagem, deixando, assim, o caráter de negação, exclusão e abjeção (Butler, 1990). O conceito de abjeção explorado por Butler remete a algo que existe, mas que não é reconhecido pela ordem simbólica, é entendido enquanto algo que se insere no campo da negação (Paiva, 2022). Assim, existe, mas é negado. Nota-se que a divisão existente entre sexo e gênero atua em um lugar de normatividade estabelecendo critérios para que tais corpos sejam considerados humanos.
+
+>Participante 2: Deixarei assinado no papel que, quando eu morrer, quero ser enterrado de terno, não me respeitam nem vivo, quem dirá morto (Diário de Campo, 16/03/2024).
+
+A fala acima expõe um lugar de reivindicação do reconhecimento do próprio corpo, quando se impõe, tornando-se quase que obrigatória, a necessidade do sujeito de deixar por escrito uma solicitação de respeito a si, mostrando, assim, que ocupa um lugar de uma existência marginalizada. Diante disso, a deslegitimação opera em muitos espaços (Paiva, 2022), pontuar essa não possibilidade de existência é pensar também nos locais em que há um apagamento destes corpos.
+
+Com isso, a partir da oficina realizada, percebe-se que a exclusão e deslegitimação de seus corpos, torna-se um fato que os impede de adentrar aos serviços de saúde, pois percebem que não há abertura à diferença, fazendo-os se afastarem e não usufruírem de seus direitos. Isso possibilita a não ocorrência de uma vinculação e de um cuidado continuado, “haveria então uma política que incluísse essa multiplicidade de diferenças?” (Martins & Poli, p. 65, 2018). No terceiro e último momento da oficina, em que eles precisavam escrever em uma folha palavras que resumissem como querem que a saúde seja para homens trans, as palavras foram: atualizada, continuada, acessível, acolhedora, respeitosa, inclusiva, gratuita e participativa.
+
+## Considerações finais
+
+Sendo assim, diante das discussões apontadas, tenta-se trazer reflexões acerca de consequências que podem ser geradas no que se refere à necessidade constante de afirmação do corpo trans por meio de um outro e que se correlaciona também com seus modos de subjetivação. As maneiras são diversas, como na busca em demarcar um lugar que se assemelha à norma binária, por exemplo, quando um dos participantes afirma, em uma das falas, que “coça o saco para entrar no Uber”, produzindo em ato uma diferença do que é considerado enquanto masculino e, assim, afirmando a sua identidade para o outro que o vê. Com isso, nota-se que performar determinados estereótipos pode, por vezes, proporcionar ao sujeito um lugar de afirmação diante de certos grupos.
+
+A partir dos atravessamentos ocorridos por meio da oficina realizada com os quatro homens trans e da discussão feita até o momento, a inquietação que se torna existente é: o sofrimento maior vem da não identificação com o corpo ou do lugar de abjeção em que o outro o coloca? Trazer esse lugar de abjeção é dialogar sobre as maneiras diversas de exclusão nas quais corpos trans são por vezes designados. Por que pensar a existência do sujeito somente a partir do seu reconhecimento estritamente atrelado a outros saberes e não ao próprio saber do corpo que se pronuncia?
+
+[^12]:  Butler (2003) destaca que a performatividade afirma a constituição do gênero enquanto atos, representações e gestos, assim, pensando-o como um fazer-se e construir-se por meio de tal.
+
+[^13]:  Simone Ávila (2014) afirma que são identidades masculinas construídas por homens trans, não existindo um modelo universal, sendo singulares.
