@@ -107,7 +107,7 @@ The linear regression model was significant (F(16, 14357) = 306.5; p \< 0.001; R
 Higher CMD averages were found among female teachers, participants who self-identified as white, teachers whose income decreased after the onset of the pandemic, those in the COVID-19 risk group, those diagnosed with COVID-19, those who lost friends or family members to the disease, those teaching at the high school level, and those teaching at more than one level. Age negatively correlated with CMDs, indicating that older participants had lower scores. The variables work organization, social-professional relationships, and working conditions showed a positive relationship with CMDs, meaning that worse perceptions of the work context were associated with higher CMD scores.
 
 ```{r}
-library(tibble)
+#| echo: false 
 
 dados <- tribble(
   ~Variable, ~B, ~LL, ~UL, ~`SE B`, ~β, ~`R²`,
