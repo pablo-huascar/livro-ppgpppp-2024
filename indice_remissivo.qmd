@@ -1,0 +1,51 @@
+---
+toc: false
+---
+
+# Índice remissivo {.unnumbered}
+
+::: {style="line-height: 0.5;"}
+
+## C
+
+[Contexto de trabalho](rodrigues_trabalho.qmd)
+
+[Condições de trabalho](rodrigues_trabalho.qmd)
+
+## I
+
+[Instrumento Gerador de Mapas Afetivos](neta_reescrevendo.qmd)
+
+[Intensificação laboral](rodrigues_trabalho.qmd)
+
+## O
+
+[Organização do trabalho](rodrigues_trabalho.qmd)
+
+## P
+
+[Política Nacional de Saúde Integral LGBT](aragao_saude_trans.qmd)
+
+[Política Nacional de Saúde Integral da População Negra](barbosa_aquilomba.qmd)
+
+[Preconceito nos serviços de saúde](aragao_saude_trans.qmd)
+
+[Projeto de vida](neta_reescrevendo.qmd)
+
+## R 
+
+[Relações socioprofissionais](rodrigues_trabalho.qmd)
+
+[Racismo institucional](barbosa_aquilomba.qmd)
+
+## S
+
+[Saúde da população negra](barbosa_aquilomba.qmd)
+
+[Saúde de homens trans](aragao_saude_trans.qmd)
+
+[Sofrimento psíquico e racismo](barbosa_aquilomba.qmd)
+
+
+:::
+

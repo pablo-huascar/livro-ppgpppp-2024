@@ -42,6 +42,7 @@ book:
         - barbosa_hiara.qmd
         - janne_camila.qmd 
         - sobre_os_autores.qmd
+        - indice_remissivo.qmd
     - part: Chapters in English
       chapters:
         - neta_reescrevendo_en.qmd
