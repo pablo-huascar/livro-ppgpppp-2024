@@ -93,7 +93,7 @@ Thus, two concepts were defined for the duties' profiles: primary and secondary.
 *Profiles of Primary and Secondary Duties of Educational Counselors.*
 
 | Assignments | Assignment Components | Type of Assignment |
-|:----------------------:|:----------------------:|:----------------------:|
+|:--:|:--:|:--:|
 | Monitoring | Socio-emotional, dual focus, classes | Primary |
 | Planning | Classes, pedagogical |  |
 | Training | Socio-emotional skills |  |
@@ -115,13 +115,13 @@ Based on the analyzed data, it was possible to group the activities performed by
 
 *Functions of Educational Counselor Duties.*
 
-| Assignments                         | Objective                                                                               | Function       |
-|-------------------------------------|-----------------------------------------------------------------------------------------|----------------|
-| Training                            | To capacitate                                                                          | Instruction    |
-| Alignment, support, participation   | Develop strategies with school stakeholders                                           |                |
-| Mediation                           | Reduce conflicts                                                                       | Insertion      |
-| Monitoring, preparation, observation, planning | Work on Socio-emotional Skills                                                       |                |
-| Care actions and collective actions | Promote mental health/Create and maintain contact among school stakeholders, bond creation, social spaces | Interaction    |
+| Assignments | Objective | Function |
+|----|----|----|
+| Training | To capacitate | Instruction |
+| Alignment, support, participation | Develop strategies with school stakeholders |  |
+| Mediation | Reduce conflicts | Insertion |
+| Monitoring, preparation, observation, planning | Work on Socio-emotional Skills |  |
+| Care actions and collective actions | Promote mental health/Create and maintain contact among school stakeholders, bond creation, social spaces | Interaction |
 
 ### Areas of operation for educational counselors
 
@@ -138,7 +138,7 @@ Challenges consist of circumstances participants report about their daily practi
 *Challenges of Educational Counselors.*
 
 | Participants' Statements | Analysis Categories | Guiding Concept of Analysis Categories |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | Overload Pressure No day for planning Results must be quick "Solve it there" Last-minute demands | Quality impairment regarding demand/role diversion | Highlights the difficulties faced, which require demands for immediate results and equivalent actions. |
 | Not having the same level of dedication Everything you do in one school, you have to do in the other "It's like SEDUC deadlines" Develop the same work in schools Not respecting schedules Comparison I don't believe there's a tool that can handle it | Split between two or more schools |  |
 | Help the school Help the community Feeling obligated Understaffed teams Being part of the management team, working nights and weekends | Difficulty in managing activities beyond their duties | Highlights the difficulties faced, which lead to role diversion |
@@ -154,7 +154,7 @@ Although counselors mentioned the instruments, many reported using them infreque
 *Systematization of Daily Instruments Used by Educational Counselors.*
 
 | Instrument Utilization Period | Instruments | Adherence | Guiding Concept |
-|:----------------:|:----------------:|:----------------:|:----------------:|
+|:--:|:--:|:--:|:--:|
 | Records of remote activities – March 2020 to April 2021 | Physical agenda Schedule Tracking table and class record form Telework plan | Most used | Explains how monthly quantitative reports of remote work by coordinators are conveyed |
 |  |  |  |  |
 |  |  |  |  |
@@ -199,7 +199,7 @@ With data analysis, we can observe relationships between the duties described by
 *Effect Indicators.*
 
 | Assignment | Assignment Objectives | Target Audience | Effects Described by O.E. | Suggested Effect Indicator/Measure |
-|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+|:--:|:--:|:--:|:--:|:--:|
 | Training | To capacitate | Teachers | Adoption of new CSE methodologies | Increase in the number of teachers qualified to promote socio-emotional skills (CSE)/Increase in the frequency of pedagogical activities aimed at promoting CSE |
 | Mediation; Care actions, collective actions | Promote mental health | School community | Better school climate and interpersonal relationships | Reduction in conflicts reported to management/Increase in the frequency of collaborative activities among teachers/Increase in spontaneous seeking of management (by students and/or teachers)/Increase in collaborative activities among managers |
 | Monitoring, preparation, observation, planning | Work on socio-emotional skills | Educational coordinator | To be a reference | Reduction in the frequency of urgent actions/More time dedicated to personal and socio-emotional aspects of the student, as planned in the lesson plan |
