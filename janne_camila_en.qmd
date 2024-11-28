@@ -1,0 +1,131 @@
+---
+author: 
+  - name: Janne Izabel Alves de Sousa 
+    url: http://lattes.cnpq.br/5438859564152960
+    orcid: 0009-0001-8761-4317
+    email:  izabelalvess@hotmail.com
+    affiliations: 
+      - name: Universidade Federal do Ceará    
+  - name:  Camilla Araújo Lopes Vieira 
+    url: http://lattes.cnpq.br/8444547145601106
+    orcid: 0000-0003-1706-3772
+    email: camillapsicol@ufc.br
+    affiliations: 
+      - name: Universidade Federal do Ceará
+lang: en
+toc-title: "Table of contents"
+language: 
+  title-block-author-plural: "Authors"
+filters:
+  - section-bibliographies
+bibliography: janne_camila_en.bib
+reference-section-title: References
+---
+# From NASF to eMulti: Work and (Re)construction Process in Municipalities of Sertão de Crateús, Ceará
+## Introduction
+
+The multi-professional work in Public Health Policy, particularly in Primary Health Care (PHC), has always been marked by challenges. In 2008, the inclusion of new professional categories in this context, with the creation of the Family Health Support Centers – NASF [@Portaria154_2008], led to the expansion and recognition of these teams across Brazil, reaching 5,797 teams in 2018 [@Mattos2022].
+
+These centers aimed to support the actions developed by the Family Health Strategy (ESF) and expand its coverage according to the principles of regionalization and territorialization. However, since 2017, with the revision of the National Primary Care Policy (PNAB), NASF had already undergone substantial changes, such as the redefinition of its nomenclature to Expanded Family Health and Primary Care Center (NASF-AB), and consequently, a reduction in its technical-pedagogical dimension [@Giovanella2020].
+
+In 2019, the publication of Ordinance No. 2,979 established the Previne Brasil Program, introduced the new financing and funding model for PHC, thus discontinuing discretionary funding for NASF-AB teams [@Portaria2979_2019], followed by Technical Note No. 03 of January 27, 2020 [@NotaTecnica2020], which extinguished the modalities and parameters for the conformation of these teams. Subsequently, in May 2023, Ordinance No. 635 was published, which instituted, defined, and created federal financial incentives for implementing, funding, and performing multi-professional teams in PHC [@Portaria635_2023].
+
+However, after the first year of enforcement, only 1,655 teams were approved out of the 5,295 eMulti teams accredited throughout Brazil (data up to June 2024 from the Department of Community Health Strategies and Policies – DESCO of the Secretariat of Primary Health Care of the Ministry of Health – SAPS/MS). By examining the multi-professional movement in PHC, specifically in the studied settings, and considering the relevance of the subject, the need arises to understand whether the changes during this transition led to a loss of the multi-professional character in PHC and how the matrix support perspective is being considered in these scenarios.
+
+## Method
+
+This chapter presents a qualitative, exploratory study in the form of intervention research, which does not aim at an immediate change in the established action, as it results from the production of a different relationship between theory and practice, as well as between subject and object [@Rocha2003]. The general objective was to investigate, from the professionals' perspective, the work processes of multi-professional teams in Primary Health Care in the municipalities of Ararendá, Crateús, and Novo Oriente.
+
+The specific objectives were to understand the work processes of the multi-professional teams in PHC in Ararendá, Crateús, and Novo Oriente; to determine whether the implementation of Ordinance No. 2,979, of November 12, 2019, impacted the daily professional practices; and to identify what perspectives these professionals foresee regarding the future of their work within PHC.
+
+Critical Discourse Analysis (CDA), proposed by Fairclough [-@Fairclough2003], was adopted for data analysis to deepen the implicit issues in the subjects' discourse. This approach suggests an in-depth analysis of discourse based on its context of production, its nature as a social practice, and its existence amid power, dominance, discrimination, and control relations maintained through language.
+
+It is worth mentioning that the research was submitted to the Research Ethics Committee of Vale do Acaraú State University (UVA), with a favorable opinion issued on April 19, 2024, under number 77514824.4.0000.5053. It adhered to the ethical precepts established in Resolution No. 466, of December 12, 2012, and Resolution No. 510, of April 7, 2016 – both from the National Health Council.
+
+### Participants
+
+The study involved professionals linked to the Multiprofessional Primary Health Care teams in the municipalities of Ararendá, Crateús, and Novo Oriente, which belong to the 15th Decentralized Health Area (ADS) of Ceará. The selection was based on the active registration of professionals in the National Registry of Health Establishments (CNES) and their active involvement in multi-professional teams in PHC for at least six months, with their consent via the Informed Consent Form (ICF).
+
+The exclusion criteria were: professionals working on the same team as the researcher; professionals with active registration but not in their practice settings due to vacation, leave, or recent dismissal; and those who refused to participate. In this context, the estimated sample of participants for the three municipalities was 21 professionals, of whom 15 completed the Socioprofessional Questionnaire and 16 participated in the Discussion Circles.
+
+### Instruments
+
+Data collection took place in two different stages. The first was conducted electronically, via email and WhatsApp, using a Socioprofessional Questionnaire composed of 40 multiple-choice questions, sent together with the Informed Consent Form (ICF) and the Image and Voice Consent Form. The instrument was created in Google Forms and was available to participants throughout May 2024\. At the end of the month, 15 complete responses were obtained.
+
+The Questionnaire was divided into four sections, promoting a more dynamic reading. The first section concerned team composition, affiliation, and professional experiences; the second section addressed work processes and the frequency of activities performed; the third section focused on interprofessional collaboration and working conditions; and the fourth section was designed more reflectively, highlighting perspectives for the future of professional practice.
+
+The second stage involved conducting a Discussion Circle with each team participating in the study. The meetings were held in the municipalities where each team operated, organized at times convenient for participants and in appropriate spaces of the Municipal Health Departments and Primary Health Care Units (auditoriums and/or meeting rooms), with an average duration of two hours each. The invitation was sent to professionals via WhatsApp, specifying the date, time, and location.
+
+The Discussion Circles took place on June 17 and 19, and July 5. With the participants' consent, two of these meetings were audio-recorded. Across the three municipalities, 16 professionals participated in the Discussion Circles. The Discussion Circle was chosen as a methodology because it allows participants to express their impressions, concepts, opinions, and views on the proposed topic, as well as helps to work, reflectively, on the group's manifestations [@Pinheiro2020].
+
+## Results and Discussion
+
+The results presented are based on the information obtained through the Socioprofessional Questionnaire and the Discussion Circles conducted with the Multiprofessional teams. The results were divided into sections for a more didactic presentation, aiming to establish direct relationships with the research objectives. Thus, the following sections were developed: The Work Built in the Dynamics of Doing; The Place of Health Promotion in Previne Brasil; The eMulti Yet to Come.
+
+To ensure confidentiality and preserve participants' identities, professionals were identified in the transcribed texts of the Discussion Circles by their professional category and a sequential number corresponding to their presentation in the Discussion Circles. In the case of the Questionnaire, identification was made only by the professional category, as the responses did not allow the same numbering, since they did not contain personal identification.
+
+### The Work Built in the Dynamics of Doing
+
+The Questionnaire revealed that the most common professional categories in the studied eMulti teams are Physiotherapy, Nutrition, Psychology, and Speech Therapy, with Physical Education and Social Work also being present. Regarding employment contracts, most professionals work under temporary contracts or cooperatives, followed by permanent staff and residents, reflecting a subcontracting process that affects social control and institutional structure.
+
+Professional experiences vary between professionals who are at the beginning of their careers and others who have been working for more than eight years in these settings. It was noted that the workloads of professional categories are different, with one-third of participants being the only professional of their category in the team, which can lead to overload. The teams are mostly composed of women, sometimes professionals from other municipalities or states.
+
+During the Discussion Circles, participants reported that their academic training did not emphasize Public Health. The practice settings offer few opportunities for Continuing Education focused on PHC. They also highlighted the need for greater interprofessional collaboration, with tensions and criticisms emerging regarding reference teams and management, with divergent perceptions about the support received. They pointed out discrepancies between the work they perform in their daily practices and the work prescribed in government regulations, mentioning a lack of clarity about working in the SUS and the realities encountered in PHC. Thus, the following text emerges:
+
+> Physiotherapist 05: "...It is a bit contradictory because, in fact, one thing is written, right? There is the policy that guides the eMulti, the PNAB, but the reality is something else..."
+
+By bringing this statement, it is possible to draw a direct link to the study by Maffissoni, Silva, Vendruscolo, Trindade, and Metelski [-@Maffissoni2018], in which the authors point out that although there is consensus in the literature that the main role of Multiprofessional teams in PHC is to provide support to reference teams through matrix support, there are few guidelines on how professionals should operate in daily practice—whether in individual or collective clinical-assistance support or in technical-pedagogical support. This issue impacts how Multiprofessional teams, reference teams, and managers understand and consequently implement the dimensions of matrix support. Thus, differences in the performance of professionals, as well as ambivalence regarding what is being carried out, can be observed below:
+
+> Psychologist 02: "...I thought a lot that our practice is quite different from the practice of the eMulti here in the municipality. The Residency has another path to follow because we are not just practice like you, you also shouldn't be, but you end up being... So we have theoretical shifts, we need to do health education, we have a limit on individual consultations per week, you do not have individual limits per week..."
+
+> Psychologist 01: "...I ended up not taking any pictures because among the activities I do, these are the ones I minimally perform, unfortunately... it is distressing to realize that there is no time to articulate and do things the way they should really be done because I will be doing something else, I will be busy, so I see my team very little, I articulate very little with them, and how are we going to manage to do a more efficient job in this regard, even with more satisfaction, with more dedication, with more energy if we are already overburdened with so many other things, right?..."
+
+The texts presented fit into a reality common to the studied municipalities. They point to barriers to the consolidation of collaborative work; discuss the difficulty of understanding the role of different categories in Primary Health Care; the overload and diversity of demands; the lack of time for team articulation; the scarcity of professionals from certain categories to work in PHC; and, above all, how this impacts the worker, reflecting on their efficiency, satisfaction, dedication, and energy. They also indicate the overload transferred to other categories regarding collective activities.
+
+Within the same Multiprofessional team, there may be diversity in work processes. Some factors that drive this diversity may be related to the history of the categories in the health sector—understanding that, often, those with a longer tradition within clinical models are more focused on individual activities; professional training; the needs of the territories; the personal inclinations of the professionals; the conditions and resources available for performing activities; agreements made between professionals and managers; and the lack of qualification/continuing education for work in PHC.
+
+### The Place of Health Promotion in Previne Brasil
+
+One of the greatest impacts mentioned by participants regarding the implementation of Previne Brasil was related to health promotion. However, the statements do not always clearly demonstrate this impact from Ordinance No. 2,979 of 2019, as it is linked to the historical moment of the COVID-19 pandemic, which occurred concurrently with the implementation of this document. Some accounts present the notion of devaluation and lack of knowledge about the eMulti team's work, highlighting the "non-obligatoriness" of the team; the precarization of work and forms of employment contracts; the historical process in which multiprofessional practices are inserted in PHC; the difficulties of consolidation; the return to the biomedical model; and the prioritization of individual consultations as requirements for receiving funds, as shown below:
+
+> Nutritionist 01: "...I think it is also part of a historical process that has been there since the beginning of the formation of Primary Care teams, the main flagship was individual consultations, then with the evolution of NASF teams policies... The issue of the importance of health education, group formation was expanding the range of opportunities to have other services beyond specialized care, but we are going backward, right? Because the issue of receiving funds, receiving money for assistance, the main part they want is consultations. Of all the activities that can be carried out, the consultation is the one that is being most valued, and also the part that is the requirement for funding, right? Funding and everything... health education is not valued..."
+
+> Nutritionist 01: "...There is also a lack of recognition of what the eMulti team does because, in my view, it seems that we are just an extension of the Primary Care team, solving random or specific problems. As for case studies, I have never seen (referring to the reference team) initiating any, it is always us initiating, like, 'Hey, let's do a case study...'
+
+The accounts referred to in these statements expand the discussion to other levels as they address the issue of lack of knowledge about the role of the Multiprofessional team, which, for the transition moment experienced, indeed presents a reality. They also point to a utilitarian view of the Multiprofessional team professionals, as well as reducing the relevance of their work within the ideology of SUS users. Another point that deserves special attention concerns how municipal managers carry out the employment processes of these professionals, with a strong tendency toward precarization:
+
+> Nutritionist 03: "...I worked in another municipality, without mentioning names, they devalue the eMulti team... I don't know if it's a way to save money, they start calling the eMulti team in April, right? So it's a long time, they delay the eMulti team, so this is devaluation... So I want to leave the municipality valuing nutrition... that this professional is not left out from the beginning of the year in Primary Care, not just the nurse and the doctor..."
+
+Regarding the narrative of precarization, Lancman, Sato, Hein, and Barros [-@Lancman2019] go further, stating that it is related to working conditions that increase workers' vulnerability. In the public service, many conditions express this field, including poorly equipped and planned work environments; a shortage of personnel (or qualified personnel) and support for professionals; excessive demand relative to available resources; loss of autonomy in managing one's own work; and the need to reduce actions considered important to increase certain forms of productivity that do not favor quality, focusing on quantity and measurability. All these factors have their consequences in the development and organization of work.
+
+### The eMulti Yet to Come
+
+Presenting the perspectives of the professionals participating in the study regarding the future of their work in Primary Health Care, the data from the Discussion Circles and the Questionnaire reveal ambivalences. On one hand, there is a certain level of concern among professionals about the slow process of team approval, as it directly affects the release of funds by the Ministry of Health. Thus, municipalities that have not yet had their eMulti teams approved are funding all actions related to the maintenance and functioning of the teams, directly impacting team composition and the hiring process of professionals. The following statement illustrates this:
+
+> Social Worker 01: "...Yes, but we are taking very small steps, while the other side, the management, is not taking any steps at all. What I feel is that management—not the management within the unit, but the national-level management—has not organized itself. This ordinance has been around since COVID, so why isn't it organized yet?"
+
+The study by Bispo Júnior and Almeida [-@BispoJunior2023] corroborates this ambivalence by presenting the potentials and challenges of the new configurations of Multiprofessional teams in Primary Health Care. It highlights that eMulti teams emerge amidst the reconstruction of PHC in Brazil, with the strengthening of interprofessional actions and the incorporation of technologies and innovations in health. The study shows similarities with the work of the defunct NASF-AB teams and introduces new organizational and structural mechanisms.
+
+However, the authors also emphasize the slowness in establishing these teams; they question the position of governmental bodies regarding the municipalities that adhered to and were accredited under Ordinance No. 635 of 2023 but have not yet had their teams approved; and they indicate uncertainties about new responsibilities, achieving the set indicators, and the burden placed on professionals.
+
+On the other hand, accounts from the Discussion Circles and responses to the Questionnaire highlight prospects for improved working conditions, supplies, and modernization, which would provide benefits to both users and workers, as well as enhance interprofessional collaboration and strengthen matrix support:
+
+> Physiotherapist 04: "...But the planning of Primary Care has already started, right? The eMulti team is highly valued in the planning, it's a very important piece, it develops many actions, but it works a lot... So you'll have a Singular Therapeutic Project, you'll do case studies, you'll have therapeutic groups... For the planning to work, you have to stop being a manager and become a defender of SUS..."
+
+> Social Worker: "...Better working conditions, like computers, printers, eMulti rooms, cabinets, respect, and recognition for the multiprofessional teams. Also, expanding eMulti teams in the municipality for better division of health units..."
+
+In summary, the texts reveal convergences and divergences in the professionals' views on future prospects. On one side, there is an optimistic and hopeful discourse that longs for benefits for both users and professionals, citing everything from investments in supplies, improvements in working conditions, and expansion of collaborative practices to more subjective aspects such as respect and appreciation for the team.
+
+On the other side, there is a discourse pointing to the slowness in the approval of eMulti teams, uncertainties, and concerns of professionals about their job positions. Obstacles to achieving the proposed indicators were identified, and concerns were raised about the financial impact on teams and the availability of professionals' time relative to the number of teams they will support. This discourse reflects fears about the quality of care provided and potential overloads.
+
+## Final Considerations
+
+The findings of this study highlight the challenges faced by Multiprofessional teams in Primary Health Care. Although these teams were designed to improve the resolution of health demands in the territories, they face significant barriers to implementing collaborative practices. The challenges include professional training, the social and political complexities involved in developing Public Policies, and the need for an alternative model that balances the predominant biomedical focus.
+
+Recent political and economic changes have profoundly impacted PHC, especially with the discontinuation of funding for Multiprofessional teams and the complexities of their formal recognition. Despite the new guidelines established by Ordinance No. 635 [-@Portaria635_2023], teams still deal with uncertainty regarding their future, particularly after the COVID-19 pandemic, which exacerbated the devaluation of these teams and distanced collaborative practices.
+
+Professionals express ambivalence about the future, hoping for better working conditions and greater recognition, but also voicing concerns about the quality of care and the sustainability of the teams. The study also revealed limitations, such as difficulties in accessing some professional categories and the restrictions imposed during election periods.
+
+It is worth noting that the research faced limitations, such as the inability to access certain professional categories, particularly speech therapy, which was present in two of the three municipalities studied but with reduced hours and primarily focused on individual care. The justification was that holding more meetings would compromise professionals' schedules. Another limitation during the research process was the electoral period, with restricted access to municipalities' social media archives, which were deactivated to comply with electoral regulations.
+
+Thus, given the above and understanding that this is just a snapshot of the multiple realities presented across the country regarding the existence of Multiprofessional teams in Primary Health Care, the importance and need for expanded field studies on the topic are emphasized, aiming to understand the settings and foster the development of contextualized Public Health Policies that genuinely lead to comprehensive, longitudinal, and territorialized care in SUS. It is essential to promote practices that are inclusive and meet the population's needs, avoiding a purely mechanistic and indicator-focused approach.

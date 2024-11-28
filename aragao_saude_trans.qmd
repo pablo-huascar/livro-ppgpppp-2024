@@ -72,7 +72,11 @@ A abordagem de análise das práticas discursivas foi escolhida, pois o estudo b
 
 ## Resultados e discussão
 
+<<<<<<< HEAD
 O perfil sociodemográfico dos participantes da pesquisa foi sistematizado na @tbl-demo-aragao. Para manter o sigilo, os nomes dados aos participantes nesta pesquisa são nomes de pássaros, pois, em uma das entrevistas, um dos participantes falou que gostaria de ser livre como um pássaro. Os nomes dados foram: Curió, Patativa e Sabiá.
+=======
+O perfil sociodemográfico dos participantes da pesquisa foi sistematizado na tabela abaixo (@tbl-demo-aragao). Para manter o sigilo, os nomes dados aos participantes nesta pesquisa são nomes de pássaros, pois, em uma das entrevistas, um dos participantes falou que gostaria de ser livre como um pássaro. Os nomes dados foram: Curió, Patativa e Sabiá.
+>>>>>>> dfaf6d23453308fe0c4c5244c6f5742f3eab4105
 
 | Nome | Idade | Estado civil | Escolaridade | Ocupação | Renda | Religião | Raça |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
@@ -106,7 +110,7 @@ Monteiro e Brigeiro [-@monteiro2019] mostram formas diferentes de as pessoas tra
 
 ### “Quantas vezes vou ter que falar meu nome? Sou ele. Não ela.”: nome social e identidade de gênero nos serviços de saúde
 
-O conceito de saúde é plural, sendo necessário levar em consideração os determinantes sociais da saúde, tais como a exclusão por conta de desemprego, o baixo ou o inexistente acesso à alimentação, as discriminações, as dificuldades de acesso à educação, ao saneamento, etc. Todos esses fatores estão relacionados ao processo de saúde-doença dos sujeitos. Nesse sentido, as discriminações e o preconceito sofridos pela população LGBT interferem no processo de saúde-doença desta [@Brasil2012].
+O conceito de saúde é plural, sendo necessário levar em consideração os determinantes sociais da saúde, tais como a exclusão por conta de desemprego, o baixo ou o inexistente acesso à alimentação, as discriminações, as dificuldades de acesso à educação, ao saneamento, etc. Todos esses fatores estão relacionados ao processo de saúde-doença dos sujeitos. Nesse sentido, as discriminações e o preconceito sofridos pela população LGBT interferem no processo de saúde-doença desta [@brasil2012].
 
 > Pesquisadora: Você já sofreu algum tipo de preconceito, violência ou se sentiu ofendido ao buscar os serviços de saúde? Se sim, pode relatar como foi?\
 > Curió: Já, sim. Já me chamaram de “ela”. Tem um médico no posto de saúde, ele que é um dos responsáveis pelo meu tratamento e ele insiste em me chamar de ela. Eu sempre corrijo, mas volta a acontecer. Quantas vezes vou ter que falar meu nome? Sou ele. Não ela (Entrevista Curió, 21/08/2023).

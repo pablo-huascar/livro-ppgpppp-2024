@@ -1,15 +1,15 @@
 ---
 author: 
   - name: Hiara da Silva Santos Barbosa
-    url: 
-    orcid: 
-    email: 
+    url: http://lattes.cnpq.br/3372922787437273
+    orcid: 0000-0002-2098-5260
+    email: hiarabarbosa@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará    
   - name: Natália Santos Marques
-    url: 
-    orcid: 
-    email: 
+    url: http://lattes.cnpq.br/6060664745536596
+    orcid: 0000-0003-4994-3811
+    email: nataliamarques@ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
 language: 
@@ -87,7 +87,7 @@ A categoria Atribuições Profissionais é oriunda dos dados referentes às ativ
 Com isso, definiram-se dois conceitos para os perfis das atribuições: atribuições primárias e atribuições secundárias. As atribuições primárias foram consideradas pelos participantes como aquelas em que eles são figuras centrais para a execução da atividade (diferenciando sua ação das dos demais atores escolares). As secundárias são atribuições primárias de outros atores escolares, sendo o orientador educacional um apoio para a execução destas, conforme descrito na @tbl-barbosa-hiara-1.
 
 | Atribuições | Componentes das atribuições | Tipo de atribuição |
-|:----------------------:|:----------------------:|:----------------------:|
+|:--:|:--:|:--:|
 | Acompanhamento | Socioemocional, duplo foco, aulas | Primárias |
 | Planejamento | Aulas, pedagógico |  |
 | Formação | Competências socioemocionais |  |
@@ -108,7 +108,7 @@ A categoria Funções das Atribuições do Orientador Educacional refere-se ao q
 A partir dos dados analisados, foi possível agrupar as atividades desempenhadas pelos orientadores educacionais em três tipos de Funções: Instrução, Inserção e Interação. O objetivo de Instrução está relacionado às atividades de orientar e desenvolver estratégias junto aos atores escolares. A Função de Inserção está relacionada às atividades que são consideradas novas no cenário escolar, as que envolvem promoção de saúde mental e as que são trabalhadas com competências socioemocionais. Já a Função de Interação envolve atividades referentes ao desenvolvimento de ações no tocante às relações interpessoais, à promoção do diálogo e à mediação escolar, conforme descrito na @tbl-barbosa-hiara-2.
 
 | Atribuições | Objetivo | Função |
-|:----------------------:|:----------------------:|:----------------------:|
+|:--:|:--:|:--:|
 | Formação | Capacitar | Instrução |
 | Alinhamento, suporte, participação | Desenvolver estratégias junto aos atores escolares |  |
 | Mediação | Reduzir conflitos | Inserção |
@@ -128,7 +128,7 @@ Além disso, os eixos foram pensados pelos orientadores a partir das demandas qu
 Os desafios consistem em circunstâncias apontadas pelos participantes sobre suas práticas diárias que podem desfavorecer os resultados esperados ou dificultar a execução de intervenções. Para esta análise, inicialmente utilizamos dados sobre os desafios individuais e os desafios comuns a todos os orientadores educacionais e relacionamos com o tipo de escola, vínculo com a equipe e demandas solicitadas, conforme a @tbl-barbosa-hiara-3.
 
 | Falas dos participantes | Categorias de análise | Conceito norteador das categorias de análises |
-|:----------------------:|:----------------------:|:----------------------:|
+|:--:|:--:|:--:|
 | Sobrecarga Pressão Sem dia para planejamento Resultado tem que ser rápido Resolve aí Demandas de última hora | Prejuízos na qualidade quanto à demanda/desvio de função | Salienta as dificuldades enfrentadas, as quais exigem cobranças por resultados imediatos e ações equivalentes. |
 | Não ter o mesmo nível de dedicação Tudo que faz em uma escola, tem que fazer na outra Assemelhar-se aos prazos da SEDUC Desenvolver o mesmo trabalho nas escolas Não respeitar os horários Comparar Não acreditar que exista instrumento que dê conta | Divisão em duas ou mais escolas |  |
 | Ajudar a escola Ajudar a comunidade Sentir-se na obrigação Equipes desfalcadas Ser do núcleo gestor, trabalhar noite e fim de semana | Dificuldade na gestão das atividades fora de suas atribuições | Salienta as dificuldades enfrentadas, as quais direcionam para um desvio de função |
@@ -142,7 +142,7 @@ A coleta e análise de dados sobre os instrumentais que os orientadores utilizam
 Apesar de citarem os instrumentais, muitos orientadores relatam que não os utilizam frequentemente no dia a dia e que alguns nunca foram utilizados. Isso traz uma questão relacionada a como é quantificado o trabalho do orientador educacional ou mesmo à possibilidade de o município ainda não ter a quantificação dos dados como algo necessário na atuação do orientador, conforme a @tbl-barbosa-hiara-4.
 
 | Período de utilização dos instrumentos | Instrumentos | Adesão | Conceito norteador |
-|:----------------:|:----------------:|:----------------:|:----------------:|
+|:--:|:--:|:--:|:--:|
 | Registros de atividades remotas – Março de 2020 a abril de 2021. | Agenda física Cronograma Tabela de acompanhamento e ficha de registro das aulas Plano de teletrabalho | Mais utilizadas | Explicita a forma de repasse das produções mensais dos orientadores de caráter quantitativo do trabalho remoto |
 |  |  |  |  |
 |  |  |  |  |
@@ -185,7 +185,7 @@ Após observar e agrupar os dados sobre as atribuições, caracterizando-as em t
 Com a análise dos dados, podemos observar relações entre as atribuições descritas pelos orientadores e as demais atribuições em termos legais, relacionando e criando sugestões de indicadores de efeitos que contemplem a realidade dos orientadores educacionais de acordo com o trabalho desenvolvido por eles com base nas atribuições primárias e secundárias.
 
 | Atribuição | Objetivos das atribuições | Público alvo | Efeitos descritos pelos O.E | Sugestão de Indicador de efeito/medida |
-|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+|:--:|:--:|:--:|:--:|:--:|
 | Formação | Capacitar | Docentes | Apropriação de novas metodologias das CSE | Aumento do número de docentes qualificados na promoção das competências socioemocionais (CSE)/Aumento da frequência de atividades pedagógicas direcionadas à promoção das CSE |
 | Mediação; Ações de cuidado, ações coletivas | Promover saúde mental | Comunidade escolar | Melhoria no clima escolar e relações interpessoais | Redução de conflitos relatados junto à gestão/Aumento da frequência de atividades colaborativas entre professores/Aumento da procura espontânea da gestão(por parte dos estudantes e/ou professores) /aumento das atividades colaborativas entre gestores |
 | Acompanhamento, Elabo- ração, observação, planejamento | Trabalhar as competências socioemocionais | Orientador educacional | Posição de referência | Redução da frequência das ações urgência/Maior tempo dedicado aos aspectos pessoais e socioemocionais do aluno, tal como previsto no plano de aula. |

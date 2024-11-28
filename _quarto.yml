@@ -42,6 +42,7 @@ book:
         - barbosa_hiara.qmd
         - janne_camila.qmd 
         - sobre_os_autores.qmd
+        - indice_remissivo.qmd
     - part: Chapters in English
       chapters:
         - neta_reescrevendo_en.qmd
@@ -52,9 +53,9 @@ book:
         - pessoa_narrativa_en.qmd
         - santiago_escolarizacao_trans_en.qmd
         - sousa_violencia_en.qmd
-        - souza_silva_saude_homens_trans_en.qmd
+        - sousa_silva_saude_homens_trans_en.qmd
         - barbosa_hiara_en.qmd
-        #(22) - janne_camila_en.qmd
+        - janne_camila_en.qmd
         - about_the_authors.qmd
 
 

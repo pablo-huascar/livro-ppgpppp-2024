@@ -89,7 +89,7 @@ The Professional Duties category stems from data on the activities most frequent
 Thus, two concepts were defined for the duties' profiles: primary and secondary. Participants considered primary duties as those in which they were central figures in the execution of the activity (differentiating their actions from other school actors). On the other hand, secondary duties are the primary duties of different school actors, with the educational counselor providing support for their execution, as described in @tbl-barbosa-hiara-1.
 
 | Assignments | Assignment Components | Type of Assignment |
-|:----------------------:|:----------------------:|:----------------------:|
+|:--:|:--:|:--:|
 | Monitoring | Socio-emotional, dual focus, classes | Primary |
 | Planning | Classes, pedagogical |  |
 | Training | Socio-emotional skills |  |
@@ -117,7 +117,19 @@ Based on the analyzed data, it was possible to group the activities performed by
 | Monitoring, preparation, observation, planning | Work on Socio-emotional Skills |  |
 | Care actions and collective actions | Promote mental health/Create and maintain contact among school stakeholders, bond creation, social spaces | Interaction |
 
+<<<<<<< HEAD
 : Functions of Educational Counselor Duties {#tbl-barbosa-hiara-2}
+=======
+*Functions of Educational Counselor Duties.*
+
+| Assignments | Objective | Function |
+|----|----|----|
+| Training | To capacitate | Instruction |
+| Alignment, support, participation | Develop strategies with school stakeholders |  |
+| Mediation | Reduce conflicts | Insertion |
+| Monitoring, preparation, observation, planning | Work on Socio-emotional Skills |  |
+| Care actions and collective actions | Promote mental health/Create and maintain contact among school stakeholders, bond creation, social spaces | Interaction |
+>>>>>>> dfaf6d23453308fe0c4c5244c6f5742f3eab4105
 
 ### Areas of operation for educational counselors
 
@@ -130,7 +142,7 @@ Furthermore, the counselors defined the areas based on collective demands and ga
 Challenges consist of circumstances participants report about their daily practices that may hinder expected results or make it difficult to carry out interventions. For this analysis, we initially used data on individual challenges and challenges common to all educational counselors. We related them to the type of school, team involvement, and requested demands, as shown in @tbl-barbosa-hiara-3.
 
 | Participants' Statements | Analysis Categories | Guiding Concept of Analysis Categories |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | Overload Pressure No day for planning Results must be quick "Solve it there" Last-minute demands | Quality impairment regarding demand/role diversion | Highlights the difficulties faced, which require demands for immediate results and equivalent actions. |
 | Not having the same level of dedication Everything you do in one school, you have to do in the other "It's like SEDUC deadlines" Develop the same work in schools Not respecting schedules Comparison I don't believe there's a tool that can handle it | Split between two or more schools |  |
 | Help the school Help the community Feeling obligated Understaffed teams Being part of the management team, working nights and weekends | Difficulty in managing activities beyond their duties | Highlights the difficulties faced, which lead to role diversion |
@@ -144,7 +156,7 @@ The collection and analysis of data on the instruments used by counselors in the
 Although counselors mentioned the instruments, many reported using them infrequently in their daily work, and some never used them. This raises a question regarding how the work of educational counselors is quantified or whether the municipality has yet to consider data quantification necessary for counselors' work, as shown in @tbl-barbosa-hiara-4.
 
 | Instrument Utilization Period | Instruments | Adherence | Guiding Concept |
-|:----------------:|:----------------:|:----------------:|:----------------:|
+|:--:|:--:|:--:|:--:|
 | Records of remote activities – March 2020 to April 2021 | Physical agenda Schedule Tracking table and class record form Telework plan | Most used | Explains how monthly quantitative reports of remote work by coordinators are conveyed |
 |  |  |  |  |
 |  |  |  |  |
@@ -187,7 +199,7 @@ After observing and grouping the data on duties, characterizing them in terms of
 With data analysis, we can observe relationships between the duties described by counselors and other duties in legal terms, relating and creating suggestions for effect indicators that consider the reality of educational counselors according to the work they carry out based on primary and secondary duties.
 
 | Assignment | Assignment Objectives | Target Audience | Effects Described by O.E. | Suggested Effect Indicator/Measure |
-|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+|:--:|:--:|:--:|:--:|:--:|
 | Training | To capacitate | Teachers | Adoption of new CSE methodologies | Increase in the number of teachers qualified to promote socio-emotional skills (CSE)/Increase in the frequency of pedagogical activities aimed at promoting CSE |
 | Mediation; Care actions, collective actions | Promote mental health | School community | Better school climate and interpersonal relationships | Reduction in conflicts reported to management/Increase in the frequency of collaborative activities among teachers/Increase in spontaneous seeking of management (by students and/or teachers)/Increase in collaborative activities among managers |
 | Monitoring, preparation, observation, planning | Work on socio-emotional skills | Educational coordinator | To be a reference | Reduction in the frequency of urgent actions/More time dedicated to personal and socio-emotional aspects of the student, as planned in the lesson plan |

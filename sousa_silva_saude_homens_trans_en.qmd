@@ -18,7 +18,7 @@ language:
   title-block-author-plural: "Authors"
 filters:
   - section-bibliographies
-bibliography: souza_silva_saude_homens_trans_en.bib
+bibliography: sousa_silva_saude_homens_trans_en.bib
 reference-section-title: References
 ---
 
@@ -100,7 +100,7 @@ Butler [-@butler1990], in "Gender Trouble," recalls Julia Kristeva's concept of 
 
 Participant 3 also stated that his family often questions him about having long painted nails, doubting "how can you want to be a man with long painted nails?" The ambiguity seems to generate incomprehension regarding the body that presents itself, thus, the closer one is to the established norm of what is considered femininity and masculinity, the more that body is seen as legitimate [@leite2008].
 
-There is a requirement that there should be no confusion when looking at such a body, that they already have their name rectified in their documents, and that clothing and body expressions should avoid any confusion between masculinity and femininity. All participants stated that they see this cisnormative pressure on all men, but for trans men, it is even more demanding and becomes exhausting to have to reaffirm who they are constantly. Bento (2006) discusses how the understanding of gender and sexuality in transsexuality is linked to sexual difference. Thus, as the body moves away from the established binary norms, it does not become comprehensible to those who see it. Additionally, it is located in social delegitimization, as no discourse establishes it as true due to its incomprehensibility. According to Leite Júnior [-@leite2008]:
+There is a requirement that there should be no confusion when looking at such a body, that they already have their name rectified in their documents, and that clothing and body expressions should avoid any confusion between masculinity and femininity. All participants stated that they see this cisnormative pressure on all men, but for trans men, it is even more demanding and becomes exhausting to have to reaffirm who they are constantly. Bento [-@bento2006] discusses how the understanding of gender and sexuality in transsexuality is linked to sexual difference. Thus, as the body moves away from the established binary norms, it does not become comprehensible to those who see it. Additionally, it is located in social delegitimization, as no discourse establishes it as true due to its incomprehensibility. According to Leite Júnior [-@leite2008]:
 
 > As gender norms help shape what we understand as "human, "the closer a person's performativity is to the ideal of a "true" femininity or masculinity, the more that person will be understood as human... The more gender norms of a given period are internalized and, mainly, expressed as an "inner nature" through clothing, behavior, feelings, and desires, the more the notion of a "true" woman or "true" man is reinforced (p. 215).
 
