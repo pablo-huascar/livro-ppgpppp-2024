@@ -5,7 +5,6 @@ toc: false
 # Índice remissivo {.unnumbered}
 
 ::: {style="line-height: 0.5;"}
-
 ## C
 
 [Contexto de trabalho](rodrigues_trabalho.qmd)
@@ -32,7 +31,7 @@ toc: false
 
 [Projeto de vida](neta_reescrevendo.qmd)
 
-## R 
+## R
 
 [Relações socioprofissionais](rodrigues_trabalho.qmd)
 
@@ -45,7 +44,4 @@ toc: false
 [Saúde de homens trans](aragao_saude_trans.qmd)
 
 [Sofrimento psíquico e racismo](barbosa_aquilomba.qmd)
-
-
 :::
-
