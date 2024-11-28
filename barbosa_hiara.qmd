@@ -1,15 +1,15 @@
 ---
 author: 
   - name: Hiara da Silva Santos Barbosa
-    url: 
-    orcid: 
-    email: 
+    url: http://lattes.cnpq.br/3372922787437273
+    orcid: 0000-0002-2098-5260
+    email: hiarabarbosa@gmail.com
     affiliations: 
       - name: Universidade Federal do Ceará    
   - name: Natália Santos Marques
-    url: 
-    orcid: 
-    email: 
+    url: http://lattes.cnpq.br/6060664745536596
+    orcid: 0000-0003-4994-3811
+    email: nataliamarques@ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
 language: 
@@ -91,7 +91,7 @@ Com isso, definiram-se dois conceitos para os perfis das atribuições: atribui�
 *Perfis das Atribuições Primárias e Secundárias dos Orientadores Educacionais.*
 
 | Atribuições | Componentes das atribuições | Tipo de atribuição |
-|:----------------------:|:----------------------:|:----------------------:|
+|:--:|:--:|:--:|
 | Acompanhamento | Socioemocional, duplo foco, aulas | Primárias |
 | Planejamento | Aulas, pedagógico |  |
 | Formação | Competências socioemocionais |  |
@@ -114,7 +114,7 @@ A partir dos dados analisados, foi possível agrupar as atividades desempenhadas
 *Funções das Atribuições do Orientador Educacional.*
 
 | Atribuições | Objetivo | Função |
-|:----------------------:|:----------------------:|:----------------------:|
+|:--:|:--:|:--:|
 | Formação | Capacitar | Instrução |
 | Alinhamento, suporte, participação | Desenvolver estratégias junto aos atores escolares |  |
 | Mediação | Reduzir conflitos | Inserção |
@@ -136,7 +136,7 @@ Os desafios consistem em circunstâncias apontadas pelos participantes sobre sua
 *Desafios dos Orientadores Educacionais.*
 
 | Falas dos participantes | Categorias de análise | Conceito norteador das categorias de análises |
-|:----------------------:|:----------------------:|:----------------------:|
+|:--:|:--:|:--:|
 | Sobrecarga Pressão Sem dia para planejamento Resultado tem que ser rápido Resolve aí Demandas de última hora | Prejuízos na qualidade quanto à demanda/desvio de função | Salienta as dificuldades enfrentadas, as quais exigem cobranças por resultados imediatos e ações equivalentes. |
 | Não ter o mesmo nível de dedicação Tudo que faz em uma escola, tem que fazer na outra Assemelhar-se aos prazos da SEDUC Desenvolver o mesmo trabalho nas escolas Não respeitar os horários Comparar Não acreditar que exista instrumento que dê conta | Divisão em duas ou mais escolas |  |
 | Ajudar a escola Ajudar a comunidade Sentir-se na obrigação Equipes desfalcadas Ser do núcleo gestor, trabalhar noite e fim de semana | Dificuldade na gestão das atividades fora de suas atribuições | Salienta as dificuldades enfrentadas, as quais direcionam para um desvio de função |
@@ -152,7 +152,7 @@ Apesar de citarem os instrumentais, muitos orientadores relatam que não os util
 *Sistematização dos Instrumentais de Uso Diários dos Orientadores Educacionais.*
 
 | Período de utilização dos instrumentos | Instrumentos | Adesão | Conceito norteador |
-|:----------------:|:----------------:|:----------------:|:----------------:|
+|:--:|:--:|:--:|:--:|
 | Registros de atividades remotas – Março de 2020 a abril de 2021. | Agenda física Cronograma Tabela de acompanhamento e ficha de registro das aulas Plano de teletrabalho | Mais utilizadas | Explicita a forma de repasse das produções mensais dos orientadores de caráter quantitativo do trabalho remoto |
 |  |  |  |  |
 |  |  |  |  |
@@ -197,7 +197,7 @@ Com a análise dos dados, podemos observar relações entre as atribuições des
 *Indicadores de Efeitos.*
 
 | Atribuição | Objetivos das atribuições | Público alvo | Efeitos descritos pelos O.E | Sugestão de Indicador de efeito/medida |
-|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+|:--:|:--:|:--:|:--:|:--:|
 | Formação | Capacitar | Docentes | Apropriação de novas metodologias das CSE | Aumento do número de docentes qualificados na promoção das competências socioemocionais (CSE)/Aumento da frequência de atividades pedagógicas direcionadas à promoção das CSE |
 | Mediação; Ações de cuidado, ações coletivas | Promover saúde mental | Comunidade escolar | Melhoria no clima escolar e relações interpessoais | Redução de conflitos relatados junto à gestão/Aumento da frequência de atividades colaborativas entre professores/Aumento da procura espontânea da gestão(por parte dos estudantes e/ou professores) /aumento das atividades colaborativas entre gestores |
 | Acompanhamento, Elabo- ração, observação, planejamento | Trabalhar as competências socioemocionais | Orientador educacional | Posição de referência | Redução da frequência das ações urgência/Maior tempo dedicado aos aspectos pessoais e socioemocionais do aluno, tal como previsto no plano de aula. |
