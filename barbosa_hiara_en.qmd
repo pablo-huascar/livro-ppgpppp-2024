@@ -86,11 +86,7 @@ From the analyzed data, it can be observed that, among the 11 educational counse
 
 The Professional Duties category stems from data on the activities most frequently mentioned by participants regarding their daily actions, considering the level of education of the institution, the partnership with school management, and the resources available for carrying out the work. Based on the collected data, it was possible to organize the most repeated activities and the associated components and propose, during the discussion round, a qualitative analysis for participants' validation regarding the organization of activities into groups of duties. This analysis occurred as follows: data were organized into a table and presented to participants, who provided their considerations and changed the positions of the duties. They switched the planning and support duties, placing the former in group 1 and the latter in group 2 of responsibilities, as shown in the table. It is worth noting that three participants did not agree with the change.
 
-Thus, two concepts were defined for the duties' profiles: primary and secondary. Participants considered primary duties as those in which they were central figures in the execution of the activity (differentiating their actions from other school actors). On the other hand, secondary duties are the primary duties of different school actors, with the educational counselor providing support for their execution, as described in Table 1.
-
-**Table 1**
-
-*Profiles of Primary and Secondary Duties of Educational Counselors.*
+Thus, two concepts were defined for the duties' profiles: primary and secondary. Participants considered primary duties as those in which they were central figures in the execution of the activity (differentiating their actions from other school actors). On the other hand, secondary duties are the primary duties of different school actors, with the educational counselor providing support for their execution, as described in @tbl-barbosa-hiara-1.
 
 | Assignments | Assignment Components | Type of Assignment |
 |:----------------------:|:----------------------:|:----------------------:|
@@ -105,23 +101,23 @@ Thus, two concepts were defined for the duties' profiles: primary and secondary.
 | Support | Socio-emotional skills, pedagogical |  |
 | Meeting | Management team |  |
 
+: Profiles of Primary and Secondary Duties of Educational Counselors {#tbl-barbosa-hiara-1}
+
 ### Functions of educational counselor duties
 
 The category Functions of Educational Counselor Duties refers to the set of activities aimed at common goals. These activities result from the actions carried out, whether they are primary and/or secondary duties, as well as what the professional considers their role in the institution versus what they believe other school actors and educational management expect from them as a professional category.
 
-Based on the analyzed data, it was possible to group the activities performed by educational counselors into three types of Functions: Instruction, Integration, and Interaction. The purpose of Instruction is related to activities that guide and develop strategies with school actors. The Integration Function is related to activities considered new in the school setting, promoting mental health and working with socio-emotional competencies. The Interaction Function involves developing actions regarding interpersonal relationships, promoting dialogue, and school mediation, as described in Table 2.
+Based on the analyzed data, it was possible to group the activities performed by educational counselors into three types of Functions: Instruction, Integration, and Interaction. The purpose of Instruction is related to activities that guide and develop strategies with school actors. The Integration Function is related to activities considered new in the school setting, promoting mental health and working with socio-emotional competencies. The Interaction Function involves developing actions regarding interpersonal relationships, promoting dialogue, and school mediation, as described in @tbl-barbosa-hiara-2.
 
-**Table 2**
+| Assignments | Objective | Function |
+|----------------|-----------------------------------------|---------------|
+| Training | To capacitate | Instruction |
+| Alignment, support, participation | Develop strategies with school stakeholders |  |
+| Mediation | Reduce conflicts | Insertion |
+| Monitoring, preparation, observation, planning | Work on Socio-emotional Skills |  |
+| Care actions and collective actions | Promote mental health/Create and maintain contact among school stakeholders, bond creation, social spaces | Interaction |
 
-*Functions of Educational Counselor Duties.*
-
-| Assignments                         | Objective                                                                               | Function       |
-|-------------------------------------|-----------------------------------------------------------------------------------------|----------------|
-| Training                            | To capacitate                                                                          | Instruction    |
-| Alignment, support, participation   | Develop strategies with school stakeholders                                           |                |
-| Mediation                           | Reduce conflicts                                                                       | Insertion      |
-| Monitoring, preparation, observation, planning | Work on Socio-emotional Skills                                                       |                |
-| Care actions and collective actions | Promote mental health/Create and maintain contact among school stakeholders, bond creation, social spaces | Interaction    |
+: Functions of Educational Counselor Duties {#tbl-barbosa-hiara-2}
 
 ### Areas of operation for educational counselors
 
@@ -131,11 +127,7 @@ Furthermore, the counselors defined the areas based on collective demands and ga
 
 ### Challenges
 
-Challenges consist of circumstances participants report about their daily practices that may hinder expected results or make it difficult to carry out interventions. For this analysis, we initially used data on individual challenges and challenges common to all educational counselors. We related them to the type of school, team involvement, and requested demands, as shown in Table 3 below.
-
-**Table 3**
-
-*Challenges of Educational Counselors.*
+Challenges consist of circumstances participants report about their daily practices that may hinder expected results or make it difficult to carry out interventions. For this analysis, we initially used data on individual challenges and challenges common to all educational counselors. We related them to the type of school, team involvement, and requested demands, as shown in @tbl-barbosa-hiara-3.
 
 | Participants' Statements | Analysis Categories | Guiding Concept of Analysis Categories |
 |------------------------|------------------------|------------------------|
@@ -143,15 +135,13 @@ Challenges consist of circumstances participants report about their daily practi
 | Not having the same level of dedication Everything you do in one school, you have to do in the other "It's like SEDUC deadlines" Develop the same work in schools Not respecting schedules Comparison I don't believe there's a tool that can handle it | Split between two or more schools |  |
 | Help the school Help the community Feeling obligated Understaffed teams Being part of the management team, working nights and weekends | Difficulty in managing activities beyond their duties | Highlights the difficulties faced, which lead to role diversion |
 
+: Challenges of Educational Counselors {#tbl-barbosa-hiara-3}
+
 ### Documental organization of activities and quantification of monthly outputs
 
 The collection and analysis of data on the instruments used by counselors in their daily routines and their frequency showed a variety of instruments that meet a wide range of demands. It also requires one adaptation for in-person activities and another for remote activities.
 
-Although counselors mentioned the instruments, many reported using them infrequently in their daily work, and some never used them. This raises a question regarding how the work of educational counselors is quantified or whether the municipality has yet to consider data quantification necessary for counselors' work, as shown in Table 4.
-
-**Table 4**
-
-*Systematization of Daily Instruments Used by Educational Counselors.*
+Although counselors mentioned the instruments, many reported using them infrequently in their daily work, and some never used them. This raises a question regarding how the work of educational counselors is quantified or whether the municipality has yet to consider data quantification necessary for counselors' work, as shown in @tbl-barbosa-hiara-4.
 
 | Instrument Utilization Period | Instruments | Adherence | Guiding Concept |
 |:----------------:|:----------------:|:----------------:|:----------------:|
@@ -169,6 +159,8 @@ Although counselors mentioned the instruments, many reported using them infreque
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
+
+: Systematization of Daily Instruments Used by Educational Counselors {#tbl-barbosa-hiara-4}
 
 ## Discussion
 
@@ -190,13 +182,9 @@ In the analyzed data, we have already observed characteristics of the national c
 
 Regarding the primary duties listed by educational counselors, it is noted that the most highlighted duties are monitoring and planning. These two duties are similar to the pedagogical duties described by Barbosa and Marques [-@barbosa_marques_emprocessodepublicacao], where there is a focus on learning academic content and other formal pedagogical responsibilities. Regarding the functions of primary responsibilities, specifically, the most cited by participants: monitoring, planning, and care/mediation, they are centered on the tasks of integration and interaction, which demonstrates that, at first, the work of the educational counselor consists of building a new culture in the school environment and integrating school actors into this process as well.
 
-After observing and grouping the data on duties, characterizing them in terms of type, functions, and target audience, it was possible to relate these data to the effects of the counselors' activities by duties and target audience. Four types of effects were described by counselors regarding the execution of their activities, namely: 1) Appropriation of new socio-emotional competencies methodologies; 2) Better school climate and interpersonal relationships; 3) Holistic student development; 4) Being a reference, as described in Table 5.
+After observing and grouping the data on duties, characterizing them in terms of type, functions, and target audience, it was possible to relate these data to the effects of the counselors' activities by duties and target audience. Four types of effects were described by counselors regarding the execution of their activities, namely: 1) Appropriation of new socio-emotional competencies methodologies; 2) Better school climate and interpersonal relationships; 3) Holistic student development; 4) Being a reference, as described in @tbl-barbosa-hiara-5.
 
 With data analysis, we can observe relationships between the duties described by counselors and other duties in legal terms, relating and creating suggestions for effect indicators that consider the reality of educational counselors according to the work they carry out based on primary and secondary duties.
-
-**Table 5**
-
-*Effect Indicators.*
 
 | Assignment | Assignment Objectives | Target Audience | Effects Described by O.E. | Suggested Effect Indicator/Measure |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
@@ -204,6 +192,8 @@ With data analysis, we can observe relationships between the duties described by
 | Mediation; Care actions, collective actions | Promote mental health | School community | Better school climate and interpersonal relationships | Reduction in conflicts reported to management/Increase in the frequency of collaborative activities among teachers/Increase in spontaneous seeking of management (by students and/or teachers)/Increase in collaborative activities among managers |
 | Monitoring, preparation, observation, planning | Work on socio-emotional skills | Educational coordinator | To be a reference | Reduction in the frequency of urgent actions/More time dedicated to personal and socio-emotional aspects of the student, as planned in the lesson plan |
 | Meetings, support, participation | Develop strategies with school stakeholders | No specific target audience | To be a reference | Reduction in demands unrelated to primary assignments |
+
+: Effect Indicators {#tbl-barbosa-hiara-5}
 
 This structuring can help counselors create instruments to monitor the evolution of their activities within the school context, which is specific to each. We present a table that guides this professional but does not limit their potential for creation. Knowing how to evaluate the work is essential, as it allows for changes and the sharing of practices that are more applicable to a given context.
 

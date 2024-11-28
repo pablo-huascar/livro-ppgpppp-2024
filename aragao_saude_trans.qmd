@@ -72,8 +72,7 @@ A abordagem de análise das práticas discursivas foi escolhida, pois o estudo b
 
 ## Resultados e discussão
 
-O perfil sociodemográfico dos participantes da pesquisa foi sistematizado na tabela abaixo (@tbl-demo-aragao). Para manter o sigilo, os nomes dados aos participantes nesta pesquisa são nomes de pássaros, pois, em uma das entrevistas, um dos participantes falou que gostaria de ser livre como um pássaro. Os nomes dados foram: Curió, Patativa e Sabiá.
-
+O perfil sociodemográfico dos participantes da pesquisa foi sistematizado na @tbl-demo-aragao. Para manter o sigilo, os nomes dados aos participantes nesta pesquisa são nomes de pássaros, pois, em uma das entrevistas, um dos participantes falou que gostaria de ser livre como um pássaro. Os nomes dados foram: Curió, Patativa e Sabiá.
 
 | Nome | Idade | Estado civil | Escolaridade | Ocupação | Renda | Religião | Raça |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
@@ -82,7 +81,6 @@ O perfil sociodemográfico dos participantes da pesquisa foi sistematizado na ta
 | Curió | 36 | Solteiro | Superior Completo | Trabalha | 1 - 2 salários | Não possui | Preto |
 
 : Perfil sociodemográfico dos participantes da pesquisa Saúde: institucionalizada e não institucionalizada {#tbl-demo-aragao}
-
 
 A Política Nacional de Saúde LGBT apresenta como pressuposto o fato de que as discriminações e os preconceitos estão ligados ao processo de adoecimento e sofrimento da população [@brasil2013]. O acesso à saúde dos homens transexuais entrevistados ocorre, principalmente, por meio da atenção primária, pelos Centros de Saúde da Família (CSF). Sabiá, Patativa e Curió, os três participantes da pesquisa, ao serem questionados sobre onde buscam cuidado em saúde, informam que fazem uso da rede pública de saúde do município, principalmente da atenção primária, mas que buscam também outros serviços ou redes de apoio.
 

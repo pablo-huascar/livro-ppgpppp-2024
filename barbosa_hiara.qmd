@@ -84,11 +84,7 @@ Dos dados analisados, pode-se verificar que, no grupo dos 11 orientadores educac
 
 A categoria Atribuições Profissionais é oriunda dos dados referentes às atividades mais citadas pelos participantes sobre suas ações cotidianas, considerando o nível de ensino da instituição, a parceria com a gestão escolar e os recursos disponíveis para execução do trabalho. Diante dos dados coletados, foi possível organizar as atividades que mais se repetiam e os componentes que estavam associados a elas, e propor no momento da roda de conversa uma análise qualitativa para validação dos participantes referentes à organização das atividades em grupos de atribuições. Essa análise ocorreu da seguinte forma: os dados foram organizados em tabela e apresentados para os participantes, que elencaram suas considerações e puderam fazer alterações nas posições das atribuições. Eles inverteram as atribuições de planejamento e as de suporte, colocando aquelas no grupo 1 e estas no grupo 2 de atribuições, conforme a tabela. Importa ressaltar que três participantes não concordaram com a mudança.
 
-Com isso, definiram-se dois conceitos para os perfis das atribuições: atribuições primárias e atribuições secundárias. As atribuições primárias foram consideradas pelos participantes como aquelas em que eles são figuras centrais para a execução da atividade (diferenciando sua ação das dos demais atores escolares). As secundárias são atribuições primárias de outros atores escolares, sendo o orientador educacional um apoio para a execução destas, conforme descrito na Tabela 1.
-
-**Tabela 1**
-
-*Perfis das Atribuições Primárias e Secundárias dos Orientadores Educacionais.*
+Com isso, definiram-se dois conceitos para os perfis das atribuições: atribuições primárias e atribuições secundárias. As atribuições primárias foram consideradas pelos participantes como aquelas em que eles são figuras centrais para a execução da atividade (diferenciando sua ação das dos demais atores escolares). As secundárias são atribuições primárias de outros atores escolares, sendo o orientador educacional um apoio para a execução destas, conforme descrito na @tbl-barbosa-hiara-1.
 
 | Atribuições | Componentes das atribuições | Tipo de atribuição |
 |:----------------------:|:----------------------:|:----------------------:|
@@ -103,15 +99,13 @@ Com isso, definiram-se dois conceitos para os perfis das atribuições: atribui�
 | Suporte | Competências socioemocionais, pedagógico |  |
 | Reunião | Núcleo gestor |  |
 
+: Perfis das Atribuições Primárias e Secundárias dos Orientadores Educacionais {#tbl-barbosa-hiara-1}
+
 ### Funções das atribuições do orientador educacional
 
 A categoria Funções das Atribuições do Orientador Educacional refere-se ao quadro de atividades que estão direcionadas para objetivos comuns. Sendo essas atividades resultantes das ações desempenhadas, sejam elas atribuições primárias, sejam atribuições secundárias, e também do que esse profissional considera seu papel na instituição versus o que ele considera que os demais atores escolares e gestão educacional esperam dele parte de uma categoria profissional.
 
-A partir dos dados analisados, foi possível agrupar as atividades desempenhadas pelos orientadores educacionais em três tipos de Funções: Instrução, Inserção e Interação. O objetivo de Instrução está relacionado às atividades de orientar e desenvolver estratégias junto aos atores escolares. A Função de Inserção está relacionada às atividades que são consideradas novas no cenário escolar, as que envolvem promoção de saúde mental e as que são trabalhadas com competências socioemocionais. Já a Função de Interação envolve atividades referentes ao desenvolvimento de ações no tocante às relações interpessoais, à promoção do diálogo e à mediação escolar, conforme descrito na Tabela 2.
-
-**Tabela 2**
-
-*Funções das Atribuições do Orientador Educacional.*
+A partir dos dados analisados, foi possível agrupar as atividades desempenhadas pelos orientadores educacionais em três tipos de Funções: Instrução, Inserção e Interação. O objetivo de Instrução está relacionado às atividades de orientar e desenvolver estratégias junto aos atores escolares. A Função de Inserção está relacionada às atividades que são consideradas novas no cenário escolar, as que envolvem promoção de saúde mental e as que são trabalhadas com competências socioemocionais. Já a Função de Interação envolve atividades referentes ao desenvolvimento de ações no tocante às relações interpessoais, à promoção do diálogo e à mediação escolar, conforme descrito na @tbl-barbosa-hiara-2.
 
 | Atribuições | Objetivo | Função |
 |:----------------------:|:----------------------:|:----------------------:|
@@ -121,6 +115,8 @@ A partir dos dados analisados, foi possível agrupar as atividades desempenhadas
 | Acompanhamento, Elaboração, observação, planejamento. | Trabalhar com as Competências Socioemocionais. |  |
 | Ações de cuidado e ações coletivas. | Promover saúde mental/Criar e manter contato entre atores escolares, criação de vínculos, espaços de convívio. | Interação |
 
+: Funções das Atribuições do Orientador Educacional {#tbl-barbosa-hiara-2}
+
 ### Eixos de atuação do orientador educacional
 
 A categoria Eixos de Atuação envolve o agrupamento das atribuições relacionando-as com o público para o qual a atuação destina-se. Para tanto, foram utilizadas as atribuições descritas pelos orientadores nas ações individuais (dados coletados a partir das entrevistas individuais), bem como a análise documental das legislações e dos documentos oficiais relacionados com a implementação do cargo e da atuação do orientador educacional no município no que tange às atribuições.
@@ -129,11 +125,7 @@ Além disso, os eixos foram pensados pelos orientadores a partir das demandas qu
 
 ### Desafios
 
-Os desafios consistem em circunstâncias apontadas pelos participantes sobre suas práticas diárias que podem desfavorecer os resultados esperados ou dificultar a execução de intervenções. Para esta análise, inicialmente utilizamos dados sobre os desafios individuais e os desafios comuns a todos os orientadores educacionais e relacionamos com o tipo de escola, vínculo com a equipe e demandas solicitadas, conforme a Tabela 3 abaixo.
-
-**Tabela 3**
-
-*Desafios dos Orientadores Educacionais.*
+Os desafios consistem em circunstâncias apontadas pelos participantes sobre suas práticas diárias que podem desfavorecer os resultados esperados ou dificultar a execução de intervenções. Para esta análise, inicialmente utilizamos dados sobre os desafios individuais e os desafios comuns a todos os orientadores educacionais e relacionamos com o tipo de escola, vínculo com a equipe e demandas solicitadas, conforme a @tbl-barbosa-hiara-3.
 
 | Falas dos participantes | Categorias de análise | Conceito norteador das categorias de análises |
 |:----------------------:|:----------------------:|:----------------------:|
@@ -141,15 +133,13 @@ Os desafios consistem em circunstâncias apontadas pelos participantes sobre sua
 | Não ter o mesmo nível de dedicação Tudo que faz em uma escola, tem que fazer na outra Assemelhar-se aos prazos da SEDUC Desenvolver o mesmo trabalho nas escolas Não respeitar os horários Comparar Não acreditar que exista instrumento que dê conta | Divisão em duas ou mais escolas |  |
 | Ajudar a escola Ajudar a comunidade Sentir-se na obrigação Equipes desfalcadas Ser do núcleo gestor, trabalhar noite e fim de semana | Dificuldade na gestão das atividades fora de suas atribuições | Salienta as dificuldades enfrentadas, as quais direcionam para um desvio de função |
 
+: Desafios dos Orientadores Educacionais {#tbl-barbosa-hiara-3}
+
 ### Organização documental das atividades e quantificação das produções mensais
 
 A coleta e análise de dados sobre os instrumentais que os orientadores utilizam no seu dia a dia e a periodicidade apresenta uma variedade de instrumentais que atendem a uma ampla gama de demandas. Também acarreta uma adaptação das atividades presenciais e outra para as atividades remotas.
 
-Apesar de citarem os instrumentais, muitos orientadores relatam que não os utilizam frequentemente no dia a dia e que alguns nunca foram utilizados. Isso traz uma questão relacionada a como é quantificado o trabalho do orientador educacional ou mesmo à possibilidade de o município ainda não ter a quantificação dos dados como algo necessário na atuação do orientador, conforme a Tabela 4.
-
-**Tabela 4**
-
-*Sistematização dos Instrumentais de Uso Diários dos Orientadores Educacionais.*
+Apesar de citarem os instrumentais, muitos orientadores relatam que não os utilizam frequentemente no dia a dia e que alguns nunca foram utilizados. Isso traz uma questão relacionada a como é quantificado o trabalho do orientador educacional ou mesmo à possibilidade de o município ainda não ter a quantificação dos dados como algo necessário na atuação do orientador, conforme a @tbl-barbosa-hiara-4.
 
 | Período de utilização dos instrumentos | Instrumentos | Adesão | Conceito norteador |
 |:----------------:|:----------------:|:----------------:|:----------------:|
@@ -167,6 +157,8 @@ Apesar de citarem os instrumentais, muitos orientadores relatam que não os util
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
+
+: Sistematização dos Instrumentais de Uso Diários dos Orientadores Educacionais {#tbl-barbosa-hiara-4}
 
 ## Discussão
 
@@ -188,13 +180,9 @@ Nos dados analisados, já observamos no contexto de Sobral características do c
 
 Em relação às atribuições elencadas pelos orientadores educacionais como primárias, nota-se que as atribuições mais evidenciadas são as de acompanhamento e planejamento. Essas duas atribuições assemelham-se com as atribuições pedagógicas descritas por Barbosa e Marques [-@barbosa_marques_historico], onde há um foco no aprendizado de conteúdos acadêmicos e outras atribuições pedagógicas formais. Quanto às funções das atribuições primárias, em específico as mais citadas pelos participantes, quais sejam, acompanhamento, planejamento, cuidado/mediação, elas estão centralizadas nas funções de inserção e de interação, o que demonstra que, a princípio, o trabalho do orientador educacional consiste em construir uma nova cultura no ambiente escolar e inserir os atores escolares nesse processo também.
 
-Após observar e agrupar os dados sobre as atribuições, caracterizando-as em termos de tipo, funções e público-alvo, foi possível relacionar esses dados com os efeitos das atividades dos orientadores por atribuições e público-alvo. Quatro tipos de efeitos foram descritos pelos orientadores acerca da execução de suas atividades, sendo eles: 1) Apropriação de novas metodologias das CSE; 2) Melhoria no clima escolar e nas relações interpessoais; 3) Desenvolvimento integral do aluno; 4) Posição de referência, conforme descrito na Tabela 5.
+Após observar e agrupar os dados sobre as atribuições, caracterizando-as em termos de tipo, funções e público-alvo, foi possível relacionar esses dados com os efeitos das atividades dos orientadores por atribuições e público-alvo. Quatro tipos de efeitos foram descritos pelos orientadores acerca da execução de suas atividades, sendo eles: 1) Apropriação de novas metodologias das CSE; 2) Melhoria no clima escolar e nas relações interpessoais; 3) Desenvolvimento integral do aluno; 4) Posição de referência, conforme descrito na @tbl-barbosa-hiara-5.
 
 Com a análise dos dados, podemos observar relações entre as atribuições descritas pelos orientadores e as demais atribuições em termos legais, relacionando e criando sugestões de indicadores de efeitos que contemplem a realidade dos orientadores educacionais de acordo com o trabalho desenvolvido por eles com base nas atribuições primárias e secundárias.
-
-**Tabela 5**
-
-*Indicadores de Efeitos.*
 
 | Atribuição | Objetivos das atribuições | Público alvo | Efeitos descritos pelos O.E | Sugestão de Indicador de efeito/medida |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
@@ -202,6 +190,8 @@ Com a análise dos dados, podemos observar relações entre as atribuições des
 | Mediação; Ações de cuidado, ações coletivas | Promover saúde mental | Comunidade escolar | Melhoria no clima escolar e relações interpessoais | Redução de conflitos relatados junto à gestão/Aumento da frequência de atividades colaborativas entre professores/Aumento da procura espontânea da gestão(por parte dos estudantes e/ou professores) /aumento das atividades colaborativas entre gestores |
 | Acompanhamento, Elabo- ração, observação, planejamento | Trabalhar as competências socioemocionais | Orientador educacional | Posição de referência | Redução da frequência das ações urgência/Maior tempo dedicado aos aspectos pessoais e socioemocionais do aluno, tal como previsto no plano de aula. |
 | Reuniões, suporte, participação | Desenvolver estratégias junto aos atores escolares | Sem público-alvo específico | Posição de referência | Redução das demandas dissociadas das atribuições primárias |
+
+: Indicadores de Efeitos {#tbl-barbosa-hiara-5}
 
 Essa estruturação poderá ajudar os orientadores a criarem seus próprios instrumentos para acompanhar a evolução de suas atividades dentro do contexto escolar, que é específico de cada um. Apresentamos uma tabela que orienta esse profissional, mas não limita seu potencial de criação. É importante saber como avaliar o trabalho, pois isso permite mudanças e também compartilhamento de práticas que são mais aplicáveis a determinado contexto.
 

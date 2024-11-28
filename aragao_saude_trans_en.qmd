@@ -74,16 +74,15 @@ The discursive practices analysis approach was chosen because the study seeks to
 
 ## Results and Discussion
 
-The sociodemographic profile of the research participants is organized in the table below (Table 1). To maintain confidentiality, the names given to the participants in this research are bird names, as one of the participants mentioned in an interview that they wished to be free like a bird. The chosen names were Curió, Patativa, and Sabiá.
-
-**Table 1**\
-*Sociodemographic Profile of Research Participants: Institutionalized and Non-Institutionalized Health Care*
+The sociodemographic profile of the research participants is organized in the @tbl-demo-aragao. To maintain confidentiality, the names given to the participants in this research are bird names, as one of the participants mentioned in an interview that they wished to be free like a bird. The chosen names were Curió, Patativa, and Sabiá.
 
 | Name | Age | Marital Status | Education | Occupation | Income | Religion | Race |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 | Sabiá | 23 | Single | Incomplete College | Student | 4 or more wages | None | White |
 | Patativa | 28 | Single | College Graduate | Employed | 2 - 4 wages | None | White |
 | Curió | 36 | Single | College Graduate | Employed | 1 - 2 wages | None | Black |
+
+: Sociodemographic Profile of Research Participants: Institutionalized and Non-Institutionalized Health Care {#tbl-demo-aragao}.
 
 The National LGBT Health Policy presents the premise that discrimination and prejudice are linked to the process of illness and suffering of the population [@brasil2012]. Access to health care by the trans men interviewed occurs primarily through primary care through the Family Health Centers (CSF). Sabiá, Patativa, and Curió, the three participants of the research, reported that they use the public health network of the municipality, mainly primary care, but also seek other services or support networks.
 
