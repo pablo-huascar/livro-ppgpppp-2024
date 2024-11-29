@@ -15,7 +15,7 @@ author:
 lang: en
 toc-title: "Table of contents"
 language: 
-  title-block-author-plural: "Autoras"
+  title-block-author-plural: "Authors"
 filters:
   - section-bibliographies
 bibliography: barbosa_aquilomba_en.bib
