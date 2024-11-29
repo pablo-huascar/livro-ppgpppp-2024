@@ -124,11 +124,11 @@ tabela_1 |>
   select(Atribuições, `Componentes das atribuições`) |> 
   gt() |> 
   tab_row_group(
-    label = md("**Atribuições Secundárias**:"), 
+    label = md("**Atribuições Secundárias**"), 
     rows = 8:10
     ) |> 
   tab_row_group(
-    label = md("**Atribuições Primárias**:"),
+    label = md("**Atribuições Primárias**"),
     rows = 1:7
   ) 
 ```
