@@ -77,7 +77,7 @@ The discursive practices analysis approach was chosen because the study seeks to
 The sociodemographic profile of the research participants is organized in the @tbl-demo-aragao. To maintain confidentiality, the names given to the participants in this research are bird names, as one of the participants mentioned in an interview that they wished to be free like a bird. The chosen names were Curió, Patativa, and Sabiá.
 
 | Name | Age | Marital Status | Education | Occupation | Income | Religion | Race |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | Sabiá | 23 | Single | Incomplete College | Student | 4 or more wages | None | White |
 | Patativa | 28 | Single | College Graduate | Employed | 2 - 4 wages | None | White |
 | Curió | 36 | Single | College Graduate | Employed | 1 - 2 wages | None | Black |

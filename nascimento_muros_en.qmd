@@ -36,8 +36,10 @@ author:
     email: iratan@ufc.br
     affiliations: 
       - name: Universidade Federal do Ceará
+lang: en
+toc-title: "Table of contents"
 language: 
-  title-block-author-plural: "Autoras"
+  title-block-author-plural: "Authors"
 filters:
   - section-bibliographies
 bibliography: nascimento_muros_en.bib
