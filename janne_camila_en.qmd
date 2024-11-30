@@ -21,7 +21,9 @@ filters:
 bibliography: janne_camila_en.bib
 reference-section-title: References
 ---
+
 # From NASF to eMulti: Work and (Re)construction Process in Municipalities of Sertão de Crateús, Ceará
+
 ## Introduction
 
 The multi-professional work in Public Health Policy, particularly in Primary Health Care (PHC), has always been marked by challenges. In 2008, the inclusion of new professional categories in this context, with the creation of the Family Health Support Centers – NASF [@Portaria154_2008], led to the expansion and recognition of these teams across Brazil, reaching 5,797 teams in 2018 [@Mattos2022].
@@ -50,7 +52,7 @@ The exclusion criteria were: professionals working on the same team as the resea
 
 ### Instruments
 
-Data collection took place in two different stages. The first was conducted electronically, via email and WhatsApp, using a Socioprofessional Questionnaire composed of 40 multiple-choice questions, sent together with the Informed Consent Form (ICF) and the Image and Voice Consent Form. The instrument was created in Google Forms and was available to participants throughout May 2024\. At the end of the month, 15 complete responses were obtained.
+Data collection took place in two different stages. The first was conducted electronically, via email and WhatsApp, using a Socioprofessional Questionnaire composed of 40 multiple-choice questions, sent together with the Informed Consent Form (ICF) and the Image and Voice Consent Form. The instrument was created in Google Forms and was available to participants throughout May 2024. At the end of the month, 15 complete responses were obtained.
 
 The Questionnaire was divided into four sections, promoting a more dynamic reading. The first section concerned team composition, affiliation, and professional experiences; the second section addressed work processes and the frequency of activities performed; the third section focused on interprofessional collaboration and working conditions; and the fourth section was designed more reflectively, highlighting perspectives for the future of professional practice.
 

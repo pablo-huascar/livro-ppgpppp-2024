@@ -180,7 +180,6 @@ tabela_2 |>
   )
 ```
 
-
 ### Eixos de atuação do orientador educacional
 
 A categoria Eixos de Atuação envolve o agrupamento das atribuições relacionando-as com o público para o qual a atuação destina-se. Para tanto, foram utilizadas as atribuições descritas pelos orientadores nas ações individuais (dados coletados a partir das entrevistas individuais), bem como a análise documental das legislações e dos documentos oficiais relacionados com a implementação do cargo e da atuação do orientador educacional no município no que tange às atribuições.
@@ -202,7 +201,6 @@ tabela_3 <- tribble(
   "Dificuldade na gestão das atividades fora de suas atribuições"
 )
 ```
-
 
 ```{r}
 #| label: tbl-barbosa-hiara-3
@@ -235,7 +233,6 @@ tabela_3 |>
     locations = cells_row_groups()
   )
 ```
-
 
 ### Organização documental das atividades e quantificação das produções mensais
 
@@ -289,8 +286,6 @@ tabela_4 |>
   )
 ```
 
-
-
 ## Discussão
 
 Ao realizar a pesquisa sobre o perfil profissional e os modos de atuação do orientador educacional na rede pública municipal de Sobral-CE, o primeiro ponto que merece destaque é sobre a formação acadêmica requerida como critério pela gestão municipal para o cargo de orientador educacional, uma vez que, em grande parte do território brasileiro, segundo Barbosa e Marques [-@BarbosaMarques], há um direcionamento para optar-se por pedagogos ou outros profissionais com licenciaturas que fazem parte do grupo do magistério – diferentemente de Sobral, que optou por psicólogos.
@@ -303,7 +298,7 @@ Porém, independentemente da formação acadêmica do profissional, nota-se que 
 
 Assim, quanto ao perfil profissional, compreende-se que o contexto educacional de inserção dos orientadores educacionais em Sobral difere do nacional por ter, em sua totalidade, um quadro funcional com a mesma formação acadêmica atuando nas escolas; e se aproxima por esses profissionais possuírem, na maioria, qualificações profissionais diversas, atribuições direcionadas para os seus contextos individuais e para o interesse da gestão municipal, visto que, em grande parte do País, ao longo dos anos, ter ou não esse cargo e decidir qual profissional o ocuparia e o que este faria ficava e fica a critério da gestão municipal [@BarbosaMarques].
 
-Andrade *et al*. [-@santos2020pratica] apontam para uma distorção quanto à verdadeira função do orientador educacional dentro do ambiente escolar, principalmente quando este profissional adota o entendimento de que sua função é apontar soluções para todas as demandas que envolvam os discentes. De acordo com a Tabela 3, isso se confirma no contexto de Sobral, uma vez que há uma ampla atuação dos orientadores referenciadas nas normativas municipais e também na Tabela 4, quando apontam como desafio o desvio de função por demandas que não são do orientador.
+Andrade et al. [-@santos2020pratica] apontam para uma distorção quanto à verdadeira função do orientador educacional dentro do ambiente escolar, principalmente quando este profissional adota o entendimento de que sua função é apontar soluções para todas as demandas que envolvam os discentes. De acordo com a Tabela 3, isso se confirma no contexto de Sobral, uma vez que há uma ampla atuação dos orientadores referenciadas nas normativas municipais e também na Tabela 4, quando apontam como desafio o desvio de função por demandas que não são do orientador.
 
 Em Sobral, apesar dos profissionais possuírem uma formação básica similar, isso não os orienta para uma prática comum, excetuando as de competências socioemocionais e as de mediação escolar. Esse cenário pode ser favorável para uma ampliação da importância desse profissional nas instituições, podendo servir a diferentes objetivos do contexto educacional, mas também pode trazer impasses sobre o perfil profissional característico do orientador educacional e os seus modos de atuação.
 
@@ -348,7 +343,6 @@ tabela_5 |>
     data_row.padding = px(5)
   )
 ```
-
 
 Essa estruturação poderá ajudar os orientadores a criarem seus próprios instrumentos para acompanhar a evolução de suas atividades dentro do contexto escolar, que é específico de cada um. Apresentamos uma tabela que orienta esse profissional, mas não limita seu potencial de criação. É importante saber como avaliar o trabalho, pois isso permite mudanças e também compartilhamento de práticas que são mais aplicáveis a determinado contexto.
 
