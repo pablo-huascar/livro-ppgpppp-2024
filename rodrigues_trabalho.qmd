@@ -155,7 +155,23 @@ dados |>
   tab_spanner(
     label="Bootstrapping (1000 reamostragens)",
     columns = c("B",  "LI",  "LS",   "EP B" )
-  )    
+  ) |> 
+  tab_options(
+    table.font.size = px(12),
+    data_row.padding = px(5)
+  ) |> 
+  cols_align(
+    columns = 2:7,
+    align = "center" 
+  ) |> 
+  tab_style(
+    style = cell_text(align = "center"),
+    locations = cells_column_labels(columns = 1)
+    ) |> 
+  tab_style(
+    style = cell_text(align = "left"),
+    locations = cells_source_notes()
+    )
 ```
 
 ## Discussão

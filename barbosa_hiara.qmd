@@ -191,13 +191,51 @@ Além disso, os eixos foram pensados pelos orientadores a partir das demandas qu
 
 Os desafios consistem em circunstâncias apontadas pelos participantes sobre suas práticas diárias que podem desfavorecer os resultados esperados ou dificultar a execução de intervenções. Para esta análise, inicialmente utilizamos dados sobre os desafios individuais e os desafios comuns a todos os orientadores educacionais e relacionamos com o tipo de escola, vínculo com a equipe e demandas solicitadas, conforme a @tbl-barbosa-hiara-3.
 
-| Falas dos participantes | Categorias de análise | Conceito norteador das categorias de análises |
-|:----------------------:|:----------------------:|:----------------------:|
-| Sobrecarga Pressão Sem dia para planejamento Resultado tem que ser rápido Resolve aí Demandas de última hora | Prejuízos na qualidade quanto à demanda/desvio de função | Salienta as dificuldades enfrentadas, as quais exigem cobranças por resultados imediatos e ações equivalentes. |
-| Não ter o mesmo nível de dedicação Tudo que faz em uma escola, tem que fazer na outra Assemelhar-se aos prazos da SEDUC Desenvolver o mesmo trabalho nas escolas Não respeitar os horários Comparar Não acreditar que exista instrumento que dê conta | Divisão em duas ou mais escolas |  |
-| Ajudar a escola Ajudar a comunidade Sentir-se na obrigação Equipes desfalcadas Ser do núcleo gestor, trabalhar noite e fim de semana | Dificuldade na gestão das atividades fora de suas atribuições | Salienta as dificuldades enfrentadas, as quais direcionam para um desvio de função |
+```{r}
+tabela_3 <- tribble(
+  ~`Falas dos participantes`, ~`Categorias de análise`,
+  "Sobrecarga, Pressão, Sem dia para planejamento, Resultado tem que ser rápido, Resolve aí, Demandas de última hora",
+  "Prejuízos na qualidade quanto à demanda/desvio de função",
+  "Não ter o mesmo nível de dedicação, Tudo que faz em uma escola, tem que fazer na outra, Assemelhar-se aos prazos da SEDUC, Desenvolver o mesmo trabalho nas escolas, Não respeitar os horários, Comparar, Não acreditar que exista instrumento que dê conta",
+  "Divisão em duas ou mais escolas",
+  "Ajudar a escola, Ajudar a comunidade, Sentir-se na obrigação, Equipes desfalcadas, Ser do núcleo gestor, trabalhar noite e fim de semana",
+  "Dificuldade na gestão das atividades fora de suas atribuições"
+)
+```
 
-: Desafios dos Orientadores Educacionais {#tbl-barbosa-hiara-3}
+
+```{r}
+#| label: tbl-barbosa-hiara-3
+#| tbl-cap: Desafios dos Orientadores Educacionais
+
+tabela_3 |> 
+  gt() |> 
+  tab_row_group(
+    label = "Conceito norteador: salienta as dificuldades enfrentadas, as quais direcionam para um desvio de função",
+    rows = 3
+  ) |> 
+  tab_row_group(
+    label = "Conceito norteador: salienta as dificuldades enfrentadas, as quais exigem cobranças por resultados imediatos e ações equivalentes",
+    rows = 1:2
+  ) |> 
+  tab_options(
+    table.font.size = px(12),
+    data_row.padding = px(5)
+  ) |> 
+  tab_style(
+    style = list(
+      cell_text(align = "center"),
+      cell_text(weight = "bold")
+    ),
+    locations = cells_column_labels(columns = c("Falas dos participantes",
+                                                "Categorias de análise"))
+    ) |> 
+  tab_style(
+    style = cell_text(weight = "bold"),
+    locations = cells_row_groups()
+  )
+```
+
 
 ### Organização documental das atividades e quantificação das produções mensais
 
