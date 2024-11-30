@@ -20,18 +20,17 @@ bibliography: barbosa_hiara.bib
 reference-section-title: Referências
 editor_options: 
   chunk_output_type: console
+echo: false
+message: false
+warning: false
 ---
 
 # Caracterização do perfil profissional e dos modos de atuação do orientador educacional na rede pública de ensino de Sobral, Ceará
 
 ```{r}
-#| echo: false
-#| message: false
-#| warning: false
 library(tidyverse)
 library(gt)
 ```
-
 
 ## Introdução
 
@@ -97,8 +96,6 @@ A categoria Atribuições Profissionais é oriunda dos dados referentes às ativ
 
 Com isso, definiram-se dois conceitos para os perfis das atribuições: atribuições primárias e atribuições secundárias. As atribuições primárias foram consideradas pelos participantes como aquelas em que eles são figuras centrais para a execução da atividade (diferenciando sua ação das dos demais atores escolares). As secundárias são atribuições primárias de outros atores escolares, sendo o orientador educacional um apoio para a execução destas, conforme descrito na @tbl-barbosa-hiara-1.
 
-
-
 ```{r}
 #| echo: false
 tabela_1 <- tribble(
@@ -123,16 +120,27 @@ tabela_1 <- tribble(
 tabela_1 |> 
   select(Atribuições, `Componentes das atribuições`) |> 
   gt() |> 
-  tab_row_group(
-    label = md("**Atribuições Secundárias**"), 
+    tab_row_group(
+    label = md("**Secundárias**"), 
     rows = 8:10
     ) |> 
   tab_row_group(
-    label = md("**Atribuições Primárias**"),
+    label = md("**Primárias**"),
     rows = 1:7
-  ) 
+  ) |> 
+  tab_style(
+    style = list(
+      cell_text(align = "center"),
+      cell_text(weight = "bold")
+      ),
+    locations = cells_column_labels(columns = c(Atribuições,
+                                                "Componentes das atribuições"))
+    ) |>
+  tab_options(
+    table.font.size = px(12),
+    data_row.padding = px(5)
+  )
 ```
-
 
 ### Funções das atribuições do orientador educacional
 
@@ -140,15 +148,38 @@ A categoria Funções das Atribuições do Orientador Educacional refere-se ao q
 
 A partir dos dados analisados, foi possível agrupar as atividades desempenhadas pelos orientadores educacionais em três tipos de Funções: Instrução, Inserção e Interação. O objetivo de Instrução está relacionado às atividades de orientar e desenvolver estratégias junto aos atores escolares. A Função de Inserção está relacionada às atividades que são consideradas novas no cenário escolar, as que envolvem promoção de saúde mental e as que são trabalhadas com competências socioemocionais. Já a Função de Interação envolve atividades referentes ao desenvolvimento de ações no tocante às relações interpessoais, à promoção do diálogo e à mediação escolar, conforme descrito na @tbl-barbosa-hiara-2.
 
-| Atribuições | Objetivo | Função |
-|:----------------------:|:----------------------:|:----------------------:|
-| Formação | Capacitar | Instrução |
-| Alinhamento, suporte, participação | Desenvolver estratégias junto aos atores escolares |  |
-| Mediação | Reduzir conflitos | Inserção |
-| Acompanhamento, Elaboração, observação, planejamento. | Trabalhar com as Competências Socioemocionais. |  |
-| Ações de cuidado e ações coletivas. | Promover saúde mental/Criar e manter contato entre atores escolares, criação de vínculos, espaços de convívio. | Interação |
+```{r}
+#| label: tbl-barbosa-hiara-2
+#| echo: false
+#| tbl-cap: Funções das Atribuições do Orientador Educacional
+tabela_2 <- tribble(
+  ~Atribuições,                           ~Objetivo,                                                   ~Função,
+  "Formação",                             "Capacitar",                                                "Instrução",
+  "Alinhamento, suporte, participação",   "Desenvolver estratégias junto aos atores escolares",       "Inserção",
+  "Mediação",                             "Reduzir conflitos",                                        "Inserção",
+  "Acompanhamento, Elaboração, observação, planejamento.", "Trabalhar com as Competências Socioemocionais.", "Interação",
+  "Ações de cuidado e ações coletivas.",  "Promover saúde mental/Criar e manter contato entre atores escolares, criação de vínculos, espaços de convívio.", "Interação"
+)
+```
 
-: Funções das Atribuições do Orientador Educacional {#tbl-barbosa-hiara-2}
+```{r}
+tabela_2 |> 
+  gt() |> 
+  tab_style(
+    style = list(
+      cell_text(align = "center"),
+      cell_text(weight = "bold")
+      ),
+    locations = cells_column_labels(columns = c(Atribuições,
+                                                "Função",
+                                                Objetivo))
+    ) |> 
+  tab_options(
+    table.font.size = px(12),
+    data_row.padding = px(5)
+  )
+```
+
 
 ### Eixos de atuação do orientador educacional
 
@@ -174,24 +205,53 @@ A coleta e análise de dados sobre os instrumentais que os orientadores utilizam
 
 Apesar de citarem os instrumentais, muitos orientadores relatam que não os utilizam frequentemente no dia a dia e que alguns nunca foram utilizados. Isso traz uma questão relacionada a como é quantificado o trabalho do orientador educacional ou mesmo à possibilidade de o município ainda não ter a quantificação dos dados como algo necessário na atuação do orientador, conforme a @tbl-barbosa-hiara-4.
 
-| Período de utilização dos instrumentos | Instrumentos | Adesão | Conceito norteador |
-|:----------------:|:----------------:|:----------------:|:----------------:|
-| Registros de atividades remotas – Março de 2020 a abril de 2021. | Agenda física Cronograma Tabela de acompanhamento e ficha de registro das aulas Plano de teletrabalho | Mais utilizadas | Explicita a forma de repasse das produções mensais dos orientadores de caráter quantitativo do trabalho remoto |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  | Repositório das CSE do IAS | Menos utilizadas |  |
-| Registros de atividades presenciais – Agosto de 2019 a março de 2020. | Instrumental de encaminhamento Ficha de planejamento Ficha de registro das atividades duplofoco Ficha de acolhimento Solicitação de comparecimento | Mais utilizadas | Explicita a forma de repasse das produções mensais dos orientadores de caráter quantitativo do trabalho presencial |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  | Ficha Registro de visita domiciliar Mapa mensal de atividades Monitoramento de aulas duplofoco Ficha de planejamento dos Círculos | Menos utilizadas |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+```{r}
+tabela_4 <- tibble(
+  Instrumentos = c(
+    "Agenda física\nCronograma\nTabela de acompanhamento e ficha de registro das aulas\nPlano de teletrabalho",
+    "Repositório das CSE do IAS",
+    "Instrumental de encaminhamento\nFicha de planejamento\nFicha de registro das atividades\nFicha de acolhimento\nSolicitação de comparecimento",
+    "Ficha Registro de visita domiciliar\nMapa mensal de atividades"
+  ),
+  Adesão = c("Mais utilizadas", "Menos utilizadas", "Mais utilizadas", "Menos utilizadas"),
+  `Conceito norteador` = c(
+    "Explicita a forma de repasse das produções mensais dos orientadores de caráter quantitativo do trabalho remoto",
+    "Explicita a forma de repasse das produções mensais dos orientadores de caráter quantitativo do trabalho remoto",
+    "Explicita a forma de repasse das produções mensais dos orientadores de caráter quantitativo do trabalho presencial",
+    "Explicita a forma de repasse das produções mensais dos orientadores de caráter quantitativo do trabalho presencial"
+  )
+)
+```
 
-: Sistematização dos Instrumentais de Uso Diários dos Orientadores Educacionais {#tbl-barbosa-hiara-4}
+```{r}
+#| label: tbl-barbosa-hiara-4
+#| tbl-cap: Sistematização dos Instrumentais de Uso Diários dos Orientadores Educacionais
+tabela_4 |> 
+  gt() |> 
+  tab_options(
+    table.font.size = px(12),
+    data_row.padding = px(5)
+  ) |> 
+  tab_row_group(
+    label = md("**Registros de atividades presenciais – Agosto de 2019 a março de 2020**"),
+    rows = 3:4
+  ) |> 
+  tab_row_group(
+    label = md("**Registros de atividades remotas – Março de 2020 a abril de 2021**"),
+    rows = 1:2
+  ) |> 
+  tab_style(
+    style = list(
+      cell_text(align = "center"),
+      cell_text(weight = "bold")
+    ),
+    locations = cells_column_labels(columns = c(Instrumentos,
+                                                Adesão,
+                                                "Conceito norteador"))
+  )
+```
+
+
 
 ## Discussão
 
@@ -217,14 +277,40 @@ Após observar e agrupar os dados sobre as atribuições, caracterizando-as em t
 
 Com a análise dos dados, podemos observar relações entre as atribuições descritas pelos orientadores e as demais atribuições em termos legais, relacionando e criando sugestões de indicadores de efeitos que contemplem a realidade dos orientadores educacionais de acordo com o trabalho desenvolvido por eles com base nas atribuições primárias e secundárias.
 
-| Atribuição | Objetivos das atribuições | Público alvo | Efeitos descritos pelos O.E | Sugestão de Indicador de efeito/medida |
-|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| Formação | Capacitar | Docentes | Apropriação de novas metodologias das CSE | Aumento do número de docentes qualificados na promoção das competências socioemocionais (CSE)/Aumento da frequência de atividades pedagógicas direcionadas à promoção das CSE |
-| Mediação; Ações de cuidado, ações coletivas | Promover saúde mental | Comunidade escolar | Melhoria no clima escolar e relações interpessoais | Redução de conflitos relatados junto à gestão/Aumento da frequência de atividades colaborativas entre professores/Aumento da procura espontânea da gestão(por parte dos estudantes e/ou professores) /aumento das atividades colaborativas entre gestores |
-| Acompanhamento, Elabo- ração, observação, planejamento | Trabalhar as competências socioemocionais | Orientador educacional | Posição de referência | Redução da frequência das ações urgência/Maior tempo dedicado aos aspectos pessoais e socioemocionais do aluno, tal como previsto no plano de aula. |
-| Reuniões, suporte, participação | Desenvolver estratégias junto aos atores escolares | Sem público-alvo específico | Posição de referência | Redução das demandas dissociadas das atribuições primárias |
+```{r}
+tabela_5 <- tribble(
+  ~"Atribuição",                                  ~"Objetivos das atribuicoes",                ~"Publico-alvo",         ~"Efeitos descritos pelos OE",                                                                                      ~"Sugestão de indicador de efeito medida",
+  "Formação",                                   "Capacitar",                              "Docentes",           "Apropriação de novas metodologias das CSE",                                                                      "Aumento do número de docentes qualificados na promoção das competências socioemocionais (CSE)/Aumento da frequência de atividades pedagógicas direcionadas à promoção das CSE",
+  "Mediação; Ações de cuidado, ações coletivas", "Promover saúde mental",                 "Comunidade escolar", "Melhoria no clima escolar e relações interpessoais",                                                             "Redução de conflitos relatados junto à gestão/Aumento da frequência de atividades colaborativas entre professores/Aumento da procura espontânea da gestão(por parte dos estudantes e/ou professores)/Aumento das atividades colaborativas entre gestores",
+  "Acompanhamento, Elaboração, observação, planejamento", "Trabalhar as competências socioemocionais", "Orientador educacional", "Posição de referência",                                                                              "Redução da frequência das ações de urgência/Maior tempo dedicado aos aspectos pessoais e socioemocionais do aluno, tal como previsto no plano de aula.",
+  "Reuniões, suporte, participação",            "Desenvolver estratégias junto aos atores escolares", "Sem público-alvo específico", "Posição de referência",                                                                           "Redução das demandas dissociadas das atribuições primárias"
+)
+```
 
-: Indicadores de Efeitos {#tbl-barbosa-hiara-5}
+```{r}
+#| label: tbl-barbosa-hiara-5
+#| tbl-cap: Indicadores de Efeitos
+tabela_5 |> 
+  gt() |> 
+  tab_style(
+    style = list(
+      cell_text(align = "center"),
+      cell_text(weight = "bold")
+    ),
+    locations = cells_column_labels(columns = colunas <- c("Atribuição", 
+                                                           "Objetivos das atribuicoes", 
+                                                           "Publico-alvo", 
+                                                           "Efeitos descritos pelos OE", 
+                                                           "Sugestão de indicador de efeito medida"
+    )
+    )
+  ) |> 
+  tab_options(
+    table.font.size = px(12),
+    data_row.padding = px(5)
+  )
+```
+
 
 Essa estruturação poderá ajudar os orientadores a criarem seus próprios instrumentos para acompanhar a evolução de suas atividades dentro do contexto escolar, que é específico de cada um. Apresentamos uma tabela que orienta esse profissional, mas não limita seu potencial de criação. É importante saber como avaliar o trabalho, pois isso permite mudanças e também compartilhamento de práticas que são mais aplicáveis a determinado contexto.
 
