@@ -14,8 +14,8 @@ book:
     left:
       <img src="./imagens/uva-brasao.jpg" width="100"> 
   cover-image: cover_pt.png
-  #cover-image-alt: |
-    #A imagem mostra a capa do livro Produções Técnicas em Psicologia: Experiências Compartilhadas. No topo da capa, em fonte menor e de cor preta, estão as siglas PPGPSI e PPGPPPP, seguidas pelo nome Universidade Federal do Ceará, indicando a associação com a instituição. O título principal é apresentado em letras grandes e negrito, com Produções Técnicas em verde e em Psicologia em preto, abaixo do qual está o subtítulo Experiências Compartilhadas em fonte menor e itálico. Centralizado na capa há o desenho de uma ave, um carcará, em voo, com as asas abertas e o corpo voltado para a esquerda, delineado em traços pretos. O pássaro carrega uma cobra em suas garras. Abaixo do desenho, em letras pretas menores, estão os nomes Francisco Pablo Huascar Aragão Pinheiro e João Paulo Pereira Barros, seguidos pela palavra Orgs., sugerindo que são os organizadores da publicação. A capa tem um fundo claro e o design geral é simples.
+  cover-image-alt: |
+    A imagem é a capa de um livro intitulado Pesquisa e atuação em Psicologia e políticas públicas. No topo esquerdo, há o logotipo das Edições UVA, que apresenta um desenho estilizado de uma caneta dentro de uma linha horizontal, com o texto Edições UVA ao lado. No centro da capa, há uma ilustração em preto e branco que mostra um cacto com dois bulbos e um botão de flor, voltado em direção a um sol brilhante com raios desenhados de forma simples. Na parte inferior da capa, estão os nomes dos organizadores: Francisco Pablo Huascar Aragão Pinheiro e Emanuel Meireles Vieira, seguidos do termo Orgs.
   repo-url: https://github.com/pablo-huascar/livro-ppgpppp-2024
   repo-branch: main
   favicon: cover_pt.png
@@ -72,10 +72,7 @@ format:
     toc-depth: 2
     standalone: true
     indent: true
-    code-link: true
-    code-tools: true  
-    code-line-numbers: false
-    code-copy: true
+    
   
 
     author-meta: "Francisco Pablo Huascar Aragão Pinheiro e Emanuel Meireles Vieira"

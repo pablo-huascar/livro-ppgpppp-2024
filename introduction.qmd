@@ -15,10 +15,14 @@ author:
 language: 
   title-block-author-plural: "Editors"
 toc: false
+number-sections: false
 ---
-# Introduction {.unnumbered}
 
-**Research and practice in psychology and public policies** presents a series of investigations and actions developed within the Professional Graduate Program in Psychology and Public Policies at the Federal University of Ceará. This volume brings together chapters that contribute to understanding the social and cultural dynamics that permeate the experiences of marginalized populations and professionals working in the field of public policies. Through the articulation of teaching, research, and extension, the various works demonstrate how public universities can build networks of solidarity and forms of resistance in the face of inequalities in the interior of Northeast Brazil.
+# Introduction  {.unnumbered}
+
+<img src="./imagens/cover_en.png" alt="Capa do Livro" style="float: right; margin-left: 30px; width: 35%;" />
+
+**Research and practice in Psychology and public policies** presents a series of investigations and actions developed within the Professional Graduate Program in Psychology and Public Policies at the Federal University of Ceará. This volume brings together chapters that contribute to understanding the social and cultural dynamics that permeate the experiences of marginalized populations and professionals working in the field of public policies. Through the articulation of teaching, research, and extension, the various works demonstrate how public universities can build networks of solidarity and forms of resistance in the face of inequalities in the interior of Northeast Brazil.
 
 Throughout the book, the authors give visibility to the demands of different social groups and question the structures that perpetuate inequalities. In this way, it is possible to reflect on the role of psychology and public policies in building a more just and equitable society. Therefore, this book is an essential read for students, professionals, and researchers in psychology, social sciences, and public policies, as well as for anyone interested in understanding and transforming the social realities in which we live. Below, we present a summary of each chapter that makes up this work:
 
@@ -38,7 +42,7 @@ In **"I think it's hard even for cis people, l*et al*one trans": Health of trans
 
 **"My way, i made my revolution": The multiple layers of violence against women engaged in prostitution** addresses the multiple layers of violence faced by women engaged in prostitution. The authors explore how structural, social, and individual violence affects these women and discuss possible ways to develop public policies that guarantee their rights and promote their safety and well-being.
 
-**Discussion circle on healthcare access for trans men in ceará countryside** \- This chapter reports on the experience of a discussion circle on healthcare access for trans men in rural Ceará. The initiative aims to understand the barriers faced by this population and seek collective solutions to improve access and the quality of healthcare services.
+**Discussion circle on healthcare access for trans men in ceará countryside** - This chapter reports on the experience of a discussion circle on healthcare access for trans men in rural Ceará. The initiative aims to understand the barriers faced by this population and seek collective solutions to improve access and the quality of healthcare services.
 
 In **Characterization of the professional profile and modes of operation of educational counselors in the public school system of Sobral, Ceará**, the authors characterize the profile and modes of operation of educational counselors in Sobral's public school system. The chapter highlights the role of these professionals in mediating school conflicts and supporting students' development, demonstrating their importance for the quality of public education.
 
