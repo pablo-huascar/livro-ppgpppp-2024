@@ -5,17 +5,36 @@ toc: false
 # Índice remissivo {.unnumbered}
 
 ::: {style="line-height: 0.5;"}
+
+## B
+
+[Bullying e educação](pessoa_narrativa.qmd)
+
 ## C
 
 [Contexto de trabalho](rodrigues_trabalho.qmd)
 
 [Condições de trabalho](rodrigues_trabalho.qmd)
 
+## E
+
+[Escola pública e desigualdades](nascimento_muros.qmd)
+
 ## I
+
+[Impactos da COVID-19 no ensino](pessoa_narrativa.qmd)
 
 [Instrumento Gerador de Mapas Afetivos](neta_reescrevendo.qmd)
 
 [Intensificação laboral](rodrigues_trabalho.qmd)
+
+## M
+
+[Mobilidade social e educação](nascimento_muros.qmd)
+
+## N
+
+[Narrativas autobiográficas](pessoa_narrativa.qmd)
 
 ## O
 
@@ -26,6 +45,8 @@ toc: false
 [Política Nacional de Saúde Integral LGBT](aragao_saude_trans.qmd)
 
 [Política Nacional de Saúde Integral da População Negra](barbosa_aquilomba.qmd)
+
+[Práticas educativas emancipadoras](nascimento_muros.qmd)
 
 [Preconceito nos serviços de saúde](aragao_saude_trans.qmd)
 
@@ -44,4 +65,9 @@ toc: false
 [Saúde de homens trans](aragao_saude_trans.qmd)
 
 [Sofrimento psíquico e racismo](barbosa_aquilomba.qmd)
+
+## T
+
+[Território e exclusão social](pessoa_narrativa.qmd)
+
 :::
