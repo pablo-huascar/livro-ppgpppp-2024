@@ -22,11 +22,11 @@ bibliography: barbosa_hiara_en.bib
 reference-section-title: References
 ---
 
-# Characterization of the professional profile and modes of operation of educational counselors in the public school system of sobral, ceará
+# Characterization of the professional profile and modes of operation of educational counselors in the public school system of Sobral, Ceará
 
 ## Introduction
 
-In Brazil, the profession of educational counselor was established in 1968 [@brasil_1968]. The requirement for this professional in all schools was set by the Law of Guidelines and Bases [LDB, @brasil_1971]. As a result, many professionals already working in schools were reassigned from their original roles to take on the role of educational counselor. This expansion in the number of educational counselors led to greater variation in functions and responsibilities, due to practices being linked to academic backgrounds and institutional interests.
+In Brazil, the profession of educational counselor was established in 1968 [@brasil_1968]. The requirement for this professional in all schools was set by the Law of Guidelines and Bases – LDB [@brasil_1971]. As a result, many professionals already working in schools were reassigned from their original roles to take on the role of educational counselor. This expansion in the number of educational counselors led to greater variation in functions and responsibilities, due to practices being linked to academic backgrounds and institutional interests.
 
 With the regulation of the profession in 1973 [@brasil_1973], the exclusive exercise of the profession was limited to those with a degree in pedagogy with a specialization in educational counseling. It also included graduates or specialists in educational counseling and those with a degree in educational counseling from foreign schools with proper revalidation. The main goal of these professionals was to assist students individually and/or in groups in schools and school systems at the primary and secondary levels, with actions aimed at the integral and harmonious development of the student's personality.
 
