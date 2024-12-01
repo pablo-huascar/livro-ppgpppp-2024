@@ -22,11 +22,11 @@ bibliography: barbosa_hiara_en.bib
 reference-section-title: References
 ---
 
-# Characterization of the professional profile and modes of operation of educational counselors in the public school system of sobral, ceará
+# Characterization of the professional profile and modes of operation of educational counselors in the public school system of Sobral, Ceará
 
 ## Introduction
 
-In Brazil, the profession of educational counselor was established in 1968 [@brasil_1968]. The requirement for this professional in all schools was set by the Law of Guidelines and Bases [LDB, @brasil_1971]. As a result, many professionals already working in schools were reassigned from their original roles to take on the role of educational counselor. This expansion in the number of educational counselors led to greater variation in functions and responsibilities, due to practices being linked to academic backgrounds and institutional interests.
+In Brazil, the profession of educational counselor was established in 1968 [@brasil_1968]. The requirement for this professional in all schools was set by the Law of Guidelines and Bases – LDB [@brasil_1971]. As a result, many professionals already working in schools were reassigned from their original roles to take on the role of educational counselor. This expansion in the number of educational counselors led to greater variation in functions and responsibilities, due to practices being linked to academic backgrounds and institutional interests.
 
 With the regulation of the profession in 1973 [@brasil_1973], the exclusive exercise of the profession was limited to those with a degree in pedagogy with a specialization in educational counseling. It also included graduates or specialists in educational counseling and those with a degree in educational counseling from foreign schools with proper revalidation. The main goal of these professionals was to assist students individually and/or in groups in schools and school systems at the primary and secondary levels, with actions aimed at the integral and harmonious development of the student's personality.
 
@@ -174,7 +174,7 @@ However, regardless of the professional's academic background, it is noted that 
 
 Thus, regarding the professional profile, it is understood that the educational context of educational counselors in Sobral differs from the national context by having, in its entirety, a workforce with the same academic background working in schools; and it is similar in that these professionals, for the most part, have diverse professional qualifications, duties directed towards their individual contexts and the interests of municipal management, given that, in much of the country, over the years, having or not having this position, who would occupy it, and what they would do was and is at the discretion of municipal management [@BarbosaMarques].
 
-Andrade *et al*. [-@santos_andrade_bueno_2020] point out a distortion regarding the true role of the educational counselor within the school environment, especially when this professional adopts the understanding that their role is to provide solutions to all demands involving students. According to Table 3, this is confirmed in the context of Sobral, as there is a wide range of actions by counselors referenced in municipal regulations, as well as in Table 4, when challenges such as role deviation due to demands that are not the counselor's responsibility are pointed out.
+Andrade et al. [-@santos_andrade_bueno_2020] point out a distortion regarding the true role of the educational counselor within the school environment, especially when this professional adopts the understanding that their role is to provide solutions to all demands involving students. According to Table 3, this is confirmed in the context of Sobral, as there is a wide range of actions by counselors referenced in municipal regulations, as well as in Table 4, when challenges such as role deviation due to demands that are not the counselor's responsibility are pointed out.
 
 Although the professionals have a similar basic education in Sobral, this does not guide them towards a common practice, except for socio-emotional competencies and school mediation. This scenario may favor increased importance of this professional in institutions, serving different educational goals. Still, it may also create impasses regarding the professional profile of educational counselors and their modes of operation.
 
