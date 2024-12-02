@@ -72,9 +72,7 @@ A abordagem de análise das práticas discursivas foi escolhida, pois o estudo b
 
 ## Resultados e discussão
 
-
 O perfil sociodemográfico dos participantes da pesquisa foi sistematizado na @tbl-demo-aragao. Para manter o sigilo, os nomes dados aos participantes nesta pesquisa são nomes de pássaros, pois, em uma das entrevistas, um dos participantes falou que gostaria de ser livre como um pássaro. Os nomes dados foram: Curió, Patativa e Sabiá.
-
 
 | Nome | Idade | Estado civil | Escolaridade | Ocupação | Renda | Religião | Raça |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
