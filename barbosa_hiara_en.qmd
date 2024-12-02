@@ -20,9 +20,16 @@ filters:
   - section-bibliographies
 bibliography: barbosa_hiara_en.bib
 reference-section-title: References
+editor_options: 
+  chunk_output_type: console
 ---
 
 # Characterization of the professional profile and modes of operation of educational counselors in the public school system of Sobral, Ceará
+
+```{r}
+library(tidyverse)
+library(gt)
+```
 
 ## Introduction
 
@@ -88,20 +95,52 @@ The Professional Duties category stems from data on the activities most frequent
 
 Thus, two concepts were defined for the duties' profiles: primary and secondary. Participants considered primary duties as those in which they were central figures in the execution of the activity (differentiating their actions from other school actors). On the other hand, secondary duties are the primary duties of different school actors, with the educational counselor providing support for their execution, as described in @tbl-barbosa-hiara-1-en.
 
-| Assignments | Assignment Components | Type of Assignment |
-|:----------------------:|:----------------------:|:----------------------:|
-| Monitoring | Socio-emotional, dual focus, classes | Primary |
-| Planning | Classes, pedagogical |  |
-| Training | Socio-emotional skills |  |
-| Preparation | Activities, dual focus |  |
-| Collective Actions | Welcome, circles, workshops, dialogue circles, groups, lectures |  |
-| Care/Mediation | Mental, dialogue, reflection, welcoming, listening, educational support, projects, socio-emotional, conversation circles, and dialogue circles |  |
-| Observation | Classes |  |
-| Participation | Meetings, planning | Secondary |
-| Support | Socio-emotional skills, pedagogical |  |
-| Meeting | Management team |  |
+```{r}
+#| echo: false
+tabela_1 <- tribble(
+  ~Duties,              ~`Components of Duties`,                                                                                           ~`Type of Duty`,
+  "Monitoring",         "Socioemotional, dual focus, classes",                                                                             NA,
+  "Planning",           "Classes, pedagogical",                                                                                           NA,
+  "Training",           "Socioemotional skills",                                                                                          NA,
+  "Preparation",        "Activities, dual focus",                                                                                         NA,
+  "Collective Actions", "Welcoming, circles, workshops, lectures, groups, talks",                                                         NA,
+  "Care/Mediation",     "Mental, dialogue, reflection, welcoming, listening, educational support, projects, socioemotional, conversation circles, and dialogue circles", NA,
+  "Observation",        "Classes",                                                                                                        NA,
+  "Participation",      "Meetings, planning",                                                                                             NA,
+  "Support",            "Socioemotional skills, pedagogical",                                                                             NA,
+  "Meeting",            "Management team",                                                                                                NA
+)
+```
 
-: Profiles of Primary and Secondary Duties of Educational Counselors {#tbl-barbosa-hiara-1-en}
+```{r}
+#| label: tbl-barbosa-hiara-1-en
+#| echo: false
+#| tbl-cap: Profiles of Primary and Secondary Duties of Educational Advisors
+tabela_1 |> 
+  select(Duties, `Components of Duties`) |> 
+  gt() |> 
+    tab_row_group(
+    label = md("**Secondary**"), 
+    rows = 8:10
+    ) |> 
+  tab_row_group(
+    label = md("**Primary**"),
+    rows = 1:7
+  ) |> 
+  tab_style(
+    style = list(
+      cell_text(align = "center"),
+      cell_text(weight = "bold")
+      ),
+    locations = cells_column_labels(columns = c(Duties,
+                                                `Components of Duties`))
+    ) |>
+  tab_options(
+    table.font.size = px(12),
+    data_row.padding = px(5)
+  )
+```
+
 
 ### Functions of educational counselor duties
 
@@ -110,7 +149,7 @@ The category Functions of Educational Counselor Duties refers to the set of acti
 Based on the analyzed data, it was possible to group the activities performed by educational counselors into three types of Functions: Instruction, Integration, and Interaction. The purpose of Instruction is related to activities that guide and develop strategies with school actors. The Integration Function is related to activities considered new in the school setting, promoting mental health and working with socio-emotional competencies. The Interaction Function involves developing actions regarding interpersonal relationships, promoting dialogue, and school mediation, as described in @tbl-barbosa-hiara-2-en.
 
 | Assignments | Objective | Function |
-|-----------------|---------------------------------------|-----------------|
+|------------------|-------------------------------------|------------------|
 | Training | To capacitate | Instruction |
 | Alignment, support, participation | Develop strategies with school stakeholders |  |
 | Mediation | Reduce conflicts | Insertion |
