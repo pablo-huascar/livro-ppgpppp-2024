@@ -179,8 +179,6 @@ tabela_2 |>
   )
 ```
 
-: Functions of Educational Counselor Duties {#tbl-barbosa-hiara-2-en}
-
 ### Areas of operation for educational counselors
 
 The Areas of Operation category involves grouping duties concerning the audience for whom the operation is intended. To this end, the duties described by counselors in individual actions (data collected from individual interviews) were used, as well as documentary analysis of legislation and official documents related to the implementation of the position and the operation of the educational counselor in the municipality regarding their duties.
@@ -191,13 +189,49 @@ Furthermore, the counselors defined the areas based on collective demands and ga
 
 Challenges consist of circumstances participants report about their daily practices that may hinder expected results or make it difficult to carry out interventions. For this analysis, we initially used data on individual challenges and challenges common to all educational counselors. We related them to the type of school, team involvement, and requested demands, as shown in @tbl-barbosa-hiara-3-en.
 
-| Participants' Statements | Analysis Categories | Guiding Concept of Analysis Categories |
-|------------------------|------------------------|------------------------|
-| Overload Pressure No day for planning Results must be quick "Solve it there" Last-minute demands | Quality impairment regarding demand/role diversion | Highlights the difficulties faced, which require demands for immediate results and equivalent actions. |
-| Not having the same level of dedication Everything you do in one school, you have to do in the other "It's like SEDUC deadlines" Develop the same work in schools Not respecting schedules Comparison I don't believe there's a tool that can handle it | Split between two or more schools |  |
-| Help the school Help the community Feeling obligated Understaffed teams Being part of the management team, working nights and weekends | Difficulty in managing activities beyond their duties | Highlights the difficulties faced, which lead to role diversion |
+```{r}
+tabela_3 <- tribble(
+  ~`Participants’ Statements`, ~`Analysis Categories`,
+  "Overload Pressure No day for planning Results must be quick “Solve it there” Last-minute demands",
+  "Quality impairment regarding demand/role diversion",
+  "Not having the same level of dedication Everything you do in one school, you have to do in the other “It’s like SEDUC deadlines” Develop the same work in schools Not respecting schedules Comparison I don’t believe there’s a tool that can handle it",
+  "Split between two or more schools",
+  "Help the school Help the community Feeling obligated Understaffed teams Being part of the management team, working nights and weekends",
+  "Difficulty in managing activities beyond their duties"
+)
+```
 
-: Challenges of Educational Counselors {#tbl-barbosa-hiara-3-en}
+```{r}
+#| label: tbl-barbosa-hiara-3-en
+#| tbl-cap: Challenges of Educational Counselors
+
+tabela_3 |> 
+  gt() |> 
+  tab_row_group(
+    label = "Guiding Concept of Analysis Categories: Highlights the difficulties faced, which lead to role diversion",
+    rows = 3
+  ) |> 
+  tab_row_group(
+    label = "Guiding Concept of Analysis Categories: Highlights the difficulties faced, which require demands for immediate results and equivalent actions",
+    rows = 1:2
+  ) |> 
+  tab_options(
+    table.font.size = px(12),
+    data_row.padding = px(5)
+  ) |> 
+  tab_style(
+    style = list(
+      cell_text(align = "center"),
+      cell_text(weight = "bold")
+    ),
+    locations = cells_column_labels(columns = c("Participants’ Statements",
+                                                "Analysis Categories"))
+    ) |> 
+  tab_style(
+    style = cell_text(weight = "bold"),
+    locations = cells_row_groups()
+  )
+```
 
 ### Documental organization of activities and quantification of monthly outputs
 
@@ -205,24 +239,51 @@ The collection and analysis of data on the instruments used by counselors in the
 
 Although counselors mentioned the instruments, many reported using them infrequently in their daily work, and some never used them. This raises a question regarding how the work of educational counselors is quantified or whether the municipality has yet to consider data quantification necessary for counselors' work, as shown in @tbl-barbosa-hiara-4-en.
 
-| Instrument Utilization Period | Instruments | Adherence | Guiding Concept |
-|:----------------:|:----------------:|:----------------:|:----------------:|
-| Records of remote activities – March 2020 to April 2021 | Physical agenda Schedule Tracking table and class record form Telework plan | Most used | Explains how monthly quantitative reports of remote work by coordinators are conveyed |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  | IAS CSE repository | Least used |  |
-| Records of in-person activities – August 2019 to March 2020 | Referral instrument Planning form Dual-focus activity record form Welcome form Attendance request | Most used | Explains how monthly quantitative reports of in-person work by coordinators are conveyed |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  | Home visit record form Monthly activity map Dual-focus class monitoring Circle planning form | Least used |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+```{r}
+tabela_4 <- tibble(
+  Instruments = c(
+    "Physical agenda Schedule Tracking table and class record form Telework plan",
+    "IAS CSE repository",
+    "Referral instrument Planning form Dual-focus activity record form Welcome form Attendance request",
+    "Home visit record form Monthly activity map Dual-focus class monitoring Circle planning form"
+  ),
+  Adherence = c("Most used", "Least used", "Most used", "Least used"),
+  `Guiding Concept` = c(
+    "Explains how monthly quantitative reports of remote work by coordinators are conveyed",
+    "Explains how monthly quantitative reports of remote work by coordinators are conveyed",
+    "Explains how monthly quantitative reports of in-person work by coordinators are conveyed",
+    "Explains how monthly quantitative reports of in-person work by coordinators are conveyed"
+  )
+)
+```
 
-: Systematization of Daily Instruments Used by Educational Counselors {#tbl-barbosa-hiara-4-en}
+```{r}
+#| label: tbl-barbosa-hiara-4-en
+#| tbl-cap: Systematization of Daily Instruments Used by Educational Counselors
+tabela_4 |> 
+  gt() |> 
+  tab_options(
+    table.font.size = px(12),
+    data_row.padding = px(5)
+  ) |> 
+  tab_row_group(
+    label = md("**Records of in-person activities – August 2019 to March 2020**"),
+    rows = 3:4
+  ) |> 
+  tab_row_group(
+    label = md("**Records of remote activities – March 2020 to April 2021**"),
+    rows = 1:2
+  ) |> 
+  tab_style(
+    style = list(
+      cell_text(align = "center"),
+      cell_text(weight = "bold")
+    ),
+    locations = cells_column_labels(columns = c(Instruments,
+                                                Adherence,
+                                                "Guiding Concept"))
+  )
+```
 
 ## Discussion
 
