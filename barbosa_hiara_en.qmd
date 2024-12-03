@@ -26,7 +26,7 @@ editor_options:
 
 # Characterization of the professional profile and modes of operation of educational counselors in the public school system of Sobral, Ceará
 
-```{r}
+```{r, include = FALSE}
 library(tidyverse)
 library(gt)
 ```
@@ -150,7 +150,7 @@ Based on the analyzed data, it was possible to group the activities performed by
 ```{r}
 #| label: tbl-barbosa-hiara-2-en
 #| echo: false
-#| tbl-cap: Functions of Educational Counselor Duties
+#| tbl-cap: Functions of Educational Counselor Duties.
 tabela_2 <- tribble(
   ~Assignments,                           ~Objective,                                                   ~Function,
   "Training",                             "To capacitate",                                                "Instruction",
@@ -162,6 +162,7 @@ tabela_2 <- tribble(
 ```
 
 ```{r}
+#| echo: false
 tabela_2 |> 
   gt() |> 
   tab_style(
@@ -190,6 +191,7 @@ Furthermore, the counselors defined the areas based on collective demands and ga
 Challenges consist of circumstances participants report about their daily practices that may hinder expected results or make it difficult to carry out interventions. For this analysis, we initially used data on individual challenges and challenges common to all educational counselors. We related them to the type of school, team involvement, and requested demands, as shown in @tbl-barbosa-hiara-3-en.
 
 ```{r}
+#| echo: false
 tabela_3 <- tribble(
   ~`Participants’ Statements`, ~`Analysis Categories`,
   "Overload Pressure No day for planning Results must be quick “Solve it there” Last-minute demands",
@@ -203,6 +205,7 @@ tabela_3 <- tribble(
 
 ```{r}
 #| label: tbl-barbosa-hiara-3-en
+#| echo: false
 #| tbl-cap: Challenges of Educational Counselors
 
 tabela_3 |> 
@@ -240,6 +243,7 @@ The collection and analysis of data on the instruments used by counselors in the
 Although counselors mentioned the instruments, many reported using them infrequently in their daily work, and some never used them. This raises a question regarding how the work of educational counselors is quantified or whether the municipality has yet to consider data quantification necessary for counselors' work, as shown in @tbl-barbosa-hiara-4-en.
 
 ```{r}
+#| echo: false
 tabela_4 <- tibble(
   Instruments = c(
     "Physical agenda Schedule Tracking table and class record form Telework plan",
@@ -259,6 +263,7 @@ tabela_4 <- tibble(
 
 ```{r}
 #| label: tbl-barbosa-hiara-4-en
+#| echo: false
 #| tbl-cap: Systematization of Daily Instruments Used by Educational Counselors
 tabela_4 |> 
   gt() |> 
@@ -309,8 +314,8 @@ After observing and grouping the data on duties, characterizing them in terms of
 
 With data analysis, we can observe relationships between the duties described by counselors and other duties in legal terms, relating and creating suggestions for effect indicators that consider the reality of educational counselors according to the work they carry out based on primary and secondary duties.
 
-
 ```{r}
+#| echo: false
 tabela_5 <- tribble(
   ~"Assignment",                                  ~"Assignment Objectives",                ~"Target Audience",         ~"Effects Described by OE",                                                                                      ~"Suggested Effect Indicator/Measure",
   "Training",                                   "To capacitate",                              "Teachers",           "Adoption of new CSE methodologies",                                                                      "Increase in the number of teachers qualified to promote socio-emotional skills (CSE)/Increase in the frequency of pedagogical activities aimed at promoting CSE",
@@ -323,6 +328,7 @@ tabela_5 <- tribble(
 ```{r}
 #| label: tbl-barbosa-hiara-5-en
 #| tbl-cap: Effect Indicators
+#| echo: false
 tabela_5 |> 
   gt() |> 
   tab_style(
