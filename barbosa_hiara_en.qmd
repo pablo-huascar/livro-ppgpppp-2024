@@ -141,20 +141,43 @@ tabela_1 |>
   )
 ```
 
-
 ### Functions of educational counselor duties
 
 The category Functions of Educational Counselor Duties refers to the set of activities aimed at common goals. These activities result from the actions carried out, whether they are primary and/or secondary duties, as well as what the professional considers their role in the institution versus what they believe other school actors and educational management expect from them as a professional category.
 
 Based on the analyzed data, it was possible to group the activities performed by educational counselors into three types of Functions: Instruction, Integration, and Interaction. The purpose of Instruction is related to activities that guide and develop strategies with school actors. The Integration Function is related to activities considered new in the school setting, promoting mental health and working with socio-emotional competencies. The Interaction Function involves developing actions regarding interpersonal relationships, promoting dialogue, and school mediation, as described in @tbl-barbosa-hiara-2-en.
 
-| Assignments | Objective | Function |
-|------------------|-------------------------------------|------------------|
-| Training | To capacitate | Instruction |
-| Alignment, support, participation | Develop strategies with school stakeholders |  |
-| Mediation | Reduce conflicts | Insertion |
-| Monitoring, preparation, observation, planning | Work on Socio-emotional Skills |  |
-| Care actions and collective actions | Promote mental health/Create and maintain contact among school stakeholders, bond creation, social spaces | Interaction |
+```{r}
+#| label: tbl-barbosa-hiara-2-en
+#| echo: false
+#| tbl-cap: Functions of Educational Counselor Duties
+tabela_2 <- tribble(
+  ~Assignments,                           ~Objective,                                                   ~Function,
+  "Training",                             "To capacitate",                                                "Instruction",
+  "Alignment, support, participation",   "Develop strategies with school stakeholders",       "Insertion",
+  "Mediation",                             "Reduce conflicts",                                        "Insertion",
+  "Monitoring, preparation, observation, planning", "Work on Socio-emotional Skills", "Interaction",
+  "Care actions and collective actions",  "Promote mental health/Create and maintain contact among school stakeholders, bond creation, social spaces", "Interaction"
+)
+```
+
+```{r}
+tabela_2 |> 
+  gt() |> 
+  tab_style(
+    style = list(
+      cell_text(align = "center"),
+      cell_text(weight = "bold")
+      ),
+    locations = cells_column_labels(columns = c(Assignments,
+                                                "Function",
+                                                Objective))
+    ) |> 
+  tab_options(
+    table.font.size = px(12),
+    data_row.padding = px(5)
+  )
+```
 
 : Functions of Educational Counselor Duties {#tbl-barbosa-hiara-2-en}
 
