@@ -24,7 +24,7 @@ reference-section-title: Referências
 
 # "My way, i made my revolution": The multiple layers of violence against women engaged in prostitution
 
-## Introduction 
+## Introduction
 
 > "My way, I made my revolution and moved forward" [@leite2009filha, p. 31]
 
@@ -172,7 +172,7 @@ Thus, we perceive that violence against women, especially those who engage in se
 
 Even with the creation of public policies for women, these do not assist all women equally. The 2022 Violence Atlas, published by IPEA (Institute for Applied Economic Research), presents statistics on violence against women, such as the femicide of Black women, urban/outside home violence, and violence (physical, psychological, torture) against the LGBTQIAPN+ community. Still, no statistics are available on violence against women who engage in sex work.
 
-These factors indicate that violence against prostitutes is invisible, as there are no statistical records on it, nor specific public policies. Such policies are only mentioned in STI control policies. Silva and Ximenes [-@silva2017not] state that violence against prostitutes remains hidden within the realm of gender-based violence. It is necessary to understand the nuances that violence can have beyond what can be found in common sense, as there seems to be a normalization of this phenomenon. Being a woman in our society is already a situation of vulnerability, due to unequal power relations in which women are seen as submissive and inferior to men.
+These factors indicate that violence against prostitutes is invisible, as there are no statistical records on it, nor specific public policies. Such policies are only mentioned in STI control policies. Silva and Ximenes [-@silva2017notas] state that violence against prostitutes remains hidden within the realm of gender-based violence. It is necessary to understand the nuances that violence can have beyond what can be found in common sense, as there seems to be a normalization of this phenomenon. Being a woman in our society is already a situation of vulnerability, due to unequal power relations in which women are seen as submissive and inferior to men.
 
 ## Interview with Astras Leadership
 
