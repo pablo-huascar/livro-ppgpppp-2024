@@ -22,7 +22,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-# Trabalho docente e saúde mental de professores brasileiros na pandemia da covid-19
+# Trabalho docente e saúde mental de professores brasileiros na pandemia da Covid-19
 
 ```{r}
 #| echo: false
