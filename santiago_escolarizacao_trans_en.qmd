@@ -19,7 +19,7 @@ language:
 filters:
   - section-bibliographies
 bibliography: santiago_escolarizacao_trans_en.bib
-reference-section-title: Referências
+reference-section-title: References
 ---
 
 # The Schooling of trans and travesti people in Sobral, Ceará: An analysis of experience reports
