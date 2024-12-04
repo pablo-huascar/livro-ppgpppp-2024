@@ -21,7 +21,7 @@ toc: false
 
 ## I
 
-[Impactos da Covid-19 no ensino](pessoa_narrativa.qmd)
+[Impactos da COVID-19 no ensino](pessoa_narrativa.qmd)
 
 [Instrumento Gerador de Mapas Afetivos](neta_reescrevendo.qmd)
 
