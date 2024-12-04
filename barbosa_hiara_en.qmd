@@ -22,11 +22,15 @@ bibliography: barbosa_hiara_en.bib
 reference-section-title: References
 editor_options: 
   chunk_output_type: console
+echo: false
+message: false
+warning: false
+
 ---
 
 # Characterization of the professional profile and modes of operation of educational counselors in the public school system of Sobral, Ceará
 
-```{r, include = FALSE}
+```{r }
 library(tidyverse)
 library(gt)
 ```
