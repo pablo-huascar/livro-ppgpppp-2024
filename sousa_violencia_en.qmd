@@ -18,7 +18,7 @@ language:
   title-block-author-plural: "Authors"
 filters:
   - section-bibliographies
-bibliography: sousa_violencia.bib
+bibliography: sousa_violencia_en.bib
 reference-section-title: References
 ---
 
