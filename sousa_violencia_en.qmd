@@ -19,7 +19,7 @@ language:
 filters:
   - section-bibliographies
 bibliography: sousa_violencia.bib
-reference-section-title: Referências
+reference-section-title: References
 ---
 
 # "My way, i made my revolution": The multiple layers of violence against women engaged in prostitution
@@ -118,7 +118,7 @@ This research was submitted to the ethics committee for research involving human
 
 Two visits were made to Casa Madre Anna Rosa Gattorno, which will be described later. These visits aimed to understand the functioning and flow of ASTRAS.
 
-During the second visit to ASTRAS, which took place in April 2023, the researcher was invited to visit one of the brothels located near the central market of Sobral/Ce. It is important to mention that this was the first contact with the place, and the possibility of this visit occurring on that day had not been considered. Driven by the desire to enter the field, the invitation was accepted. On that occasion, the leadership provided some instructions, such as how to act in case of an approach by a man and, if it happened, to remember that we were in their environment, so we should respond firmly but not aggressively. Thus, we referred to the field diary to report the experiences of that occasion:
+During the second visit to ASTRAS, which took place in April 2023, the researcher was invited to visit one of the brothels located near the central market of Sobral/CE. It is important to mention that this was the first contact with the place, and the possibility of this visit occurring on that day had not been considered. Driven by the desire to enter the field, the invitation was accepted. On that occasion, the leadership provided some instructions, such as how to act in case of an approach by a man and, if it happened, to remember that we were in their environment, so we should respond firmly but not aggressively. Thus, we referred to the field diary to report the experiences of that occasion:
 
 > We arrived... the entrance looked like a regular bar, with a few tables, about three women drinking at one of the tables at the entrance, and a man with a surly expression at the door. At first, I thought he was a customer, but then I imagined he might be a kind of security guard since he remained in the same spot the whole time (Field Diary 04/24/23).
 
