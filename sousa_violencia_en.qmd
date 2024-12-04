@@ -19,7 +19,7 @@ language:
 filters:
   - section-bibliographies
 bibliography: sousa_violencia.bib
-reference-section-title: Referências
+reference-section-title: References
 ---
 
 # "My way, i made my revolution": The multiple layers of violence against women engaged in prostitution
