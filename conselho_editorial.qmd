@@ -2,45 +2,42 @@
 toc: false
 ---
 
-::: {style="line-height: 0.5;"}
 # Conselho editorial {.unnumbered .unlisted}
 
-Maria Socorro de Araújo Dias (Presidente) 
+Maria Socorro de Araújo Dias (Presidente)
 
-Izabelle Mont’Alverne Napoleão Albuquerque 
+Izabelle Mont’Alverne Napoleão Albuquerque
 
 Alexandra Maria de Castro e Santos Araújo
 
-Ana Iris Tomás Vasconcelos 
+Ana Iris Tomás Vasconcelos
 
-Carlos Augusto Pereira dos Santos 
+Carlos Augusto Pereira dos Santos
 
-Claudia Goulart de Abreu 
+Claudia Goulart de Abreu
 
-Eneas Rei Leite 
+Eneas Rei Leite
 
-Francisco Helder Almeida Rodrigues 
+Francisco Helder Almeida Rodrigues
 
-Israel Rocha Brandão 
+Israel Rocha Brandão
 
 Maria Adelane Monteiro da Silva
 
-Maria Amélia Carneiro Bezerra 
+Maria Amélia Carneiro Bezerra
 
-Maria José Araújo Souza 
+Maria José Araújo Souza
 
-Maria Somália Sales Viana 
+Maria Somália Sales Viana
 
-Maristela Inês Osawa Vasconcelos 
+Maristela Inês Osawa Vasconcelos
 
-Raquel Oliveira dos Santos Fontinele 
+Raquel Oliveira dos Santos Fontinele
 
-Simone Ferreira Diniz 
+Simone Ferreira Diniz
 
-Renata Albuquerque Lima 
+Renata Albuquerque Lima
 
-Tito Barros Leal de Ponte Medeiros 
+Tito Barros Leal de Ponte Medeiros
 
 Virginia Célia Cavalcanti de Holanda
-
-:::
