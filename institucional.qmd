@@ -21,7 +21,6 @@ Francisco Carvalho de Arruda Coelho
 
 ## Edições UVA
 
-
 ::: column-margin
 [![](./imagens/edicoes-uva.png){fig-alt="A imagem apresenta a logomarca da \"Edições UVA\". O design é retangular, com um fundo cinza claro e uma borda preta. Na parte superior do retângulo, há uma figura horizontal estilizada semelhante a um bastão ou caneta, composta por segmentos em preto e branco. Abaixo do bastão, há uma linha horizontal preta que divide o espaço. Logo abaixo, centralizado, está o texto \"Edições UVA\" em uma fonte serifada preta." width="150"}](https://ww2.uva.ce.gov.br/apps/view/listagem_documentos.php?buscar=0144)
 :::
@@ -33,4 +32,3 @@ Francisco Carvalho de Arruda Coelho
 **Diretora das Edições UVA**
 
 Maria Socorro de Araújo Dias
-
