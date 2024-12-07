@@ -4,7 +4,6 @@ toc: false
 
 # Índice remissivo {.unnumbered}
 
-::: {style="line-height: 0.5;"}
 ## B
 
 [Bullying e educação](pessoa_narrativa.qmd)
@@ -68,4 +67,3 @@ toc: false
 ## T
 
 [Território e exclusão social](pessoa_narrativa.qmd)
-:::
