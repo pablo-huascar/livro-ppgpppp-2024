@@ -5,10 +5,9 @@ number-sections: false
 
 # Folha de rosto {.unnumbered}
 
-::::: {style="line-height: 1;"}
 **Pesquisa e atuação em Psicologia e políticas públicas**
 
-**ISBN** XXX-XX-XX-XXXXXX-X
+**ISBN** 978-65-87115-65-8
 
 Este livro é distribuído sob os termos da [CC BY-NC-ND 4.0 DEED](https://creativecommons.org/licenses/by-nc-nd/4.0/){.external target="_blank"}.
 
@@ -52,11 +51,10 @@ Thales Araújo Dias
 
 **Catalogação**
 
-[Dayanne Albuquerque Araújo (Conferir nome da bibliotecária)]{style="color: red;"}
+Dorotéia Andrade Silva CRB-3/865
 
 **Financiamento**
 
 Este livro foi apoiado pela Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico (FUNCAP) \[processo número: BP5-0197-00046.01.00/22\] e pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) \[processo número: 403787/2023-8\].
-:::::
 
-Incluir imagem da ficha catalográfica
+![](imagens/ficha-cat-uva.png){fig-alt="Dados Internacionais de Catalogação na Publicação Universidade Estadual Vale do Acaraú Sistema de Bibliotecas Bibliotecário Responsável: Dorotéia Andrade Silva CRB-3/865 U51a    Universidade Estadual Vale do Acaraú.                    Pesquisa e atuação em psicologia e políticas públicas . / Universidade             Vale do Acaraú. / Organização: Francisco Pablo Huascar Aragão Pinheiro,             Emanuel Meireles Vieira . - Sobral: Edições UVA, 2023.                                  69p.                      ISBN (e-book): 978-65-87115-65-8                                   1. Pesquisa . 2.  Psicologia. 3. Políticas públicas. I.Título.  II. Pinheiro,                 Francisco Pablo Huascar Aragão. III. Vieria, Emanuel Meireles. CDD 150"}
